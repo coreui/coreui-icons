@@ -1,41 +1,104 @@
-$icomoon-font-path: "fonts" !default;
+$coreui-icons-font-path: "../fonts" !default;
+$coreui-icons-prefix: "cui-" !default;
 
-$cui-basket-loaded: \e900;
-$cui-bell: \e901;
-$cui-calculator: \e902;
-$cui-calendar: \e903;
-$cui-camera: \e904;
-$cui-chart: \e905;
-$cui-cloud-download: \e906;
-$cui-cursor: \e907;
-$cui-cursor-move: \e908;
-$cui-drop: \e909;
-$cui-energy: \e90a;
-$cui-envelope-letter: \e90b;
-$cui-equalizer: \e90c;
-$cui-globe: \e90d;
-$cui-graph: \e90e;
-$cui-home: \e90f;
-$cui-layers: \e910;
-$cui-list: \e911;
-$cui-location-pin: \e912;
-$cui-map: \e913;
-$cui-note: \e914;
-$cui-options: \e915;
-$cui-pencil: \e916;
-$cui-people: \e917;
-$cui-pie-chart: \e918;
-$cui-puzzle: \e919;
-$cui-screen-desktop: \e91a;
-$cui-screen-smartphone: \e91b;
-$cui-settings: \e91c;
-$cui-social-facebook: \e91d;
-$cui-social-skype: \e91e;
-$cui-social-twitter: \e91f;
-$cui-speech: \e920;
-$cui-speedometer: \e921;
-$cui-star: \e922;
-$cui-user: \e923;
-$cui-user-female: \e924;
-$cui-user-follow: \e925;
-$cui-user-unfollow: \e926;
+$icons: () !default;
+$icons: map-merge((
+  "account-logout": \e927,
+  "action-redo": \e928,
+  "action-undo": \e929,
+  "align-center": \e92a,
+  "align-left": \e92b,
+  "align-right": \e92c,
+  "aperture": \e92d,
+  "arrow-bottom": \e92e,
+  "arrow-circle-bottom": \e92f,
+  "arrow-circle-left": \e930,
+  "arrow-circle-right": \e931,
+  "arrow-circle-top": \e932,
+  "arrow-left": \e933,
+  "arrow-right": \e934,
+  "arrow-thick-bottom": \e935,
+  "arrow-thick-left": \e936,
+  "arrow-thick-right": \e937,
+  "arrow-thick-top": \e938,
+  "arrow-top": \e939,
+  "audio": \e93a,
+  "audio-spectrum": \e93b,
+  "badge": \e93c,
+  "ban": \e93d,
+  "bar-chart": \e93e,
+  "battery-empty": \e93f,
+  "battery-full": \e940,
+  "beaker": \e941,
+  "bluetooth": \e942,
+  "bold": \e943,
+  "bolt": \e944,
+  "book": \e945,
+  "bookmark": \e946,
+  "box": \e947,
+  "briefcase": \e948,
+  "british-pound": \e949,
+  "browser": \e94a,
+  "brush": \e94b,
+  "bug": \e94c,
+  "bullhorn": \e94d,
+  "caret-bottom": \e94e,
+  "caret-left": \e94f,
+  "caret-right": \e950,
+  "caret-top": \e951,
+  "cart": \e952,
+  "chat": \e953,
+  "check": \e954,
+  "chevron-bottom": \e955,
+  "chevron-left": \e956,
+  "chevron-right": \e957,
+  "chevron-top": \e958,
+  "circle-check": \e959,
+  "circle-x": \e95a,
+  "clipboard": \e95b,
+  "clock": \e95c,
+  "cloud": \e95d,
+  "cloud-upload": \e95e,
+  "cloudy": \e95f,
+  "social-linkedin": \e960,
+  "social-spotify": \e961,
+  "basket-loaded": \e900,
+  "bell": \e901,
+  "calculator": \e902,
+  "calendar": \e903,
+  "camera": \e904,
+  "chart": \e905,
+  "cloud-download": \e906,
+  "cursor": \e907,
+  "cursor-move": \e908,
+  "drop": \e909,
+  "energy": \e90a,
+  "envelope-letter": \e90b,
+  "equalizer": \e90c,
+  "globe": \e90d,
+  "graph": \e90e,
+  "home": \e90f,
+  "layers": \e910,
+  "list": \e911,
+  "location-pin": \e912,
+  "map": \e913,
+  "note": \e914,
+  "options": \e915,
+  "pencil": \e916,
+  "people": \e917,
+  "pie-chart": \e918,
+  "puzzle": \e919,
+  "screen-desktop": \e91a,
+  "screen-smartphone": \e91b,
+  "settings": \e91c,
+  "social-facebook": \e91d,
+  "social-skype": \e91e,
+  "social-twitter": \e91f,
+  "speech": \e920,
+  "speedometer": \e921,
+  "star": \e922,
+  "user": \e923,
+  "user-female": \e924,
+  "user-follow": \e925,
+  "user-unfollow": \e926,
+), $icons);

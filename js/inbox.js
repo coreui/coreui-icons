@@ -1,0 +1,1 @@
+export const Inbox = "<path d=\"M4 2v60h56v-60zM56 38h-13.236l-4 8h-13.528l-4-8h-13.236v-20h48zM56 6v8h-48v-8zM8 58v-16h10.764l4 8h18.472l4-8h10.764v16z\"></path>"

@@ -1,0 +1,1 @@
+export const Italic = "<path d=\"M2 2v60h60v-60zM58 58h-52v-52h52z\"></path><path d=\"M39 46h-5.555l5.25-28h6.305v-4h-20v4h5.555l-5.25 28h-6.305v4h20v-4z\"></path>"

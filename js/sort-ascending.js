@@ -1,0 +1,1 @@
+export const SortAscending = "<path d=\"M25.214 13.485l-11.314-11.314-11.314 11.314 2.828 2.829 6.486-6.485v52.196h4v-52.196l6.485 6.485 2.829-2.829z\"></path><path d=\"M23 20h15v4h-15v-4z\"></path><path d=\"M23 29h23v4h-23v-4z\"></path><path d=\"M23 38h31v4h-31v-4z\"></path><path d=\"M23 47h39v4h-39v-4z\"></path>"

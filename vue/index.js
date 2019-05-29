@@ -1,4 +1,4 @@
-import Icons from '../js/iconsGenerated.js'
+import Icons from '../js'
 import CIcon from './CIcon'
 
 export { CIcon }

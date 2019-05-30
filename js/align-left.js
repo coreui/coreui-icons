@@ -1,1 +1,0 @@
-export const AlignLeft = "<path d=\"M2 8h60v4h-60v-4z\"></path><path d=\"M2 19h41v4h-41v-4z\"></path><path d=\"M2 30h60v4h-60v-4z\"></path><path d=\"M2 41h41v4h-41v-4z\"></path><path d=\"M2 52h60v4h-60v-4z\"></path>"

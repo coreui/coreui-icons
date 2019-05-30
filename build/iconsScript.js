@@ -11,15 +11,17 @@ fs.readdir(dirname, function(e, filenames) {
         return
       } else {
         let name = filename.replace('.svg', '')
+        // let pascalName = toPascalCase(name)
+        let camelName = toCamel(name)
         let computedContent = content.replace(/(<svg([^>]+)>)|(<\/svg>)/ig, '')
                                      .replace(/\n/g, '')
                                      .split('</title>').pop()
 
-        contents[name] = computedContent
+        contents[camelName] = computedContent
 
         fs.writeFile(
-          `js/${name}.js`,
-          `export const ${toPascalCase(name)} = ` + JSON.stringify(computedContent),
+          `js/${camelName}.js`,
+          `export const ${camelName} = ` + JSON.stringify(computedContent),
           () => ''
         )
       }
@@ -28,7 +30,7 @@ fs.readdir(dirname, function(e, filenames) {
   setTimeout(() => {
     fs.writeFile(
       'js/iconsGenerated.js',
-      'export const Icons = ' + JSON.stringify(contents),
+      'export const icons = ' + JSON.stringify(contents),
       () => ''
     )
     fs.writeFile(
@@ -48,16 +50,20 @@ const toPascalCase = function (name) {
     .join('')
 }
 
+const toCamel = (str) => {
+  return str.replace(/([-_][a-z])/ig, ($1) => {
+    return $1.toUpperCase().replace('-', '')
+  })
+}
+
 function getImports(filenames) {
-  const defaultImport = "import { Icons } from './iconsGenerated.js' \n"
-  const defaultExport = "export default Icons \n\n\n"
+  const defaultImport = "import { icons } from './iconsGenerated.js' \n"
+  const defaultExport = "export default icons \n\n\n"
   const importString = filenames.map(name => {
-    let computedName = toPascalCase(name)
-    return `import { ${computedName} } from './${name}.js'`
+    return `import { ${name} } from './${name}.js'`
   }).join('\n')
   const exportString = filenames.map(name => {
-    let computedName = toPascalCase(name)
-    return `export { ${computedName} }`
+    return `export { ${name} }`
   }).join('\n')
   return defaultImport + defaultExport + importString + '\n' + exportString
 }

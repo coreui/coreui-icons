@@ -2,6 +2,7 @@
   "name": "@coreui/icons",
   "version": "0.3.0",
   "description": "Free icons",
+  "main": "js/index.js",
   "style": "css/coreui-icons.css",
   "scripts": {
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-minify*",

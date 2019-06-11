@@ -15,7 +15,19 @@ export default {
     name: String,
     content: String,
     fill: String,
-    background: String
+    background: String,
+    // height: String,
+    // width: String
+  },
+  data () {
+    return {
+      lineHeight: null
+    }
+  },
+  mounted () {
+    this.$nextTick(() => {
+      this.lineHeight = window.getComputedStyle(this.$el, null).getPropertyValue('line-height')
+    })
   },
   computed: {
     iconName () {
@@ -24,12 +36,17 @@ export default {
     computedCode () {
       return this.content || this.$options.icons[this.iconName]
     },
+    autoDimensions () {
+      const noDimensions = !this.$attrs.height && !this.$attrs.width
+      return noDimensions ? { height: this.lineHeight } : {}
+    },
     style () {
-      return {
+      return Object.assign({}, this.autoDimensions, {
         fill: this.fill || 'currentColor',
         background: this.background
-      }
-    }
+      })
+    },
+
   },
   methods: {
     toCamelCase (str) {

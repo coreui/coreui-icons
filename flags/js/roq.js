@@ -1,0 +1,1 @@
+export const ROQ = ["512 512","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#00319c' d='M0 0h170.7v512H0z'/>\r    <path fill='#ffde00' d='M170.7 0h170.6v512H170.7z'/>\r    <path fill='#de2110' d='M341.3 0H512v512H341.3z'/>\r  </g>\r\r"]

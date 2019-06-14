@@ -1,0 +1,1 @@
+export const CR = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#0000b4' d='M0 0h640v480H0z'/>\r    <path fill='#fff' d='M0 75.4h640v322.3H0z'/>\r    <path fill='#d90000' d='M0 157.7h640v157.7H0z'/>\r  </g>\r\r"]

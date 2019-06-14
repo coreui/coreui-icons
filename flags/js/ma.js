@@ -1,0 +1,1 @@
+export const MA = ["640 480","\r  <path fill='#c1272d' d='M640 0H0v480h640z'/>\r  <path fill='none' stroke='#006233' stroke-width='11.7' d='M320 179.4L284.4 289l93.2-67.6H262.4l93.2 67.6z'/>\r\r"]

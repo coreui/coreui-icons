@@ -1,0 +1,1 @@
+export const ID = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#e70011' d='M0 0h640v249H0z'/>\r    <path fill='#fff' d='M0 240h640v240H0z'/>\r  </g>\r\r"]

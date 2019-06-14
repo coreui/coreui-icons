@@ -1,0 +1,1 @@
+export const NL = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt' transform='scale(1.25 .9375)'>\r    <rect width='512' height='509.8' fill='#fff' rx='0' ry='0'/>\r    <rect width='512' height='169.9' y='342.1' fill='#21468b' rx='0' ry='0'/>\r    <path fill='#ae1c28' d='M0 0h512v170H0z'/>\r  </g>\r\r"]

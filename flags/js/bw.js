@@ -1,0 +1,1 @@
+export const BW = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='#00cbff' d='M0 0h640v480H0z'/>\r    <path fill='#fff' d='M0 160h640v160H0z'/>\r    <path d='M0 186h640v108H0z'/>\r  </g>\r\r"]

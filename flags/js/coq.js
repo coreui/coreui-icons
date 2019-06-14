@@ -1,0 +1,1 @@
+export const COQ = ["512 512","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#ffe800' d='M0 0h512v512H0z'/>\r    <path fill='#00148e' d='M0 256h512v256H0z'/>\r    <path fill='#da0010' d='M0 384h512v128H0z'/>\r  </g>\r\r"]

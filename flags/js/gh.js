@@ -1,0 +1,1 @@
+export const GH = ["640 480","\r  <path fill='#006b3f' d='M0 0h640v480H0z'/>\r  <path fill='#fcd116' d='M0 0h640v320H0z'/>\r  <path fill='#ce1126' d='M0 0h640v160H0z'/>\r  <path d='M320 160l52 160-136.1-98.9H404L268 320z'/>\r\r"]

@@ -1,0 +1,1 @@
+export const BQQ = ["512 512","\r  <path fill='#21468b' d='M0 0h512v512H0z'/>\r  <path fill='#fff' d='M0 0h512v341.3H0z'/>\r  <path fill='#ae1c28' d='M0 0h512v170.7H0z'/>\r\r"]

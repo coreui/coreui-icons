@@ -1,0 +1,1 @@
+export const PLQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M512 512H0V0h512z'/>\r    <path fill='#dc143c' d='M512 512H0V256h512z'/>\r  </g>\r\r"]

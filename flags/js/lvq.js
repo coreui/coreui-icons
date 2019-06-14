@@ -1,0 +1,1 @@
+export const LVQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M0 0h512v512H0z'/>\r    <path fill='#981e32' d='M0 0h512v204.8H0zm0 307.2h512V512H0z'/>\r  </g>\r\r"]

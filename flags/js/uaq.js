@@ -1,0 +1,1 @@
+export const UAQ = ["512 512","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#ffd500' d='M0 0h512v512H0z'/>\r    <path fill='#005bbb' d='M0 0h512v256H0z'/>\r  </g>\r\r"]

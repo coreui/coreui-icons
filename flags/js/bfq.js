@@ -1,0 +1,1 @@
+export const BFQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#de0000' d='M512 511.6H.5V0H512z'/>\r    <path fill='#35a100' d='M511.8 512H0V256.2h511.7z'/>\r  </g>\r  <path fill='#fff300' fill-rule='evenodd' d='M389 223.8l-82.9 56.5 31.7 91.6-82.7-56.7-82.8 56.7 31.7-91.6-82.8-56.6 102.3.2 31.6-91.7 31.5 91.6'/>\r\r"]

@@ -1,0 +1,1 @@
+export const MG = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#ff3319' d='M213.3 0H640v240H213.3z'/>\r    <path fill='#00cc28' d='M213.3 240H640v240H213.3z'/>\r    <path fill='#fff' d='M0 0h213.3v480H0z'/>\r  </g>\r\r"]

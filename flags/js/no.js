@@ -1,0 +1,1 @@
+export const NO = ["640 480","\r  <path fill='#ed2939' d='M0 0h640v480H0z'/>\r  <path fill='#fff' d='M180 0h120v480H180z'/>\r  <path fill='#fff' d='M0 180h640v120H0z'/>\r  <path fill='#002664' d='M210 0h60v480h-60z'/>\r  <path fill='#002664' d='M0 210h640v60H0z'/>\r\r"]

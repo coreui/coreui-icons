@@ -1,0 +1,1 @@
+export const AT = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M640 480H0V0h640z'/>\r    <path fill='#df0000' d='M640 480H0V320h640zm0-319.9H0V.1h640z'/>\r  </g>\r\r"]

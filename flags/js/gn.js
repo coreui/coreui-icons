@@ -1,0 +1,1 @@
+export const GN = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='red' d='M0 0h213.3v480H0z'/>\r    <path fill='#ff0' d='M213.3 0h213.4v480H213.3z'/>\r    <path fill='#090' d='M426.7 0H640v480H426.7z'/>\r  </g>\r\r"]

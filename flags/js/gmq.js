@@ -1,0 +1,1 @@
+export const GMQ = ["512 512","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='red' d='M0 0h512v170.7H0z'/>\r    <path fill='#fff' d='M0 170.7h512V199H0z'/>\r    <path fill='#009' d='M0 199.1h512V313H0z'/>\r    <path fill='#fff' d='M0 312.9h512v28.4H0z'/>\r    <path fill='#090' d='M0 341.3h512V512H0z'/>\r  </g>\r\r"]

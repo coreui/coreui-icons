@@ -1,0 +1,1 @@
+export const CH = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#d52b1e' d='M0 0h640v480H0z'/>\r    <g fill='#fff'>\r      <path d='M170 195h300v90H170z'/>\r      <path d='M275 90h90v300h-90z'/>\r    </g>\r  </g>\r\r"]

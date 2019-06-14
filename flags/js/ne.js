@@ -1,0 +1,1 @@
+export const NE = ["640 480","\r  <path fill='#0db02b' d='M0 0h640v480H0z'/>\r  <path fill='#fff' d='M0 0h640v320H0z'/>\r  <path fill='#e05206' d='M0 0h640v160H0z'/>\r  <circle cx='320' cy='240' r='68' fill='#e05206'/>\r\r"]

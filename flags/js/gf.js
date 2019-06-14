@@ -1,0 +1,1 @@
+export const GF = ["640 480","\r  <path fill='#078930' d='M0 0h640v480z'/>\r  <path fill='#fcdd09' d='M0 0l640 480H0z'/>\r  <path fill='#da121a' d='M252.4 218h135.2l-109.4 79.5L320 169l41.8 128.6z'/>\r\r"]

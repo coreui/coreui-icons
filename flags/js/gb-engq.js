@@ -1,0 +1,1 @@
+export const GBENGQ = ["512 512","\r  <path fill='#fff' d='M0 0h512v512H0z'/>\r  <path fill='#ce1124' d='M215 0h82v512h-82z'/>\r  <path fill='#ce1124' d='M0 215h512v82H0z'/>\r\r"]

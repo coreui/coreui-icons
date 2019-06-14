@@ -1,8 +1,9 @@
 <template>
   <svg
-    viewBox="0 0 64 64"
+    xmlns="http://www.w3.org/2000/svg"
+    :viewBox="viewBox"
     :style="style"
-    v-html="computedCode"
+    v-html="icon.svgContent"
   ></svg>
 </template>
 
@@ -13,11 +14,9 @@ export default {
   icons: {},
   props: {
     name: String,
-    content: String,
+    content: [String, Array],
     fill: String,
-    background: String,
-    // height: String,
-    // width: String
+    background: String
   },
   data () {
     return {
@@ -26,15 +25,30 @@ export default {
   },
   mounted () {
     this.$nextTick(() => {
-      this.lineHeight = window.getComputedStyle(this.$el, null).getPropertyValue('line-height')
+      if (this.$el && this.code) {
+        const computedStyle = window.getComputedStyle(this.$el, null)
+        this.lineHeight = computedStyle.getPropertyValue('line-height')
+      }
     })
   },
   computed: {
     iconName () {
-      return this.name.includes('-') ? this.toCamelCase(this.name) : this.name
+      const iconNameIsKebabCase = this.name && this.name.includes('-')
+      return iconNameIsKebabCase ? this.toCamelCase(this.name) : this.name
     },
-    computedCode () {
+    code () {
       return this.content || this.$options.icons[this.iconName]
+    },
+    icon () {
+      if (Array.isArray(this.code)) {
+        const coordinates = this.code.length > 1 ? this.code[0] : '64 64'
+        const svgContent = this.code.length > 1 ? this.code[1] : this.code[0]
+        return { coordinates, svgContent }
+      }
+      return { coordinates: '64 64', svgContent: this.code }
+    },
+    viewBox () {
+      return this.$attrs.viewBox || `0 0 ${ this.icon.coordinates }`
     },
     autoDimensions () {
       const noDimensions = !this.$attrs.height && !this.$attrs.width
@@ -45,8 +59,7 @@ export default {
         fill: this.fill || 'currentColor',
         background: this.background
       })
-    },
-
+    }
   },
   methods: {
     toCamelCase (str) {

@@ -4,6 +4,7 @@
   "description": "Free icons",
   "main": "js/index.js",
   "style": "css/coreui-icons.css",
+  "sideEffects": false,
   "scripts": {
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-minify*",
     "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/coreui-icons.scss css/coreui-icons.css",
@@ -11,7 +12,10 @@
     "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/coreui-icons.min.css css/coreui-icons.css",
     "dist": "npm-run-all --parallel css",
     "watch-css": "nodemon --ignore dist/ -e scss -x \"npm run css\"",
-    "iconsJsBuild": "node build/iconsScript.js"
+    "buildJsFiles": "npm-run-all --parallel buildBaseJsFiles buildBrandsJsFiles buildFlagsJsFiles",
+    "buildBaseJsFiles": "node build/build-js-files.js",
+    "buildBrandsJsFiles": "node build/build-js-files.js brands",
+    "buildFlagsJsFiles": "node build/build-js-files.js flags"
   },
   "repository": {
     "type": "git",

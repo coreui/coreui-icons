@@ -5,9 +5,9 @@
   "style": "css/coreui-icons.css",
   "scripts": {
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-minify*",
-    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/coreui-icons.scss css/coreui-icons.css",
+    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
-    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/coreui-icons.min.css css/coreui-icons.css",
+    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
     "dist": "npm-run-all --parallel css",
     "watch-css": "nodemon --ignore dist/ -e scss -x \"npm run css\""
   },
@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/coreui/coreui-icons.git"
   },
+  "license": "MIT",
   "keywords": [
     "Icons",
     "Font",
@@ -34,7 +35,16 @@
       "url": "https://jazzy.pro"
     }
   ],
-  "license": "MIT",
+  "files": [
+    "css/",
+    "fonts/",
+    "ie7/",
+    "js/",
+    "png/",
+    "scss/",
+    "symbols/",
+    "svg"
+  ],
   "bugs": {
     "url": "https://github.com/coreui/coreui-icons/issues"
   },

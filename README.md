@@ -13,7 +13,7 @@ An open source icon set with marks in SVG, webfont and raster formats. Ready-to-
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/@coreui/icons/css/coreui-icons.min.css">
+<link rel="stylesheet" href="https://unpkg.com/@coreui/icons/css/free.min.css">
 ```
 
 ### NPM

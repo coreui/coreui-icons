@@ -2,8 +2,14 @@
 
 An open source icon set with marks in SVG, webfont and raster formats. Ready-to-use fonts and stylesheets that work with your favorite frameworks..
 
+![CoreUI Free Icons](https://coreui.io/images/icons_free_bg_set.png)
+
+
+
 
 ## Preview & Docs
+
+
 
 [https://coreui.io/icons/](https://coreui.io/icons/)
 

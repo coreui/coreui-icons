@@ -1,4 +1,4 @@
-# CoreUI Icons - Premium designed free icon set with marks in SVG, Webfont and raster formats.
+# CoreUI Icons (522 Icons) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital products for web or mobile app. Ready-to-use fonts and stylesheets that work with your favorite frameworks.
 

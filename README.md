@@ -1,15 +1,11 @@
-# CoreUI Icons - Simply beautiful open source icons
+# CoreUI Icons - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-An open source icon set with marks in SVG, webfont and raster formats. Ready-to-use fonts and stylesheets that work with your favorite frameworks..
+CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital products for web or mobile app. Ready-to-use fonts and stylesheets that work with your favorite frameworks.
 
 ![CoreUI Free Icons](https://coreui.io/images/icons_free_bg_set.png)
 
 
-
-
 ## Preview & Docs
-
-
 
 [https://coreui.io/icons/](https://coreui.io/icons/)
 

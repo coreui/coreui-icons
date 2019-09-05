@@ -1,4 +1,18 @@
-# CoreUI Icons - Premium designed free icon set with marks in SVG, Webfont and raster formats.
+
+<p align="center">
+  <img height="50" src="https://coreui.io/images/brands/coreui-icons.svg">
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@coreui/icons">
+    <img alt="npm (scoped)" src="https://img.shields.io/npm/v/@coreui/icons">
+  </a>
+  <a href="https://www.npmjs.com/package/@coreui/icons">
+    <img alt="npm" src="https://img.shields.io/npm/dw/@coreui/icons">
+  </a>
+</p>
+
+# CoreUI Icons (522 Free icons) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 CoreUI Icons are beautifully crafted symbols for common actions and items. You can use them in your digital products for web or mobile app. Ready-to-use fonts and stylesheets that work with your favorite frameworks.
 

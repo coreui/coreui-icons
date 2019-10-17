@@ -50,7 +50,7 @@ export default {
       }
     },
     classes () {
-      return this.customClasses || this.size ? `c-icon-${this.size}` : 'c-icon'
+      return this.customClasses || (this.size ? `c-icon-${this.size}` : 'c-icon')
     }
   },
   methods: {

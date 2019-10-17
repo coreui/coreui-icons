@@ -54,7 +54,7 @@ export default {
   },
   methods: {
     toCamelCase (str) {
-      return str.replace(/([-_][a-z])/ig, ($1) => {
+      return str.replace(/([-_][a-z0-9])/ig, ($1) => {
         return $1.toUpperCase().replace('-', '')
       })
     }

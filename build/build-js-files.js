@@ -15,8 +15,8 @@ fs.readdir(dirname, function(e, filenames) {
       if (e) {
         return
       } else {
-        const variableName = getVariableName(filename, directory)
-        const jsFilename = filename.replace('.svg', '.js')
+        let variableName = getVariableName(filename, directory)
+        let jsFilename = filename.replace('.svg', '.js')
         const viewBox = getAttributeValue(content, 'viewBox').split(' ')
         const dimensions = `${viewBox[2]} ${viewBox[3]}`
 
@@ -30,10 +30,20 @@ fs.readdir(dirname, function(e, filenames) {
         iconData.push(computedContent)
 
         contents[variableName] = iconData
-        names.push({ jsFilename, variableName})
+
+        // variableName = validate(variableName)
+        // jsFilename = validate(jsFilename)
+        importName = validate(variableName)
+
+        names.push({
+          jsFilename,
+          variableName,
+          importName
+        })
+
         fs.writeFile(
           `${directory}js/${jsFilename}`,
-          `export const ${variableName} = ` + JSON.stringify(iconData),
+          `export const ${importName} = ` + JSON.stringify(iconData),
           () => ''
         )
       }
@@ -54,13 +64,13 @@ fs.readdir(dirname, function(e, filenames) {
 
 })
 
-const toPascalCase = function (name) {
-  return name.match(/[A-Za-z0-9]+/gi)
-    .map(function (word) {
-      return word.charAt(0).toUpperCase() + word.substr(1).toLowerCase()
-    })
-    .join('')
-}
+// const toPascalCase = function (name) {
+//   return name.match(/[A-Za-z0-9]+/gi)
+//     .map(function (word) {
+//       return word.charAt(0).toUpperCase() + word.substr(1).toLowerCase()
+//     })
+//     .join('')
+// }
 
 const getAttributeValue = (string, attribute) => {
   const regex = new RegExp(`${attribute}="([^"]+)"`, 'g')
@@ -78,19 +88,27 @@ function getVariableName (filename, directory) {
 }
 
 function toCamel (str) {
-  return str.replace(/([-_][a-z])/ig, ($1) => {
+  return str.replace(/([-_][a-z0-9])/ig, ($1) => {
     return $1.toUpperCase().replace('-', '')
   })
+}
+
+function validate(str) {
+  if (!isNaN(str.charAt(0))) {
+    return 'n' + str
+  } else {
+    return str
+  }
 }
 
 function getImports(names) {
   const defaultImport = "import { iconSet } from './js/icon-set.js' \n"
   const defaultExport = "export { iconSet } \n\n\n"
   const importString = names.map(name => {
-    return `import { ${name.variableName} } from './js/${name.jsFilename}'`
+    return `import { ${name.importName} } from './js/${name.jsFilename}'`
   }).join('\n')
   const exportString = names.map(name => {
-    return `export { ${name.variableName} }`
+    return `export { ${name.importName} }`
   }).join('\n')
   return defaultImport + defaultExport + importString + '\n' + exportString
 }

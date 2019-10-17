@@ -21,7 +21,8 @@ export default {
     size: {
       type: String,
       validator: size => ['sm', 'lg', 'xl'].includes(size)
-    }
+    },
+    customClasses: String
   },
   computed: {
     iconName () {
@@ -49,7 +50,7 @@ export default {
       }
     },
     classes () {
-      return this.size ? `c-icon-${this.size}` : 'c-icon'
+      return this.customClasses || this.size ? `c-icon-${this.size}` : 'c-icon'
     }
   },
   methods: {

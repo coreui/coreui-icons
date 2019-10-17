@@ -3,6 +3,7 @@
     xmlns="http://www.w3.org/2000/svg"
     :viewBox="viewBox"
     :style="style"
+    :class="classes"
     v-html="icon.svgContent"
   ></svg>
 </template>
@@ -16,20 +17,11 @@ export default {
     name: String,
     content: [String, Array],
     fill: String,
-    background: String
-  },
-  data () {
-    return {
-      lineHeight: null
+    background: String,
+    size: {
+      type: String,
+      validator: size => ['sm', 'lg', 'xl'].includes(size)
     }
-  },
-  mounted () {
-    this.$nextTick(() => {
-      if (this.$el && this.code) {
-        const computedStyle = window.getComputedStyle(this.$el, null)
-        this.lineHeight = computedStyle.getPropertyValue('line-height')
-      }
-    })
   },
   computed: {
     iconName () {
@@ -50,15 +42,14 @@ export default {
     viewBox () {
       return this.$attrs.viewBox || `0 0 ${ this.icon.coordinates }`
     },
-    autoDimensions () {
-      const noDimensions = !this.$attrs.height && !this.$attrs.width
-      return noDimensions ? { height: this.lineHeight } : {}
-    },
     style () {
-      return Object.assign({}, this.autoDimensions, {
+      return {
         fill: this.fill || 'currentColor',
         background: this.background
-      })
+      }
+    },
+    classes () {
+      return this.size ? `c-icon-${this.size}` : 'c-icon'
     }
   },
   methods: {

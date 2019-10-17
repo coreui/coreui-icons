@@ -148,20 +148,6 @@ module.exports = function () {
 
 /***/ }),
 
-/***/ "0d58":
-/***/ (function(module, exports, __webpack_require__) {
-
-// 19.1.2.14 / 15.2.3.14 Object.keys(O)
-var $keys = __webpack_require__("ce10");
-var enumBugKeys = __webpack_require__("e11e");
-
-module.exports = Object.keys || function keys(O) {
-  return $keys(O, enumBugKeys);
-};
-
-
-/***/ }),
-
 /***/ "214f":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -306,14 +292,6 @@ module.exports = function (it) {
     // ES3 arguments fallback
     : (B = cof(O)) == 'Object' && typeof O.callee == 'function' ? 'Arguments' : B;
 };
-
-
-/***/ }),
-
-/***/ "2621":
-/***/ (function(module, exports) {
-
-exports.f = Object.getOwnPropertySymbols;
 
 
 /***/ }),
@@ -577,14 +555,6 @@ module.exports = patchedExec;
 
 /***/ }),
 
-/***/ "52a7":
-/***/ (function(module, exports) {
-
-exports.f = {}.propertyIsEnumerable;
-
-
-/***/ }),
-
 /***/ "5537":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -683,18 +653,6 @@ module.exports = function (R, S) {
 
 /***/ }),
 
-/***/ "613b":
-/***/ (function(module, exports, __webpack_require__) {
-
-var shared = __webpack_require__("5537")('keys');
-var uid = __webpack_require__("ca5a");
-module.exports = function (key) {
-  return shared[key] || (shared[key] = uid(key));
-};
-
-
-/***/ }),
-
 /***/ "626a":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -780,52 +738,6 @@ var $export = __webpack_require__("5ca1");
 $export($export.P, 'Array', { fill: __webpack_require__("36bd") });
 
 __webpack_require__("9c6c")('fill');
-
-
-/***/ }),
-
-/***/ "7333":
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-// 19.1.2.1 Object.assign(target, source, ...)
-var DESCRIPTORS = __webpack_require__("9e1e");
-var getKeys = __webpack_require__("0d58");
-var gOPS = __webpack_require__("2621");
-var pIE = __webpack_require__("52a7");
-var toObject = __webpack_require__("4bf8");
-var IObject = __webpack_require__("626a");
-var $assign = Object.assign;
-
-// should work with symbols and should have deterministic property order (V8 bug)
-module.exports = !$assign || __webpack_require__("79e5")(function () {
-  var A = {};
-  var B = {};
-  // eslint-disable-next-line no-undef
-  var S = Symbol();
-  var K = 'abcdefghijklmnopqrst';
-  A[S] = 7;
-  K.split('').forEach(function (k) { B[k] = k; });
-  return $assign({}, A)[S] != 7 || Object.keys($assign({}, B)).join('') != K;
-}) ? function assign(target, source) { // eslint-disable-line no-unused-vars
-  var T = toObject(target);
-  var aLen = arguments.length;
-  var index = 1;
-  var getSymbols = gOPS.f;
-  var isEnum = pIE.f;
-  while (aLen > index) {
-    var S = IObject(arguments[index++]);
-    var keys = getSymbols ? getKeys(S).concat(getSymbols(S)) : getKeys(S);
-    var length = keys.length;
-    var j = 0;
-    var key;
-    while (length > j) {
-      key = keys[j++];
-      if (!DESCRIPTORS || isEnum.call(S, key)) T[key] = S[key];
-    }
-  } return T;
-} : $assign;
 
 
 /***/ }),
@@ -1225,30 +1137,6 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "ce10":
-/***/ (function(module, exports, __webpack_require__) {
-
-var has = __webpack_require__("69a8");
-var toIObject = __webpack_require__("6821");
-var arrayIndexOf = __webpack_require__("c366")(false);
-var IE_PROTO = __webpack_require__("613b")('IE_PROTO');
-
-module.exports = function (object, names) {
-  var O = toIObject(object);
-  var i = 0;
-  var result = [];
-  var key;
-  for (key in O) if (key != IE_PROTO) has(O, key) && result.push(key);
-  // Don't enum bug & hidden keys
-  while (names.length > i) if (has(O, key = names[i++])) {
-    ~arrayIndexOf(result, key) || result.push(key);
-  }
-  return result;
-};
-
-
-/***/ }),
-
 /***/ "d2c8":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1281,17 +1169,6 @@ module.exports = function (it) {
   if (typeof it != 'function') throw TypeError(it + ' is not a function!');
   return it;
 };
-
-
-/***/ }),
-
-/***/ "e11e":
-/***/ (function(module, exports) {
-
-// IE 8- don't enum bug keys
-module.exports = (
-  'constructor,hasOwnProperty,isPrototypeOf,propertyIsEnumerable,toLocaleString,toString,valueOf'
-).split(',');
 
 
 /***/ }),
@@ -1339,17 +1216,6 @@ module.exports = (
 
 /***/ }),
 
-/***/ "f751":
-/***/ (function(module, exports, __webpack_require__) {
-
-// 19.1.3.1 Object.assign(target, source)
-var $export = __webpack_require__("5ca1");
-
-$export($export.S + $export.F, 'Object', { assign: __webpack_require__("7333") });
-
-
-/***/ }),
-
 /***/ "fa5b":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1381,8 +1247,8 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"7e872e7a-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./CIcon.vue?vue&type=template&id=5f5e5bae&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{style:(_vm.style),attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":_vm.viewBox},domProps:{"innerHTML":_vm._s(_vm.icon.svgContent)}})}
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6d8e4675-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./CIcon.vue?vue&type=template&id=4d8bd2f9&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{class:_vm.classes,style:(_vm.style),attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":_vm.viewBox},domProps:{"innerHTML":_vm._s(_vm.icon.svgContent)}})}
 var staticRenderFns = []
 
 
@@ -1392,8 +1258,8 @@ var es6_regexp_replace = __webpack_require__("a481");
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es6.array.fill.js
 var es6_array_fill = __webpack_require__("6c7b");
 
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es6.object.assign.js
-var es6_object_assign = __webpack_require__("f751");
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es6.function.name.js
+var es6_function_name = __webpack_require__("7f7f");
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es7.array.includes.js
 var es7_array_includes = __webpack_require__("6762");
@@ -1401,16 +1267,13 @@ var es7_array_includes = __webpack_require__("6762");
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es6.string.includes.js
 var es6_string_includes = __webpack_require__("2fdb");
 
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es6.function.name.js
-var es6_function_name = __webpack_require__("7f7f");
-
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./CIcon.vue?vue&type=script&lang=js&
 
 
 
 
 
-
+//
 //
 //
 //
@@ -1428,22 +1291,13 @@ var es6_function_name = __webpack_require__("7f7f");
     name: String,
     content: [String, Array],
     fill: String,
-    background: String
-  },
-  data: function data() {
-    return {
-      lineHeight: null
-    };
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    this.$nextTick(function () {
-      if (_this.$el && _this.code) {
-        var computedStyle = window.getComputedStyle(_this.$el, null);
-        _this.lineHeight = computedStyle.getPropertyValue('line-height');
+    background: String,
+    size: {
+      type: String,
+      validator: function validator(size) {
+        return ['sm', 'lg', 'xl'].includes(size);
       }
-    });
+    }
   },
   computed: {
     iconName: function iconName() {
@@ -1471,17 +1325,14 @@ var es6_function_name = __webpack_require__("7f7f");
     viewBox: function viewBox() {
       return this.$attrs.viewBox || "0 0 ".concat(this.icon.coordinates);
     },
-    autoDimensions: function autoDimensions() {
-      var noDimensions = !this.$attrs.height && !this.$attrs.width;
-      return noDimensions ? {
-        height: this.lineHeight
-      } : {};
-    },
     style: function style() {
-      return Object.assign({}, this.autoDimensions, {
+      return {
         fill: this.fill || 'currentColor',
         background: this.background
-      });
+      };
+    },
+    classes: function classes() {
+      return this.size ? "c-icon-".concat(this.size) : 'c-icon';
     }
   },
   methods: {

@@ -1,1 +1,1 @@
-export const arrowTop = ["<title>arrow-top</title><path d='M48.828 18.828l-16.828-16.828-16.828 16.828 2.829 2.828 12-12v52.248h4v-52.247l11.999 11.999 2.828-2.828z'></path>"]
+export const arrowTop = ["24 24","\r\r<title>arrow-top</title>\r<path d='M18.311 7.061l-6.311-6.311-6.31 6.311 1.061 1.061 4.5-4.5v19.593h1.5v-19.593l4.5 4.5 1.061-1.061z'></path>\r\r"]

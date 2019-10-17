@@ -1,0 +1,1 @@
+export const listFilter = ["24 24","\r\r<title>list-filter</title>\r<path d='M4.5 9.25h15v1.5h-15v-1.5z'></path>\r<path d='M7.875 14h8.25v1.5h-8.25v-1.5z'></path>\r<path d='M10.125 18.75h3.75v1.5h-3.75v-1.5z'></path>\r<path d='M2.25 4.5h19.5v1.5h-19.5v-1.5z'></path>\r\r"]

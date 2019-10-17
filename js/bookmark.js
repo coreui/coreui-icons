@@ -1,1 +1,1 @@
-export const bookmark = ["<title>bookmark</title><path d='M53 62h-4.406l-16.593-14.351-16.568 14.351h-4.433v-60h42zM15 6v51.083l16.999-14.725 17.001 14.704v-51.063z'></path>"]
+export const bookmark = ["24 24","\r\r<title>bookmark</title>\r<path d='M19.875 23.25h-1.652l-6.222-5.382-6.213 5.382h-1.663v-22.5h15.75zM5.625 2.25v19.156l6.375-5.522 6.375 5.514v-19.149z'></path>\r\r"]

@@ -1,0 +1,1 @@
+export const doubleQuoteSansRight = ["24 24","\r\r<title>double-quote-sans-right</title>\r<path d='M21.45 0.75l-8.325 7.929v10.821h10.125v-18.75zM21.75 18h-7.125v-8.679l7.125-6.786z'></path>\r<path d='M0.75 8.679v10.821h10.125v-18.75h-1.8zM9.375 18h-7.125v-8.679l7.125-6.786z'></path>\r\r"]

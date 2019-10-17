@@ -1,0 +1,1 @@
+export const arrowThickFromTop = ["24 24","\r\r<title>arrow-thick-from-top</title>\r<path d='M15.75 5.314h-7.5v6.75h-5.625v1.81l9.366 9.375 9.384-9.375v-1.811h-5.625zM19.564 13.564l-7.572 7.564-7.557-7.564h5.315v-6.75h4.5v6.75z'></path>\r<path d='M2.625 0.815h18.75v1.5h-18.75v-1.5z'></path>\r\r"]

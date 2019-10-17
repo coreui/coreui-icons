@@ -1,1 +1,1 @@
-export const italic = ["<title>italic</title><path d='M2 2v60h60v-60zM58 58h-52v-52h52z'></path><path d='M39 46h-5.555l5.25-28h6.305v-4h-20v4h5.555l-5.25 28h-6.305v4h20v-4z'></path>"]
+export const italic = ["24 24","\r\r<title>italic</title>\r<path d='M0.75 0.75v22.5h22.5v-22.5zM21.75 21.75h-19.5v-19.5h19.5z'></path>\r<path d='M14.625 17.25h-2.083l1.969-10.5h2.364v-1.5h-7.5v1.5h2.083l-1.969 10.5h-2.364v1.5h7.5v-1.5z'></path>\r\r"]

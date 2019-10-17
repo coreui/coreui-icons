@@ -1,0 +1,1 @@
+export const windowMinimize = ["24 24","\r\r<title>window-minimize</title>\r<path d='M2.25 21h19.5v1.5h-19.5v-1.5z'></path>\r\r"]

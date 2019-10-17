@@ -1,1 +1,1 @@
-export const accountLogout = ["<title>account-logout</title><path d='M9.644 34.004l34.324-0v-4h-34.324l9.382-9.382-2.828-2.828-14.21 14.21 14.21 14.21 2.828-2.828-9.382-9.382z'></path><path d='M20 2v4h38v52h-38v4h42v-60h-42z'></path>"]
+export const accountLogout = ["24 24","\r\r<title>account-logout</title>\r<path d='M3.617 12.752l12.872-0v-1.5h-12.872l3.518-3.518-1.061-1.061-5.329 5.329 5.329 5.329 1.061-1.061-3.518-3.518z'></path>\r<path d='M7.5 0.75v1.5h14.25v19.5h-14.25v1.5h15.75v-22.5h-15.75z'></path>\r\r"]

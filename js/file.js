@@ -1,1 +1,1 @@
-export const file = ["<title>file</title><path d='M41.828 2h-35.828v60h53v-42.828zM55 20.828v0.172h-15v-15h0.172zM10 58v-52h26v19h19v33z'></path>"]
+export const file = ["24 24","\r\r<title>file</title>\r<path d='M15.686 0.75h-13.436v22.5h19.875v-16.061zM20.625 7.811v0.064h-5.625v-5.625h0.064zM3.75 21.75v-19.5h9.75v7.125h7.125v12.375z'></path>\r\r"]

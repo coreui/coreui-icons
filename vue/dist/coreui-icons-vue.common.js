@@ -407,29 +407,6 @@ module.exports = __webpack_require__("9e1e") ? function (object, key, value) {
 
 /***/ }),
 
-/***/ "36bd":
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// 22.1.3.6 Array.prototype.fill(value, start = 0, end = this.length)
-
-var toObject = __webpack_require__("4bf8");
-var toAbsoluteIndex = __webpack_require__("77f1");
-var toLength = __webpack_require__("9def");
-module.exports = function fill(value /* , start = 0, end = @length */) {
-  var O = toObject(this);
-  var length = toLength(O.length);
-  var aLen = arguments.length;
-  var index = toAbsoluteIndex(aLen > 1 ? arguments[1] : undefined, length);
-  var end = aLen > 2 ? arguments[2] : undefined;
-  var endPos = end === undefined ? length : toAbsoluteIndex(end, length);
-  while (endPos > index) O[index++] = value;
-  return O;
-};
-
-
-/***/ }),
-
 /***/ "4588":
 /***/ (function(module, exports) {
 
@@ -725,19 +702,6 @@ module.exports = function (it, S) {
   if (!S && typeof (fn = it.toString) == 'function' && !isObject(val = fn.call(it))) return val;
   throw TypeError("Can't convert object to primitive value");
 };
-
-
-/***/ }),
-
-/***/ "6c7b":
-/***/ (function(module, exports, __webpack_require__) {
-
-// 22.1.3.6 Array.prototype.fill(value, start = 0, end = this.length)
-var $export = __webpack_require__("5ca1");
-
-$export($export.P, 'Array', { fill: __webpack_require__("36bd") });
-
-__webpack_require__("9c6c")('fill');
 
 
 /***/ }),
@@ -1247,16 +1211,13 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6d8e4675-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./CIcon.vue?vue&type=template&id=39df52c8&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{class:_vm.classes,style:(_vm.style),attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":_vm.viewBox},domProps:{"innerHTML":_vm._s(_vm.icon.svgContent)}})}
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6d8e4675-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./CIcon.vue?vue&type=template&id=7852aafd&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{class:_vm.computedClasses,attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":_vm.viewBox},domProps:{"innerHTML":_vm._s(_vm.icon.svgContent)}})}
 var staticRenderFns = []
 
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es6.regexp.replace.js
 var es6_regexp_replace = __webpack_require__("a481");
-
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es6.array.fill.js
-var es6_array_fill = __webpack_require__("6c7b");
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es6.function.name.js
 var es6_function_name = __webpack_require__("7f7f");
@@ -1272,8 +1233,6 @@ var es6_string_includes = __webpack_require__("2fdb");
 
 
 
-
-//
 //
 //
 //
@@ -1290,12 +1249,12 @@ var es6_string_includes = __webpack_require__("2fdb");
   props: {
     name: String,
     content: [String, Array],
-    fill: String,
-    background: String,
+    // fill: String,
+    // background: String,
     size: {
       type: String,
       validator: function validator(size) {
-        return ['sm', 'lg', 'xl'].includes(size);
+        return ['sm', 'lg', 'xl', 'custom-size'].includes(size);
       }
     },
     customClasses: String
@@ -1326,14 +1285,17 @@ var es6_string_includes = __webpack_require__("2fdb");
     viewBox: function viewBox() {
       return this.$attrs.viewBox || "0 0 ".concat(this.icon.coordinates);
     },
-    style: function style() {
-      return {
-        fill: this.fill || 'currentColor',
-        background: this.background
-      };
+    // style () {
+    //   return {
+    //     fill: this.fill || 'currentColor',
+    //     background: this.background
+    //   }
+    // },
+    computedSize: function computedSize() {
+      return this.$attrs.width || this.$attrs.height ? 'custom-size' : this.size;
     },
-    classes: function classes() {
-      return this.customClasses || (this.size ? "c-icon-".concat(this.size) : 'c-icon');
+    computedClasses: function computedClasses() {
+      return this.customClasses || "c-icon c-icon-".concat(this.computedSize);
     }
   },
   methods: {

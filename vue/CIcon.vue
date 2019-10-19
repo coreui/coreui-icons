@@ -2,8 +2,7 @@
   <svg
     xmlns="http://www.w3.org/2000/svg"
     :viewBox="viewBox"
-    :style="style"
-    :class="classes"
+    :class="computedClasses"
     v-html="icon.svgContent"
   ></svg>
 </template>
@@ -16,11 +15,11 @@ export default {
   props: {
     name: String,
     content: [String, Array],
-    fill: String,
-    background: String,
+    // fill: String,
+    // background: String,
     size: {
       type: String,
-      validator: size => ['sm', 'lg', 'xl'].includes(size)
+      validator: size => ['sm', 'lg', 'xl', 'custom-size'].includes(size)
     },
     customClasses: String
   },
@@ -43,14 +42,17 @@ export default {
     viewBox () {
       return this.$attrs.viewBox || `0 0 ${ this.icon.coordinates }`
     },
-    style () {
-      return {
-        fill: this.fill || 'currentColor',
-        background: this.background
-      }
+    // style () {
+    //   return {
+    //     fill: this.fill || 'currentColor',
+    //     background: this.background
+    //   }
+    // },
+    computedSize () {
+      return this.$attrs.width || this.$attrs.height ? 'custom-size' : this.size
     },
-    classes () {
-      return this.customClasses || (this.size ? `c-icon-${this.size}` : 'c-icon')
+    computedClasses () {
+      return this.customClasses ||  `c-icon c-icon-${this.computedSize}`
     }
   },
   methods: {

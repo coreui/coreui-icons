@@ -1,10 +1,16 @@
 <template>
   <svg
+    v-if="name || content"
     xmlns="http://www.w3.org/2000/svg"
     :viewBox="viewBox"
     :class="computedClasses"
     v-html="icon.svgContent"
   ></svg>
+  <component 
+    v-else 
+    :is="fontIconTag"
+    :class="computedClasses"
+  ></component>
 </template>
 
 <script>
@@ -21,7 +27,11 @@ export default {
       type: String,
       validator: size => ['sm', 'lg', 'xl', 'custom-size'].includes(size)
     },
-    customClasses: String
+    customClasses: [String, Array, Object],
+    fontIconTag: {
+      type: String,
+      default: 'i'
+    }
   },
   computed: {
     iconName () {
@@ -52,7 +62,8 @@ export default {
       return this.$attrs.width || this.$attrs.height ? 'custom-size' : this.size
     },
     computedClasses () {
-      return this.customClasses ||  `c-icon c-icon-${this.computedSize}`
+      return this.customClasses ||  
+             ['c-icon', { [`c-icon-${this.computedSize}`]: this.computedSize }]
     }
   },
   methods: {

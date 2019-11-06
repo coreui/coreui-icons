@@ -1,6 +1,6 @@
 {
   "name": "@coreui/icons",
-  "version": "0.3.0",
+  "version": "1.0.0-alpha.1",
   "description": "Free icons",
   "main": "js/index.js",
   "style": "css/coreui-icons.css",
@@ -12,10 +12,7 @@
     "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/coreui-icons.min.css css/coreui-icons.css",
     "dist": "npm-run-all --parallel css",
     "watch-css": "nodemon --ignore dist/ -e scss -x \"npm run css\"",
-    "buildJsFiles": "npm-run-all --parallel buildBaseJsFiles buildBrandsJsFiles buildFlagsJsFiles",
-    "buildBaseJsFiles": "node build/build-js-files.js",
-    "buildBrandsJsFiles": "node build/build-js-files.js brands",
-    "buildFlagsJsFiles": "node build/build-js-files.js flags"
+    "build-js-files": "node build/build-js-files.js"
   },
   "repository": {
     "type": "git",
@@ -46,16 +43,16 @@
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
-    "clean-css-cli": "^4.1.11",
-    "node-sass": "^4.9.0",
-    "nodemon": "^1.17.4",
-    "npm-run-all": "^4.1.3",
-    "postcss-cli": "^5.0.0",
-    "shelljs": "^0.8.2",
-    "stylelint": "^9.2.0",
-    "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-order": "^0.8.1",
-    "stylelint-scss": "^3.1.0"
+    "clean-css-cli": "^4.3.0",
+    "node-sass": "^4.13.0",
+    "nodemon": "^1.19.4",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^6.1.3",
+    "shelljs": "^0.8.3",
+    "stylelint": "^11.1.1",
+    "stylelint-config-recommended-scss": "^4.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-scss": "^3.12.1"
   }
 }

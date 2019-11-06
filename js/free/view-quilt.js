@@ -1,0 +1,1 @@
+export const viewQuilt = ["24 24","<path d='M.75 3v18h22.5V3zm21 8.25H9V4.5h12.75zM9 12.75h5.625v6.75H9zM2.25 4.5H7.5v15H2.25zm13.875 15v-6.75h5.625v6.75z'/>"]

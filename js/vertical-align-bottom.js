@@ -1,1 +1,0 @@
-export const verticalAlignBottom = ["24 24","\r\r<title>vertical-align-bottom</title>\r<path d='M16.693 14.818l-1.061-1.061-2.882 2.882v-14.015h-1.5v14.015l-2.882-2.882-1.061 1.061 4.693 4.693 4.693-4.693z'></path>\r<path d='M0.75 21.75h22.5v1.5h-22.5v-1.5z'></path>\r\r"]

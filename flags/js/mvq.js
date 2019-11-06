@@ -1,1 +1,0 @@
-export const MVQ = ["512 512","\r  <path fill='#d21034' d='M0 0h512v512H0z'/>\r  <path fill='#007e3a' d='M128 128h256v256H128z'/>\r  <circle cx='288' cy='256' r='85.3' fill='#fff'/>\r  <ellipse cx='308.6' cy='256' fill='#007e3a' rx='73.9' ry='85.3'/>\r\r"]

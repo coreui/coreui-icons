@@ -1,1 +1,0 @@
-export const GBENG = ["640 480","\r  <path fill='#fff' d='M0 0h640v480H0z'/>\r  <path fill='#ce1124' d='M281.6 0h76.8v480h-76.8z'/>\r  <path fill='#ce1124' d='M0 201.6h640v76.8H0z'/>\r\r"]

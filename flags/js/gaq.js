@@ -1,1 +1,0 @@
-export const GAQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#ffe700' d='M512 512H0V0h512z'/>\r    <path fill='#36a100' d='M512 170.7H0V0h512z'/>\r    <path fill='#006dbc' d='M512 512H0V341.3h512z'/>\r  </g>\r\r"]

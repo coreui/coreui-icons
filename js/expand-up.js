@@ -1,1 +1,0 @@
-export const expandUp = ["24 24","\r\r<title>expand-up</title>\r<path d='M0.75 21.891h22.5v1.5h-22.5v-1.5z'></path>\r<path d='M0.75 0.891v6h22.5v-6zM21.75 5.391h-19.5v-3h19.5z'></path>\r<path d='M12.004 9.927l-7.504 7.842v1.871h15v-1.775zM6.221 18.141l5.776-6.036 5.7 6.036z'></path>\r\r"]

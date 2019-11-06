@@ -1,0 +1,1 @@
+export const delicious = ["24 24","<path d='M12 12H0v12h12V12zM24 0H12v12h12V0z'/>"]

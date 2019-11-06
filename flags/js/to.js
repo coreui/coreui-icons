@@ -1,1 +1,0 @@
-export const TO = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#c10000' d='M0 0h640v480H0z'/>\r    <path fill='#fff' d='M0 0h250v200.3H0z'/>\r    <g fill='#c10000'>\r      <path d='M102.8 31.2h39.9v139.6h-39.8z'/>\r      <path d='M192.6 81v40H53V81z'/>\r    </g>\r  </g>\r\r"]

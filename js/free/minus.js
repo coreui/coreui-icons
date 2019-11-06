@@ -1,0 +1,1 @@
+export const minus = ["24 24","<path d='M3.375 11.25h17.25v1.5H3.375v-1.5z'/>"]

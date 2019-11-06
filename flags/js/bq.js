@@ -1,1 +1,0 @@
-export const BQ = ["640 480","\r  <path fill='#21468b' d='M0 0h640v480H0z'/>\r  <path fill='#fff' d='M0 0h640v320H0z'/>\r  <path fill='#ae1c28' d='M0 0h640v160H0z'/>\r\r"]

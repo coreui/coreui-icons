@@ -1,1 +1,0 @@
-export const PL = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M640 480H0V0h640z'/>\r    <path fill='#dc143c' d='M640 480H0V240h640z'/>\r  </g>\r\r"]

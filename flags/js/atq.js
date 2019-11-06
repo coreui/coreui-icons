@@ -1,1 +1,0 @@
-export const ATQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M512 512H0V0h512z'/>\r    <path fill='#df0000' d='M512 512H0V341.3h512zm0-341.2H0V.1h512z'/>\r  </g>\r\r"]

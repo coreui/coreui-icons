@@ -1,1 +1,0 @@
-export const DEQ = ["512 512","\r  <path fill='#ffce00' d='M0 341.3h512V512H0z'/>\r  <path d='M0 0h512v170.7H0z'/>\r  <path fill='#d00' d='M0 170.7h512v170.6H0z'/>\r\r"]

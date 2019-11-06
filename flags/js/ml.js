@@ -1,1 +1,0 @@
-export const ML = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='red' d='M425.8 0H640v480H425.7z'/>\r    <path fill='#009a00' d='M0 0h212.9v480H0z'/>\r    <path fill='#ff0' d='M212.9 0h214v480h-214z'/>\r  </g>\r\r"]

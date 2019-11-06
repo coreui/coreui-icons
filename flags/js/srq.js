@@ -1,1 +1,0 @@
-export const SRQ = ["512 512","\r  <path fill='#377e3f' d='M0 0h512v512H0z'/>\r  <path fill='#fff' d='M0 102.4h512v307.2H0z'/>\r  <path fill='#b40a2d' d='M0 153.6h512v204.8H0z'/>\r  <path fill='#ecc81d' d='M255.9 163.4l60.2 185.2-157.6-114.5h194.8L195.7 348.6z'/>\r\r"]

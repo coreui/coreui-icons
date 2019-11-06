@@ -1,0 +1,1 @@
+export const textSquare = ["24 24","<path d='M.75.75v22.5h22.5V.75zm21 21H2.25V2.25h19.5z'/><path d='M6.75 6.75h3.75v10.5H9v1.5h6v-1.5h-1.5V6.75h3.75v1.5h1.5v-3H5.25v3h1.5v-1.5z'/>"]

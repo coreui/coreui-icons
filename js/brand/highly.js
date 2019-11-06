@@ -1,0 +1,1 @@
+export const highly = ["24 24","<path d='M10.2 20.4h3.6V24h-3.6zM9 0h6v18H9z'/>"]

@@ -1,0 +1,1 @@
+export const signalCellular0 = ["24 24","<path d='M23.25.75h-1.838L.75 21.412v1.838h22.5zm-1.5 21H2.533L21.75 2.533z'/>"]

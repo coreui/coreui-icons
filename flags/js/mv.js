@@ -1,1 +1,0 @@
-export const MV = ["640 480","\r  <path fill='#d21034' d='M0 0h640v480H0z'/>\r  <path fill='#007e3a' d='M120 120h400v240H120z'/>\r  <circle cx='350' cy='240' r='80' fill='#fff'/>\r  <circle cx='380' cy='240' r='80' fill='#007e3a'/>\r\r"]

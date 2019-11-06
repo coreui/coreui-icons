@@ -1,1 +1,0 @@
-export const TD = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='#000067' d='M0 0h214v480H0z'/>\r    <path fill='red' d='M426 0h214v480H426z'/>\r    <path fill='#ff0' d='M214 0h212v480H214z'/>\r  </g>\r\r"]

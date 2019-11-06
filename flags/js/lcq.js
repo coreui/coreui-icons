@@ -1,1 +1,0 @@
-export const LCQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#65cfff' d='M0 0h512v512H0z'/>\r    <path fill='#fff' d='M254.8 44.8l173.5 421.6-344 1L254.7 44.8z'/>\r    <path d='M255 103l150 362.6-297.5.8L255 103z'/>\r    <path fill='#ffce00' d='M254.8 256.1l173.5 210.8-344 .5 170.5-211.3z'/>\r  </g>\r\r"]

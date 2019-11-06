@@ -1,1 +1,0 @@
-export const AMQ = ["512 512","\r  <path fill='red' d='M0 0h512v170.7H0z'/>\r  <path fill='#00f' d='M0 170.7h512v170.6H0z'/>\r  <path fill='orange' d='M0 341.3h512V512H0z'/>\r\r"]

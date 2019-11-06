@@ -1,1 +1,0 @@
-export const TDQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#000067' d='M0 0h171.2v512H0z'/>\r    <path fill='red' d='M340.8 0H512v512H340.8z'/>\r    <path fill='#ff0' d='M171.2 0h169.6v512H171.2z'/>\r  </g>\r\r"]

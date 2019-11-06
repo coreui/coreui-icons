@@ -1,1 +1,0 @@
-export const EE = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <rect width='640' height='477.9' rx='0' ry='0'/>\r    <rect width='640' height='159.3' y='320.7' fill='#fff' rx='0' ry='0'/>\r    <path fill='#1291ff' d='M0 0h640v159.3H0z'/>\r  </g>\r\r"]

@@ -1,1 +1,0 @@
-export const IDQ = ["512 512","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#e70011' d='M0 0h512v265.5H0z'/>\r    <path fill='#fff' d='M0 256h512v256H0z'/>\r  </g>\r\r"]

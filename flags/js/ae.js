@@ -1,1 +1,0 @@
-export const AE = ["640 480","\r  <path fill='#00732f' d='M0 0h640v160H0z'/>\r  <path fill='#fff' d='M0 160h640v160H0z'/>\r  <path d='M0 320h640v160H0z'/>\r  <path fill='red' d='M0 0h220v480H0z'/>\r\r"]

@@ -1,1 +1,0 @@
-export const dataTransferUp = ["24 24","\r\r<title>data-transfer-up</title>\r<path d='M0.75 0.75h22.5v1.5h-22.5v-1.5z'></path>\r<path d='M17.78 9.97l-6.155-6.155-6.155 6.155 1.061 1.061 4.345-4.345v16.564h1.5v-16.564l4.345 4.345 1.061-1.061z'></path>\r\r"]

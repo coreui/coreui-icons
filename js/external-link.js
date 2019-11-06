@@ -1,1 +1,0 @@
-export const externalLink = ["24 24","\r\r<title>external-link</title>\r<path d='M18.75 21.75h-16.5v-16.875h9v-1.5h-10.5v19.875h19.5v-10.5h-1.5v9z'></path>\r<path d='M14.25 0.75v1.5h6.439l-11.845 11.845 1.061 1.061 11.845-11.845v6.439h1.5v-9h-9z'></path>\r\r"]

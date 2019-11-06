@@ -1,0 +1,1 @@
+export const justifyLeft = ["24 24","<path d='M.75 3h22.5v1.5H.75V3zM.75 7.125h22.5v1.5H.75v-1.5zM.75 11.25h22.5v1.5H.75v-1.5zM.75 15.375h22.5v1.5H.75v-1.5zM.75 19.5h15V21h-15v-1.5z'/>"]

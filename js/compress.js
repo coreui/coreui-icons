@@ -1,1 +1,0 @@
-export const compress = ["24 24","\r\r<title>compress</title>\r<path d='M6.75 6.75h-6v1.5h7.5v-7.5h-1.5v6z'></path>\r<path d='M17.25 6.75v-6h-1.5v7.5h7.5v-1.5h-6z'></path>\r<path d='M15.75 23.25h1.5v-6h6v-1.5h-7.5v7.5z'></path>\r<path d='M0.75 17.25h6v6h1.5v-7.5h-7.5v1.5z'></path>\r\r"]

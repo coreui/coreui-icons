@@ -1,1 +1,0 @@
-export const clearAll = ["24 24","\r\r<title>clear-all</title>\r<path d='M7.5 5.25h15.75v1.5h-15.75v-1.5z'></path>\r<path d='M4.125 11.25h15.75v1.5h-15.75v-1.5z'></path>\r<path d='M0.75 17.25h15.75v1.5h-15.75v-1.5z'></path>\r\r"]

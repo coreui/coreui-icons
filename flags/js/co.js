@@ -1,1 +1,0 @@
-export const CO = ["640 480","\r  <g fill-rule='evenodd' stroke-width='1pt'>\r    <path fill='#ffe800' d='M0 0h640v480H0z'/>\r    <path fill='#00148e' d='M0 240h640v240H0z'/>\r    <path fill='#da0010' d='M0 360h640v120H0z'/>\r  </g>\r\r"]

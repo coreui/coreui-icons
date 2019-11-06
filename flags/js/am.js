@@ -1,1 +1,0 @@
-export const AM = ["640 480","\r  <path fill='red' d='M0 0h640v160H0z'/>\r  <path fill='#00f' d='M0 160h640v160H0z'/>\r  <path fill='orange' d='M0 320h640v160H0z'/>\r\r"]

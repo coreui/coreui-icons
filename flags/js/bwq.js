@@ -1,1 +1,0 @@
-export const BWQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='#00cbff' d='M0 0h512v512H0z'/>\r    <path fill='#fff' d='M0 192h512v128H0z'/>\r    <path d='M0 212.7h512V299H0z'/>\r  </g>\r\r"]

@@ -1,1 +1,0 @@
-export const MLQ = ["512 512","\r  <g fill-rule='evenodd'>\r    <path fill='red' d='M340.6 0H512v512H340.6z'/>\r    <path fill='#009a00' d='M0 0h170.3v512H0z'/>\r    <path fill='#ff0' d='M170.3 0h171.2v512H170.3z'/>\r  </g>\r\r"]

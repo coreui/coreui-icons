@@ -1,1 +1,0 @@
-export const LV = ["640 480","\r  <g fill-rule='evenodd'>\r    <path fill='#fff' d='M0 0h640v480H0z'/>\r    <path fill='#981e32' d='M0 0h640v192H0zm0 288h640v192H0z'/>\r  </g>\r\r"]

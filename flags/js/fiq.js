@@ -1,1 +1,0 @@
-export const FIQ = ["512 512","\r  <path fill='#fff' d='M0 0h512v512H0z'/>\r  <path fill='#003580' d='M0 186.2h512v139.6H0z'/>\r  <path fill='#003580' d='M123.2 0h139.6v512H123.1z'/>\r\r"]

@@ -267,7 +267,7 @@ fs.readdir(dirname, (e, filenames) => {
       let flagIso = ''
       Object.entries(flags).forEach(flag => {
         if (flag[1].toLowerCase() == oldName) {
-          flagIso = flag[0].toLowerCase()
+          flagIso = flag[0].toUpperCase()
         }
 
       })

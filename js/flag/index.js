@@ -1,399 +1,395 @@
 import { flagSet } from './flag-set.js' 
 export { flagSet } 
 
-import { angola } from './angola.js'
-import { antiguaAndBarbuda } from './antigua-and-barbuda.js'
-import { armenia } from './armenia.js'
-import { australia } from './australia.js'
-import { algeria } from './algeria.js'
-import { austria } from './austria.js'
-import { bahrain } from './bahrain.js'
-import { azerbaijan } from './azerbaijan.js'
-import { barbados } from './barbados.js'
-import { bahamas } from './bahamas.js'
-import { bangladesh } from './bangladesh.js'
-import { belgium } from './belgium.js'
-import { benin } from './benin.js'
-import { bolivia } from './bolivia.js'
-import { botswana } from './botswana.js'
-import { bosniaAndHerzegovina } from './bosnia-and-herzegovina.js'
-import { brazil } from './brazil.js'
-import { bulgaria } from './bulgaria.js'
-import { canada } from './canada.js'
-import { burkinaFaso } from './burkina-faso.js'
-import { burundi } from './burundi.js'
-import { cameroon } from './cameroon.js'
-import { capeVerde } from './cape-verde.js'
-import { centralAfricanRepublic } from './central-african-republic.js'
-import { chile } from './chile.js'
-import { chad } from './chad.js'
-import { china } from './china.js'
-import { colombia } from './colombia.js'
-import { congoRepublicOfThe } from './congo-republic-of-the.js'
-import { comoros } from './comoros.js'
-import { congoDemocraticRepublicOfThe } from './congo-democratic-republic-of-the.js'
-import { costaRica } from './costa-rica.js'
-import { coteDIvoire } from './cote-d-ivoire.js'
-import { cuba } from './cuba.js'
-import { denmark } from './denmark.js'
-import { czechRepublic } from './czech-republic.js'
-import { djibouti } from './djibouti.js'
-import { eastTimor } from './east-timor.js'
-import { estonia } from './estonia.js'
-import { ethiopia } from './ethiopia.js'
-import { eritrea } from './eritrea.js'
-import { finland } from './finland.js'
-import { france } from './france.js'
-import { georgia } from './georgia.js'
-import { gabon } from './gabon.js'
-import { germany } from './germany.js'
-import { gambia } from './gambia.js'
-import { ghana } from './ghana.js'
-import { greece } from './greece.js'
-import { grenada } from './grenada.js'
-import { guineaBissau } from './guinea-bissau.js'
-import { guyana } from './guyana.js'
-import { honduras } from './honduras.js'
-import { india } from './india.js'
-import { hungary } from './hungary.js'
-import { indonesia } from './indonesia.js'
-import { iceland } from './iceland.js'
-import { iran } from './iran.js'
-import { ireland } from './ireland.js'
-import { iraq } from './iraq.js'
-import { italy } from './italy.js'
-import { israel } from './israel.js'
-import { jamaica } from './jamaica.js'
-import { japan } from './japan.js'
-import { jordan } from './jordan.js'
-import { kenya } from './kenya.js'
-import { kosovo } from './kosovo.js'
-import { kiribati } from './kiribati.js'
-import { laos } from './laos.js'
-import { kuwait } from './kuwait.js'
-import { latvia } from './latvia.js'
-import { libya } from './libya.js'
-import { liberia } from './liberia.js'
-import { lithuania } from './lithuania.js'
-import { luxembourg } from './luxembourg.js'
-import { macedonia } from './macedonia.js'
-import { madagascar } from './madagascar.js'
-import { malawi } from './malawi.js'
-import { maldives } from './maldives.js'
-import { mali } from './mali.js'
-import { malaysia } from './malaysia.js'
-import { lesotho } from './lesotho.js'
-import { marshallIslands } from './marshall-islands.js'
-import { mauritania } from './mauritania.js'
-import { mauritius } from './mauritius.js'
-import { micronesia } from './micronesia.js'
-import { mongolia } from './mongolia.js'
-import { monaco } from './monaco.js'
-import { myanmar } from './myanmar.js'
-import { morocco } from './morocco.js'
-import { mozambique } from './mozambique.js'
-import { nauru } from './nauru.js'
-import { namibia } from './namibia.js'
-import { newZealand } from './new-zealand.js'
-import { nepal } from './nepal.js'
-import { netherlands } from './netherlands.js'
-import { niger } from './niger.js'
-import { northKorea } from './north-korea.js'
-import { nigeria } from './nigeria.js'
-import { pakistan } from './pakistan.js'
-import { norway } from './norway.js'
-import { niue } from './niue.js'
-import { palau } from './palau.js'
-import { papuaNewGuinea } from './papua-new-guinea.js'
-import { panama } from './panama.js'
-import { peru } from './peru.js'
-import { poland } from './poland.js'
-import { philippines } from './philippines.js'
-import { qatar } from './qatar.js'
-import { russia } from './russia.js'
-import { romania } from './romania.js'
-import { rwanda } from './rwanda.js'
-import { saintKittsAndNevis } from './saint-kitts-and-nevis.js'
-import { saintLucia } from './saint-lucia.js'
-import { saintVincentAndTheGrenadines } from './saint-vincent-and-the-grenadines.js'
-import { samoa } from './samoa.js'
-import { saoTomeAndPrincipe } from './sao-tome-and-principe.js'
-import { scotland } from './scotland.js'
-import { sierraLeone } from './sierra-leone.js'
-import { seychelles } from './seychelles.js'
-import { senegal } from './senegal.js'
-import { slovakia } from './slovakia.js'
-import { singapore } from './singapore.js'
-import { solomonIslands } from './solomon-islands.js'
-import { slovenia } from './slovenia.js'
-import { somalia } from './somalia.js'
-import { southAfrica } from './south-africa.js'
-import { southKorea } from './south-korea.js'
-import { southSudan } from './south-sudan.js'
-import { sudan } from './sudan.js'
-import { swaziland } from './swaziland.js'
-import { suriname } from './suriname.js'
-import { sweden } from './sweden.js'
-import { syria } from './syria.js'
-import { switzerland } from './switzerland.js'
-import { tajikistan } from './tajikistan.js'
-import { taiwan } from './taiwan.js'
-import { tonga } from './tonga.js'
-import { tanzania } from './tanzania.js'
-import { togo } from './togo.js'
-import { thailand } from './thailand.js'
-import { trinidadAndTobago } from './trinidad-and-tobago.js'
-import { tunisia } from './tunisia.js'
-import { turkey } from './turkey.js'
-import { unitedArabEmirates } from './united-arab-emirates.js'
-import { ukraine } from './ukraine.js'
-import { uganda } from './uganda.js'
-import { tuvalu } from './tuvalu.js'
-import { unitedKingdom } from './united-kingdom.js'
-import { uzbekistan } from './uzbekistan.js'
-import { unitedStatesOfAmerica } from './united-states-of-america.js'
-import { uruguay } from './uruguay.js'
-import { venezuela } from './venezuela.js'
-import { vietnam } from './vietnam.js'
-import { yemen } from './yemen.js'
-import { zambia } from './zambia.js'
-import { zimbabwe } from './zimbabwe.js'
-import { albania } from './albania.js'
-import { argentina } from './argentina.js'
-import { belarus } from './belarus.js'
-import { cyprus } from './cyprus.js'
-import { dominica } from './dominica.js'
-import { equatorialGuinea } from './equatorial-guinea.js'
-import { guinea } from './guinea.js'
-import { kyrgyzstan } from './kyrgyzstan.js'
-import { lebanon } from './lebanon.js'
-import { malta } from './malta.js'
-import { cambodia } from './cambodia.js'
-import { liechtenstein } from './liechtenstein.js'
-import { nicaragua } from './nicaragua.js'
-import { oman } from './oman.js'
-import { saudiArabia } from './saudi-arabia.js'
-import { brunei } from './brunei.js'
-import { egypt } from './egypt.js'
-import { kazakhstan } from './kazakhstan.js'
-import { moldova } from './moldova.js'
-import { sriLanka } from './sri-lanka.js'
-import { bhutan } from './bhutan.js'
-import { haiti } from './haiti.js'
-import { paraguay } from './paraguay.js'
-import { portugal } from './portugal.js'
-import { afghanistan } from './afghanistan.js'
-import { wales } from './wales.js'
-import { turkmenistan } from './turkmenistan.js'
-import { andorra } from './andorra.js'
-import { vaticanCity } from './vatican-city.js'
-import { montenegro } from './montenegro.js'
-import { belize } from './belize.js'
-import { guatemala } from './guatemala.js'
-import { fiji } from './fiji.js'
-import { croatia } from './croatia.js'
-import { spain } from './spain.js'
-import { sanMarino } from './san-marino.js'
-import { dominicanRepublic } from './dominican-republic.js'
-import { elSalvador } from './el-salvador.js'
-import { mexico } from './mexico.js'
-import { ecuador } from './ecuador.js'
-import { serbia } from './serbia.js'
-export { angola }
-export { antiguaAndBarbuda }
-export { armenia }
-export { australia }
-export { algeria }
-export { austria }
-export { bahrain }
-export { azerbaijan }
-export { barbados }
-export { bahamas }
-export { bangladesh }
-export { belgium }
-export { benin }
-export { bolivia }
-export { botswana }
-export { bosniaAndHerzegovina }
-export { brazil }
-export { bulgaria }
-export { canada }
-export { burkinaFaso }
-export { burundi }
-export { cameroon }
-export { capeVerde }
-export { centralAfricanRepublic }
-export { chile }
-export { chad }
-export { china }
-export { colombia }
-export { congoRepublicOfThe }
-export { comoros }
-export { congoDemocraticRepublicOfThe }
-export { costaRica }
-export { coteDIvoire }
-export { cuba }
-export { denmark }
-export { czechRepublic }
-export { djibouti }
-export { eastTimor }
-export { estonia }
-export { ethiopia }
-export { eritrea }
-export { finland }
-export { france }
-export { georgia }
-export { gabon }
-export { germany }
-export { gambia }
-export { ghana }
-export { greece }
-export { grenada }
-export { guineaBissau }
-export { guyana }
-export { honduras }
-export { india }
-export { hungary }
-export { indonesia }
-export { iceland }
-export { iran }
-export { ireland }
-export { iraq }
-export { italy }
-export { israel }
-export { jamaica }
-export { japan }
-export { jordan }
-export { kenya }
-export { kosovo }
-export { kiribati }
-export { laos }
-export { kuwait }
-export { latvia }
-export { libya }
-export { liberia }
-export { lithuania }
-export { luxembourg }
-export { macedonia }
-export { madagascar }
-export { malawi }
-export { maldives }
-export { mali }
-export { malaysia }
-export { lesotho }
-export { marshallIslands }
-export { mauritania }
-export { mauritius }
-export { micronesia }
-export { mongolia }
-export { monaco }
-export { myanmar }
-export { morocco }
-export { mozambique }
-export { nauru }
-export { namibia }
-export { newZealand }
-export { nepal }
-export { netherlands }
-export { niger }
-export { northKorea }
-export { nigeria }
-export { pakistan }
-export { norway }
-export { niue }
-export { palau }
-export { papuaNewGuinea }
-export { panama }
-export { peru }
-export { poland }
-export { philippines }
-export { qatar }
-export { russia }
-export { romania }
-export { rwanda }
-export { saintKittsAndNevis }
-export { saintLucia }
-export { saintVincentAndTheGrenadines }
-export { samoa }
-export { saoTomeAndPrincipe }
-export { scotland }
-export { sierraLeone }
-export { seychelles }
-export { senegal }
-export { slovakia }
-export { singapore }
-export { solomonIslands }
-export { slovenia }
-export { somalia }
-export { southAfrica }
-export { southKorea }
-export { southSudan }
-export { sudan }
-export { swaziland }
-export { suriname }
-export { sweden }
-export { syria }
-export { switzerland }
-export { tajikistan }
-export { taiwan }
-export { tonga }
-export { tanzania }
-export { togo }
-export { thailand }
-export { trinidadAndTobago }
-export { tunisia }
-export { turkey }
-export { unitedArabEmirates }
-export { ukraine }
-export { uganda }
-export { tuvalu }
-export { unitedKingdom }
-export { uzbekistan }
-export { unitedStatesOfAmerica }
-export { uruguay }
-export { venezuela }
-export { vietnam }
-export { yemen }
-export { zambia }
-export { zimbabwe }
-export { albania }
-export { argentina }
-export { belarus }
-export { cyprus }
-export { dominica }
-export { equatorialGuinea }
-export { guinea }
-export { kyrgyzstan }
-export { lebanon }
-export { malta }
-export { cambodia }
-export { liechtenstein }
-export { nicaragua }
-export { oman }
-export { saudiArabia }
-export { brunei }
-export { egypt }
-export { kazakhstan }
-export { moldova }
-export { sriLanka }
-export { bhutan }
-export { haiti }
-export { paraguay }
-export { portugal }
-export { afghanistan }
-export { wales }
-export { turkmenistan }
-export { andorra }
-export { vaticanCity }
-export { montenegro }
-export { belize }
-export { guatemala }
-export { fiji }
-export { croatia }
-export { spain }
-export { sanMarino }
-export { dominicanRepublic }
-export { elSalvador }
-export { mexico }
-export { ecuador }
-export { serbia }
+import { AG } from './AG.js'
+import { AM } from './AM.js'
+import { AE } from './AE.js'
+import { AO } from './AO.js'
+import { AU } from './AU.js'
+import { BB } from './BB.js'
+import { AT } from './AT.js'
+import { BH } from './BH.js'
+import { BA } from './BA.js'
+import { BF } from './BF.js'
+import { BI } from './BI.js'
+import { BD } from './BD.js'
+import { BG } from './BG.js'
+import { AZ } from './AZ.js'
+import { BJ } from './BJ.js'
+import { BO } from './BO.js'
+import { BW } from './BW.js'
+import { BR } from './BR.js'
+import { BS } from './BS.js'
+import { CA } from './CA.js'
+import { BE } from './BE.js'
+import { CF } from './CF.js'
+import { CL } from './CL.js'
+import { CD } from './CD.js'
+import { CG } from './CG.js'
+import { CI } from './CI.js'
+import { CM } from './CM.js'
+import { CN } from './CN.js'
+import { CV } from './CV.js'
+import { CR } from './CR.js'
+import { CO } from './CO.js'
+import { CH } from './CH.js'
+import { CU } from './CU.js'
+import { DJ } from './DJ.js'
+import { DK } from './DK.js'
+import { CZ } from './CZ.js'
+import { DE } from './DE.js'
+import { DZ } from './DZ.js'
+import { EE } from './EE.js'
+import { ET } from './ET.js'
+import { ER } from './ER.js'
+import { FI } from './FI.js'
+import { FM } from './FM.js'
+import { GA } from './GA.js'
+import { GB } from './GB.js'
+import { GD } from './GD.js'
+import { FR } from './FR.js'
+import { GE } from './GE.js'
+import { GH } from './GH.js'
+import { GR } from './GR.js'
+import { GM } from './GM.js'
+import { GW } from './GW.js'
+import { GY } from './GY.js'
+import { HN } from './HN.js'
+import { IL } from './IL.js'
+import { HU } from './HU.js'
+import { IN } from './IN.js'
+import { ID } from './ID.js'
+import { IE } from './IE.js'
+import { IQ } from './IQ.js'
+import { IS } from './IS.js'
+import { IR } from './IR.js'
+import { IT } from './IT.js'
+import { JO } from './JO.js'
+import { KM } from './KM.js'
+import { JM } from './JM.js'
+import { KI } from './KI.js'
+import { JP } from './JP.js'
+import { KE } from './KE.js'
+import { KW } from './KW.js'
+import { KN } from './KN.js'
+import { KP } from './KP.js'
+import { KR } from './KR.js'
+import { LA } from './LA.js'
+import { LC } from './LC.js'
+import { LT } from './LT.js'
+import { LR } from './LR.js'
+import { LV } from './LV.js'
+import { LU } from './LU.js'
+import { LY } from './LY.js'
+import { MC } from './MC.js'
+import { MA } from './MA.js'
+import { LS } from './LS.js'
+import { MG } from './MG.js'
+import { MK } from './MK.js'
+import { MH } from './MH.js'
+import { ML } from './ML.js'
+import { MU } from './MU.js'
+import { MM } from './MM.js'
+import { MN } from './MN.js'
+import { MW } from './MW.js'
+import { MV } from './MV.js'
+import { MR } from './MR.js'
+import { MY } from './MY.js'
+import { NA } from './NA.js'
+import { NE } from './NE.js'
+import { NG } from './NG.js'
+import { MZ } from './MZ.js'
+import { NP } from './NP.js'
+import { NL } from './NL.js'
+import { NU } from './NU.js'
+import { NO } from './NO.js'
+import { NR } from './NR.js'
+import { PA } from './PA.js'
+import { NZ } from './NZ.js'
+import { PG } from './PG.js'
+import { PE } from './PE.js'
+import { PL } from './PL.js'
+import { PH } from './PH.js'
+import { PK } from './PK.js'
+import { PW } from './PW.js'
+import { QA } from './QA.js'
+import { RO } from './RO.js'
+import { SB } from './SB.js'
+import { RW } from './RW.js'
+import { SC } from './SC.js'
+import { SD } from './SD.js'
+import { SE } from './SE.js'
+import { SG } from './SG.js'
+import { SI } from './SI.js'
+import { RU } from './RU.js'
+import { SK } from './SK.js'
+import { SL } from './SL.js'
+import { SR } from './SR.js'
+import { SN } from './SN.js'
+import { SO } from './SO.js'
+import { SS } from './SS.js'
+import { SZ } from './SZ.js'
+import { ST } from './ST.js'
+import { SY } from './SY.js'
+import { TG } from './TG.js'
+import { TH } from './TH.js'
+import { TD } from './TD.js'
+import { TJ } from './TJ.js'
+import { TN } from './TN.js'
+import { TL } from './TL.js'
+import { TO } from './TO.js'
+import { TV } from './TV.js'
+import { TR } from './TR.js'
+import { TZ } from './TZ.js'
+import { TW } from './TW.js'
+import { UG } from './UG.js'
+import { UA } from './UA.js'
+import { US } from './US.js'
+import { UY } from './UY.js'
+import { VC } from './VC.js'
+import { UZ } from './UZ.js'
+import { VE } from './VE.js'
+import { ZA } from './ZA.js'
+import { VN } from './VN.js'
+import { ZM } from './ZM.js'
+import { TT } from './TT.js'
+import { XK } from './XK.js'
+import { ZW } from './ZW.js'
+import { WS } from './WS.js'
+import { YE } from './YE.js'
+import { AL } from './AL.js'
+import { AR } from './AR.js'
+import { BY } from './BY.js'
+import { CY } from './CY.js'
+import { DM } from './DM.js'
+import { GN } from './GN.js'
+import { GQ } from './GQ.js'
+import { KG } from './KG.js'
+import { LB } from './LB.js'
+import { MT } from './MT.js'
+import { KH } from './KH.js'
+import { LI } from './LI.js'
+import { NI } from './NI.js'
+import { OM } from './OM.js'
+import { SA } from './SA.js'
+import { BN } from './BN.js'
+import { EG } from './EG.js'
+import { KZ } from './KZ.js'
+import { LK } from './LK.js'
+import { MD } from './MD.js'
+import { BT } from './BT.js'
+import { HT } from './HT.js'
+import { PY } from './PY.js'
+import { PT } from './PT.js'
+import { AF } from './AF.js'
+import { TM } from './TM.js'
+import { AD } from './AD.js'
+import { VA } from './VA.js'
+import { ME } from './ME.js'
+import { BZ } from './BZ.js'
+import { GT } from './GT.js'
+import { FJ } from './FJ.js'
+import { HR } from './HR.js'
+import { ES } from './ES.js'
+import { SM } from './SM.js'
+import { DO } from './DO.js'
+import { SV } from './SV.js'
+import { MX } from './MX.js'
+import { EC } from './EC.js'
+import { RS } from './RS.js'
+export { AG }
+export { AM }
+export { AE }
+export { AO }
+export { AU }
+export { BB }
+export { AT }
+export { BH }
+export { BA }
+export { BF }
+export { BI }
+export { BD }
+export { BG }
+export { AZ }
+export { BJ }
+export { BO }
+export { BW }
+export { BR }
+export { BS }
+export { CA }
+export { BE }
+export { CF }
+export { CL }
+export { CD }
+export { CG }
+export { CI }
+export { CM }
+export { CN }
+export { CV }
+export { CR }
+export { CO }
+export { CH }
+export { CU }
+export { DJ }
+export { DK }
+export { CZ }
+export { DE }
+export { DZ }
+export { EE }
+export { ET }
+export { ER }
+export { FI }
+export { FM }
+export { GA }
+export { GB }
+export { GD }
+export { FR }
+export { GE }
+export { GH }
+export { GR }
+export { GM }
+export { GW }
+export { GY }
+export { HN }
+export { IL }
+export { HU }
+export { IN }
+export { ID }
+export { IE }
+export { IQ }
+export { IS }
+export { IR }
+export { IT }
+export { JO }
+export { KM }
+export { JM }
+export { KI }
+export { JP }
+export { KE }
+export { KW }
+export { KN }
+export { KP }
+export { KR }
+export { LA }
+export { LC }
+export { LT }
+export { LR }
+export { LV }
+export { LU }
+export { LY }
+export { MC }
+export { MA }
+export { LS }
+export { MG }
+export { MK }
+export { MH }
+export { ML }
+export { MU }
+export { MM }
+export { MN }
+export { MW }
+export { MV }
+export { MR }
+export { MY }
+export { NA }
+export { NE }
+export { NG }
+export { MZ }
+export { NP }
+export { NL }
+export { NU }
+export { NO }
+export { NR }
+export { PA }
+export { NZ }
+export { PG }
+export { PE }
+export { PL }
+export { PH }
+export { PK }
+export { PW }
+export { QA }
+export { RO }
+export { SB }
+export { RW }
+export { SC }
+export { SD }
+export { SE }
+export { SG }
+export { SI }
+export { RU }
+export { SK }
+export { SL }
+export { SR }
+export { SN }
+export { SO }
+export { SS }
+export { SZ }
+export { ST }
+export { SY }
+export { TG }
+export { TH }
+export { TD }
+export { TJ }
+export { TN }
+export { TL }
+export { TO }
+export { TV }
+export { TR }
+export { TZ }
+export { TW }
+export { UG }
+export { UA }
+export { US }
+export { UY }
+export { VC }
+export { UZ }
+export { VE }
+export { ZA }
+export { VN }
+export { ZM }
+export { TT }
+export { XK }
+export { ZW }
+export { WS }
+export { YE }
+export { AL }
+export { AR }
+export { BY }
+export { CY }
+export { DM }
+export { GN }
+export { GQ }
+export { KG }
+export { LB }
+export { MT }
+export { KH }
+export { LI }
+export { NI }
+export { OM }
+export { SA }
+export { BN }
+export { EG }
+export { KZ }
+export { LK }
+export { MD }
+export { BT }
+export { HT }
+export { PY }
+export { PT }
+export { AF }
+export { TM }
+export { AD }
+export { VA }
+export { ME }
+export { BZ }
+export { GT }
+export { FJ }
+export { HR }
+export { ES }
+export { SM }
+export { DO }
+export { SV }
+export { MX }
+export { EC }
+export { RS }

@@ -1,1 +1,0 @@
-export const japan = ["301 201","<g fill-rule='nonzero' fill='none'><path fill='#FFF' d='M.5.5h300v200H.5z'/><circle fill='#BC002D' cx='150.5' cy='100.5' r='60'/></g>"]

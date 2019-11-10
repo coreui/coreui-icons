@@ -1,21 +1,24 @@
 {
   "name": "@coreui/icons",
-  "version": "1.0.0-alpha.1",
-  "description": "Free icons",
+  "version": "1.0.0-alpha.2",
+  "description": "CoreUI Icons Free",
   "main": "js/index.js",
-  "style": "css/coreui-icons.css",
+  "style": "css/all.css",
   "sideEffects": false,
   "scripts": {
-    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-minify*",
-    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free/free-icons.scss css/free.css",
-    "css-compile-brands": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand/brand-icons.scss css/brand.css",
+    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",
+    "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free/free-icons.scss css/free.css",
+    "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand/brand-icons.scss css/brand.css",
+    "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag/flag-icons.scss css/flag.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
-    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
+    "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
+    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/all.min.css css/all.css",
+    "css-minify-free": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
     "css-minify-brands": "cleancss --level 1 --source-map --source-map-inline-sources --output css/brand.min.css css/brand.css",
+    "css-minify-flag": "cleancss --level 1 --source-map --source-map-inline-sources --output css/flag.min.css css/flag.css",
     "dist": "npm-run-all --parallel css",
     "watch-css": "nodemon --ignore dist/ -e scss -x \"npm run css\"",
     "build-js-files": "node build/build-js-files.js",
-    "build-font": "icon-font-generator svg/free2/*.svg -o icon-dist"
   },
   "repository": {
     "type": "git",
@@ -47,7 +50,7 @@
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
-    "icon-font-generator": "^2.1.10",
+    "concat": "^1.0.3",
     "node-sass": "^4.13.0",
     "nodemon": "^1.19.4",
     "npm-run-all": "^4.1.5",
@@ -58,5 +61,12 @@
     "stylelint-config-standard": "^19.0.0",
     "stylelint-order": "^3.1.1",
     "stylelint-scss": "^3.12.1"
-  }
+  },
+  "files": [
+    "css/",
+    "fonts/",
+    "js/",
+    "svg/",
+    "symbols/"
+  ]
 }

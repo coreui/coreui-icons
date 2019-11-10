@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.25 18.767H.766v-1.709L12.003 4.5l11.248 12.647zm-20.658-1.5h18.757l-9.35-10.513z"/></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<title>caret-top</title>
+<path d="M23.25 18.767h-22.484v-1.709l11.237-12.558 11.248 12.647zM2.592 17.267h18.757l-9.35-10.513z"></path>
+</svg>

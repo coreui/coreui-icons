@@ -1,1 +1,1 @@
-export const verticalAlignBottom1 = ["24 24","<path d='M6.75.75h-6v19.875h6zm-1.5 18.375h-3V2.25h3zM15 7.948H9v12.677h6zm-1.5 11.177h-3V9.448h3zM17.25.75v19.875h6V.75zm4.5 18.375h-3V2.25h3zM.75 21.75h22.5v1.5H.75v-1.5z'/>"]
+export const verticalAlignBottom1 = ["24 24","<title>vertical-align-bottom1</title><path d='M6.75 0.75h-6v19.875h6zM5.25 19.125h-3v-16.875h3z'></path><path d='M15 7.948h-6v12.677h6zM13.5 19.125h-3v-9.677h3z'></path><path d='M17.25 0.75v19.875h6v-19.875zM21.75 19.125h-3v-16.875h3z'></path><path d='M0.75 21.75h22.5v1.5h-22.5v-1.5z'></path>"]

@@ -1,1 +1,1 @@
-export const functionsAlt = ["24 24","<path d='M16.875 6V4.5H6v2.545L10.602 12 6 16.955V19.5h10.875V18H7.5v-.455L12.648 12 7.5 6.455V6h9.375z'/>"]
+export const functionsAlt = ["24 24","<title>functions-alt</title><path d='M16.875 6v-1.5h-10.875v2.545l4.602 4.955-4.602 4.955v2.545h10.875v-1.5h-9.375v-0.455l5.148-5.545-5.148-5.545v-0.455h9.375z'></path>"]

@@ -1,1 +1,1 @@
-export const arrowThickFromBottom = ["24 24","<path d='M12.009.75l-9.384 9.375v1.811H8.25v6.75h7.5v-6.75h5.625v-1.81zm2.241 9.686v6.75h-4.5v-6.75H4.436l7.572-7.564 7.557 7.564zM2.625 21.686h18.75v1.5H2.625v-1.5z'/>"]
+export const arrowThickFromBottom = ["24 24","<title>arrow-thick-from-bottom</title><path d='M12.009 0.75l-9.384 9.375v1.811h5.625v6.75h7.5v-6.75h5.625v-1.81zM14.25 10.436v6.75h-4.5v-6.75h-5.314l7.572-7.564 7.557 7.564z'></path><path d='M2.625 21.686h18.75v1.5h-18.75v-1.5z'></path>"]

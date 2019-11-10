@@ -1,1 +1,1 @@
-export const signalCellular0 = ["24 24","<path d='M23.25.75h-1.838L.75 21.412v1.838h22.5zm-1.5 21H2.533L21.75 2.533z'/>"]
+export const signalCellular0 = ["24 24","<title>signal-cellular-0</title><path d='M23.25 0.75h-1.838l-20.662 20.662v1.838h22.5zM21.75 21.75h-19.217l19.217-19.217z'></path>"]

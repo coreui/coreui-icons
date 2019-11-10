@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.625 21.75v-21H3.375v21H.75v1.5h22.5v-1.5zm-1.5 0H12.75v-3h-1.5v3H4.875V2.25h14.25z"/><path d="M7.5 14.25H9v1.5H7.5v-1.5zM11.25 14.25h1.5v1.5h-1.5v-1.5zM15 14.25h1.5v1.5H15v-1.5zM7.5 9.75H9v1.5H7.5v-1.5zM11.25 9.75h1.5v1.5h-1.5v-1.5zM15 9.75h1.5v1.5H15v-1.5zM7.5 5.25H9v1.5H7.5v-1.5zM11.25 5.25h1.5v1.5h-1.5v-1.5zM15 5.25h1.5v1.5H15v-1.5z"/></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<title>building</title>
+<path d="M20.625 21.75v-21h-17.25v21h-2.625v1.5h22.5v-1.5zM19.125 21.75h-6.375v-3h-1.5v3h-6.375v-19.5h14.25z"></path>
+<path d="M7.5 14.25h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M11.25 14.25h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M15 14.25h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M7.5 9.75h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M11.25 9.75h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M15 9.75h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M7.5 5.25h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M11.25 5.25h1.5v1.5h-1.5v-1.5z"></path>
+<path d="M15 5.25h1.5v1.5h-1.5v-1.5z"></path>
+</svg>

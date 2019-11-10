@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M.75 3v18h22.5V3zM15 4.5v15H9v-15zm-12.75 0H7.5v15H2.25zm19.5 15H16.5v-15h5.25z"/></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<title>view-column</title>
+<path d="M0.75 3v18h22.5v-18zM15 4.5v15h-6v-15zM2.25 4.5h5.25v15h-5.25zM21.75 19.5h-5.25v-15h5.25z"></path>
+</svg>

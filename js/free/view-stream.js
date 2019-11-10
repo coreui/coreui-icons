@@ -1,1 +1,1 @@
-export const viewStream = ["24 24","<path d='M.75 3v18h22.5V3zm21 1.5v6.75H2.25V4.5zm-19.5 15v-6.75h19.5v6.75z'/>"]
+export const viewStream = ["24 24","<title>view-stream</title><path d='M0.75 3v18h22.5v-18zM21.75 4.5v6.75h-19.5v-6.75zM2.25 19.5v-6.75h19.5v6.75z'></path>"]

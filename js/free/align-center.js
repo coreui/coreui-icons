@@ -1,1 +1,1 @@
-export const alignCenter = ["24 24","<path d='M.75 3h22.5v1.5H.75V3zM4.5 7.125h15v1.5h-15v-1.5zM.75 11.25h22.5v1.5H.75v-1.5zM4.5 15.375h15v1.5h-15v-1.5zM.75 19.5h22.5V21H.75v-1.5z'/>"]
+export const alignCenter = ["24 24","<title>align-center</title><path d='M0.75 3h22.5v1.5h-22.5v-1.5z'></path><path d='M4.5 7.125h15v1.5h-15v-1.5z'></path><path d='M0.75 11.25h22.5v1.5h-22.5v-1.5z'></path><path d='M4.5 15.375h15v1.5h-15v-1.5z'></path><path d='M0.75 19.5h22.5v1.5h-22.5v-1.5z'></path>"]

@@ -1,1 +1,1 @@
-export const lineWeight = ["24 24","<path d='M.75 21.75h22.5v1.5H.75v-1.5zM.75 20.25h22.5V16.5H.75zM2.25 18h19.5v.75H2.25zM.75 15h22.5V9.75H.75zm1.5-3.75h19.5v2.25H2.25zM.75.75v7.5h22.5V.75zm21 6H2.25v-4.5h19.5z'/>"]
+export const lineWeight = ["24 24","<title>line-weight</title><path d='M0.75 21.75h22.5v1.5h-22.5v-1.5z'></path><path d='M0.75 20.25h22.5v-3.75h-22.5zM2.25 18h19.5v0.75h-19.5z'></path><path d='M0.75 15h22.5v-5.25h-22.5zM2.25 11.25h19.5v2.25h-19.5z'></path><path d='M0.75 0.75v7.5h22.5v-7.5zM21.75 6.75h-19.5v-4.5h19.5z'></path>"]

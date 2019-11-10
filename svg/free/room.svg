@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.625 19.875V4.125H16.5V.61L4.125 2.744v17.132H.75v1.5h4.074L16.5 22.987V5.626h2.625v15.75h4.125v-1.5zM15 21.264l-9.375-1.293V4.006L15 2.39z"/><path d="M12 10.875h1.5v3H12v-3z"/></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<title>room</title>
+<path d="M20.625 19.875v-15.75h-4.125v-3.515l-12.375 2.134v17.132h-3.375v1.5h4.074l11.676 1.611v-17.361h2.625v15.75h4.125v-1.5zM15 21.264l-9.375-1.293v-15.965l9.375-1.616z"></path>
+<path d="M12 10.875h1.5v3h-1.5v-3z"></path>
+</svg>

@@ -1,1 +1,1 @@
-export const alignRight = ["24 24","<path d='M.75 3h22.5v1.5H.75V3zM7.875 7.125H23.25v1.5H7.875v-1.5zM.75 11.25h22.5v1.5H.75v-1.5zM7.875 15.375H23.25v1.5H7.875v-1.5zM.75 19.5h22.5V21H.75v-1.5z'/>"]
+export const alignRight = ["24 24","<title>align-right</title><path d='M0.75 3h22.5v1.5h-22.5v-1.5z'></path><path d='M7.875 7.125h15.375v1.5h-15.375v-1.5z'></path><path d='M0.75 11.25h22.5v1.5h-22.5v-1.5z'></path><path d='M7.875 15.375h15.375v1.5h-15.375v-1.5z'></path><path d='M0.75 19.5h22.5v1.5h-22.5v-1.5z'></path>"]

@@ -1,1 +1,1 @@
-export const plus = ["24 24","<path d='M20.625 11.25H12.75V3.375h-1.5v7.875H3.375v1.5h7.875v7.875h1.5V12.75h7.875v-1.5z'/>"]
+export const plus = ["24 24","<title>plus</title><path d='M20.625 11.25h-7.875v-7.875h-1.5v7.875h-7.875v1.5h7.875v7.875h1.5v-7.875h7.875v-1.5z'></path>"]

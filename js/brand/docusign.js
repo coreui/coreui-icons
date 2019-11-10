@@ -1,1 +1,1 @@
-export const docusign = ["24 24","<path d='M9.517 3.31h4.966v6.621h3.31L12 16.552 6.207 9.931h3.31V3.31zM0 19.034h24v1.655H0v-1.655z'/>"]
+export const docusign = ["32 32","<title>docusign</title><path d='M12.688 4.411h6.625v8.828h4.411l-7.724 8.828-7.724-8.828h4.411zM0 25.38h32v2.203h-32z'></path>"]

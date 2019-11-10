@@ -1,1 +1,1 @@
-export const pagekit = ["24 24","<path d='M2.401 0v24h9.6v-3.527H5.929V3.526h12.146v13.421h-6.073v3.525H21.6V0H2.401z'/>"]
+export const pagekit = ["32 32","<title>pagekit</title><path d='M3.203 0v32h12.797v-4.703h-8.094v-22.594h16.193v17.891h-8.094v4.703h12.797v-27.297z'></path>"]

@@ -1,1 +1,1 @@
-export const feathub = ["24 24","<path d='M8.73.01h6.54v6.867H8.73V.01zm0 17.113h6.54v6.867H8.73v-6.867zM.01 8.73h23.98v6.54H.01V8.73z'/>"]
+export const feathub = ["32 32","<title>feathub</title><path d='M11.641 0.016h8.719v9.156h-8.719zM11.641 22.828h8.719v9.156h-8.719zM0.016 11.641h31.969v8.719h-31.969z'></path>"]

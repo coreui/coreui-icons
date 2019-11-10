@@ -1,1 +1,1 @@
-export const highly = ["24 24","<path d='M10.2 20.4h3.6V24h-3.6zM9 0h6v18H9z'/>"]
+export const highly = ["32 32","<title>highly</title><path d='M13.599 27.197h4.803v4.803h-4.803zM12 0h8v24h-8z'></path>"]

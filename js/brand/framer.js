@@ -1,1 +1,1 @@
-export const framer = ["24 24","<path d='M4 0h16v8h-8zm0 8h8l8 8H4zm0 8h8v8z'/>"]
+export const framer = ["32 32","<title>framer</title><path d='M5.333 0h21.333v10.667h-10.667zM5.333 10.667h10.667l10.667 10.667h-21.333zM5.333 21.333h10.667v10.667z'></path>"]

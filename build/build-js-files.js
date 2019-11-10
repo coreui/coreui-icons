@@ -52,7 +52,7 @@ dirnames.forEach(setName => {
         )
         fs.writeFile(
           `js/${setName}/${tsFilename}`,
-          `export const ${importName}: string[];`,
+          `export declare const ${importName}: string[];`,
           () => ''
         ) 
       })
@@ -64,8 +64,18 @@ dirnames.forEach(setName => {
         () => ''
       )
       fs.writeFile(
+        `js/${setName}/${setName}-set.d.ts`,
+        typings(names, setName, false),
+        () => ''
+      )
+      fs.writeFile(
         `js/${setName}/index.js`,
         getImports(names, setName),
+        () => ''
+      )
+      fs.writeFile(
+        `js/${setName}/index.d.ts`,
+        typings(names, setName),
         () => ''
       )
       allNames[setName] = names
@@ -135,4 +145,18 @@ function getImports(names, setName, deep = false) {
     return `export { ${name.importName} }`
   }).join('\n')
   return defaultImport + defaultExport + importString + '\n' + exportString
+}
+
+function typings(names, setName, all = true) {
+
+  const icons = names.map(name => {
+    return `  "${name.importName}": string[];`
+  }).join('\n')
+  const set = `export declare const ${setName}Set: {\n${icons}\n}`
+
+  const exportString = names.map(name => {
+    return `export declare const ${name.importName}: string[];`
+  }).join('\n')
+  
+  return all ? set + '\n' + exportString : set
 }

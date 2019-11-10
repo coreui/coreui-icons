@@ -1,0 +1,1 @@
+export declare const verticalAlignTop1: string[];

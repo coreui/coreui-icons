@@ -1,1 +1,1 @@
-export const gitter = ["24 24","<path d='M8.501 4.001H10.5V24H8.501V4.001zm6.999 0V24h-2V4.001h2zM3.5 0h2.001v15H3.5V0zm15 4.001h2V15h-2V4.001z'/>"]
+export const gitter = ["32 32","<title>gitter</title><path d='M8.15 20.156h-3.15v-20.156h3.15zM14.431 4.756h-3.15v27.244h3.15zM20.719 4.756h-3.15v27.244h3.15zM27 4.75h-3.15v15.438h3.15z'></path>"]

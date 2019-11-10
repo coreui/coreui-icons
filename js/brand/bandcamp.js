@@ -1,1 +1,1 @@
-export const bandcamp = ["24 24","<path d='M0 18.75l7.437-13.5H24l-7.438 13.5H0z'/>"]
+export const bandcamp = ["32 32","<title>bandcamp</title><path d='M0 25l9.917-18h22.083l-9.917 18z'></path>"]

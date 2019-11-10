@@ -1,0 +1,1 @@
+export declare const typo3: string[];

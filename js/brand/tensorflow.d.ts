@@ -1,0 +1,1 @@
+export declare const tensorflow: string[];

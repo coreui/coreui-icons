@@ -1,1 +1,1 @@
-export const kotlin = ["24 24","<path d='M1.3 24l11.3-11.5L24 24zM0 0h12L0 12.5zm13.4 0L0 14v10l12-12L24 0z'/>"]
+export const kotlin = ["32 32","<title>kotlin</title><path d='M1.734 32l15.068-15.333 15.198 15.333zM0 0h16l-16 16.667zM17.865 0l-17.865 18.667v13.333l32-32z'></path>"]

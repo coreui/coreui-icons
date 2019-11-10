@@ -1,1 +1,1 @@
-export const verizon = ["24 24","<path d='M18.302 0H22v.003L10.674 24H7.662L2 12h3.727l3.449 7.337z'/>"]
+export const verizon = ["32 32","<title>verizon</title><path d='M24.401 0h4.932v0.005l-15.099 31.995h-4.021l-7.547-16h4.969l4.599 9.781z'></path>"]

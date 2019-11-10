@@ -1,1 +1,1 @@
-export const flipboard = ["24 24","<path d='M0 0v24h24V0H0zm19.2 9.6h-4.8v4.8H9.6v4.8H4.8V4.8h14.4v4.8z'/>"]
+export const flipboard = ["32 32","<title>flipboard</title><path d='M0 0v32h32v-32zM25.599 12.803h-6.401v6.395h-6.395v6.401h-6.401v-19.197h19.197z'></path>"]

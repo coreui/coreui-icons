@@ -1,1 +1,1 @@
-export const zeit = ["24 24","<path d='M24 22.525H0l12-21.05 12 21.05z'/>"]
+export const zeit = ["32 32","<title>zeit</title><path d='M32 30.031h-32l16-28.061z'></path>"]

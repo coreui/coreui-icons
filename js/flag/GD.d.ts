@@ -1,0 +1,1 @@
+export declare const GD: string[];

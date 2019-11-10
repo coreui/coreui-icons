@@ -1,0 +1,1 @@
+export declare const n3d: string[];

@@ -1,1 +1,1 @@
-export const nintendo = ["24 24","<path d='M0 .6h7.1l9.85 15.9V.6H24v22.8h-7.04L7.06 7.5v15.9H0V.6'/>"]
+export const nintendo = ["32 32","<title>nintendo</title><path d='M0 0.803h9.469l13.129 21.197v-21.197h9.401v30.395h-9.385l-13.203-21.197v21.197h-9.412v-30.395z'></path>"]

@@ -1,1 +1,1 @@
-export const adobe = ["24 24","<path d='M15.1 2H24v20L15.1 2zM8.9 2H0v20L8.9 2zM12 9.4L17.6 22h-3.8l-1.6-4H8.1L12 9.4z'/>"]
+export const adobe = ["32 32","<title>adobe</title><path d='M20.136 2.667h11.864v26.667zM11.864 2.667h-11.864v26.667zM16 12.531l7.469 16.803h-5.068l-2.136-5.333h-5.463z'></path>"]

@@ -1,1 +1,1 @@
-export const discover = ["24 24","<path d='M12 0a12 12 0 100 24 12 12 0 100-24z'/>"]
+export const discover = ["32 32","<title>discover</title><path d='M16 0c-8.839 0-16 7.161-16 16s7.161 16 16 16c8.839 0 16-7.161 16-16s-7.161-16-16-16z'></path>"]

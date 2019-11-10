@@ -1,8 +1,7 @@
 $coreui-icons-font-path: "../fonts" !default;
-$coreui-icons-prefix: "cui-" !default;
+$coreui-icons-prefix: "cil-" !default;
 
-$icons: () !default;
-$icons: map-merge((
+$icons: (
   "account-logout": \e900,
   "action-redo": \e901,
   "action-undo": \e902,
@@ -103,4 +102,4 @@ $icons: map-merge((
   "user-unfollow": \e95d,
   "wrench": \e95e,
   "yen": \e95f
-), $icons);
+) !default;

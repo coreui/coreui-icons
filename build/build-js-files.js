@@ -20,6 +20,7 @@ dirnames.forEach(setName => {
         
         const variableName = toCamel(filename.replace('.svg', ''))
         const jsFilename = filename.replace('.svg', '.js')
+        const tsFilename = filename.replace('.svg', '.d.ts')
         const viewBox = getAttributeValue(content, 'viewBox').split(' ')
         const dimensions = `${viewBox[2]} ${viewBox[3]}`
 
@@ -49,7 +50,11 @@ dirnames.forEach(setName => {
           `export const ${importName} = ` + JSON.stringify(iconData),
           () => ''
         )
-        
+        fs.writeFile(
+          `js/${setName}/${tsFilename}`,
+          `export const ${importName}: string[];`,
+          () => ''
+        ) 
       })
     })
     setTimeout(() => {

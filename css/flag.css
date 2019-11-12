@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons - Flag Icons
- * @version v1.0.0-alpha.2
+ * @version v1.0.0-alpha.3
  * @link https://coreui.io/icons/flag/
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
@@ -310,10 +310,6 @@
 
 .cif-hn {
   background-image: url(../svg/flag/HN.svg);
-}
-
-.cif-hk {
-  background-image: url(../svg/flag/HK.svg);
 }
 
 .cif-xk {

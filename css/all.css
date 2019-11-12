@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons Free Open Source Icons
- * @version v1.0.0-alpha.2
+ * @version v1.0.0-alpha.3
  * @link https://coreui.io/icons
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
  * Licensed under MIT (https://coreui.io/icons/license)
@@ -9,7 +9,7 @@
 @font-face {
   font-family: 'CoreUI-Icons-Linear-Free';
   src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh");
-  src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Free.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Free.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Free.svg?64h6xh#CoreUI-Icons-Linear") format("svg");
+  src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Free.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Free.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Linear-Free.svg?64h6xh#CoreUI-Icons-Linear") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1376,6 +1376,10 @@
   content: "\ecf9";
 }
 
+.cil-check-circle:before {
+  content: "\ea57";
+}
+
 .cil-chevron-bottom:before {
   content: "\ea59";
 }
@@ -2183,7 +2187,7 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons - Brand Icons
- * @version v1.0.0-alpha.2
+ * @version v1.0.0-alpha.3
  * @link https://coreui.io/icons/brand/
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
@@ -5529,7 +5533,7 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons - Flag Icons
- * @version v1.0.0-alpha.2
+ * @version v1.0.0-alpha.3
  * @link https://coreui.io/icons/flag/
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
@@ -5838,10 +5842,6 @@
 
 .cif-hn {
   background-image: url(../svg/flag/HN.svg);
-}
-
-.cif-hk {
-  background-image: url(../svg/flag/HK.svg);
 }
 
 .cif-xk {

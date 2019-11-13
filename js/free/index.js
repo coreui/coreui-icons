@@ -1,276 +1,279 @@
 import { freeSet } from './free-set.js' 
 export { freeSet } 
 
-import { n4k } from './4k.js'
 import { accountLogout } from './account-logout.js'
 import { actionRedo } from './action-redo.js'
-import { actionUndo } from './action-undo.js'
-import { addressBook } from './address-book.js'
-import { airplaneModeOff } from './airplane-mode-off.js'
-import { album } from './album.js'
 import { n3d } from './3d.js'
-import { airplay } from './airplay.js'
-import { alignRight } from './align-right.js'
+import { actionUndo } from './action-undo.js'
+import { n4k } from './4k.js'
+import { airplaneModeOff } from './airplane-mode-off.js'
+import { addressBook } from './address-book.js'
 import { airplaneMode } from './airplane-mode.js'
-import { aperture } from './aperture.js'
-import { alignLeft } from './align-left.js'
-import { americanFootball } from './american-football.js'
-import { arrowCircleBottom } from './arrow-circle-bottom.js'
-import { arrowBottom } from './arrow-bottom.js'
-import { alarm } from './alarm.js'
+import { airplay } from './airplay.js'
 import { alignCenter } from './align-center.js'
-import { arrowCircleRight } from './arrow-circle-right.js'
+import { album } from './album.js'
+import { alignRight } from './align-right.js'
+import { alignLeft } from './align-left.js'
+import { alarm } from './alarm.js'
+import { americanFootball } from './american-football.js'
+import { apple } from './apple.js'
+import { applicationsSettings } from './applications-settings.js'
+import { arrowBottom } from './arrow-bottom.js'
+import { arrowCircleBottom } from './arrow-circle-bottom.js'
+import { aperture } from './aperture.js'
 import { arrowCircleLeft } from './arrow-circle-left.js'
+import { applications } from './applications.js'
+import { arrowLeft } from './arrow-left.js'
 import { arrowCircleTop } from './arrow-circle-top.js'
+import { arrowCircleRight } from './arrow-circle-right.js'
 import { arrowRight } from './arrow-right.js'
 import { arrowThickFromBottom } from './arrow-thick-from-bottom.js'
 import { arrowThickBottom } from './arrow-thick-bottom.js'
-import { applicationsSettings } from './applications-settings.js'
 import { arrowThickFromRight } from './arrow-thick-from-right.js'
-import { arrowThickFromTop } from './arrow-thick-from-top.js'
+import { arrowThickFromLeft } from './arrow-thick-from-left.js'
 import { arrowThickLeft } from './arrow-thick-left.js'
-import { arrowThickRight } from './arrow-thick-right.js'
 import { arrowThickToBottom } from './arrow-thick-to-bottom.js'
-import { arrowLeft } from './arrow-left.js'
-import { arrowThickToRight } from './arrow-thick-to-right.js'
+import { arrowThickFromTop } from './arrow-thick-from-top.js'
+import { arrowThickRight } from './arrow-thick-right.js'
 import { arrowThickToTop } from './arrow-thick-to-top.js'
 import { arrowThickToLeft } from './arrow-thick-to-left.js'
+import { arrowThickToRight } from './arrow-thick-to-right.js'
 import { arrowThickTop } from './arrow-thick-top.js'
-import { assistiveListeningSystem } from './assistive-listening-system.js'
-import { asteriskCircle } from './asterisk-circle.js'
-import { apple } from './apple.js'
 import { arrowTop } from './arrow-top.js'
-import { audioDescription } from './audio-description.js'
-import { at } from './at.js'
-import { audioSpectrum } from './audio-spectrum.js'
-import { avTimer } from './av-timer.js'
-import { arrowThickFromLeft } from './arrow-thick-from-left.js'
 import { asterisk } from './asterisk.js'
-import { balanceScale } from './balance-scale.js'
+import { asteriskCircle } from './asterisk-circle.js'
+import { assistiveListeningSystem } from './assistive-listening-system.js'
+import { at } from './at.js'
+import { audioDescription } from './audio-description.js'
+import { audioSpectrum } from './audio-spectrum.js'
 import { ban } from './ban.js'
-import { bank } from './bank.js'
-import { badge } from './badge.js'
-import { applications } from './applications.js'
-import { barcode } from './barcode.js'
 import { audio } from './audio.js'
-import { bath } from './bath.js'
-import { basketball } from './basketball.js'
-import { battery0 } from './battery-0.js'
-import { battery5 } from './battery-5.js'
-import { battery3 } from './battery-3.js'
-import { batteryAlert } from './battery-alert.js'
-import { basket } from './basket.js'
+import { avTimer } from './av-timer.js'
+import { balanceScale } from './balance-scale.js'
+import { badge } from './badge.js'
 import { barChart } from './bar-chart.js'
-import { beaker } from './beaker.js'
-import { bell } from './bell.js'
-import { bike } from './bike.js'
+import { bank } from './bank.js'
+import { barcode } from './barcode.js'
+import { bath } from './bath.js'
 import { baseball } from './baseball.js'
-import { bluetooth } from './bluetooth.js'
+import { battery0 } from './battery-0.js'
+import { basketball } from './basketball.js'
+import { battery3 } from './battery-3.js'
+import { battery5 } from './battery-5.js'
+import { batteryAlert } from './battery-alert.js'
+import { batterySlash } from './battery-slash.js'
+import { beachAccess } from './beach-access.js'
+import { basket } from './basket.js'
+import { bell } from './bell.js'
+import { beaker } from './beaker.js'
+import { bed } from './bed.js'
 import { birthdayCake } from './birthday-cake.js'
 import { blurCircular } from './blur-circular.js'
-import { blurLinear } from './blur-linear.js'
-import { beachAccess } from './beach-access.js'
-import { bold } from './bold.js'
-import { bed } from './bed.js'
+import { bike } from './bike.js'
+import { blind } from './blind.js'
 import { blur } from './blur.js'
-import { boatAlt } from './boat-alt.js'
-import { book } from './book.js'
+import { bluetooth } from './bluetooth.js'
+import { blurLinear } from './blur-linear.js'
+import { bold } from './bold.js'
 import { bolt } from './bolt.js'
+import { boatAlt } from './boat-alt.js'
+import { bookmark } from './bookmark.js'
+import { book } from './book.js'
+import { borderBottom } from './border-bottom.js'
 import { borderClear } from './border-clear.js'
 import { borderAll } from './border-all.js'
-import { blind } from './blind.js'
 import { borderHorizontal } from './border-horizontal.js'
-import { bookmark } from './bookmark.js'
-import { borderBottom } from './border-bottom.js'
-import { borderInner } from './border-inner.js'
-import { borderRight } from './border-right.js'
 import { borderStyle } from './border-style.js'
 import { borderLeft } from './border-left.js'
+import { borderInner } from './border-inner.js'
+import { borderOuter } from './border-outer.js'
+import { borderVertical } from './border-vertical.js'
 import { borderTop } from './border-top.js'
 import { bowling } from './bowling.js'
-import { borderVertical } from './border-vertical.js'
 import { briefcase } from './briefcase.js'
-import { browser } from './browser.js'
-import { britishPound } from './british-pound.js'
-import { bug } from './bug.js'
+import { borderRight } from './border-right.js'
 import { brightness } from './brightness.js'
+import { braille } from './braille.js'
+import { britishPound } from './british-pound.js'
+import { browser } from './browser.js'
 import { brushAlt } from './brush-alt.js'
+import { bug } from './bug.js'
+import { brush } from './brush.js'
 import { building } from './building.js'
 import { bullhorn } from './bullhorn.js'
 import { burger } from './burger.js'
 import { calculator } from './calculator.js'
 import { calendarCheck } from './calendar-check.js'
-import { braille } from './braille.js'
 import { busAlt } from './bus-alt.js'
-import { cameraControl } from './camera-control.js'
-import { cameraRoll } from './camera-roll.js'
-import { borderOuter } from './border-outer.js'
-import { camera } from './camera.js'
-import { caretBottom } from './caret-bottom.js'
-import { caretLeft } from './caret-left.js'
-import { carAlt } from './car-alt.js'
-import { caretRight } from './caret-right.js'
-import { casino } from './casino.js'
-import { cart } from './cart.js'
-import { cast } from './cast.js'
 import { calendar } from './calendar.js'
-import { brush } from './brush.js'
-import { chartPie } from './chart-pie.js'
+import { camera } from './camera.js'
+import { cameraControl } from './camera-control.js'
+import { carAlt } from './car-alt.js'
+import { caretBottom } from './caret-bottom.js'
 import { caretTop } from './caret-top.js'
+import { caretRight } from './caret-right.js'
+import { cameraRoll } from './camera-roll.js'
+import { caretLeft } from './caret-left.js'
+import { cart } from './cart.js'
+import { casino } from './casino.js'
+import { cast } from './cast.js'
 import { cat } from './cat.js'
-import { chatBubble } from './chat-bubble.js'
 import { centerFocus } from './center-focus.js'
-import { checkAlt } from './check-alt.js'
-import { checkCircle } from './check-circle.js'
-import { check } from './check.js'
-import { chevronCircleDownAlt } from './chevron-circle-down-alt.js'
-import { chevronCircleLeftAlt } from './chevron-circle-left-alt.js'
-import { chevronCircleRightAlt } from './chevron-circle-right-alt.js'
 import { chartLine } from './chart-line.js'
-import { chevronDoubleDown } from './chevron-double-down.js'
-import { chevronDoubleLeft } from './chevron-double-left.js'
-import { chevronCircleUpAlt } from './chevron-circle-up-alt.js'
-import { chevronDoubleRight } from './chevron-double-right.js'
-import { chevronDoubleUpAlt } from './chevron-double-up-alt.js'
-import { chevronRight } from './chevron-right.js'
-import { chevronTop } from './chevron-top.js'
-import { childFriendly } from './child-friendly.js'
-import { circle } from './circle.js'
-import { chevronDoubleUp } from './chevron-double-up.js'
-import { child } from './child.js'
-import { clipboard } from './clipboard.js'
-import { clock } from './clock.js'
+import { chartPie } from './chart-pie.js'
+import { chatBubble } from './chat-bubble.js'
+import { check } from './check.js'
+import { checkAlt } from './check-alt.js'
 import { chart } from './chart.js'
-import { closedCaptioning } from './closed-captioning.js'
-import { clearAll } from './clear-all.js'
+import { chevronCircleRightAlt } from './chevron-circle-right-alt.js'
+import { checkCircle } from './check-circle.js'
+import { chevronBottom } from './chevron-bottom.js'
+import { chevronCircleLeftAlt } from './chevron-circle-left-alt.js'
+import { chevronCircleUpAlt } from './chevron-circle-up-alt.js'
+import { chevronCircleDownAlt } from './chevron-circle-down-alt.js'
+import { chevronDoubleLeft } from './chevron-double-left.js'
+import { chevronDoubleDown } from './chevron-double-down.js'
+import { chevronDoubleUpAlt } from './chevron-double-up-alt.js'
+import { chevronDoubleRight } from './chevron-double-right.js'
+import { chevronRight } from './chevron-right.js'
+import { chevronDoubleUp } from './chevron-double-up.js'
+import { chevronTop } from './chevron-top.js'
 import { chevronLeft } from './chevron-left.js'
-import { cloudDownload } from './cloud-download.js'
+import { child } from './child.js'
+import { clearAll } from './clear-all.js'
+import { childFriendly } from './child-friendly.js'
+import { clipboard } from './clipboard.js'
+import { closedCaptioning } from './closed-captioning.js'
+import { clock } from './clock.js'
+import { circle } from './circle.js'
 import { cloudUpload } from './cloud-upload.js'
+import { clone } from './clone.js'
+import { cloudDownload } from './cloud-download.js'
 import { cloud } from './cloud.js'
+import { cloudy } from './cloudy.js'
 import { code } from './code.js'
+import { colorPalette } from './color-palette.js'
 import { coffee } from './coffee.js'
 import { colorBorder } from './color-border.js'
-import { colorFill } from './color-fill.js'
-import { colorPalette } from './color-palette.js'
-import { chevronBottom } from './chevron-bottom.js'
-import { columns } from './columns.js'
-import { commentSquare } from './comment-square.js'
 import { commentBubble } from './comment-bubble.js'
-import { compass } from './compass.js'
+import { colorFill } from './color-fill.js'
 import { compress } from './compress.js'
-import { cloudy } from './cloudy.js'
-import { contrast } from './contrast.js'
+import { columns } from './columns.js'
+import { compass } from './compass.js'
+import { contact } from './contact.js'
+import { commentSquare } from './comment-square.js'
 import { couch } from './couch.js'
 import { copy } from './copy.js'
-import { creditCard } from './credit-card.js'
-import { crop } from './crop.js'
-import { cropRotate } from './crop-rotate.js'
-import { cursorMove } from './cursor-move.js'
 import { cursor } from './cursor.js'
-import { clone } from './clone.js'
-import { dataTransferDown } from './data-transfer-down.js'
+import { cursorMove } from './cursor-move.js'
+import { creditCard } from './credit-card.js'
+import { contrast } from './contrast.js'
 import { cut } from './cut.js'
-import { contact } from './contact.js'
+import { cropRotate } from './crop-rotate.js'
 import { dataTransferUp } from './data-transfer-up.js'
+import { dataTransferDown } from './data-transfer-down.js'
 import { devices } from './devices.js'
+import { crop } from './crop.js'
 import { deaf } from './deaf.js'
 import { dialpad } from './dialpad.js'
 import { dog } from './dog.js'
-import { delete } from './delete.js'
-import { dinner } from './dinner.js'
 import { dollar } from './dollar.js'
-import { doubleQuoteSansLeft } from './double-quote-sans-left.js'
-import { drinkAlcohol } from './drink-alcohol.js'
+import { dinner } from './dinner.js'
 import { description } from './description.js'
-import { drop1 } from './drop1.js'
-import { drop } from './drop.js'
-import { door } from './door.js'
-import { doubleQuoteSansRight } from './double-quote-sans-right.js'
-import { envelopeLetter } from './envelope-letter.js'
-import { envelopeOpen } from './envelope-open.js'
-import { elevator } from './elevator.js'
-import { ethernet } from './ethernet.js'
-import { euro } from './euro.js'
-import { excerpt } from './excerpt.js'
-import { expandDown } from './expand-down.js'
-import { expandLeft } from './expand-left.js'
-import { expandRight } from './expand-right.js'
-import { expandUp } from './expand-up.js'
-import { exitToApp } from './exit-to-app.js'
-import { equalizer } from './equalizer.js'
-import { exposure } from './exposure.js'
-import { eyedropper } from './eyedropper.js'
+import { delete } from './delete.js'
+import { doubleQuoteSansLeft } from './double-quote-sans-left.js'
 import { drink } from './drink.js'
+import { drop } from './drop.js'
+import { doubleQuoteSansRight } from './double-quote-sans-right.js'
+import { door } from './door.js'
+import { drinkAlcohol } from './drink-alcohol.js'
+import { elevator } from './elevator.js'
+import { envelopeLetter } from './envelope-letter.js'
+import { equalizer } from './equalizer.js'
+import { envelopeOpen } from './envelope-open.js'
+import { excerpt } from './excerpt.js'
+import { euro } from './euro.js'
+import { exitToApp } from './exit-to-app.js'
+import { expandDown } from './expand-down.js'
+import { expandRight } from './expand-right.js'
+import { drop1 } from './drop1.js'
+import { ethernet } from './ethernet.js'
+import { exposure } from './exposure.js'
+import { envelopeClosed } from './envelope-closed.js'
+import { eyedropper } from './eyedropper.js'
+import { expandLeft } from './expand-left.js'
+import { faceDead } from './face-dead.js'
 import { externalLink } from './external-link.js'
 import { fastfood } from './fastfood.js'
-import { face } from './face.js'
 import { fax } from './fax.js'
-import { filterPhoto } from './filter-photo.js'
-import { filterFrames } from './filter-frames.js'
+import { expandUp } from './expand-up.js'
 import { featuredPlaylist } from './featured-playlist.js'
-import { batterySlash } from './battery-slash.js'
+import { filterPhoto } from './filter-photo.js'
+import { face } from './face.js'
 import { findInPage } from './find-in-page.js'
-import { fingerprint } from './fingerprint.js'
-import { envelopeClosed } from './envelope-closed.js'
-import { fire } from './fire.js'
-import { flagAlt } from './flag-alt.js'
-import { flipToBack } from './flip-to-back.js'
-import { flip } from './flip.js'
+import { file } from './file.js'
+import { filterFrames } from './filter-frames.js'
 import { filter } from './filter.js'
-import { faceDead } from './face-dead.js'
-import { folderOpen } from './folder-open.js'
-import { font } from './font.js'
-import { flipToFront } from './flip-to-front.js'
+import { fingerprint } from './fingerprint.js'
+import { flagAlt } from './flag-alt.js'
+import { fire } from './fire.js'
 import { flightTakeoff } from './flight-takeoff.js'
-import { fridge } from './fridge.js'
+import { flip } from './flip.js'
+import { flipToBack } from './flip-to-back.js'
+import { flipToFront } from './flip-to-front.js'
+import { flower } from './flower.js'
+import { football } from './football.js'
+import { font } from './font.js'
+import { folderOpen } from './folder-open.js'
+import { folder } from './folder.js'
 import { frown } from './frown.js'
+import { fridge } from './fridge.js'
 import { fork } from './fork.js'
 import { fullscreenExit } from './fullscreen-exit.js'
-import { folder } from './folder.js'
 import { functionsAlt } from './functions-alt.js'
-import { functions } from './functions.js'
-import { football } from './football.js'
 import { gamepad } from './gamepad.js'
-import { gem } from './gem.js'
-import { garage } from './garage.js'
-import { gif } from './gif.js'
-import { globeAlt } from './globe-alt.js'
 import { fullscreen } from './fullscreen.js'
+import { garage } from './garage.js'
+import { functions } from './functions.js'
+import { gem } from './gem.js'
+import { gif } from './gif.js'
+import { gift } from './gift.js'
+import { golfAlt } from './golf-alt.js'
+import { globeAlt } from './globe-alt.js'
 import { golf } from './golf.js'
-import { gradient } from './gradient.js'
-import { graph } from './graph.js'
-import { gridSlash } from './grid-slash.js'
-import { flower } from './flower.js'
-import { grid } from './grid.js'
 import { grain } from './grain.js'
-import { handPointDown } from './hand-point-down.js'
+import { graph } from './graph.js'
+import { gradient } from './gradient.js'
+import { gridSlash } from './grid-slash.js'
+import { grid } from './grid.js'
 import { handPointLeft } from './hand-point-left.js'
-import { file } from './file.js'
 import { handPointUp } from './hand-point-up.js'
+import { hd } from './hd.js'
+import { hdr } from './hdr.js'
+import { handPointDown } from './hand-point-down.js'
+import { handPointRight } from './hand-point-right.js'
 import { header } from './header.js'
 import { headphones } from './headphones.js'
-import { healing } from './healing.js'
-import { hdr } from './hdr.js'
-import { golfAlt } from './golf-alt.js'
 import { highlighter } from './highlighter.js'
+import { healing } from './healing.js'
 import { highligt } from './highligt.js'
+import { history } from './history.js'
 import { home } from './home.js'
 import { hospital } from './hospital.js'
-import { gift } from './gift.js'
-import { hd } from './hd.js'
+import { house } from './house.js'
 import { hotTub } from './hot-tub.js'
-import { https } from './https.js'
-import { imagePlus } from './image-plus.js'
-import { image1 } from './image1.js'
 import { imageBroken } from './image-broken.js'
-import { inbox } from './inbox.js'
-import { history } from './history.js'
-import { indentIncrease } from './indent-increase.js'
+import { imagePlus } from './image-plus.js'
+import { heart } from './heart.js'
+import { image1 } from './image1.js'
 import { indentDecrease } from './indent-decrease.js'
-import { industry } from './industry.js'
-import { infinity } from './infinity.js'
+import { https } from './https.js'
+import { indentIncrease } from './indent-increase.js'
+import { inbox } from './inbox.js'
 import { industrySlash } from './industry-slash.js'
+import { industry } from './industry.js'
 import { info } from './info.js'
+import { infinity } from './infinity.js'
 import { inputHdmi } from './input-hdmi.js'
 import { inputPower } from './input-power.js'
 import { institution } from './institution.js'
@@ -278,501 +281,501 @@ import { input } from './input.js'
 import { italic } from './italic.js'
 import { justifyCenter } from './justify-center.js'
 import { justifyLeft } from './justify-left.js'
-import { justifyRight } from './justify-right.js'
 import { lan } from './lan.js'
-import { keyboard } from './keyboard.js'
+import { language } from './language.js'
+import { justifyRight } from './justify-right.js'
 import { laptop } from './laptop.js'
 import { layers } from './layers.js'
 import { leaf } from './leaf.js'
+import { keyboard } from './keyboard.js'
+import { levelDown } from './level-down.js'
 import { levelUp } from './level-up.js'
+import { libraryAdd } from './library-add.js'
 import { lemon } from './lemon.js'
-import { heart } from './heart.js'
 import { library } from './library.js'
 import { lifeRing } from './life-ring.js'
-import { lineSpacing } from './line-spacing.js'
-import { lineStyle } from './line-style.js'
-import { lightbulb } from './lightbulb.js'
-import { lineWeight } from './line-weight.js'
-import { levelDown } from './level-down.js'
-import { libraryAdd } from './library-add.js'
-import { link } from './link.js'
 import { linkBroken } from './link-broken.js'
-import { listHighPriority } from './list-high-priority.js'
-import { listLowPriority } from './list-low-priority.js'
-import { listNumbered } from './list-numbered.js'
-import { list } from './list.js'
-import { listRich } from './list-rich.js'
+import { lineStyle } from './line-style.js'
+import { lineSpacing } from './line-spacing.js'
+import { lineWeight } from './line-weight.js'
 import { linkAlt } from './link-alt.js'
+import { link } from './link.js'
+import { lightbulb } from './lightbulb.js'
+import { listHighPriority } from './list-high-priority.js'
+import { listNumbered } from './list-numbered.js'
+import { listRich } from './list-rich.js'
 import { locationPin } from './location-pin.js'
-import { house } from './house.js'
+import { listFilter } from './list-filter.js'
+import { listLowPriority } from './list-low-priority.js'
 import { lockLocked } from './lock-locked.js'
-import { loopCircular } from './loop-circular.js'
-import { loop1 } from './loop-1.js'
 import { lockUnlocked } from './lock-unlocked.js'
 import { locomotive } from './locomotive.js'
+import { list } from './list.js'
 import { loop } from './loop.js'
 import { lowVision } from './low-vision.js'
-import { magnifyingGlass } from './magnifying-glass.js'
-import { mediaEject } from './media-eject.js'
-import { mediaSkipBackward } from './media-skip-backward.js'
-import { mediaRecord } from './media-record.js'
+import { loop1 } from './loop-1.js'
 import { map } from './map.js'
+import { mediaEject } from './media-eject.js'
+import { loopCircular } from './loop-circular.js'
+import { magnifyingGlass } from './magnifying-glass.js'
+import { mediaPlay } from './media-play.js'
+import { mediaRecord } from './media-record.js'
+import { mediaPause } from './media-pause.js'
+import { mediaSkipBackward } from './media-skip-backward.js'
 import { mediaSkipForward } from './media-skip-forward.js'
-import { mediaStepBackward } from './media-step-backward.js'
 import { mediaStepForward } from './media-step-forward.js'
 import { meh } from './meh.js'
-import { memory } from './memory.js'
+import { mediaStepBackward } from './media-step-backward.js'
 import { medicalCross } from './medical-cross.js'
-import { mediaStop } from './media-stop.js'
-import { mediaPause } from './media-pause.js'
-import { mediaPlay } from './media-play.js'
-import { microphone } from './microphone.js'
 import { menu } from './menu.js'
-import { listFilter } from './list-filter.js'
+import { microphone } from './microphone.js'
+import { mediaStop } from './media-stop.js'
 import { mobile } from './mobile.js'
+import { minus } from './minus.js'
 import { money } from './money.js'
 import { mobileLandscape } from './mobile-landscape.js'
 import { moodVeryBad } from './mood-very-bad.js'
-import { moodVeryGood } from './mood-very-good.js'
-import { minus } from './minus.js'
-import { monitor } from './monitor.js'
-import { moon } from './moon.js'
-import { mouthSlash } from './mouth-slash.js'
-import { movie } from './movie.js'
 import { moodBad } from './mood-bad.js'
-import { move } from './move.js'
-import { mugTea } from './mug-tea.js'
-import { notes } from './notes.js'
-import { newspaper } from './newspaper.js'
 import { moodGood } from './mood-good.js'
-import { musicNote } from './music-note.js'
-import { objectUngroup } from './object-ungroup.js'
-import { opacity } from './opacity.js'
+import { moon } from './moon.js'
+import { monitor } from './monitor.js'
 import { mouse } from './mouse.js'
-import { handPointRight } from './hand-point-right.js'
-import { language } from './language.js'
-import { paintBucket } from './paint-bucket.js'
-import { objectGroup } from './object-group.js'
-import { paperPlane } from './paper-plane.js'
+import { memory } from './memory.js'
+import { moodVeryGood } from './mood-very-good.js'
+import { mouthSlash } from './mouth-slash.js'
+import { move } from './move.js'
+import { movie } from './movie.js'
+import { mugTea } from './mug-tea.js'
+import { musicNote } from './music-note.js'
+import { newspaper } from './newspaper.js'
 import { mug } from './mug.js'
-import { paw } from './paw.js'
-import { paragraph } from './paragraph.js'
-import { paperclip } from './paperclip.js'
+import { notes } from './notes.js'
+import { objectUngroup } from './object-ungroup.js'
+import { objectGroup } from './object-group.js'
+import { opacity } from './opacity.js'
+import { optionsHorizontal } from './options-horizontal.js'
 import { options } from './options.js'
-import { penAlt } from './pen-alt.js'
-import { penNib } from './pen-nib.js'
-import { people } from './people.js'
-import { pizza } from './pizza.js'
-import { pin } from './pin.js'
-import { playlistAdd } from './playlist-add.js'
+import { paintBucket } from './paint-bucket.js'
+import { paperPlane } from './paper-plane.js'
+import { paw } from './paw.js'
 import { paint } from './paint.js'
-import { plus } from './plus.js'
-import { pool } from './pool.js'
+import { paperclip } from './paperclip.js'
+import { paragraph } from './paragraph.js'
+import { penAlt } from './pen-alt.js'
+import { pencil } from './pencil.js'
+import { people } from './people.js'
+import { penNib } from './pen-nib.js'
+import { phone } from './phone.js'
+import { pin } from './pin.js'
+import { pizza } from './pizza.js'
+import { playlistAdd } from './playlist-add.js'
 import { powerStandby } from './power-standby.js'
+import { plus } from './plus.js'
+import { print } from './print.js'
 import { pregnant } from './pregnant.js'
 import { puzzle } from './puzzle.js'
-import { optionsHorizontal } from './options-horizontal.js'
+import { pool } from './pool.js'
 import { qrCode } from './qr-code.js'
-import { rectangle } from './rectangle.js'
 import { rain } from './rain.js'
+import { rectangle } from './rectangle.js'
 import { reload } from './reload.js'
-import { phone } from './phone.js'
 import { resizeBoth } from './resize-both.js'
-import { pencil } from './pencil.js'
-import { print } from './print.js'
 import { resizeHeight } from './resize-height.js'
 import { resizeWidth } from './resize-width.js'
 import { rowing } from './rowing.js'
-import { rss } from './rss.js'
-import { running } from './running.js'
-import { screenDesktop } from './screen-desktop.js'
 import { room } from './room.js'
-import { school } from './school.js'
-import { screenSmartphone } from './screen-smartphone.js'
-import { save } from './save.js'
-import { shareAll } from './share-all.js'
-import { shareAlt } from './share-alt.js'
-import { scrubber } from './scrubber.js'
-import { satelite } from './satelite.js'
-import { shareBoxed } from './share-boxed.js'
-import { settings } from './settings.js'
-import { shieldAlt } from './shield-alt.js'
-import { shortText } from './short-text.js'
-import { shower } from './shower.js'
-import { signalCellular3 } from './signal-cellular-3.js'
-import { signalCellular0 } from './signal-cellular-0.js'
-import { signLanguage } from './sign-language.js'
-import { signalCellular4 } from './signal-cellular-4.js'
-import { share } from './share.js'
+import { rss } from './rss.js'
 import { restaurant } from './restaurant.js'
-import { smile } from './smile.js'
-import { smilePlus } from './smile-plus.js'
+import { running } from './running.js'
+import { satelite } from './satelite.js'
+import { save } from './save.js'
+import { school } from './school.js'
+import { screenDesktop } from './screen-desktop.js'
+import { scrubber } from './scrubber.js'
+import { screenSmartphone } from './screen-smartphone.js'
+import { shareAlt } from './share-alt.js'
+import { settings } from './settings.js'
+import { shareBoxed } from './share-boxed.js'
+import { shareAll } from './share-all.js'
+import { share } from './share.js'
+import { shower } from './shower.js'
+import { signLanguage } from './sign-language.js'
+import { signalCellular0 } from './signal-cellular-0.js'
+import { shortText } from './short-text.js'
+import { signalCellular3 } from './signal-cellular-3.js'
 import { sitemap } from './sitemap.js'
-import { snowflake } from './snowflake.js'
+import { shieldAlt } from './shield-alt.js'
+import { smilePlus } from './smile-plus.js'
+import { signalCellular4 } from './signal-cellular-4.js'
+import { smile } from './smile.js'
 import { smokeFree } from './smoke-free.js'
-import { sortAlphaUp } from './sort-alpha-up.js'
 import { smokingRoom } from './smoking-room.js'
+import { snowflake } from './snowflake.js'
 import { sim } from './sim.js'
 import { sortAlphaDown } from './sort-alpha-down.js'
-import { sortNumericUp } from './sort-numeric-up.js'
-import { sortDescending } from './sort-descending.js'
-import { spaceBar } from './space-bar.js'
-import { speaker } from './speaker.js'
-import { speedometer } from './speedometer.js'
-import { square } from './square.js'
-import { speech } from './speech.js'
-import { spreadsheet } from './spreadsheet.js'
 import { sortAscending } from './sort-ascending.js'
-import { starHalf } from './star-half.js'
+import { sortAlphaUp } from './sort-alpha-up.js'
+import { sortDescending } from './sort-descending.js'
 import { sortNumericDown } from './sort-numeric-down.js'
-import { star } from './star.js'
 import { spa } from './spa.js'
+import { sortNumericUp } from './sort-numeric-up.js'
+import { speech } from './speech.js'
+import { speedometer } from './speedometer.js'
+import { speaker } from './speaker.js'
+import { square } from './square.js'
+import { star } from './star.js'
+import { storage } from './storage.js'
+import { spreadsheet } from './spreadsheet.js'
+import { stream } from './stream.js'
 import { sun } from './sun.js'
+import { spaceBar } from './space-bar.js'
 import { swapVertical } from './swap-vertical.js'
 import { swapHorizontal } from './swap-horizontal.js'
-import { tablet } from './tablet.js'
-import { storage } from './storage.js'
-import { stream } from './stream.js'
-import { task } from './task.js'
 import { swimming } from './swimming.js'
+import { sync } from './sync.js'
+import { tablet } from './tablet.js'
+import { starHalf } from './star-half.js'
 import { tag } from './tag.js'
-import { terminal } from './terminal.js'
+import { tags } from './tags.js'
+import { task } from './task.js'
 import { taxi } from './taxi.js'
 import { tennisBall } from './tennis-ball.js'
-import { sync } from './sync.js'
+import { tennis } from './tennis.js'
+import { terrain } from './terrain.js'
+import { terminal } from './terminal.js'
 import { textShapes } from './text-shapes.js'
-import { tags } from './tags.js'
 import { textSize } from './text-size.js'
-import { textSquare } from './text-square.js'
 import { textStrike } from './text-strike.js'
+import { textSquare } from './text-square.js'
 import { text } from './text.js'
-import { thumbUp } from './thumb-up.js'
 import { thumbDown } from './thumb-down.js'
 import { toggleOff } from './toggle-off.js'
 import { toilet } from './toilet.js'
-import { tennis } from './tennis.js'
-import { translate } from './translate.js'
+import { thumbUp } from './thumb-up.js'
 import { touchApp } from './touch-app.js'
+import { translate } from './translate.js'
 import { trash } from './trash.js'
-import { tv } from './tv.js'
-import { truck } from './truck.js'
-import { userFemale } from './user-female.js'
 import { triangle } from './triangle.js'
+import { tv } from './tv.js'
+import { underline } from './underline.js'
+import { truck } from './truck.js'
+import { transfer } from './transfer.js'
+import { userFemale } from './user-female.js'
 import { userFollow } from './user-follow.js'
 import { userUnfollow } from './user-unfollow.js'
-import { verticalAlignBottom } from './vertical-align-bottom.js'
 import { user } from './user.js'
-import { transfer } from './transfer.js'
 import { vector } from './vector.js'
-import { verticalAlignCenter } from './vertical-align-center.js'
-import { verticalAlignCenter1 } from './vertical-align-center1.js'
-import { underline } from './underline.js'
+import { verticalAlignBottom } from './vertical-align-bottom.js'
 import { verticalAlignBottom1 } from './vertical-align-bottom1.js'
-import { video } from './video.js'
-import { viewColumn } from './view-column.js'
+import { verticalAlignCenter1 } from './vertical-align-center1.js'
+import { verticalAlignCenter } from './vertical-align-center.js'
 import { verticalAlignTop } from './vertical-align-top.js'
-import { viewModule } from './view-module.js'
 import { verticalAlignTop1 } from './vertical-align-top1.js'
-import { viewStream } from './view-stream.js'
+import { viewColumn } from './view-column.js'
+import { video } from './video.js'
+import { viewModule } from './view-module.js'
 import { viewQuilt } from './view-quilt.js'
 import { voiceOverRecord } from './voice-over-record.js'
+import { viewStream } from './view-stream.js'
 import { volumeHigh } from './volume-high.js'
 import { volumeLow } from './volume-low.js'
-import { terrain } from './terrain.js'
-import { wallpaper } from './wallpaper.js'
-import { wallet } from './wallet.js'
 import { volumeOff } from './volume-off.js'
+import { walk } from './walk.js'
+import { wallet } from './wallet.js'
+import { wallpaper } from './wallpaper.js'
 import { warning } from './warning.js'
 import { watch } from './watch.js'
+import { wc } from './wc.js'
 import { weightlifitng } from './weightlifitng.js'
 import { wheelchair } from './wheelchair.js'
-import { wc } from './wc.js'
 import { wifiSignal0 } from './wifi-signal-0.js'
-import { walk } from './walk.js'
+import { wifiSignal1 } from './wifi-signal-1.js'
 import { wifiSignal2 } from './wifi-signal-2.js'
 import { wifiSignal4 } from './wifi-signal-4.js'
 import { wifiSignalOff } from './wifi-signal-off.js'
 import { windowMaximize } from './window-maximize.js'
-import { windowMinimize } from './window-minimize.js'
-import { windowRestore } from './window-restore.js'
-import { wrapText } from './wrap-text.js'
 import { window } from './window.js'
+import { windowRestore } from './window-restore.js'
+import { windowMinimize } from './window-minimize.js'
 import { xCircle } from './x-circle.js'
-import { yen } from './yen.js'
-import { wifiSignal1 } from './wifi-signal-1.js'
 import { x } from './x.js'
+import { yen } from './yen.js'
+import { wrapText } from './wrap-text.js'
 import { zoomIn } from './zoom-in.js'
 import { zoomOut } from './zoom-out.js'
-export { n4k }
 export { accountLogout }
 export { actionRedo }
-export { actionUndo }
-export { addressBook }
-export { airplaneModeOff }
-export { album }
 export { n3d }
-export { airplay }
-export { alignRight }
+export { actionUndo }
+export { n4k }
+export { airplaneModeOff }
+export { addressBook }
 export { airplaneMode }
-export { aperture }
-export { alignLeft }
-export { americanFootball }
-export { arrowCircleBottom }
-export { arrowBottom }
-export { alarm }
+export { airplay }
 export { alignCenter }
-export { arrowCircleRight }
+export { album }
+export { alignRight }
+export { alignLeft }
+export { alarm }
+export { americanFootball }
+export { apple }
+export { applicationsSettings }
+export { arrowBottom }
+export { arrowCircleBottom }
+export { aperture }
 export { arrowCircleLeft }
+export { applications }
+export { arrowLeft }
 export { arrowCircleTop }
+export { arrowCircleRight }
 export { arrowRight }
 export { arrowThickFromBottom }
 export { arrowThickBottom }
-export { applicationsSettings }
 export { arrowThickFromRight }
-export { arrowThickFromTop }
+export { arrowThickFromLeft }
 export { arrowThickLeft }
-export { arrowThickRight }
 export { arrowThickToBottom }
-export { arrowLeft }
-export { arrowThickToRight }
+export { arrowThickFromTop }
+export { arrowThickRight }
 export { arrowThickToTop }
 export { arrowThickToLeft }
+export { arrowThickToRight }
 export { arrowThickTop }
-export { assistiveListeningSystem }
-export { asteriskCircle }
-export { apple }
 export { arrowTop }
-export { audioDescription }
-export { at }
-export { audioSpectrum }
-export { avTimer }
-export { arrowThickFromLeft }
 export { asterisk }
-export { balanceScale }
+export { asteriskCircle }
+export { assistiveListeningSystem }
+export { at }
+export { audioDescription }
+export { audioSpectrum }
 export { ban }
-export { bank }
-export { badge }
-export { applications }
-export { barcode }
 export { audio }
-export { bath }
-export { basketball }
-export { battery0 }
-export { battery5 }
-export { battery3 }
-export { batteryAlert }
-export { basket }
+export { avTimer }
+export { balanceScale }
+export { badge }
 export { barChart }
-export { beaker }
-export { bell }
-export { bike }
+export { bank }
+export { barcode }
+export { bath }
 export { baseball }
-export { bluetooth }
+export { battery0 }
+export { basketball }
+export { battery3 }
+export { battery5 }
+export { batteryAlert }
+export { batterySlash }
+export { beachAccess }
+export { basket }
+export { bell }
+export { beaker }
+export { bed }
 export { birthdayCake }
 export { blurCircular }
-export { blurLinear }
-export { beachAccess }
-export { bold }
-export { bed }
+export { bike }
+export { blind }
 export { blur }
-export { boatAlt }
-export { book }
+export { bluetooth }
+export { blurLinear }
+export { bold }
 export { bolt }
+export { boatAlt }
+export { bookmark }
+export { book }
+export { borderBottom }
 export { borderClear }
 export { borderAll }
-export { blind }
 export { borderHorizontal }
-export { bookmark }
-export { borderBottom }
-export { borderInner }
-export { borderRight }
 export { borderStyle }
 export { borderLeft }
+export { borderInner }
+export { borderOuter }
+export { borderVertical }
 export { borderTop }
 export { bowling }
-export { borderVertical }
 export { briefcase }
-export { browser }
-export { britishPound }
-export { bug }
+export { borderRight }
 export { brightness }
+export { braille }
+export { britishPound }
+export { browser }
 export { brushAlt }
+export { bug }
+export { brush }
 export { building }
 export { bullhorn }
 export { burger }
 export { calculator }
 export { calendarCheck }
-export { braille }
 export { busAlt }
-export { cameraControl }
-export { cameraRoll }
-export { borderOuter }
-export { camera }
-export { caretBottom }
-export { caretLeft }
-export { carAlt }
-export { caretRight }
-export { casino }
-export { cart }
-export { cast }
 export { calendar }
-export { brush }
-export { chartPie }
+export { camera }
+export { cameraControl }
+export { carAlt }
+export { caretBottom }
 export { caretTop }
+export { caretRight }
+export { cameraRoll }
+export { caretLeft }
+export { cart }
+export { casino }
+export { cast }
 export { cat }
-export { chatBubble }
 export { centerFocus }
-export { checkAlt }
-export { checkCircle }
-export { check }
-export { chevronCircleDownAlt }
-export { chevronCircleLeftAlt }
-export { chevronCircleRightAlt }
 export { chartLine }
-export { chevronDoubleDown }
-export { chevronDoubleLeft }
-export { chevronCircleUpAlt }
-export { chevronDoubleRight }
-export { chevronDoubleUpAlt }
-export { chevronRight }
-export { chevronTop }
-export { childFriendly }
-export { circle }
-export { chevronDoubleUp }
-export { child }
-export { clipboard }
-export { clock }
+export { chartPie }
+export { chatBubble }
+export { check }
+export { checkAlt }
 export { chart }
-export { closedCaptioning }
-export { clearAll }
+export { chevronCircleRightAlt }
+export { checkCircle }
+export { chevronBottom }
+export { chevronCircleLeftAlt }
+export { chevronCircleUpAlt }
+export { chevronCircleDownAlt }
+export { chevronDoubleLeft }
+export { chevronDoubleDown }
+export { chevronDoubleUpAlt }
+export { chevronDoubleRight }
+export { chevronRight }
+export { chevronDoubleUp }
+export { chevronTop }
 export { chevronLeft }
-export { cloudDownload }
+export { child }
+export { clearAll }
+export { childFriendly }
+export { clipboard }
+export { closedCaptioning }
+export { clock }
+export { circle }
 export { cloudUpload }
+export { clone }
+export { cloudDownload }
 export { cloud }
+export { cloudy }
 export { code }
+export { colorPalette }
 export { coffee }
 export { colorBorder }
-export { colorFill }
-export { colorPalette }
-export { chevronBottom }
-export { columns }
-export { commentSquare }
 export { commentBubble }
-export { compass }
+export { colorFill }
 export { compress }
-export { cloudy }
-export { contrast }
+export { columns }
+export { compass }
+export { contact }
+export { commentSquare }
 export { couch }
 export { copy }
-export { creditCard }
-export { crop }
-export { cropRotate }
-export { cursorMove }
 export { cursor }
-export { clone }
-export { dataTransferDown }
+export { cursorMove }
+export { creditCard }
+export { contrast }
 export { cut }
-export { contact }
+export { cropRotate }
 export { dataTransferUp }
+export { dataTransferDown }
 export { devices }
+export { crop }
 export { deaf }
 export { dialpad }
 export { dog }
-export { delete }
-export { dinner }
 export { dollar }
-export { doubleQuoteSansLeft }
-export { drinkAlcohol }
+export { dinner }
 export { description }
-export { drop1 }
-export { drop }
-export { door }
-export { doubleQuoteSansRight }
-export { envelopeLetter }
-export { envelopeOpen }
-export { elevator }
-export { ethernet }
-export { euro }
-export { excerpt }
-export { expandDown }
-export { expandLeft }
-export { expandRight }
-export { expandUp }
-export { exitToApp }
-export { equalizer }
-export { exposure }
-export { eyedropper }
+export { delete }
+export { doubleQuoteSansLeft }
 export { drink }
+export { drop }
+export { doubleQuoteSansRight }
+export { door }
+export { drinkAlcohol }
+export { elevator }
+export { envelopeLetter }
+export { equalizer }
+export { envelopeOpen }
+export { excerpt }
+export { euro }
+export { exitToApp }
+export { expandDown }
+export { expandRight }
+export { drop1 }
+export { ethernet }
+export { exposure }
+export { envelopeClosed }
+export { eyedropper }
+export { expandLeft }
+export { faceDead }
 export { externalLink }
 export { fastfood }
-export { face }
 export { fax }
-export { filterPhoto }
-export { filterFrames }
+export { expandUp }
 export { featuredPlaylist }
-export { batterySlash }
+export { filterPhoto }
+export { face }
 export { findInPage }
-export { fingerprint }
-export { envelopeClosed }
-export { fire }
-export { flagAlt }
-export { flipToBack }
-export { flip }
+export { file }
+export { filterFrames }
 export { filter }
-export { faceDead }
-export { folderOpen }
-export { font }
-export { flipToFront }
+export { fingerprint }
+export { flagAlt }
+export { fire }
 export { flightTakeoff }
-export { fridge }
+export { flip }
+export { flipToBack }
+export { flipToFront }
+export { flower }
+export { football }
+export { font }
+export { folderOpen }
+export { folder }
 export { frown }
+export { fridge }
 export { fork }
 export { fullscreenExit }
-export { folder }
 export { functionsAlt }
-export { functions }
-export { football }
 export { gamepad }
-export { gem }
-export { garage }
-export { gif }
-export { globeAlt }
 export { fullscreen }
+export { garage }
+export { functions }
+export { gem }
+export { gif }
+export { gift }
+export { golfAlt }
+export { globeAlt }
 export { golf }
-export { gradient }
-export { graph }
-export { gridSlash }
-export { flower }
-export { grid }
 export { grain }
-export { handPointDown }
+export { graph }
+export { gradient }
+export { gridSlash }
+export { grid }
 export { handPointLeft }
-export { file }
 export { handPointUp }
+export { hd }
+export { hdr }
+export { handPointDown }
+export { handPointRight }
 export { header }
 export { headphones }
-export { healing }
-export { hdr }
-export { golfAlt }
 export { highlighter }
+export { healing }
 export { highligt }
+export { history }
 export { home }
 export { hospital }
-export { gift }
-export { hd }
+export { house }
 export { hotTub }
-export { https }
-export { imagePlus }
-export { image1 }
 export { imageBroken }
-export { inbox }
-export { history }
-export { indentIncrease }
+export { imagePlus }
+export { heart }
+export { image1 }
 export { indentDecrease }
-export { industry }
-export { infinity }
+export { https }
+export { indentIncrease }
+export { inbox }
 export { industrySlash }
+export { industry }
 export { info }
+export { infinity }
 export { inputHdmi }
 export { inputPower }
 export { institution }
@@ -780,228 +783,225 @@ export { input }
 export { italic }
 export { justifyCenter }
 export { justifyLeft }
-export { justifyRight }
 export { lan }
-export { keyboard }
+export { language }
+export { justifyRight }
 export { laptop }
 export { layers }
 export { leaf }
+export { keyboard }
+export { levelDown }
 export { levelUp }
+export { libraryAdd }
 export { lemon }
-export { heart }
 export { library }
 export { lifeRing }
-export { lineSpacing }
-export { lineStyle }
-export { lightbulb }
-export { lineWeight }
-export { levelDown }
-export { libraryAdd }
-export { link }
 export { linkBroken }
-export { listHighPriority }
-export { listLowPriority }
-export { listNumbered }
-export { list }
-export { listRich }
+export { lineStyle }
+export { lineSpacing }
+export { lineWeight }
 export { linkAlt }
+export { link }
+export { lightbulb }
+export { listHighPriority }
+export { listNumbered }
+export { listRich }
 export { locationPin }
-export { house }
+export { listFilter }
+export { listLowPriority }
 export { lockLocked }
-export { loopCircular }
-export { loop1 }
 export { lockUnlocked }
 export { locomotive }
+export { list }
 export { loop }
 export { lowVision }
-export { magnifyingGlass }
-export { mediaEject }
-export { mediaSkipBackward }
-export { mediaRecord }
+export { loop1 }
 export { map }
+export { mediaEject }
+export { loopCircular }
+export { magnifyingGlass }
+export { mediaPlay }
+export { mediaRecord }
+export { mediaPause }
+export { mediaSkipBackward }
 export { mediaSkipForward }
-export { mediaStepBackward }
 export { mediaStepForward }
 export { meh }
-export { memory }
+export { mediaStepBackward }
 export { medicalCross }
-export { mediaStop }
-export { mediaPause }
-export { mediaPlay }
-export { microphone }
 export { menu }
-export { listFilter }
+export { microphone }
+export { mediaStop }
 export { mobile }
+export { minus }
 export { money }
 export { mobileLandscape }
 export { moodVeryBad }
-export { moodVeryGood }
-export { minus }
-export { monitor }
-export { moon }
-export { mouthSlash }
-export { movie }
 export { moodBad }
-export { move }
-export { mugTea }
-export { notes }
-export { newspaper }
 export { moodGood }
-export { musicNote }
-export { objectUngroup }
-export { opacity }
+export { moon }
+export { monitor }
 export { mouse }
-export { handPointRight }
-export { language }
-export { paintBucket }
-export { objectGroup }
-export { paperPlane }
+export { memory }
+export { moodVeryGood }
+export { mouthSlash }
+export { move }
+export { movie }
+export { mugTea }
+export { musicNote }
+export { newspaper }
 export { mug }
-export { paw }
-export { paragraph }
-export { paperclip }
+export { notes }
+export { objectUngroup }
+export { objectGroup }
+export { opacity }
+export { optionsHorizontal }
 export { options }
-export { penAlt }
-export { penNib }
-export { people }
-export { pizza }
-export { pin }
-export { playlistAdd }
+export { paintBucket }
+export { paperPlane }
+export { paw }
 export { paint }
-export { plus }
-export { pool }
+export { paperclip }
+export { paragraph }
+export { penAlt }
+export { pencil }
+export { people }
+export { penNib }
+export { phone }
+export { pin }
+export { pizza }
+export { playlistAdd }
 export { powerStandby }
+export { plus }
+export { print }
 export { pregnant }
 export { puzzle }
-export { optionsHorizontal }
+export { pool }
 export { qrCode }
-export { rectangle }
 export { rain }
+export { rectangle }
 export { reload }
-export { phone }
 export { resizeBoth }
-export { pencil }
-export { print }
 export { resizeHeight }
 export { resizeWidth }
 export { rowing }
-export { rss }
-export { running }
-export { screenDesktop }
 export { room }
-export { school }
-export { screenSmartphone }
-export { save }
-export { shareAll }
-export { shareAlt }
-export { scrubber }
-export { satelite }
-export { shareBoxed }
-export { settings }
-export { shieldAlt }
-export { shortText }
-export { shower }
-export { signalCellular3 }
-export { signalCellular0 }
-export { signLanguage }
-export { signalCellular4 }
-export { share }
+export { rss }
 export { restaurant }
-export { smile }
-export { smilePlus }
+export { running }
+export { satelite }
+export { save }
+export { school }
+export { screenDesktop }
+export { scrubber }
+export { screenSmartphone }
+export { shareAlt }
+export { settings }
+export { shareBoxed }
+export { shareAll }
+export { share }
+export { shower }
+export { signLanguage }
+export { signalCellular0 }
+export { shortText }
+export { signalCellular3 }
 export { sitemap }
-export { snowflake }
+export { shieldAlt }
+export { smilePlus }
+export { signalCellular4 }
+export { smile }
 export { smokeFree }
-export { sortAlphaUp }
 export { smokingRoom }
+export { snowflake }
 export { sim }
 export { sortAlphaDown }
-export { sortNumericUp }
-export { sortDescending }
-export { spaceBar }
-export { speaker }
-export { speedometer }
-export { square }
-export { speech }
-export { spreadsheet }
 export { sortAscending }
-export { starHalf }
+export { sortAlphaUp }
+export { sortDescending }
 export { sortNumericDown }
-export { star }
 export { spa }
+export { sortNumericUp }
+export { speech }
+export { speedometer }
+export { speaker }
+export { square }
+export { star }
+export { storage }
+export { spreadsheet }
+export { stream }
 export { sun }
+export { spaceBar }
 export { swapVertical }
 export { swapHorizontal }
-export { tablet }
-export { storage }
-export { stream }
-export { task }
 export { swimming }
+export { sync }
+export { tablet }
+export { starHalf }
 export { tag }
-export { terminal }
+export { tags }
+export { task }
 export { taxi }
 export { tennisBall }
-export { sync }
+export { tennis }
+export { terrain }
+export { terminal }
 export { textShapes }
-export { tags }
 export { textSize }
-export { textSquare }
 export { textStrike }
+export { textSquare }
 export { text }
-export { thumbUp }
 export { thumbDown }
 export { toggleOff }
 export { toilet }
-export { tennis }
-export { translate }
+export { thumbUp }
 export { touchApp }
+export { translate }
 export { trash }
-export { tv }
-export { truck }
-export { userFemale }
 export { triangle }
+export { tv }
+export { underline }
+export { truck }
+export { transfer }
+export { userFemale }
 export { userFollow }
 export { userUnfollow }
-export { verticalAlignBottom }
 export { user }
-export { transfer }
 export { vector }
-export { verticalAlignCenter }
-export { verticalAlignCenter1 }
-export { underline }
+export { verticalAlignBottom }
 export { verticalAlignBottom1 }
-export { video }
-export { viewColumn }
+export { verticalAlignCenter1 }
+export { verticalAlignCenter }
 export { verticalAlignTop }
-export { viewModule }
 export { verticalAlignTop1 }
-export { viewStream }
+export { viewColumn }
+export { video }
+export { viewModule }
 export { viewQuilt }
 export { voiceOverRecord }
+export { viewStream }
 export { volumeHigh }
 export { volumeLow }
-export { terrain }
-export { wallpaper }
-export { wallet }
 export { volumeOff }
+export { walk }
+export { wallet }
+export { wallpaper }
 export { warning }
 export { watch }
+export { wc }
 export { weightlifitng }
 export { wheelchair }
-export { wc }
 export { wifiSignal0 }
-export { walk }
+export { wifiSignal1 }
 export { wifiSignal2 }
 export { wifiSignal4 }
 export { wifiSignalOff }
 export { windowMaximize }
-export { windowMinimize }
-export { windowRestore }
-export { wrapText }
 export { window }
+export { windowRestore }
+export { windowMinimize }
 export { xCircle }
-export { yen }
-export { wifiSignal1 }
 export { x }
+export { yen }
+export { wrapText }
 export { zoomIn }
 export { zoomOut }

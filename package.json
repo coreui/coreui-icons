@@ -1,12 +1,12 @@
 {
   "name": "@coreui/icons",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-beta.0",
   "description": "CoreUI Icons Free",
   "main": "js/index.js",
   "style": "css/all.css",
   "sideEffects": false,
   "scripts": {
-    "clean": "rimraf css js png sprites",
+    "clean": "rimraf css js/{brand,flag,free} png sprites",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",
     "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free/free-icons.scss css/free.css",
     "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand/brand-icons.scss css/brand.css",

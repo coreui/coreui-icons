@@ -96,7 +96,7 @@ setTimeout(() => {
     imports += '\n\n\n'
   })
   fs.writeFile(
-    `index.js`,
+    `js/index.js`,
     imports,
     () => ''
   )
@@ -141,7 +141,7 @@ function validate(str) {
 }
 
 function getImports(names, setName, deep = false) {
-  const folder = deep ? `/js/${setName}/` : '/'
+  const folder = deep ? `/${setName}/` : '/'
   const defaultImport = `import { ${setName}Set } from '.${folder}${setName}-set.js' \n`
   const defaultExport = `export { ${setName}Set } \n\n`
   const importString = names.map(name => {
@@ -153,8 +153,7 @@ function getImports(names, setName, deep = false) {
   return defaultImport + defaultExport + importString + '\n' + exportString
 }
 
-function typings(names, setName, all = true) {
-
+function typings (names, setName, all = true) {
   const icons = names.map(name => {
     return `  "${name.importName}": string[];`
   }).join('\n')

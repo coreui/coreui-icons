@@ -45,6 +45,9 @@ dirnames.forEach(setName => {
             jsFilename,
             variableName
           })
+          if (Object.keys(contents).length === filenames.length) {
+            writeSet(setName, contents, names)
+          }
 
           fs.writeFile(
             `js/${setName}/${jsFilename}`,
@@ -58,45 +61,53 @@ dirnames.forEach(setName => {
           ) 
         })
       })
-      setTimeout(() => {
-        fs.writeFile(
-          `js/${setName}/${setName}-set.js`,
-          `export const ${setName}Set = ` + JSON.stringify(contents),
-          () => ''
-        )
-        fs.writeFile(
-          `js/${setName}/${setName}-set.d.ts`,
-          typings(names, setName, false),
-          () => ''
-        )
-        fs.writeFile(
-          `js/${setName}/index.js`,
-          getImports(names, setName),
-          () => ''
-        )
-        fs.writeFile(
-          `js/${setName}/index.d.ts`,
-          typings(names, setName),
-          () => ''
-        )
-        allNames[setName] = names
-      }, 1000)
     })
   })
 })
 
-setTimeout(() => {
-  let imports = ''
-  Object.keys(allNames).forEach(set => {
-    imports += getImports(allNames[set], set, true)
-    imports += '\n\n\n'
-  })
+const writeSet = (setName, contents, names) => {
   fs.writeFile(
-    `js/index.js`,
-    imports,
+    `js/${setName}/${setName}-set.js`,
+    `export const ${setName}Set = ` + JSON.stringify(contents),
+    () => console.log(
+      'created set: ' +
+      setName +
+      ' icons number: ' +
+      Object.keys(contents).length
+    )
+  )
+  fs.writeFile(
+    `js/${setName}/${setName}-set.d.ts`,
+    typings(names, setName, false),
     () => ''
   )
-}, 3000)
+  fs.writeFile(
+    `js/${setName}/index.js`,
+    getImports(names, setName),
+    () => ''
+  )
+  fs.writeFile(
+    `js/${setName}/index.d.ts`,
+    typings(names, setName),
+    () => ''
+  )
+  allNames[setName] = names
+
+  if (Object.keys(allNames).length === dirnames.length) {
+    let imports = ''
+    Object.keys(allNames).forEach(set => {
+      imports += getImports(allNames[set], set, true)
+      imports += '\n\n\n'
+    })
+    fs.writeFile(
+      `js/index.js`,
+      imports,
+      () => console.log('created index file')
+    )
+  }
+}
+
+
   
 
 // const toPascalCase = function (name) {

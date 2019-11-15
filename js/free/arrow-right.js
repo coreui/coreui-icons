@@ -1,1 +1,0 @@
-export const arrowRight = ["24 24","<title>arrow-right</title><path d='M16.869 5.69l-1.061 1.061 4.5 4.5-19.558 0v1.5h19.558l-4.5 4.5 1.061 1.061 6.311-6.31-6.311-6.31z'></path>"]

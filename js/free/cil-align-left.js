@@ -1,0 +1,1 @@
+export const cilAlignLeft = ["24 24","<path d='M0.75 3h22.5v1.5h-22.5v-1.5z'></path><path d='M0.75 7.125h15.375v1.5h-15.375v-1.5z'></path><path d='M0.75 11.25h22.5v1.5h-22.5v-1.5z'></path><path d='M0.75 15.375h15.375v1.5h-15.375v-1.5z'></path><path d='M0.75 19.5h22.5v1.5h-22.5v-1.5z'></path>"]

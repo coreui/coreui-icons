@@ -1,1 +1,0 @@
-export const doubleQuoteSansLeft = ["24 24","<title>double-quote-sans-left</title><path d='M0.75 19.5h1.8l8.325-7.929v-10.821h-10.125zM2.25 2.25h7.125v8.679l-7.125 6.786z'></path><path d='M13.125 0.75v18.75h1.8l8.325-7.929v-10.821zM21.75 10.929l-7.125 6.786v-15.464h7.125z'></path>"]

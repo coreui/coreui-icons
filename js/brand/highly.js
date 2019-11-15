@@ -1,1 +1,0 @@
-export const highly = ["32 32","<title>highly</title><path d='M13.599 27.197h4.803v4.803h-4.803zM12 0h8v24h-8z'></path>"]

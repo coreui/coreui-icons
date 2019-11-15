@@ -1,1 +1,0 @@
-export declare const alignLeft: string[];

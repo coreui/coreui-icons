@@ -1,8 +1,7 @@
 const fs = require('fs')
 const dirnames = process.mainModule.filename.includes('pro') ? 
   ['solid', 'linear'] :
-  ['flag']
-  // ['free']
+  ['flag', 'brand', 'free']
 
 const prefixes = {
   brand: 'cib-',

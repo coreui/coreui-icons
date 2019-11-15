@@ -1,1 +1,0 @@
-export const shortText = ["24 24","<title>short-text</title><path d='M6 9h12v1.5h-12v-1.5z'></path><path d='M6 14.25h6v1.5h-6v-1.5z'></path><path d='M2.25 4.125v16.125h19.5v-16.125zM20.25 18.75h-16.5v-13.125h16.5z'></path>"]

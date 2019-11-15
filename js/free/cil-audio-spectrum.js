@@ -1,0 +1,1 @@
+export const cilAudioSpectrum = ["24 24","<path d='M0.75 7.5h1.5v9h-1.5v-9z'></path><path d='M17.625 7.5h1.5v9h-1.5v-9z'></path><path d='M4.875 4.125h1.5v15.375h-1.5v-15.375z'></path><path d='M13.5 4.5h1.5v15h-1.5v-15z'></path><path d='M21.75 4.5h1.5v15h-1.5v-15z'></path><path d='M9 0.75h1.5v22.5h-1.5v-22.5z'></path>"]

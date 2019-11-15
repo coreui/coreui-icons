@@ -1,1 +1,0 @@
-export declare const signalCellular0: string[];

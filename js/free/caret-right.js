@@ -1,1 +1,0 @@
-export const caretRight = ["24 24","<title>caret-right</title><path d='M6.942 23.25h-1.709v-22.484h1.619l12.647 11.248zM6.733 2.667v18.757l10.513-9.407z'></path>"]

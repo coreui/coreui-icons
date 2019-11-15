@@ -1,0 +1,1 @@
+export const cilViewColumn = ["24 24","<path d='M0.75 3v18h22.5v-18zM15 4.5v15h-6v-15zM2.25 4.5h5.25v15h-5.25zM21.75 19.5h-5.25v-15h5.25z'></path>"]

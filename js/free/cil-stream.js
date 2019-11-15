@@ -1,0 +1,1 @@
+export const cilStream = ["24 24","<path d='M0.75 5.25h15.75v1.5h-15.75v-1.5z'></path><path d='M7.5 11.25h15.75v1.5h-15.75v-1.5z'></path><path d='M0.75 17.25h15.75v1.5h-15.75v-1.5z'></path>"]

@@ -1,1 +1,0 @@
-export const plex = ["32 32","<title>plex</title><path d='M15.527 0h-9.287l10.239 16-10.239 16h9.287l10.233-16-10.233-16z'></path>"]

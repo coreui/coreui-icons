@@ -1,1 +1,0 @@
-export const delicious = ["32 32","<title>delicious</title><path d='M16 16h-16v16h16zM32 0h-16v16h16z'></path>"]

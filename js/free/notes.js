@@ -1,1 +1,0 @@
-export const notes = ["24 24","<title>notes</title><path d='M5.25 7.125h13.5v1.5h-13.5v-1.5z'></path><path d='M5.25 11.25h13.5v1.5h-13.5v-1.5z'></path><path d='M5.25 15.375h7.125v1.5h-7.125v-1.5z'></path><path d='M1.5 2.25v19.5h21v-19.5zM21 20.25h-18v-16.5h18z'></path>"]

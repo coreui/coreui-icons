@@ -1,1 +1,0 @@
-export const spaceBar = ["24 24","<title>space-bar</title><path d='M21.75 19.5h-19.875v-6h1.5v4.5h16.875v-4.5h1.5v6z'></path>"]

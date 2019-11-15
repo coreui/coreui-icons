@@ -1,1 +1,0 @@
-export declare const image1: string[];

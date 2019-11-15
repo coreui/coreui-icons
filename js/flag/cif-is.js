@@ -1,0 +1,1 @@
+export const cifIs = ["301 217","<g fill-rule='nonzero' fill='none'><path fill='#003897' d='M.5.5h300v216H.5'/><path d='M84.5.5h48v216h-48m-84-132h300v48H.5' fill='#FFF'/><path d='M96.5.5h24v216h-24m-96-120h300v24H.5' fill='#D72828'/></g>"]

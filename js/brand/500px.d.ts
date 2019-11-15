@@ -1,1 +1,0 @@
-export declare const n500px: string[];

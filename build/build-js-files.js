@@ -40,24 +40,19 @@ dirnames.forEach(setName => {
 
           contents[variableName] = iconData
 
-          // variableName = validate(variableName)
-          // jsFilename = validate(jsFilename)
-          importName = validate(variableName)
-
           names.push({
             jsFilename,
-            variableName,
-            importName
+            variableName
           })
 
           fs.writeFile(
             `js/${setName}/${jsFilename}`,
-            `export const ${importName} = ` + JSON.stringify(iconData),
+            `export const ${variableName} = ` + JSON.stringify(iconData),
             () => ''
           )
           fs.writeFile(
             `js/${setName}/${tsFilename}`,
-            `export declare const ${importName}: string[];`,
+            `export declare const ${variableName}: string[];`,
             () => ''
           ) 
         })
@@ -132,35 +127,35 @@ function toCamel (str) {
   })
 }
 
-function validate(str) {
-  if (!isNaN(str.charAt(0))) {
-    return 'n' + str
-  } else {
-    return str
-  }
-}
+// function validate(str) {
+//   if (!isNaN(str.charAt(0))) {
+//     return 'n' + str
+//   } else {
+//     return str
+//   }
+// }
 
 function getImports(names, setName, deep = false) {
   const folder = deep ? `/${setName}/` : '/'
   const defaultImport = `import { ${setName}Set } from '.${folder}${setName}-set.js' \n`
   const defaultExport = `export { ${setName}Set } \n\n`
   const importString = names.map(name => {
-    return `import { ${name.importName} } from '.${folder}${name.jsFilename}'`
+    return `import { ${name.variableName} } from '.${folder}${name.jsFilename}'`
   }).join('\n')
   const exportString = names.map(name => {
-    return `export { ${name.importName} }`
+    return `export { ${name.variableName} }`
   }).join('\n')
   return defaultImport + defaultExport + importString + '\n' + exportString
 }
 
 function typings (names, setName, all = true) {
   const icons = names.map(name => {
-    return `  "${name.importName}": string[];`
+    return `  "${name.variableName}": string[];`
   }).join('\n')
   const set = `export declare const ${setName}Set: {\n${icons}\n}`
 
   const exportString = names.map(name => {
-    return `export declare const ${name.importName}: string[];`
+    return `export declare const ${name.variableName}: string[];`
   }).join('\n')
   
   return all ? set + '\n' + exportString : set

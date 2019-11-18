@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons Free Open Source Icons
- * @version v1.0.0-beta.0
+ * @version v1.0.0-beta.1
  * @link https://coreui.io/icons
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
  * Licensed under MIT (https://coreui.io/icons/license)
@@ -2181,12 +2181,13 @@
 }
 
 .cil-thumb-up:before {
-  content: "\eaa0 ";
+  content: "\eaa0
+ ";
 }
 /*# sourceMappingURL=free.css.map */
 @charset "UTF-8";
 /*!
- * CoreUI Icons - Brand Icons
+ * CoreUI Ico1.0.0-beta.1cons
  * @version v1.0.0-beta.0
  * @link https://coreui.io/icons/brand/
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek
@@ -5532,7 +5533,7 @@
 /*# sourceMappingURL=brand.css.map */
 @charset "UTF-8";
 /*!
- * CoreUI Icons - Flag Icons
+ * CoreUI Ico1.0.0-beta.1ons
  * @version v1.0.0-beta.0
  * @link https://coreui.io/icons/flag/
  * Copyright (c) 2019 creativeLabs Łukasz Holeczek

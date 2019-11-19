@@ -11,6 +11,6 @@
 @each $icon, $unicode in $icons {
   $icon-lower: to-lower-case(#{$icon});
   .#{$prefix}#{$icon-lower} {
-    background-image: url(../svg/flag/#{$icon}.svg);
+    background-image: url(../svg/flag/#{$prefix}#{$icon}.svg);
   }
 }

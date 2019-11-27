@@ -75,6 +75,7 @@
     "png/",
     "scss/",
     "sprites/",
-    "svg/"
+    "svg/",
+    "index.d.ts"
   ]
 }

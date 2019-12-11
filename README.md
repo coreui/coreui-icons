@@ -86,7 +86,7 @@ Place sprite files with the rest of your static files, like images and styles, i
   <use xlink:href="path/to/brand.svg#cib-twitter"></use>
 </svg>
 <svg>
-  <use xlink:href="path/to/flag.svg#cif-uss"></use>
+  <use xlink:href="path/to/flag.svg#cif-us"></use>
 </svg>
 ```
 

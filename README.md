@@ -112,7 +112,7 @@ It is also possible to link to an external SVG containing the definitions:
 
 ```html
 <svg class="icon-home">
-  <use xlink:href="path/to/free-symbol-defs.svg#cil-apple"></use>
+  <use xlink:href="path/to/free.svg#cil-apple"></use>
 </svg>
 ```
 

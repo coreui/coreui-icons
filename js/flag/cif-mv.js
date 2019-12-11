@@ -1,0 +1,1 @@
+export const cifMv = ["301 201","<g fill-rule='nonzero' fill='none'><path fill='#D21034' d='M.5.5h300v200H.5z'/><path fill='#007E3A' d='M50.5 50.5h200v100h-200z'/><circle fill='#FFF' cx='163' cy='100.5' r='33.333'/><circle fill='#007E3A' cx='175.5' cy='100.5' r='33.333'/></g>"]

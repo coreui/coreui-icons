@@ -1,21 +1,33 @@
 {
   "name": "@coreui/icons",
-  "version": "0.4.1",
-  "description": "Free icons",
-  "style": "css/coreui-icons.css",
+  "version": "1.0.0",
+  "description": "CoreUI Icons Free",
+  "main": "js/index.js",
+  "style": "css/all.css",
+  "sideEffects": false,
   "scripts": {
-    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-minify*",
-    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
+    "clean": "rimraf css js/{brand,flag,free} png sprites",
+    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",
+    "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free/free-icons.scss css/free.css",
+    "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand/brand-icons.scss css/brand.css",
+    "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag/flag-icons.scss css/flag.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
-    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
-    "dist": "npm-run-all --parallel css",
+    "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
+    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/all.min.css css/all.css",
+    "css-minify-free": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
+    "css-minify-brands": "cleancss --level 1 --source-map --source-map-inline-sources --output css/brand.min.css css/brand.css",
+    "css-minify-flag": "cleancss --level 1 --source-map --source-map-inline-sources --output css/flag.min.css css/flag.css",
+    "build": "npm-run-all --sequential build-*",
+    "build-js-files": "node build/build-js-files.js",
+    "build-svg-sprites": "node build/build-svg-sprites.js",
+    "build-png": "node build/generate-png.js",
+    "dist": "npm-run-all --sequential clean css build",
     "watch-css": "nodemon --ignore dist/ -e scss -x \"npm run css\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coreui/coreui-icons.git"
   },
-  "license": "MIT",
   "keywords": [
     "Icons",
     "Font",
@@ -24,42 +36,50 @@
     "Vector"
   ],
   "author": {
-    "name": "Łukasz Holeczek",
-    "url": "http://holeczek.pl",
-    "github": "https://github.com/mrholek",
-    "twitter": "https://twitter.com/lukaszholeczek"
+    "name": "creativeLabs Łukasz Holeczek",
+    "url": "https://coreui.io",
+    "github": "https://github.com/coreui",
+    "twitter": "https://twitter.com/core_ui"
   },
   "contributors": [
     {
       "name": "Jazzy Innovations sp. z o.o.",
       "url": "https://jazzy.pro"
+    },
+    {
+      "name": "CoreUI Team",
+      "url": "https://github.com/orgs/coreui/people/"
     }
   ],
-  "files": [
-    "css/",
-    "fonts/",
-    "ie7/",
-    "js/",
-    "png/",
-    "scss/",
-    "symbols/",
-    "svg"
-  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/coreui/coreui-icons/issues"
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
-    "node-sass": "^4.12.0",
-    "nodemon": "^1.19.2",
+    "concat": "^1.0.3",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.13.0",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.3",
+    "rimraf": "^3.0.0",
+    "sharp": "^0.23.3",
     "shelljs": "^0.8.3",
-    "stylelint": "^10.1.0",
-    "stylelint-config-recommended-scss": "^3.3.0",
-    "stylelint-config-standard": "^18.3.0",
-    "stylelint-order": "^3.1.0",
-    "stylelint-scss": "^3.10.0"
-  }
+    "stylelint": "^12.0.0",
+    "stylelint-config-recommended-scss": "^4.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-scss": "^3.12.1"
+  },
+  "files": [
+    "css/",
+    "fonts/",
+    "js/",
+    "png/",
+    "scss/",
+    "sprites/",
+    "svg/",
+    "index.d.ts"
+  ]
 }

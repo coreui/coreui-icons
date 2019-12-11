@@ -1,0 +1,1 @@
+export const cifBd = ["301 181","<g fill-rule='nonzero' fill='none'><path fill='#006A4E' d='M.5.5h300v180H.5z'/><circle fill='#F42A41' cx='135.5' cy='90.5' r='60'/></g>"]

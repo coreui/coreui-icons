@@ -1,3 +1,7 @@
 .DS_Store
 .git
+.vscode
+_old
 node_modules
+raw
+test

@@ -1,0 +1,1 @@
+export const cilSignalCellular0 = ["24 24","<path d='M23.25 0.75h-1.838l-20.662 20.662v1.838h22.5zM21.75 21.75h-19.217l19.217-19.217z'></path>"]

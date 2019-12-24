@@ -122,6 +122,10 @@ Referencing an external SVG has the advantage that your icons get cached, with o
 <script defer src="https://unpkg.com/@coreui/icons/js/svgxuse.js"></script>
 ```
 
+### CoreUI Icons for Vue.js
+
+Please check official [repository](https://github.com/coreui/coreui-icons-vue)
+
 ## CoreUI Icons PRO
 
 If our free icon set is insufficient you can buy [CoreUI Icons Pro](https://coreui.io/icons/pro/) with more than 2000 icons, and more styles - Solid, Duo-Tone and Linear.

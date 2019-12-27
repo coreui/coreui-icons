@@ -30,6 +30,8 @@ CoreUI Icons is an open-source icon set with more than 1500 icons in multiple fo
   - [SVG Sprites](#svg-sprites)
   - [SVG Symbols](#svg-symbols)
   - [CoreUI Icons for Vue.js](#coreui-icons-for-vuejs)
+  - CoreUI Icons for React.js (Comming Soon)
+  - CoreUI Icons for Angular (Comming Soon)
 - [CoreUI Icons PRO](#coreui-icons-pro)
 - [License](#license)
   - [CoreUI Icons Free Icons](#coreui-icons-free-icons)

@@ -18,6 +18,23 @@ CoreUI Icons is an open-source icon set with more than 1500 icons in multiple fo
 
 ![CoreUI Free Icons](https://coreui.io/images/icons_free_bg_set.png)
 
+## Table of Contents
+
+- [Preview & Docs](#preview--docs)
+- [Installation](#installation)
+  - [CDN](#cdn)
+  - [NPM](#npm)
+  - [Yarn](#yarn)
+- [Usage](#usage)
+  - [Basic Use](#basic-use)
+  - [SVG Sprites](#svg-sprites)
+  - [SVG Symbols](#svg-symbols)
+  - [CoreUI Icons for Vue.js](#coreui-icons-for-vuejs)
+- [CoreUI Icons PRO](#coreui-icons-pro)
+- [License](#license)
+  - [CoreUI Icons Free Icons](#coreui-icons-free-icons)
+  - [CoreUI Icons Brand and Flag Icons](#coreui-icons-brand-and-flag-icons)
+  - [Brand Icons](#brand-icons)
 ## Preview & Docs
 
 [https://coreui.io/icons/](https://coreui.io/icons/)

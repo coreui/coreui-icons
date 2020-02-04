@@ -1,14 +1,9 @@
 @charset "UTF-8";
 /*!
-<<<<<<< HEAD:scss/free.scss
- * CoreUI Icons Free - Open Source Icons
- * @version v0.4.1
-=======
  * CoreUI Icons Free Open Source Icons
- * @version v1.0.0
->>>>>>> v1-next:scss/free/free-icons.scss
+ * @version v1.0.1
  * @link https://coreui.io/icons
- * Copyright (c) 2019 creativeLabs Łukasz Holeczek
+ * Copyright (c) 2020 creativeLabs Łukasz Holeczek
  * Licensed under MIT (https://coreui.io/icons/license)
  */
 @font-face {
@@ -2192,9 +2187,9 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons - Brand Icons
- * @version v1.0.0
+ * @version v1.0.1
  * @link https://coreui.io/icons/brand/
- * Copyright (c) 2019 creativeLabs Łukasz Holeczek
+ * Copyright (c) 2020 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
  */
 @font-face {
@@ -5538,9 +5533,9 @@
 @charset "UTF-8";
 /*!
  * CoreUI Icons - Flag Icons
- * @version v1.0.0
+ * @version v1.0.1
  * @link https://coreui.io/icons/flag/
- * Copyright (c) 2019 creativeLabs Łukasz Holeczek
+ * Copyright (c) 2020 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
  */
 [class^="cif-"], [class*=" cif-"] {

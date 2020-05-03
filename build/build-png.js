@@ -2,11 +2,16 @@ const sharp = require('sharp')
 const fs = require('fs')
 const mkdirp = require('mkdirp');
 const dirnames = process.mainModule.filename.includes('pro') ?
-    ['solid', 'linear']
+    ['solid', 'linear', 'duotone', 'brand', 'flag']
   : ['free', 'brand', 'flag']
 const dest = 'png/'
-const sizes = [16, 32, 64, 128, 256]
+let sizes
 
+const argv = require('minimist')(process.argv.slice(2), {
+  array: ['sizes']
+})
+
+argv.sizes ? sizes = argv.sizes : sizes = [16, 32, 64]
 
 dirnames.forEach(setName => {
   const dirname = `svg/${setName}/`

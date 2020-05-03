@@ -3,5 +3,4 @@
 .vscode
 _old
 node_modules
-raw
 test

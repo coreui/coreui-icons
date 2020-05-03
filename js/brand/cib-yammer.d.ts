@@ -1,1 +1,1 @@
-export declare const cibYammer: string[];
+export declare const cibYammer: any[];

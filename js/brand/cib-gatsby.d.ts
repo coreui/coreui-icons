@@ -1,1 +1,1 @@
-export declare const cibGatsby: string[];
+export declare const cibGatsby: any[];

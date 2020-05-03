@@ -1,1 +1,1 @@
-export declare const cibNuxtJs: string[];
+export declare const cibNuxtJs: any[];

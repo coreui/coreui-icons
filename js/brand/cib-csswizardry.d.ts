@@ -1,1 +1,1 @@
-export declare const cibCsswizardry: string[];
+export declare const cibCsswizardry: any[];

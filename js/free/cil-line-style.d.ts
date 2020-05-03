@@ -1,1 +1,1 @@
-export declare const cilLineStyle: string[];
+export declare const cilLineStyle: any[];

@@ -1,1 +1,1 @@
-export declare const cibCpanel: string[];
+export declare const cibCpanel: any[];

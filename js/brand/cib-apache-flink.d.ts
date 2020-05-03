@@ -1,1 +1,1 @@
-export declare const cibApacheFlink: string[];
+export declare const cibApacheFlink: any[];

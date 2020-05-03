@@ -1,1 +1,1 @@
-export declare const cilFridge: string[];
+export declare const cilFridge: any[];

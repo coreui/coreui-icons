@@ -1,1 +1,1 @@
-export declare const cibTensorflow: string[];
+export declare const cibTensorflow: any[];

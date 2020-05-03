@@ -1,1 +1,1 @@
-export declare const cibGentoo: string[];
+export declare const cibGentoo: any[];

@@ -1,1 +1,1 @@
-export declare const cibPinboard: string[];
+export declare const cibPinboard: any[];

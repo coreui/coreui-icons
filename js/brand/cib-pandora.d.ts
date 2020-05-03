@@ -1,1 +1,1 @@
-export declare const cibPandora: string[];
+export declare const cibPandora: any[];

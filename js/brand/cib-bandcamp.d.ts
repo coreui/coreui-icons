@@ -1,1 +1,1 @@
-export declare const cibBandcamp: string[];
+export declare const cibBandcamp: any[];

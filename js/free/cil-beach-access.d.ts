@@ -1,1 +1,1 @@
-export declare const cilBeachAccess: string[];
+export declare const cilBeachAccess: any[];

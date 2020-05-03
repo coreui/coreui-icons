@@ -1,1 +1,1 @@
-export declare const cibHackerearth: string[];
+export declare const cibHackerearth: any[];

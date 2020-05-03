@@ -1,1 +1,1 @@
-export declare const cibRedis: string[];
+export declare const cibRedis: any[];

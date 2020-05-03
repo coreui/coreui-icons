@@ -1,1 +1,1 @@
-export declare const cilAddressBook: string[];
+export declare const cilAddressBook: any[];

@@ -1,1 +1,1 @@
-export declare const cibAppleMusic: string[];
+export declare const cibAppleMusic: any[];

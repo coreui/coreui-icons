@@ -1,1 +1,1 @@
-export declare const cilMediaStepBackward: string[];
+export declare const cilMediaStepBackward: any[];

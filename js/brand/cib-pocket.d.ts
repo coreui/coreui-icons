@@ -1,1 +1,1 @@
-export declare const cibPocket: string[];
+export declare const cibPocket: any[];

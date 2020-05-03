@@ -1,1 +1,1 @@
-export declare const cilBorderClear: string[];
+export declare const cilBorderClear: any[];

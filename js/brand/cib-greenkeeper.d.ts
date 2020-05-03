@@ -1,1 +1,1 @@
-export declare const cibGreenkeeper: string[];
+export declare const cibGreenkeeper: any[];

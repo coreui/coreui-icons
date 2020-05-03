@@ -1,1 +1,1 @@
-export declare const cilSitemap: string[];
+export declare const cilSitemap: any[];

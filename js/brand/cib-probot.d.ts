@@ -1,1 +1,1 @@
-export declare const cibProbot: string[];
+export declare const cibProbot: any[];

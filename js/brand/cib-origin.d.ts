@@ -1,1 +1,1 @@
-export declare const cibOrigin: string[];
+export declare const cibOrigin: any[];

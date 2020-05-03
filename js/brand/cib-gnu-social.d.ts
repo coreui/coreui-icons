@@ -1,1 +1,1 @@
-export declare const cibGnuSocial: string[];
+export declare const cibGnuSocial: any[];

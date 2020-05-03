@@ -1,1 +1,1 @@
-export declare const cilFork: string[];
+export declare const cilFork: any[];

@@ -1,1 +1,1 @@
-export const cilRoom = ["24 24","<path d='M20.625 19.875v-15.75h-4.125v-3.515l-12.375 2.134v17.132h-3.375v1.5h4.074l11.676 1.611v-17.361h2.625v15.75h4.125v-1.5zM15 21.264l-9.375-1.293v-15.965l9.375-1.616z'></path><path d='M12 10.875h1.5v3h-1.5v-3z'></path>"]
+export const cilRoom = ["512 512","<path fill='currentColor' d='M440,424V88H352V13.005L88,58.522V424H16v32h86.9L352,490.358V120h56V456h88V424ZM320,453.642,120,426.056V85.478L320,51Z' class='ci-primary'/><rect width='32' height='64' x='256' y='232' fill='currentColor' class='ci-primary'/>"]

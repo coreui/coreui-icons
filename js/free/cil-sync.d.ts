@@ -1,1 +1,1 @@
-export declare const cilSync: string[];
+export declare const cilSync: any[];

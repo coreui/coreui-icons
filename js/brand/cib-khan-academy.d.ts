@@ -1,1 +1,1 @@
-export declare const cibKhanAcademy: string[];
+export declare const cibKhanAcademy: any[];

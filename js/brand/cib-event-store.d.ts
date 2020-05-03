@@ -1,1 +1,1 @@
-export declare const cibEventStore: string[];
+export declare const cibEventStore: any[];

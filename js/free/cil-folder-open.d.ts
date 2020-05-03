@@ -1,1 +1,1 @@
-export declare const cilFolderOpen: string[];
+export declare const cilFolderOpen: any[];

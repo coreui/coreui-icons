@@ -1,1 +1,1 @@
-export declare const cibGooglePlay: string[];
+export declare const cibGooglePlay: any[];

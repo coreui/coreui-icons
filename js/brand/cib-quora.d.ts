@@ -1,1 +1,1 @@
-export declare const cibQuora: string[];
+export declare const cibQuora: any[];

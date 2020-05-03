@@ -1,1 +1,1 @@
-export declare const cilMouthSlash: string[];
+export declare const cilMouthSlash: any[];

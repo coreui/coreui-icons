@@ -1,1 +1,1 @@
-export declare const cibNintendoSwitch: string[];
+export declare const cibNintendoSwitch: any[];

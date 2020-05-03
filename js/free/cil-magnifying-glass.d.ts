@@ -1,1 +1,1 @@
-export declare const cilMagnifyingGlass: string[];
+export declare const cilMagnifyingGlass: any[];

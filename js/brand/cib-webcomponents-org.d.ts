@@ -1,1 +1,1 @@
-export declare const cibWebcomponentsOrg: string[];
+export declare const cibWebcomponentsOrg: any[];

@@ -1,1 +1,1 @@
-export declare const cibOculus: string[];
+export declare const cibOculus: any[];

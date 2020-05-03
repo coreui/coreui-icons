@@ -1,1 +1,1 @@
-export declare const cibCodacy: string[];
+export declare const cibCodacy: any[];

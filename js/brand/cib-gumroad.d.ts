@@ -1,1 +1,1 @@
-export declare const cibGumroad: string[];
+export declare const cibGumroad: any[];

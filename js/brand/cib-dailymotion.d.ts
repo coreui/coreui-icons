@@ -1,1 +1,1 @@
-export declare const cibDailymotion: string[];
+export declare const cibDailymotion: any[];

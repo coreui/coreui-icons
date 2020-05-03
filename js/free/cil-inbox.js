@@ -1,1 +1,1 @@
-export const cilInbox = ["24 24","<path d='M1.5 0.75v22.5h21v-22.5zM21 14.25h-4.964l-1.5 3h-5.073l-1.5-3h-4.964v-7.5h18zM21 2.25v3h-18v-3zM3 21.75v-6h4.036l1.5 3h6.927l1.5-3h4.036v6z'></path>"]
+export const cilInbox = ["512 512","<path fill='currentColor' d='M32,16V496H480V16ZM448,304H342.111l-32,64H201.889l-32-64H64V144H448Zm0-256v64H64V48ZM64,464V336h86.111l32,64H329.889l32-64H448V464Z' class='ci-primary'/>"]

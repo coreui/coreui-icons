@@ -1,1 +1,1 @@
-export declare const cibMeteor: string[];
+export declare const cibMeteor: any[];

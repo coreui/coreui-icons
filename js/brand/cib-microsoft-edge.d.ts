@@ -1,1 +1,1 @@
-export declare const cibMicrosoftEdge: string[];
+export declare const cibMicrosoftEdge: any[];

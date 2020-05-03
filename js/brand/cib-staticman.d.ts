@@ -1,1 +1,1 @@
-export declare const cibStaticman: string[];
+export declare const cibStaticman: any[];

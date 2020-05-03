@@ -1,1 +1,1 @@
-export declare const cibMediafire: string[];
+export declare const cibMediafire: any[];

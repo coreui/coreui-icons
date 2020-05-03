@@ -1,1 +1,1 @@
-export declare const cilBatterySlash: string[];
+export declare const cilBatterySlash: any[];

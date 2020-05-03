@@ -1,1 +1,1 @@
-export declare const cibAndroid: string[];
+export declare const cibAndroid: any[];

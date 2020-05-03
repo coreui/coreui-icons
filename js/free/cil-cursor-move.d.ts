@@ -1,1 +1,1 @@
-export declare const cilCursorMove: string[];
+export declare const cilCursorMove: any[];

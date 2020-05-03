@@ -1,1 +1,1 @@
-export declare const cibGauges: string[];
+export declare const cibGauges: any[];

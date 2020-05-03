@@ -1,1 +1,1 @@
-export declare const cilMovie: string[];
+export declare const cilMovie: any[];

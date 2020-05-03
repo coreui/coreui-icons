@@ -1,1 +1,1 @@
-export declare const cibHootsuite: string[];
+export declare const cibHootsuite: any[];

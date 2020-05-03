@@ -1,1 +1,1 @@
-export declare const cilScreenDesktop: string[];
+export declare const cilScreenDesktop: any[];

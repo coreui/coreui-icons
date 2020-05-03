@@ -1,1 +1,1 @@
-export declare const cilBalanceScale: string[];
+export declare const cilBalanceScale: any[];

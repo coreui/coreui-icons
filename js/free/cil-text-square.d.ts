@@ -1,1 +1,1 @@
-export declare const cilTextSquare: string[];
+export declare const cilTextSquare: any[];

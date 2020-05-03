@@ -1,1 +1,1 @@
-export declare const cibSaltstack: string[];
+export declare const cibSaltstack: any[];

@@ -1,1 +1,1 @@
-export declare const cibOdnoklassniki: string[];
+export declare const cibOdnoklassniki: any[];

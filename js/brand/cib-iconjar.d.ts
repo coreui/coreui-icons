@@ -1,1 +1,1 @@
-export declare const cibIconjar: string[];
+export declare const cibIconjar: any[];

@@ -1,1 +1,1 @@
-export declare const cibSemaphoreci: string[];
+export declare const cibSemaphoreci: any[];

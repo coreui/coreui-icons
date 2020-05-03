@@ -1,1 +1,1 @@
-export declare const cilAlignCenter: string[];
+export declare const cilAlignCenter: any[];

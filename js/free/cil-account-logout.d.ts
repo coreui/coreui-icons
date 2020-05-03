@@ -1,1 +1,1 @@
-export declare const cilAccountLogout: string[];
+export declare const cilAccountLogout: any[];

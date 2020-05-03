@@ -1,1 +1,1 @@
-export declare const cibInkscape: string[];
+export declare const cibInkscape: any[];

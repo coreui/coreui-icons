@@ -1,1 +1,1 @@
-export declare const cibPytorch: string[];
+export declare const cibPytorch: any[];

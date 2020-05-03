@@ -1,1 +1,1 @@
-export declare const cibAtom: string[];
+export declare const cibAtom: any[];

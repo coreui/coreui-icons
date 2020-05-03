@@ -1,1 +1,1 @@
-export declare const cilTranslate: string[];
+export declare const cilTranslate: any[];

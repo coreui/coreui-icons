@@ -1,1 +1,1 @@
-export declare const cibReadTheDocs: string[];
+export declare const cibReadTheDocs: any[];

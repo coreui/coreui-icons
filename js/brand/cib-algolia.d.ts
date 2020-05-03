@@ -1,1 +1,1 @@
-export declare const cibAlgolia: string[];
+export declare const cibAlgolia: any[];

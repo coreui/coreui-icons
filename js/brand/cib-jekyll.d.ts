@@ -1,1 +1,1 @@
-export declare const cibJekyll: string[];
+export declare const cibJekyll: any[];

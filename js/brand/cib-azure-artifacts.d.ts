@@ -1,1 +1,1 @@
-export declare const cibAzureArtifacts: string[];
+export declare const cibAzureArtifacts: any[];

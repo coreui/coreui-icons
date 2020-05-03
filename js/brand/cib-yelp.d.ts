@@ -1,1 +1,1 @@
-export declare const cibYelp: string[];
+export declare const cibYelp: any[];

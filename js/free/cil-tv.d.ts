@@ -1,1 +1,1 @@
-export declare const cilTv: string[];
+export declare const cilTv: any[];

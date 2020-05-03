@@ -1,1 +1,1 @@
-export declare const cibCmake: string[];
+export declare const cibCmake: any[];

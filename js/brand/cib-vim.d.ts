@@ -1,1 +1,1 @@
-export declare const cibVim: string[];
+export declare const cibVim: any[];

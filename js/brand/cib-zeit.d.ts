@@ -1,1 +1,1 @@
-export declare const cibZeit: string[];
+export declare const cibZeit: any[];

@@ -1,1 +1,1 @@
-export declare const cibPowershell: string[];
+export declare const cibPowershell: any[];

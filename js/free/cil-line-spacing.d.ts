@@ -1,1 +1,1 @@
-export declare const cilLineSpacing: string[];
+export declare const cilLineSpacing: any[];

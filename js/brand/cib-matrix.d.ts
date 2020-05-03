@@ -1,1 +1,1 @@
-export declare const cibMatrix: string[];
+export declare const cibMatrix: any[];

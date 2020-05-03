@@ -1,1 +1,1 @@
-export declare const cibFurAffinity: string[];
+export declare const cibFurAffinity: any[];

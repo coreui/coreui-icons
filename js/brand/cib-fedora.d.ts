@@ -1,1 +1,1 @@
-export declare const cibFedora: string[];
+export declare const cibFedora: any[];

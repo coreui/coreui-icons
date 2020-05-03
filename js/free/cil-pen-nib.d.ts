@@ -1,1 +1,1 @@
-export declare const cilPenNib: string[];
+export declare const cilPenNib: any[];

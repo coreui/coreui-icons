@@ -1,1 +1,1 @@
-export declare const cibRedditAlt: string[];
+export declare const cibRedditAlt: any[];

@@ -1,1 +1,1 @@
-export declare const cibNuget: string[];
+export declare const cibNuget: any[];

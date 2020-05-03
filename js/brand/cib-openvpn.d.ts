@@ -1,1 +1,1 @@
-export declare const cibOpenvpn: string[];
+export declare const cibOpenvpn: any[];

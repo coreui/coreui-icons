@@ -1,1 +1,1 @@
-export declare const cibGumtree: string[];
+export declare const cibGumtree: any[];

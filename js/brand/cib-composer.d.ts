@@ -1,1 +1,1 @@
-export declare const cibComposer: string[];
+export declare const cibComposer: any[];

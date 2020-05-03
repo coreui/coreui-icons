@@ -1,1 +1,1 @@
-export declare const cilDialpad: string[];
+export declare const cilDialpad: any[];

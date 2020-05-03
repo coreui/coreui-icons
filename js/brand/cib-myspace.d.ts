@@ -1,1 +1,1 @@
-export declare const cibMyspace: string[];
+export declare const cibMyspace: any[];

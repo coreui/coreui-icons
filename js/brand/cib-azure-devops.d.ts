@@ -1,1 +1,1 @@
-export declare const cibAzureDevops: string[];
+export declare const cibAzureDevops: any[];

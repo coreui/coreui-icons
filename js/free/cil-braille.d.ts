@@ -1,1 +1,1 @@
-export declare const cilBraille: string[];
+export declare const cilBraille: any[];

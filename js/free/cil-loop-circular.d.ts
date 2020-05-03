@@ -1,1 +1,1 @@
-export declare const cilLoopCircular: string[];
+export declare const cilLoopCircular: any[];

@@ -1,1 +1,1 @@
-export declare const cilWheelchair: string[];
+export declare const cilWheelchair: any[];

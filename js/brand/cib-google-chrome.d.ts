@@ -1,1 +1,1 @@
-export declare const cibGoogleChrome: string[];
+export declare const cibGoogleChrome: any[];

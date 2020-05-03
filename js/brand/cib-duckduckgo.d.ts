@@ -1,1 +1,1 @@
-export declare const cibDuckduckgo: string[];
+export declare const cibDuckduckgo: any[];

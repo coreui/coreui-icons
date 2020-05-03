@@ -1,1 +1,1 @@
-export declare const cibAdobeTypekit: string[];
+export declare const cibAdobeTypekit: any[];

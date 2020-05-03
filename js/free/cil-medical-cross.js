@@ -1,1 +1,1 @@
-export const cilMedicalCross = ["24 24","<path d='M16.125 0.75h-8.25v7.125h-7.125v8.25h7.125v7.125h8.25v-7.125h7.125v-8.25h-7.125zM21.75 9.375v5.25h-7.125v7.125h-5.25v-7.125h-7.125v-5.25h7.125v-7.125h5.25v7.125z'></path>"]
+export const cilMedicalCross = ["512 512","<path fill='currentColor' d='M344,16H168V168H16V344H168V496H344V344H496V168H344ZM464,200V312H312V464H200V312H48V200H200V48H312V200Z' class='ci-primary'/>"]

@@ -1,1 +1,1 @@
-export declare const cibJquery: string[];
+export declare const cibJquery: any[];

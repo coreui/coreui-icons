@@ -1,1 +1,1 @@
-export declare const cibSnapcraft: string[];
+export declare const cibSnapcraft: any[];

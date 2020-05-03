@@ -1,1 +1,1 @@
-export declare const cilColorFill: string[];
+export declare const cilColorFill: any[];

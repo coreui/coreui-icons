@@ -1,1 +1,1 @@
-export declare const cibEverplaces: string[];
+export declare const cibEverplaces: any[];

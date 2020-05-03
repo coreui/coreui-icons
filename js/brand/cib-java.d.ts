@@ -1,1 +1,1 @@
-export declare const cibJava: string[];
+export declare const cibJava: any[];

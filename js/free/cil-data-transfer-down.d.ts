@@ -1,1 +1,1 @@
-export declare const cilDataTransferDown: string[];
+export declare const cilDataTransferDown: any[];

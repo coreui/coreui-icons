@@ -1,1 +1,1 @@
-export declare const cibSnapchat: string[];
+export declare const cibSnapchat: any[];

@@ -1,1 +1,1 @@
-export declare const cibGraphql: string[];
+export declare const cibGraphql: any[];

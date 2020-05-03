@@ -1,1 +1,1 @@
-export declare const cibTelegram: string[];
+export declare const cibTelegram: any[];

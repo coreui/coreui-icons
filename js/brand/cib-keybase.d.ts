@@ -1,1 +1,1 @@
-export declare const cibKeybase: string[];
+export declare const cibKeybase: any[];

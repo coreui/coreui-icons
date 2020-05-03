@@ -1,1 +1,1 @@
-export declare const cibPivotaltracker: string[];
+export declare const cibPivotaltracker: any[];

@@ -1,1 +1,1 @@
-export declare const cibWire: string[];
+export declare const cibWire: any[];

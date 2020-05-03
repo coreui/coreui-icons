@@ -1,1 +1,1 @@
-export declare const cibPlurk: string[];
+export declare const cibPlurk: any[];

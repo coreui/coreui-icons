@@ -1,1 +1,1 @@
-export declare const cilLowVision: string[];
+export declare const cilLowVision: any[];

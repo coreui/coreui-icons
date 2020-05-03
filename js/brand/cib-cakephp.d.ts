@@ -1,1 +1,1 @@
-export declare const cibCakephp: string[];
+export declare const cibCakephp: any[];

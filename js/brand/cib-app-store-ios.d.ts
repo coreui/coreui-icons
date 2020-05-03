@@ -1,1 +1,1 @@
-export declare const cibAppStoreIos: string[];
+export declare const cibAppStoreIos: any[];

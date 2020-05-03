@@ -1,1 +1,1 @@
-export declare const cilFolder: string[];
+export declare const cilFolder: any[];

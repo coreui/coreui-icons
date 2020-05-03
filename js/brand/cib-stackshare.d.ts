@@ -1,1 +1,1 @@
-export declare const cibStackshare: string[];
+export declare const cibStackshare: any[];

@@ -1,1 +1,1 @@
-export declare const cilSnowflake: string[];
+export declare const cilSnowflake: any[];

@@ -1,1 +1,1 @@
-export declare const cibTrainerroad: string[];
+export declare const cibTrainerroad: any[];

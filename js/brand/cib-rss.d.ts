@@ -1,1 +1,1 @@
-export declare const cibRss: string[];
+export declare const cibRss: any[];

@@ -1,1 +1,1 @@
-export declare const cilEnvelopeOpen: string[];
+export declare const cilEnvelopeOpen: any[];

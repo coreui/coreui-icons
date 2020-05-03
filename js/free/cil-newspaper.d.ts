@@ -1,1 +1,1 @@
-export declare const cilNewspaper: string[];
+export declare const cilNewspaper: any[];

@@ -1,1 +1,1 @@
-export declare const cibNetlify: string[];
+export declare const cibNetlify: any[];

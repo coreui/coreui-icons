@@ -1,1 +1,1 @@
-export declare const cilShortText: string[];
+export declare const cilShortText: any[];

@@ -1,1 +1,1 @@
-export declare const cibProcesswire: string[];
+export declare const cibProcesswire: any[];

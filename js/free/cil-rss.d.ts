@@ -1,1 +1,1 @@
-export declare const cilRss: string[];
+export declare const cilRss: any[];

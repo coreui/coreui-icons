@@ -1,1 +1,1 @@
-export declare const cilViewColumn: string[];
+export declare const cilViewColumn: any[];

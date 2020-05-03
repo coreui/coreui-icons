@@ -1,1 +1,1 @@
-export declare const cilCropRotate: string[];
+export declare const cilCropRotate: any[];

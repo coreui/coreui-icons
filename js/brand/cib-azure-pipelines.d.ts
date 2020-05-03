@@ -1,1 +1,1 @@
-export declare const cibAzurePipelines: string[];
+export declare const cibAzurePipelines: any[];

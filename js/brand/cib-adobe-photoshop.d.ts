@@ -1,1 +1,1 @@
-export declare const cibAdobePhotoshop: string[];
+export declare const cibAdobePhotoshop: any[];

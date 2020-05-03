@@ -1,1 +1,1 @@
-export declare const cibChef: string[];
+export declare const cibChef: any[];

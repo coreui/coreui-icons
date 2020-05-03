@@ -1,1 +1,1 @@
-export declare const cibTreehouse: string[];
+export declare const cibTreehouse: any[];

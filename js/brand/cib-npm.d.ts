@@ -1,1 +1,1 @@
-export declare const cibNpm: string[];
+export declare const cibNpm: any[];

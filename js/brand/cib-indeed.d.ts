@@ -1,1 +1,1 @@
-export declare const cibIndeed: string[];
+export declare const cibIndeed: any[];

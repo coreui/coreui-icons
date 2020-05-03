@@ -1,1 +1,1 @@
-export declare const cibVimeo: string[];
+export declare const cibVimeo: any[];

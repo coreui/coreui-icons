@@ -1,1 +1,1 @@
-export declare const cibUpwork: string[];
+export declare const cibUpwork: any[];

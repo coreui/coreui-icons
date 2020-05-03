@@ -1,1 +1,1 @@
-export declare const cilAlarm: string[];
+export declare const cilAlarm: any[];

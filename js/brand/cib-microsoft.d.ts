@@ -1,1 +1,1 @@
-export declare const cibMicrosoft: string[];
+export declare const cibMicrosoft: any[];

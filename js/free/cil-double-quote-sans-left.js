@@ -1,1 +1,1 @@
-export const cilDoubleQuoteSansLeft = ["24 24","<path d='M0.75 19.5h1.8l8.325-7.929v-10.821h-10.125zM2.25 2.25h7.125v8.679l-7.125 6.786z'></path><path d='M13.125 0.75v18.75h1.8l8.325-7.929v-10.821zM21.75 10.929l-7.125 6.786v-15.464h7.125z'></path>"]
+export const cilDoubleQuoteSansLeft = ["512 512","<path fill='currentColor' d='M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z' class='ci-primary'/><path fill='currentColor' d='M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z' class='ci-primary'/>"]

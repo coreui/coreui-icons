@@ -1,1 +1,1 @@
-export const cilFlagAlt = ["24 24","<path d='M21 2.625h-16.5v-1.875h-1.5v22.5h1.5v-6.375h16.5v-1.746l-3.945-5.379 3.945-5.379zM15.195 9.75l4.125 5.625h-14.82v-11.25h14.82z'></path>"]
+export const cilFlagAlt = ["512 512","<path fill='currentColor' d='M64,16V496H96V360H448V322.762L363.841,208,448,93.238V56H96V16ZM412.159,88l-88,120,88,120H96V88Z' class='ci-primary'/>"]

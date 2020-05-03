@@ -1,1 +1,1 @@
-export declare const cibWebpack: string[];
+export declare const cibWebpack: any[];

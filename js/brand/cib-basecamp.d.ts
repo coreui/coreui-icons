@@ -1,1 +1,1 @@
-export declare const cibBasecamp: string[];
+export declare const cibBasecamp: any[];

@@ -1,1 +1,1 @@
-export declare const cilClosedCaptioning: string[];
+export declare const cilClosedCaptioning: any[];

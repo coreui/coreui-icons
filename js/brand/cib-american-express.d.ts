@@ -1,1 +1,1 @@
-export declare const cibAmericanExpress: string[];
+export declare const cibAmericanExpress: any[];

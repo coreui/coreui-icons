@@ -1,1 +1,1 @@
-export declare const cibDocusign: string[];
+export declare const cibDocusign: any[];

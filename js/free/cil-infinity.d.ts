@@ -1,1 +1,1 @@
-export declare const cilInfinity: string[];
+export declare const cilInfinity: any[];

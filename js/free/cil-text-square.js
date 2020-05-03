@@ -1,1 +1,1 @@
-export const cilTextSquare = ["24 24","<path d='M0.75 0.75v22.5h22.5v-22.5zM21.75 21.75h-19.5v-19.5h19.5z'></path><path d='M6.75 6.75h3.75v10.5h-1.5v1.5h6v-1.5h-1.5v-10.5h3.75v1.5h1.5v-3h-13.5v3h1.5v-1.5z'></path>"]
+export const cilTextSquare = ["512 512","<path fill='currentColor' d='M16,496H496V16H16ZM48,48H464V464H48Z' class='ci-primary'/><polygon fill='currentColor' points='112 176 144 176 144 144 224 144 224 368 192 368 192 400 320 400 320 368 288 368 288 144 368 144 368 176 400 176 400 112 112 112 112 176' class='ci-primary'/>"]

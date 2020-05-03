@@ -1,1 +1,1 @@
-export declare const cibNativescript: string[];
+export declare const cibNativescript: any[];

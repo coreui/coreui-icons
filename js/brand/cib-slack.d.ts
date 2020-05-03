@@ -1,1 +1,1 @@
-export declare const cibSlack: string[];
+export declare const cibSlack: any[];

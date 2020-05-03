@@ -1,1 +1,1 @@
-export declare const cibTwilio: string[];
+export declare const cibTwilio: any[];

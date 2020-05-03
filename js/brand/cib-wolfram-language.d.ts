@@ -1,1 +1,1 @@
-export declare const cibWolframLanguage: string[];
+export declare const cibWolframLanguage: any[];

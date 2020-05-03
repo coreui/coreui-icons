@@ -1,1 +1,1 @@
-export declare const cilAvTimer: string[];
+export declare const cilAvTimer: any[];

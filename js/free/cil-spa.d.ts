@@ -1,1 +1,1 @@
-export declare const cilSpa: string[];
+export declare const cilSpa: any[];

@@ -1,1 +1,1 @@
-export declare const cibFlattr: string[];
+export declare const cibFlattr: any[];

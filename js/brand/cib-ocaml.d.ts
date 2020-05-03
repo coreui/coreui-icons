@@ -1,1 +1,1 @@
-export declare const cibOcaml: string[];
+export declare const cibOcaml: any[];

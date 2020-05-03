@@ -1,1 +1,1 @@
-export declare const cibTumblr: string[];
+export declare const cibTumblr: any[];

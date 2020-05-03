@@ -1,1 +1,1 @@
-export declare const cibGoldenline: string[];
+export declare const cibGoldenline: any[];

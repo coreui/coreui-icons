@@ -1,1 +1,1 @@
-export declare const cibCreativeCommonsSampling: string[];
+export declare const cibCreativeCommonsSampling: any[];

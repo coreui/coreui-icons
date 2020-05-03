@@ -1,1 +1,1 @@
-export declare const cibPlaystation4: string[];
+export declare const cibPlaystation4: any[];

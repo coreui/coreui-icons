@@ -1,1 +1,1 @@
-export declare const cilExitToApp: string[];
+export declare const cilExitToApp: any[];

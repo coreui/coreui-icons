@@ -1,1 +1,1 @@
-export declare const cibStatuspage: string[];
+export declare const cibStatuspage: any[];

@@ -1,1 +1,1 @@
-export declare const cilMediaSkipForward: string[];
+export declare const cilMediaSkipForward: any[];

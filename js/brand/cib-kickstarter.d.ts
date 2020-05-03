@@ -1,1 +1,1 @@
-export declare const cibKickstarter: string[];
+export declare const cibKickstarter: any[];

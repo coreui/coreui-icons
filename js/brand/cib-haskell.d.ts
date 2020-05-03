@@ -1,1 +1,1 @@
-export declare const cibHaskell: string[];
+export declare const cibHaskell: any[];

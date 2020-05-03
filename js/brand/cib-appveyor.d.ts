@@ -1,1 +1,1 @@
-export declare const cibAppveyor: string[];
+export declare const cibAppveyor: any[];

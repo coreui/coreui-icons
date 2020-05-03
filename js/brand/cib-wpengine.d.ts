@@ -1,1 +1,1 @@
-export declare const cibWpengine: string[];
+export declare const cibWpengine: any[];

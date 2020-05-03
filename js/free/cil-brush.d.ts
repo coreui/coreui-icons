@@ -1,1 +1,1 @@
-export declare const cilBrush: string[];
+export declare const cilBrush: any[];

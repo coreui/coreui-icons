@@ -1,1 +1,1 @@
-export declare const cibSlideshare: string[];
+export declare const cibSlideshare: any[];

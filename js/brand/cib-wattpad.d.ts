@@ -1,1 +1,1 @@
-export declare const cibWattpad: string[];
+export declare const cibWattpad: any[];

@@ -1,1 +1,1 @@
-export declare const cilSwapVertical: string[];
+export declare const cilSwapVertical: any[];

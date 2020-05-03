@@ -1,1 +1,1 @@
-export declare const cilMemory: string[];
+export declare const cilMemory: any[];

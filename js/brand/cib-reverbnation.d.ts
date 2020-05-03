@@ -1,1 +1,1 @@
-export declare const cibReverbnation: string[];
+export declare const cibReverbnation: any[];

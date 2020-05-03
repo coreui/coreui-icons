@@ -1,1 +1,1 @@
-export declare const cilWc: string[];
+export declare const cilWc: any[];

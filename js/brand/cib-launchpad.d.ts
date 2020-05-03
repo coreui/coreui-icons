@@ -1,1 +1,1 @@
-export declare const cibLaunchpad: string[];
+export declare const cibLaunchpad: any[];

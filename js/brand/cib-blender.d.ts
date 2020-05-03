@@ -1,1 +1,1 @@
-export declare const cibBlender: string[];
+export declare const cibBlender: any[];

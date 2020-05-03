@@ -1,1 +1,1 @@
-export declare const cibSoundcloud: string[];
+export declare const cibSoundcloud: any[];

@@ -1,1 +1,1 @@
-export declare const cibPlex: string[];
+export declare const cibPlex: any[];

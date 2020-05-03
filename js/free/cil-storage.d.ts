@@ -1,1 +1,1 @@
-export declare const cilStorage: string[];
+export declare const cilStorage: any[];

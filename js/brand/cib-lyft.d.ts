@@ -1,1 +1,1 @@
-export declare const cibLyft: string[];
+export declare const cibLyft: any[];

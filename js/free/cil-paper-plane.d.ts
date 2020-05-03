@@ -1,1 +1,1 @@
-export declare const cilPaperPlane: string[];
+export declare const cilPaperPlane: any[];

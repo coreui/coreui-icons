@@ -1,1 +1,1 @@
-export declare const cibJsfiddle: string[];
+export declare const cibJsfiddle: any[];

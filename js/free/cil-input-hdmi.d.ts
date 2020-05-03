@@ -1,1 +1,1 @@
-export declare const cilInputHdmi: string[];
+export declare const cilInputHdmi: any[];

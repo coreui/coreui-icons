@@ -1,1 +1,1 @@
-export declare const cilZoomOut: string[];
+export declare const cilZoomOut: any[];

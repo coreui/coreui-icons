@@ -1,1 +1,1 @@
-export declare const cilReload: string[];
+export declare const cilReload: any[];

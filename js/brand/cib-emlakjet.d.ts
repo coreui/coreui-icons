@@ -1,1 +1,1 @@
-export declare const cibEmlakjet: string[];
+export declare const cibEmlakjet: any[];

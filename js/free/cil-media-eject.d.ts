@@ -1,1 +1,1 @@
-export declare const cilMediaEject: string[];
+export declare const cilMediaEject: any[];

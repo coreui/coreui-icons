@@ -1,1 +1,1 @@
-export const cilWindowMinimize = ["24 24","<path d='M2.25 21h19.5v1.5h-19.5v-1.5z'></path>"]
+export const cilWindowMinimize = ["512 512","<rect width='416' height='32' x='48' y='448' fill='currentColor' class='ci-primary'/>"]

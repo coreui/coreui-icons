@@ -1,1 +1,1 @@
-export declare const cibJustgiving: string[];
+export declare const cibJustgiving: any[];

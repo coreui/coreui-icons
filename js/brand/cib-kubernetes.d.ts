@@ -1,1 +1,1 @@
-export declare const cibKubernetes: string[];
+export declare const cibKubernetes: any[];

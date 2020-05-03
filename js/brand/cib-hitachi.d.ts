@@ -1,1 +1,1 @@
-export declare const cibHitachi: string[];
+export declare const cibHitachi: any[];

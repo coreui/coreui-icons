@@ -1,1 +1,1 @@
-export declare const cibMinutemailer: string[];
+export declare const cibMinutemailer: any[];

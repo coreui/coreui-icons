@@ -1,1 +1,1 @@
-export declare const cilPregnant: string[];
+export declare const cilPregnant: any[];

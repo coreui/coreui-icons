@@ -1,1 +1,1 @@
-export declare const cibGrunt: string[];
+export declare const cibGrunt: any[];

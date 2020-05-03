@@ -1,1 +1,1 @@
-export declare const cibGoogleKeep: string[];
+export declare const cibGoogleKeep: any[];

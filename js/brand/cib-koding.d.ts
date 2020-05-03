@@ -1,1 +1,1 @@
-export declare const cibKoding: string[];
+export declare const cibKoding: any[];

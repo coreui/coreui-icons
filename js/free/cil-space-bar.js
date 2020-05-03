@@ -1,1 +1,1 @@
-export const cilSpaceBar = ["24 24","<path d='M21.75 19.5h-19.875v-6h1.5v4.5h16.875v-4.5h1.5v6z'></path>"]
+export const cilSpaceBar = ["512 512","<polygon fill='currentColor' points='40 288 40 416 464 416 464 288 432 288 432 384 72 384 72 288 40 288' class='ci-primary'/>"]

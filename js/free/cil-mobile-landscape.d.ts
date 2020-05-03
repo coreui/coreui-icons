@@ -1,1 +1,1 @@
-export declare const cilMobileLandscape: string[];
+export declare const cilMobileLandscape: any[];

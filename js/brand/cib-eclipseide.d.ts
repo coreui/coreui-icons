@@ -1,1 +1,1 @@
-export declare const cibEclipseide: string[];
+export declare const cibEclipseide: any[];

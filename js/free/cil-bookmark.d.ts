@@ -1,1 +1,1 @@
-export declare const cilBookmark: string[];
+export declare const cilBookmark: any[];

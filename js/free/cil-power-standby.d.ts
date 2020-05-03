@@ -1,1 +1,1 @@
-export declare const cilPowerStandby: string[];
+export declare const cilPowerStandby: any[];

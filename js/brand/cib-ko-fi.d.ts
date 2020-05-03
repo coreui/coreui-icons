@@ -1,1 +1,1 @@
-export declare const cibKoFi: string[];
+export declare const cibKoFi: any[];

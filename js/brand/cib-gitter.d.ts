@@ -1,1 +1,1 @@
-export declare const cibGitter: string[];
+export declare const cibGitter: any[];

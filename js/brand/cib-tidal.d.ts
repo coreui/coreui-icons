@@ -1,1 +1,1 @@
-export declare const cibTidal: string[];
+export declare const cibTidal: any[];

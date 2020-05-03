@@ -1,1 +1,1 @@
-export const cilVerticalAlignTop = ["24 24","<path d='M0.75 0.75h22.5v1.5h-22.5v-1.5z'></path><path d='M7.307 9.182l1.061 1.061 2.882-2.882v14.015h1.5v-14.015l2.882 2.882 1.061-1.061-4.693-4.693-4.693 4.693z'></path>"]
+export const cilVerticalAlignTop = ["512 512","<rect width='480' height='32' x='16' y='16' fill='currentColor' class='ci-primary'/><polygon fill='currentColor' points='155.883 195.883 178.51 218.51 240 157.02 240 456 272 456 272 157.02 333.49 218.51 356.117 195.883 256 95.764 155.883 195.883' class='ci-primary'/>"]

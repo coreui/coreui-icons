@@ -1,1 +1,1 @@
-export declare const cibDeviantart: string[];
+export declare const cibDeviantart: any[];

@@ -1,1 +1,1 @@
-export declare const cilCloudDownload: string[];
+export declare const cilCloudDownload: any[];

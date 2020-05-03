@@ -1,1 +1,1 @@
-export declare const cilChevronDoubleDown: string[];
+export declare const cilChevronDoubleDown: any[];

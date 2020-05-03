@@ -1,1 +1,1 @@
-export declare const cibEthereum: string[];
+export declare const cibEthereum: any[];

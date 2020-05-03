@@ -1,1 +1,1 @@
-export declare const cibWordpress: string[];
+export declare const cibWordpress: any[];

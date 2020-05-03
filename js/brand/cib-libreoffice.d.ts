@@ -1,1 +1,1 @@
-export declare const cibLibreoffice: string[];
+export declare const cibLibreoffice: any[];

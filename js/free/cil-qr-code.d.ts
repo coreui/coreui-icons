@@ -1,1 +1,1 @@
-export declare const cilQrCode: string[];
+export declare const cilQrCode: any[];

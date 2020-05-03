@@ -1,1 +1,1 @@
-export declare const cibTripadvisor: string[];
+export declare const cibTripadvisor: any[];

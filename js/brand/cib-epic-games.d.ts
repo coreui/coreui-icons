@@ -1,1 +1,1 @@
-export declare const cibEpicGames: string[];
+export declare const cibEpicGames: any[];

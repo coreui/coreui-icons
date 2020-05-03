@@ -1,1 +1,1 @@
-export declare const cilFastfood: string[];
+export declare const cilFastfood: any[];

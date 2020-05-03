@@ -1,1 +1,1 @@
-export declare const cibDocker: string[];
+export declare const cibDocker: any[];

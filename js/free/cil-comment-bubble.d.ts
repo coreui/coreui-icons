@@ -1,1 +1,1 @@
-export declare const cilCommentBubble: string[];
+export declare const cilCommentBubble: any[];

@@ -1,1 +1,1 @@
-export declare const cibMaxcdn: string[];
+export declare const cibMaxcdn: any[];

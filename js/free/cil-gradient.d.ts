@@ -1,1 +1,1 @@
-export declare const cilGradient: string[];
+export declare const cilGradient: any[];

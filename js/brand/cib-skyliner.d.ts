@@ -1,1 +1,1 @@
-export declare const cibSkyliner: string[];
+export declare const cibSkyliner: any[];

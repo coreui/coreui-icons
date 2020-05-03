@@ -1,1 +1,1 @@
-export declare const cibCodesandbox: string[];
+export declare const cibCodesandbox: any[];

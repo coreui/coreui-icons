@@ -1,1 +1,1 @@
-export declare const cilFilterPhoto: string[];
+export declare const cilFilterPhoto: any[];

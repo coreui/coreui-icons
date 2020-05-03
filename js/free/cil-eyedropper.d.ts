@@ -1,1 +1,1 @@
-export declare const cilEyedropper: string[];
+export declare const cilEyedropper: any[];

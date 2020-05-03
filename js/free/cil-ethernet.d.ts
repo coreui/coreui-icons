@@ -1,1 +1,1 @@
-export declare const cilEthernet: string[];
+export declare const cilEthernet: any[];

@@ -1,1 +1,1 @@
-export declare const cilSpeedometer: string[];
+export declare const cilSpeedometer: any[];

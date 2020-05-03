@@ -1,1 +1,1 @@
-export declare const cilDollar: string[];
+export declare const cilDollar: any[];

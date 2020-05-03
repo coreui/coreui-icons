@@ -1,1 +1,1 @@
-export declare const cibYandex: string[];
+export declare const cibYandex: any[];

@@ -1,1 +1,1 @@
-export declare const cibOpenCollective: string[];
+export declare const cibOpenCollective: any[];

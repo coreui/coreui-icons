@@ -1,1 +1,1 @@
-export declare const cilBatteryAlert: string[];
+export declare const cilBatteryAlert: any[];

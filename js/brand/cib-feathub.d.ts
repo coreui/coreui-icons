@@ -1,1 +1,1 @@
-export declare const cibFeathub: string[];
+export declare const cibFeathub: any[];

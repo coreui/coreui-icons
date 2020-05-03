@@ -1,1 +1,1 @@
-export declare const cilBluetooth: string[];
+export declare const cilBluetooth: any[];

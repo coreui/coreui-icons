@@ -1,1 +1,1 @@
-export declare const cibEpson: string[];
+export declare const cibEpson: any[];

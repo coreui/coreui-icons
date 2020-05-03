@@ -1,1 +1,1 @@
-export declare const cibGenius: string[];
+export declare const cibGenius: any[];

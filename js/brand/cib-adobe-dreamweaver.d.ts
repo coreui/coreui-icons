@@ -1,1 +1,1 @@
-export declare const cibAdobeDreamweaver: string[];
+export declare const cibAdobeDreamweaver: any[];

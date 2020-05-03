@@ -1,1 +1,1 @@
-export declare const cibHockeyapp: string[];
+export declare const cibHockeyapp: any[];

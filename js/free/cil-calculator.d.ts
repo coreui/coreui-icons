@@ -1,1 +1,1 @@
-export declare const cilCalculator: string[];
+export declare const cilCalculator: any[];

@@ -1,1 +1,1 @@
-export declare const cibHubspot: string[];
+export declare const cibHubspot: any[];

@@ -1,1 +1,1 @@
-export declare const cibStyleshare: string[];
+export declare const cibStyleshare: any[];

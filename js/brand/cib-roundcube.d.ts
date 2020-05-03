@@ -1,1 +1,1 @@
-export declare const cibRoundcube: string[];
+export declare const cibRoundcube: any[];

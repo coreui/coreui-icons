@@ -1,1 +1,1 @@
-export declare const cilHotTub: string[];
+export declare const cilHotTub: any[];

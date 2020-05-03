@@ -1,1 +1,1 @@
-export declare const cibJet: string[];
+export declare const cibJet: any[];

@@ -1,1 +1,1 @@
-export declare const cibSubversion: string[];
+export declare const cibSubversion: any[];

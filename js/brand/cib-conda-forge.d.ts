@@ -1,1 +1,1 @@
-export declare const cibCondaForge: string[];
+export declare const cibCondaForge: any[];

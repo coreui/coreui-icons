@@ -1,1 +1,1 @@
-export declare const cibMixcloud: string[];
+export declare const cibMixcloud: any[];

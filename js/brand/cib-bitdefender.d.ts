@@ -1,1 +1,1 @@
-export declare const cibBitdefender: string[];
+export declare const cibBitdefender: any[];

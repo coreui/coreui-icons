@@ -1,1 +1,1 @@
-export declare const cibProtoIo: string[];
+export declare const cibProtoIo: any[];

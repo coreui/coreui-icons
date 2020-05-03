@@ -1,1 +1,1 @@
-export declare const cibAsana: string[];
+export declare const cibAsana: any[];

@@ -1,1 +1,1 @@
-export declare const cilSpreadsheet: string[];
+export declare const cilSpreadsheet: any[];

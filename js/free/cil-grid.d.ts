@@ -1,1 +1,1 @@
-export declare const cilGrid: string[];
+export declare const cilGrid: any[];

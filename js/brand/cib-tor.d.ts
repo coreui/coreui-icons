@@ -1,1 +1,1 @@
-export declare const cibTor: string[];
+export declare const cibTor: any[];

@@ -1,1 +1,1 @@
-export declare const cibPostman: string[];
+export declare const cibPostman: any[];

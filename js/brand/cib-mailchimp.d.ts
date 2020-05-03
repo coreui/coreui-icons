@@ -1,1 +1,1 @@
-export declare const cibMailchimp: string[];
+export declare const cibMailchimp: any[];

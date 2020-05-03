@@ -1,1 +1,1 @@
-export declare const cilHighlighter: string[];
+export declare const cilHighlighter: any[];

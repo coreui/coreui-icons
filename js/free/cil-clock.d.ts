@@ -1,1 +1,1 @@
-export declare const cilClock: string[];
+export declare const cilClock: any[];

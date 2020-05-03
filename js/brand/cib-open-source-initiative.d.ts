@@ -1,1 +1,1 @@
-export declare const cibOpenSourceInitiative: string[];
+export declare const cibOpenSourceInitiative: any[];

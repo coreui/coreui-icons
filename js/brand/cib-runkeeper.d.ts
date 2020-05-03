@@ -1,1 +1,1 @@
-export declare const cibRunkeeper: string[];
+export declare const cibRunkeeper: any[];

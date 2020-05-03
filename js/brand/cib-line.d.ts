@@ -1,1 +1,1 @@
-export declare const cibLine: string[];
+export declare const cibLine: any[];

@@ -1,1 +1,1 @@
-export declare const cibFreecodecamp: string[];
+export declare const cibFreecodecamp: any[];

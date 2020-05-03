@@ -1,1 +1,1 @@
-export declare const cibHappycow: string[];
+export declare const cibHappycow: any[];

@@ -1,1 +1,1 @@
-export declare const cilSortNumericUp: string[];
+export declare const cilSortNumericUp: any[];

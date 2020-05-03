@@ -1,1 +1,1 @@
-export declare const cibMagento: string[];
+export declare const cibMagento: any[];

@@ -1,1 +1,1 @@
-export declare const cibSymantec: string[];
+export declare const cibSymantec: any[];

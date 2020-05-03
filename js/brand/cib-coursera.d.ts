@@ -1,1 +1,1 @@
-export declare const cibCoursera: string[];
+export declare const cibCoursera: any[];

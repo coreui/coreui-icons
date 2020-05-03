@@ -1,1 +1,1 @@
-export declare const cibMonkeytie: string[];
+export declare const cibMonkeytie: any[];

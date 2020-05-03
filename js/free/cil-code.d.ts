@@ -1,1 +1,1 @@
-export declare const cilCode: string[];
+export declare const cilCode: any[];

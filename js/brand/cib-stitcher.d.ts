@@ -1,1 +1,1 @@
-export declare const cibStitcher: string[];
+export declare const cibStitcher: any[];

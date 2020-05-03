@@ -1,1 +1,1 @@
-export declare const cibStackpath: string[];
+export declare const cibStackpath: any[];

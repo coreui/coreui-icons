@@ -1,1 +1,1 @@
-export declare const cibVueJs: string[];
+export declare const cibVueJs: any[];

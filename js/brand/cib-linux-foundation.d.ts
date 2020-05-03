@@ -1,1 +1,1 @@
-export declare const cibLinuxFoundation: string[];
+export declare const cibLinuxFoundation: any[];

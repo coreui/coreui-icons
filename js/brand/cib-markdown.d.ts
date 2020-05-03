@@ -1,1 +1,1 @@
-export declare const cibMarkdown: string[];
+export declare const cibMarkdown: any[];

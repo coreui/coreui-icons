@@ -1,1 +1,1 @@
-export declare const cilGolfAlt: string[];
+export declare const cilGolfAlt: any[];

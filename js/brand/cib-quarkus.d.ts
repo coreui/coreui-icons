@@ -1,1 +1,1 @@
-export declare const cibQuarkus: string[];
+export declare const cibQuarkus: any[];

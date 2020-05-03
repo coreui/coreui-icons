@@ -1,1 +1,1 @@
-export declare const cibTeespring: string[];
+export declare const cibTeespring: any[];

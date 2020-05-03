@@ -1,1 +1,1 @@
-export declare const cilBorderVertical: string[];
+export declare const cilBorderVertical: any[];

@@ -1,1 +1,1 @@
-export declare const cibGitlab: string[];
+export declare const cibGitlab: any[];

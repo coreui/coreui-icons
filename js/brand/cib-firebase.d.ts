@@ -1,1 +1,1 @@
-export declare const cibFirebase: string[];
+export declare const cibFirebase: any[];

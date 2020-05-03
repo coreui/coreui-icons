@@ -1,1 +1,1 @@
-export declare const cilFont: string[];
+export declare const cilFont: any[];

@@ -1,1 +1,1 @@
-export declare const cibSitepoint: string[];
+export declare const cibSitepoint: any[];

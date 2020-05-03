@@ -1,1 +1,1 @@
-export declare const cilListHighPriority: string[];
+export declare const cilListHighPriority: any[];

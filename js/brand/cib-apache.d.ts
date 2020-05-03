@@ -1,1 +1,1 @@
-export declare const cibApache: string[];
+export declare const cibApache: any[];

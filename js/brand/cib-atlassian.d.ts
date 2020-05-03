@@ -1,1 +1,1 @@
-export declare const cibAtlassian: string[];
+export declare const cibAtlassian: any[];

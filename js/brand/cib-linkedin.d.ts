@@ -1,1 +1,1 @@
-export declare const cibLinkedin: string[];
+export declare const cibLinkedin: any[];

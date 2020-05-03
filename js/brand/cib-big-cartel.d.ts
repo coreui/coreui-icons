@@ -1,1 +1,1 @@
-export declare const cibBigCartel: string[];
+export declare const cibBigCartel: any[];

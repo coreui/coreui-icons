@@ -1,1 +1,1 @@
-export declare const cibShowpad: string[];
+export declare const cibShowpad: any[];

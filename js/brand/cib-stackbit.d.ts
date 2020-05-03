@@ -1,1 +1,1 @@
-export declare const cibStackbit: string[];
+export declare const cibStackbit: any[];

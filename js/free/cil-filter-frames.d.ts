@@ -1,1 +1,1 @@
-export declare const cilFilterFrames: string[];
+export declare const cilFilterFrames: any[];

@@ -1,1 +1,1 @@
-export declare const cibGoogleAds: string[];
+export declare const cibGoogleAds: any[];

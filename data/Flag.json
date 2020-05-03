@@ -1,0 +1,1186 @@
+{
+  "icons": [
+    {
+      "name": "AD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AF",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "AZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BB",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BF",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BJ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "BZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CF",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CV",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "CZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DJ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "DZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "EC",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "EE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "EG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ER",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ES",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ET",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "FI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "FJ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "FM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "FR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GB",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GQ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "GY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "HK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "HN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "HR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "HT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "HU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ID",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IQ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "IT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "JM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "JO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "JP",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KP",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "KZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LB",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LC",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LV",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "LY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MC",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ME",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ML",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MV",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MX",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "MZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NP",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "NZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "OM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "PY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "QA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "RO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "RS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "RU",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "RW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SB",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SC",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SI",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ST",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SV",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "SZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TD",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TH",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TJ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TL",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TO",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TR",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TT",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TV",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "TZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "UA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "UG",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "US",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "UY",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "UZ",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "VA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "VC",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "VE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "VN",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "WS",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "XK",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "YE",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ZA",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ZM",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    },
+    {
+      "name": "ZW",
+      "category": "Flag",
+      "type": "Flag",
+      "prefix": "cif-"
+    }
+  ]
+}

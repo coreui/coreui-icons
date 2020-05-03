@@ -1,1 +1,1 @@
-export declare const cibMessenger: string[];
+export declare const cibMessenger: any[];

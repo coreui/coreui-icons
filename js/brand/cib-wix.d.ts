@@ -1,1 +1,1 @@
-export declare const cibWix: string[];
+export declare const cibWix: any[];

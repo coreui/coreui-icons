@@ -1,1 +1,1 @@
-export declare const cibHatenaBookmark: string[];
+export declare const cibHatenaBookmark: any[];

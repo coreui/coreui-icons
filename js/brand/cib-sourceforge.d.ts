@@ -1,1 +1,1 @@
-export declare const cibSourceforge: string[];
+export declare const cibSourceforge: any[];

@@ -1,1 +1,1 @@
-export declare const cibTrello: string[];
+export declare const cibTrello: any[];

@@ -1,1 +1,1 @@
-export declare const cibHomify: string[];
+export declare const cibHomify: any[];

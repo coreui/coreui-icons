@@ -1,1 +1,1 @@
-export declare const cibMcafee: string[];
+export declare const cibMcafee: any[];

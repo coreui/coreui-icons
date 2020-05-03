@@ -1,1 +1,1 @@
-export declare const cilWarning: string[];
+export declare const cilWarning: any[];

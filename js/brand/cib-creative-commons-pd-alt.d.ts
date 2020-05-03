@@ -1,1 +1,1 @@
-export declare const cibCreativeCommonsPdAlt: string[];
+export declare const cibCreativeCommonsPdAlt: any[];

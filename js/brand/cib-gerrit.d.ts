@@ -1,1 +1,1 @@
-export declare const cibGerrit: string[];
+export declare const cibGerrit: any[];

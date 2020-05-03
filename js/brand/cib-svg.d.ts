@@ -1,1 +1,1 @@
-export declare const cibSvg: string[];
+export declare const cibSvg: any[];

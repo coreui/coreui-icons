@@ -1,1 +1,1 @@
-export declare const cibDigitalOcean: string[];
+export declare const cibDigitalOcean: any[];

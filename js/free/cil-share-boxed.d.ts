@@ -1,1 +1,1 @@
-export declare const cilShareBoxed: string[];
+export declare const cilShareBoxed: any[];

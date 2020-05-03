@@ -1,1 +1,1 @@
-export declare const cibElsevier: string[];
+export declare const cibElsevier: any[];

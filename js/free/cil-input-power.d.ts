@@ -1,1 +1,1 @@
-export declare const cilInputPower: string[];
+export declare const cilInputPower: any[];

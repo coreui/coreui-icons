@@ -1,1 +1,1 @@
-export declare const cibXcode: string[];
+export declare const cibXcode: any[];

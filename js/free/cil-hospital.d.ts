@@ -1,1 +1,1 @@
-export declare const cilHospital: string[];
+export declare const cilHospital: any[];

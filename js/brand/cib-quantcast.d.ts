@@ -1,1 +1,1 @@
-export declare const cibQuantcast: string[];
+export declare const cibQuantcast: any[];

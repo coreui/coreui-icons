@@ -1,1 +1,1 @@
-export declare const cilBurger: string[];
+export declare const cilBurger: any[];

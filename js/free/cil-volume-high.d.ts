@@ -1,1 +1,1 @@
-export declare const cilVolumeHigh: string[];
+export declare const cilVolumeHigh: any[];

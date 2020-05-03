@@ -1,1 +1,1 @@
-export declare const cibPingdom: string[];
+export declare const cibPingdom: any[];

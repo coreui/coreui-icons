@@ -1,1 +1,1 @@
-export declare const cibWhenIWork: string[];
+export declare const cibWhenIWork: any[];

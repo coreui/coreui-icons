@@ -1,1 +1,1 @@
-export declare const cilFax: string[];
+export declare const cilFax: any[];

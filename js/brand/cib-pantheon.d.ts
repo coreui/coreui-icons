@@ -1,1 +1,1 @@
-export declare const cibPantheon: string[];
+export declare const cibPantheon: any[];

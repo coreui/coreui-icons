@@ -1,1 +1,1 @@
-export declare const cibMattermost: string[];
+export declare const cibMattermost: any[];

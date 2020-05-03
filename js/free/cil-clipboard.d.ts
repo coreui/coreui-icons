@@ -1,1 +1,1 @@
-export declare const cilClipboard: string[];
+export declare const cilClipboard: any[];

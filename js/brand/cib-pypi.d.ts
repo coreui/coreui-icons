@@ -1,1 +1,1 @@
-export declare const cibPypi: string[];
+export declare const cibPypi: any[];

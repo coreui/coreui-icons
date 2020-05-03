@@ -1,1 +1,1 @@
-export declare const cibScala: string[];
+export declare const cibScala: any[];

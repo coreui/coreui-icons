@@ -1,1 +1,1 @@
-export declare const cilEqualizer: string[];
+export declare const cilEqualizer: any[];

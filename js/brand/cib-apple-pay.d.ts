@@ -1,1 +1,1 @@
-export declare const cibApplePay: string[];
+export declare const cibApplePay: any[];

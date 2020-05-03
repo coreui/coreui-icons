@@ -1,1 +1,1 @@
-export declare const cibReact: string[];
+export declare const cibReact: any[];

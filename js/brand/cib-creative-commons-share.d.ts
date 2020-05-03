@@ -1,1 +1,1 @@
-export declare const cibCreativeCommonsShare: string[];
+export declare const cibCreativeCommonsShare: any[];

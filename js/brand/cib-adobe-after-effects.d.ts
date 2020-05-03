@@ -1,1 +1,1 @@
-export declare const cibAdobeAfterEffects: string[];
+export declare const cibAdobeAfterEffects: any[];

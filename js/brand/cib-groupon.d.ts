@@ -1,1 +1,1 @@
-export declare const cibGroupon: string[];
+export declare const cibGroupon: any[];

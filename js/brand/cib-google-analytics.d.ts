@@ -1,1 +1,1 @@
-export declare const cibGoogleAnalytics: string[];
+export declare const cibGoogleAnalytics: any[];

@@ -1,1 +1,1 @@
-export declare const cibSprint: string[];
+export declare const cibSprint: any[];

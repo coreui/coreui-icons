@@ -1,1 +1,1 @@
-export declare const cibAdobeIndesign: string[];
+export declare const cibAdobeIndesign: any[];

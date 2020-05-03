@@ -1,1 +1,1 @@
-export declare const cibGradle: string[];
+export declare const cibGradle: any[];

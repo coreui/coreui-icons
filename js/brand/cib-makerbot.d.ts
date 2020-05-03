@@ -1,1 +1,1 @@
-export declare const cibMakerbot: string[];
+export declare const cibMakerbot: any[];

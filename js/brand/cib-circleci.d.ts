@@ -1,1 +1,1 @@
-export declare const cibCircleci: string[];
+export declare const cibCircleci: any[];

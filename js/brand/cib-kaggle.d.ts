@@ -1,1 +1,1 @@
-export declare const cibKaggle: string[];
+export declare const cibKaggle: any[];

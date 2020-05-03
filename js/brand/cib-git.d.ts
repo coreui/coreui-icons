@@ -1,1 +1,1 @@
-export declare const cibGit: string[];
+export declare const cibGit: any[];

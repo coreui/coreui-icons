@@ -1,1 +1,1 @@
-export declare const cilWifiSignalOff: string[];
+export declare const cilWifiSignalOff: any[];

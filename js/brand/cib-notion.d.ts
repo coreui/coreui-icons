@@ -1,1 +1,1 @@
-export declare const cibNotion: string[];
+export declare const cibNotion: any[];

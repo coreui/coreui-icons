@@ -1,1 +1,1 @@
-export declare const cifYe: string[];
+export declare const cifYE: any[];

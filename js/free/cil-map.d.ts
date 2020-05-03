@@ -1,1 +1,1 @@
-export declare const cilMap: string[];
+export declare const cilMap: any[];

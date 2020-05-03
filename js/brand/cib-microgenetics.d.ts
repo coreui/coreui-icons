@@ -1,1 +1,1 @@
-export declare const cibMicrogenetics: string[];
+export declare const cibMicrogenetics: any[];

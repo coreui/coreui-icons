@@ -1,1 +1,1 @@
-export declare const cibSwarm: string[];
+export declare const cibSwarm: any[];

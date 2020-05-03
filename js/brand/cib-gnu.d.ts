@@ -1,1 +1,1 @@
-export declare const cibGnu: string[];
+export declare const cibGnu: any[];

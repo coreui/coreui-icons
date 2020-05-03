@@ -1,1 +1,1 @@
-export declare const cilMusicNote: string[];
+export declare const cilMusicNote: any[];

@@ -1,1 +1,1 @@
-export declare const cibEventbrite: string[];
+export declare const cibEventbrite: any[];

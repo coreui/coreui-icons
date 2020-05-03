@@ -1,1 +1,1 @@
-export declare const cibZoom: string[];
+export declare const cibZoom: any[];

@@ -1,1 +1,1 @@
-export declare const cibTopcoder: string[];
+export declare const cibTopcoder: any[];

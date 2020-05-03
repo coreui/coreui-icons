@@ -1,1 +1,1 @@
-export declare const cibJenkins: string[];
+export declare const cibJenkins: any[];

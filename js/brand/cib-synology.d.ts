@@ -1,1 +1,1 @@
-export declare const cibSynology: string[];
+export declare const cibSynology: any[];

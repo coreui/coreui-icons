@@ -1,1 +1,1 @@
-export declare const cibElastic: string[];
+export declare const cibElastic: any[];

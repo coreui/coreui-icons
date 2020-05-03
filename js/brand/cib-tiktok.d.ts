@@ -1,1 +1,1 @@
-export declare const cibTiktok: string[];
+export declare const cibTiktok: any[];

@@ -1,1 +1,1 @@
-export declare const cibQuantopian: string[];
+export declare const cibQuantopian: any[];

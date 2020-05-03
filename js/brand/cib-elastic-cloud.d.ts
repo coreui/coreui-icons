@@ -1,1 +1,1 @@
-export declare const cibElasticCloud: string[];
+export declare const cibElasticCloud: any[];

@@ -1,1 +1,1 @@
-export declare const cibFlutter: string[];
+export declare const cibFlutter: any[];

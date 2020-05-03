@@ -1,1 +1,1 @@
-export declare const cibFedex: string[];
+export declare const cibFedex: any[];

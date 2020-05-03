@@ -1,1 +1,1 @@
-export declare const cibHtml5Shield: string[];
+export declare const cibHtml5Shield: any[];

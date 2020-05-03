@@ -1,1 +1,1 @@
-export declare const cibSensu: string[];
+export declare const cibSensu: any[];

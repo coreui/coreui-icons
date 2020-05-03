@@ -1,1 +1,1 @@
-export declare const cibMongodb: string[];
+export declare const cibMongodb: any[];

@@ -1,1 +1,1 @@
-export declare const cibSquarespace: string[];
+export declare const cibSquarespace: any[];

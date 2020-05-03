@@ -1,1 +1,1 @@
-export declare const cibAnsible: string[];
+export declare const cibAnsible: any[];

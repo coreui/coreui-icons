@@ -1,1 +1,1 @@
-export declare const cibUnrealEngine: string[];
+export declare const cibUnrealEngine: any[];

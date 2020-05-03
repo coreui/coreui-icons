@@ -1,1 +1,1 @@
-export declare const cibGreensock: string[];
+export declare const cibGreensock: any[];

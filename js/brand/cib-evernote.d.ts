@@ -1,1 +1,1 @@
-export declare const cibEvernote: string[];
+export declare const cibEvernote: any[];

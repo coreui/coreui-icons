@@ -1,1 +1,1 @@
-export declare const cibAirbnb: string[];
+export declare const cibAirbnb: any[];

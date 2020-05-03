@@ -1,1 +1,1 @@
-export declare const cibGlitch: string[];
+export declare const cibGlitch: any[];

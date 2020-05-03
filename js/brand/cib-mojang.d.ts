@@ -1,1 +1,1 @@
-export declare const cibMojang: string[];
+export declare const cibMojang: any[];

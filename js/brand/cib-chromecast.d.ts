@@ -1,1 +1,1 @@
-export declare const cibChromecast: string[];
+export declare const cibChromecast: any[];

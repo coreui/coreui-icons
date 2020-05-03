@@ -1,1 +1,1 @@
-export declare const cilAssistiveListeningSystem: string[];
+export declare const cilAssistiveListeningSystem: any[];

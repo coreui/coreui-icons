@@ -1,1 +1,1 @@
-export declare const cibLeetcode: string[];
+export declare const cibLeetcode: any[];

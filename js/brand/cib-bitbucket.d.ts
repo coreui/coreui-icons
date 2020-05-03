@@ -1,1 +1,1 @@
-export declare const cibBitbucket: string[];
+export declare const cibBitbucket: any[];

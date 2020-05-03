@@ -1,1 +1,1 @@
-export declare const cibSpacex: string[];
+export declare const cibSpacex: any[];

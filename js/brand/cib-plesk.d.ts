@@ -1,1 +1,1 @@
-export declare const cibPlesk: string[];
+export declare const cibPlesk: any[];

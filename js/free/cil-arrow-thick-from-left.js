@@ -1,1 +1,1 @@
-export const cilArrowThickFromLeft = ["24 24","<path d='M13.875 2.625h-1.811v5.625h-6.75v7.5h6.75v5.625h1.81l9.375-9.366zM13.564 19.565v-5.315h-6.75v-4.5h6.75v-5.314l7.564 7.572z'></path><path d='M0.814 2.625h1.5v18.75h-1.5v-18.75z'></path>"]
+export const cilArrowThickFromLeft = ["512 512","<path fill='currentColor' d='M296.007,56H257.375V176h-144V336h144V456H296L496,256.2Zm-6.632,361.384V304h-144V208h144V94.639l161.37,161.535Z' class='ci-primary'/><rect width='32' height='400' x='17.375' y='56' fill='currentColor' class='ci-primary'/>"]

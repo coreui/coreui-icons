@@ -1,1 +1,1 @@
-export declare const cibRedbubble: string[];
+export declare const cibRedbubble: any[];

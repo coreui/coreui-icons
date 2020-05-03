@@ -1,1 +1,1 @@
-export declare const cilObjectGroup: string[];
+export declare const cilObjectGroup: any[];

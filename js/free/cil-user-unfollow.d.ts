@@ -1,1 +1,1 @@
-export declare const cilUserUnfollow: string[];
+export declare const cilUserUnfollow: any[];

@@ -1,1 +1,1 @@
-export declare const cibSymfony: string[];
+export declare const cibSymfony: any[];

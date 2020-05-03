@@ -1,1 +1,1 @@
-export declare const cilChildFriendly: string[];
+export declare const cilChildFriendly: any[];

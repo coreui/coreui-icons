@@ -1,1 +1,1 @@
-export declare const cilClearAll: string[];
+export declare const cilClearAll: any[];

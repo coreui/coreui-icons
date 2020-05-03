@@ -1,1 +1,1 @@
-export declare const cibHuawei: string[];
+export declare const cibHuawei: any[];

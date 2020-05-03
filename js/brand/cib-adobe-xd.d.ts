@@ -1,1 +1,1 @@
-export declare const cibAdobeXd: string[];
+export declare const cibAdobeXd: any[];

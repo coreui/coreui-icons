@@ -1,1 +1,1 @@
-export declare const cilTaxi: string[];
+export declare const cilTaxi: any[];

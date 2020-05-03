@@ -1,1 +1,1 @@
-export declare const cibArchiveOfOurOwn: string[];
+export declare const cibArchiveOfOurOwn: any[];

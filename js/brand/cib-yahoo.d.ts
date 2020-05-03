@@ -1,1 +1,1 @@
-export declare const cibYahoo: string[];
+export declare const cibYahoo: any[];

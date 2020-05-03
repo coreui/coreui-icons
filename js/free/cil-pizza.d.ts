@@ -1,1 +1,1 @@
-export declare const cilPizza: string[];
+export declare const cilPizza: any[];

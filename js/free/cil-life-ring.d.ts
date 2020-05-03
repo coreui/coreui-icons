@@ -1,1 +1,1 @@
-export declare const cilLifeRing: string[];
+export declare const cilLifeRing: any[];

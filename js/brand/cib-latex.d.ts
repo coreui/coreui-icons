@@ -1,1 +1,1 @@
-export declare const cibLatex: string[];
+export declare const cibLatex: any[];

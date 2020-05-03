@@ -1,1 +1,1 @@
-export declare const cibConfluence: string[];
+export declare const cibConfluence: any[];

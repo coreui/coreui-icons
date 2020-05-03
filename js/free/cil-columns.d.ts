@@ -1,1 +1,1 @@
-export declare const cilColumns: string[];
+export declare const cilColumns: any[];

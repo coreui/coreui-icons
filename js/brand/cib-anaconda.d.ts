@@ -1,1 +1,1 @@
-export declare const cibAnaconda: string[];
+export declare const cibAnaconda: any[];

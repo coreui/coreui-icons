@@ -1,1 +1,1 @@
-export declare const cibCodeClimate: string[];
+export declare const cibCodeClimate: any[];

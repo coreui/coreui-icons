@@ -1,1 +1,1 @@
-export declare const cilCompass: string[];
+export declare const cilCompass: any[];

@@ -1,1 +1,1 @@
-export declare const cibFigma: string[];
+export declare const cibFigma: any[];

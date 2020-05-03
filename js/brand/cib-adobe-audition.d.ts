@@ -1,1 +1,1 @@
-export declare const cibAdobeAudition: string[];
+export declare const cibAdobeAudition: any[];

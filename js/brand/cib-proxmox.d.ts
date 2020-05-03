@@ -1,1 +1,1 @@
-export declare const cibProxmox: string[];
+export declare const cibProxmox: any[];

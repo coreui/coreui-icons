@@ -1,1 +1,1 @@
-export declare const cilSpeaker: string[];
+export declare const cilSpeaker: any[];

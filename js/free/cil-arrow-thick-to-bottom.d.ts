@@ -1,1 +1,1 @@
-export declare const cilArrowThickToBottom: string[];
+export declare const cilArrowThickToBottom: any[];

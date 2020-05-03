@@ -1,1 +1,1 @@
-export declare const cibGroovy: string[];
+export declare const cibGroovy: any[];

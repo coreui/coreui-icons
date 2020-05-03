@@ -1,1 +1,1 @@
-export declare const cibGlassdoor: string[];
+export declare const cibGlassdoor: any[];

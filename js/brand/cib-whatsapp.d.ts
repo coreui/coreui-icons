@@ -1,1 +1,1 @@
-export declare const cibWhatsapp: string[];
+export declare const cibWhatsapp: any[];

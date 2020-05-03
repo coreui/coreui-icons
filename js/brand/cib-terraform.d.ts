@@ -1,1 +1,1 @@
-export declare const cibTerraform: string[];
+export declare const cibTerraform: any[];

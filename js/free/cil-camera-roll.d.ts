@@ -1,1 +1,1 @@
-export declare const cilCameraRoll: string[];
+export declare const cilCameraRoll: any[];

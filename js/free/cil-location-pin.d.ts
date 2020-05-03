@@ -1,1 +1,1 @@
-export declare const cilLocationPin: string[];
+export declare const cilLocationPin: any[];

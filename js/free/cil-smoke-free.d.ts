@@ -1,1 +1,1 @@
-export declare const cilSmokeFree: string[];
+export declare const cilSmokeFree: any[];

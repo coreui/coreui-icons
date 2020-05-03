@@ -1,1 +1,1 @@
-export declare const cibMaterialDesign: string[];
+export declare const cibMaterialDesign: any[];

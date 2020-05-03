@@ -1,1 +1,1 @@
-export declare const cibPluralsight: string[];
+export declare const cibPluralsight: any[];

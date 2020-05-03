@@ -1,1 +1,1 @@
-export declare const cilIndentDecrease: string[];
+export declare const cilIndentDecrease: any[];

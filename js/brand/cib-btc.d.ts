@@ -1,1 +1,1 @@
-export declare const cibBtc: string[];
+export declare const cibBtc: any[];

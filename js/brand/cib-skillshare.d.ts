@@ -1,1 +1,1 @@
-export declare const cibSkillshare: string[];
+export declare const cibSkillshare: any[];

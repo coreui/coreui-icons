@@ -1,1 +1,1 @@
-export declare const cilBusAlt: string[];
+export declare const cilBusAlt: any[];

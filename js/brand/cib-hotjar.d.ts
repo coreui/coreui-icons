@@ -1,1 +1,1 @@
-export declare const cibHotjar: string[];
+export declare const cibHotjar: any[];

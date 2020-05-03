@@ -1,1 +1,1 @@
-export declare const cibSlickpic: string[];
+export declare const cibSlickpic: any[];

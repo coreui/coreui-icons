@@ -1,1 +1,1 @@
-export declare const cibRaspberryPi: string[];
+export declare const cibRaspberryPi: any[];

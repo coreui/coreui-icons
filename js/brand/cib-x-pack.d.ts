@@ -1,1 +1,1 @@
-export declare const cibXPack: string[];
+export declare const cibXPack: any[];

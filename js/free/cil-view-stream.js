@@ -1,1 +1,1 @@
-export const cilViewStream = ["24 24","<path d='M0.75 3v18h22.5v-18zM21.75 4.5v6.75h-19.5v-6.75zM2.25 19.5v-6.75h19.5v6.75z'></path>"]
+export const cilViewStream = ["512 512","<path fill='currentColor' d='M16,64V448H496V64ZM464,96V240H48V96ZM48,416V272H464V416Z' class='ci-primary'/>"]

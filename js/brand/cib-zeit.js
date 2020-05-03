@@ -1,1 +1,1 @@
-export const cibZeit = ["32 32","<path d='M32 30.031h-32l16-28.061z'></path>"]
+export const cibZeit = ["32 32","<path d='M32 30.031h-32l16-28.061z'/>"]

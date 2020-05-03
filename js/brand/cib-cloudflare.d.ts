@@ -1,1 +1,1 @@
-export declare const cibCloudflare: string[];
+export declare const cibCloudflare: any[];

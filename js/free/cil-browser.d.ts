@@ -1,1 +1,1 @@
-export declare const cilBrowser: string[];
+export declare const cilBrowser: any[];

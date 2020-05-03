@@ -1,1 +1,1 @@
-export declare const cilCast: string[];
+export declare const cilCast: any[];

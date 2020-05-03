@@ -1,1 +1,1 @@
-export declare const cibCommonWorkflowLanguage: string[];
+export declare const cibCommonWorkflowLanguage: any[];

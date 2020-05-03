@@ -1,1 +1,1 @@
-export declare const cibCloudbees: string[];
+export declare const cibCloudbees: any[];

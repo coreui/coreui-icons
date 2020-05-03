@@ -1,1 +1,1 @@
-export declare const cilBan: string[];
+export declare const cilBan: any[];

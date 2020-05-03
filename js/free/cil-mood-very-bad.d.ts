@@ -1,1 +1,1 @@
-export declare const cilMoodVeryBad: string[];
+export declare const cilMoodVeryBad: any[];

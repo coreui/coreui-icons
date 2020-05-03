@@ -1,1 +1,1 @@
-export declare const cibMagisk: string[];
+export declare const cibMagisk: any[];

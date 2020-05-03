@@ -1,1 +1,1 @@
-export declare const cibInstagram: string[];
+export declare const cibInstagram: any[];

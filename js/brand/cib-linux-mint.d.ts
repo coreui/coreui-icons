@@ -1,1 +1,1 @@
-export declare const cibLinuxMint: string[];
+export declare const cibLinuxMint: any[];

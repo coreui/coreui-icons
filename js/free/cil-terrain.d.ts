@@ -1,1 +1,1 @@
-export declare const cilTerrain: string[];
+export declare const cilTerrain: any[];

@@ -1,1 +1,1 @@
-export declare const cibOpera: string[];
+export declare const cibOpera: any[];

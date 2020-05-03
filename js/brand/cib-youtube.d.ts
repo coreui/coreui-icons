@@ -1,1 +1,1 @@
-export declare const cibYoutube: string[];
+export declare const cibYoutube: any[];

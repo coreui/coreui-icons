@@ -1,1 +1,1 @@
-export declare const cibSlashdot: string[];
+export declare const cibSlashdot: any[];

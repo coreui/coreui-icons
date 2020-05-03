@@ -1,1 +1,1 @@
-export declare const cibIssuu: string[];
+export declare const cibIssuu: any[];

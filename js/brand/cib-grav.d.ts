@@ -1,1 +1,1 @@
-export declare const cibGrav: string[];
+export declare const cibGrav: any[];

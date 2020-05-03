@@ -1,1 +1,1 @@
-export declare const cibUmbraco: string[];
+export declare const cibUmbraco: any[];

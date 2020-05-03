@@ -1,1 +1,1 @@
-export declare const cibPostgresql: string[];
+export declare const cibPostgresql: any[];

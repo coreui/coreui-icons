@@ -1,1 +1,1 @@
-export declare const cilChevronCircleUpAlt: string[];
+export declare const cilChevronCircleUpAlt: any[];

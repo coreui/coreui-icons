@@ -1,1 +1,1 @@
-export declare const cibSongkick: string[];
+export declare const cibSongkick: any[];

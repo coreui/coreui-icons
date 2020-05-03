@@ -1,1 +1,1 @@
-export declare const cibCoderwall: string[];
+export declare const cibCoderwall: any[];

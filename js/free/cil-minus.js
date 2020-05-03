@@ -1,1 +1,1 @@
-export const cilMinus = ["24 24","<path d='M3.375 11.25h17.25v1.5h-17.25v-1.5z'></path>"]
+export const cilMinus = ["512 512","<rect width='368' height='32' x='72' y='240' fill='currentColor' class='ci-primary'/>"]

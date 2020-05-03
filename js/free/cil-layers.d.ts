@@ -1,1 +1,1 @@
-export declare const cilLayers: string[];
+export declare const cilLayers: any[];

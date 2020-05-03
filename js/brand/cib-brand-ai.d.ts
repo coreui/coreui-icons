@@ -1,1 +1,1 @@
-export declare const cibBrandAi: string[];
+export declare const cibBrandAi: any[];

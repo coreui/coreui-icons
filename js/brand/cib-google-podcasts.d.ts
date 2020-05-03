@@ -1,1 +1,1 @@
-export declare const cibGooglePodcasts: string[];
+export declare const cibGooglePodcasts: any[];

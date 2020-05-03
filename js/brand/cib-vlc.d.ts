@@ -1,1 +1,1 @@
-export declare const cibVlc: string[];
+export declare const cibVlc: any[];

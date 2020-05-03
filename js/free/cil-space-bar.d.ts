@@ -1,1 +1,1 @@
-export declare const cilSpaceBar: string[];
+export declare const cilSpaceBar: any[];

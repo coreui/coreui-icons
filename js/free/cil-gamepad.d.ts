@@ -1,1 +1,1 @@
-export declare const cilGamepad: string[];
+export declare const cilGamepad: any[];

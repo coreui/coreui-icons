@@ -1,1 +1,1 @@
-export declare const cibPeriscope: string[];
+export declare const cibPeriscope: any[];

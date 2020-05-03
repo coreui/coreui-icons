@@ -1,1 +1,1 @@
-export declare const cilWallet: string[];
+export declare const cilWallet: any[];

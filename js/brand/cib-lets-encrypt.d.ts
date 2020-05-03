@@ -1,1 +1,1 @@
-export declare const cibLetsEncrypt: string[];
+export declare const cibLetsEncrypt: any[];

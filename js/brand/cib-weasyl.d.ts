@@ -1,1 +1,1 @@
-export declare const cibWeasyl: string[];
+export declare const cibWeasyl: any[];

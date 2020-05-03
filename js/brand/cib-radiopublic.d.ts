@@ -1,1 +1,1 @@
-export declare const cibRadiopublic: string[];
+export declare const cibRadiopublic: any[];

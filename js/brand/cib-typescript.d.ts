@@ -1,1 +1,1 @@
-export declare const cibTypescript: string[];
+export declare const cibTypescript: any[];

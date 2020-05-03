@@ -1,1 +1,1 @@
-export declare const cilBirthdayCake: string[];
+export declare const cilBirthdayCake: any[];

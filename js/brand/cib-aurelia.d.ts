@@ -1,1 +1,1 @@
-export declare const cibAurelia: string[];
+export declare const cibAurelia: any[];

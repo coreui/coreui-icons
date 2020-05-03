@@ -1,1 +1,1 @@
-export declare const cifAe: string[];
+export declare const cifAE: any[];

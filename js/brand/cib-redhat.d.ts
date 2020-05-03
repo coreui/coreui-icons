@@ -1,1 +1,1 @@
-export declare const cibRedhat: string[];
+export declare const cibRedhat: any[];

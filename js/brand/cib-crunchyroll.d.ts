@@ -1,1 +1,1 @@
-export declare const cibCrunchyroll: string[];
+export declare const cibCrunchyroll: any[];

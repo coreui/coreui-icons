@@ -1,1 +1,1 @@
-export declare const cibScrutinizerci: string[];
+export declare const cibScrutinizerci: any[];

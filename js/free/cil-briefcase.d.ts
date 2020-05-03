@@ -1,1 +1,1 @@
-export declare const cilBriefcase: string[];
+export declare const cilBriefcase: any[];

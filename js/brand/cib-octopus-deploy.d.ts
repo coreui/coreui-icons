@@ -1,1 +1,1 @@
-export declare const cibOctopusDeploy: string[];
+export declare const cibOctopusDeploy: any[];

@@ -1,1 +1,1 @@
-export declare const cibAutotask: string[];
+export declare const cibAutotask: any[];

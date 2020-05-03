@@ -1,1 +1,1 @@
-export const cilParagraph = ["24 24","<path d='M20.625 3h-10.875c-3.314 0-6 2.686-6 6s2.686 6 6 6v0h2.625v6h5.25v-16.5h3zM9.75 13.5c-2.485 0-4.5-2.015-4.5-4.5s2.015-4.5 4.5-4.5v0h2.625v9zM16.125 19.5h-2.25v-15h2.25z'></path>"]
+export const cilParagraph = ["512 512","<path fill='currentColor' d='M440,64H208a128,128,0,0,0,0,256h56V448H376V96h64ZM264,288H208a96,96,0,0,1,0-192h56Zm80,128H296V96h48Z' class='ci-primary'/>"]

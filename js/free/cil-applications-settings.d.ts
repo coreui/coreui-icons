@@ -1,1 +1,1 @@
-export declare const cilApplicationsSettings: string[];
+export declare const cilApplicationsSettings: any[];

@@ -1,1 +1,1 @@
-export declare const cilCarAlt: string[];
+export declare const cilCarAlt: any[];

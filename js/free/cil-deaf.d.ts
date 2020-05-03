@@ -1,1 +1,1 @@
-export declare const cilDeaf: string[];
+export declare const cilDeaf: any[];

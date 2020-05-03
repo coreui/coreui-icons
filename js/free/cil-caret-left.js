@@ -1,1 +1,1 @@
-export const cilCaretLeft = ["24 24","<path d='M18.767 23.25h-1.709l-12.558-11.237 12.647-11.248h1.619zM6.753 12.017l10.513 9.407v-18.757z'></path>"]
+export const cilCaretLeft = ["512 512","<path fill='currentColor' d='M400.358,496h-36.45L96,256.286,365.811,16.333h34.547ZM144.071,256.358,368.358,457.042V56.892Z' class='ci-primary'/>"]

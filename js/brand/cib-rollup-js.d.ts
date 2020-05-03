@@ -1,1 +1,1 @@
-export declare const cibRollupJs: string[];
+export declare const cibRollupJs: any[];

@@ -1,1 +1,1 @@
-export declare const cibYCombinator: string[];
+export declare const cibYCombinator: any[];

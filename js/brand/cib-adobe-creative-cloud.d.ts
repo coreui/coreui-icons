@@ -1,1 +1,1 @@
-export declare const cibAdobeCreativeCloud: string[];
+export declare const cibAdobeCreativeCloud: any[];

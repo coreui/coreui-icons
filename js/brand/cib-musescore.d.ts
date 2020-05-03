@@ -1,1 +1,1 @@
-export declare const cibMusescore: string[];
+export declare const cibMusescore: any[];

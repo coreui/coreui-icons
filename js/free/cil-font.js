@@ -1,1 +1,1 @@
-export const cilFont = ["24 24","<path d='M9.003 15.516h5.995l1.129 2.859h2.721l-5.236-13.266h-3.222l-5.236 13.266h2.721zM12 7.922l1.998 5.062h-3.997z'></path><path d='M0.75 0.75v22.5h22.5v-22.5zM21.75 21.75h-19.5v-19.5h19.5z'></path>"]
+export const cilFont = ["512 512","<path fill='currentColor' d='M221.631,109,109.92,392h58.055l24.079-61H319.946l24.079,61H402.08L290.369,109ZM213.37,277,256,169l42.63,108Z' class='ci-primary'/><path fill='currentColor' d='M16,496H496V16H16ZM48,48H464V464H48Z' class='ci-primary'/>"]

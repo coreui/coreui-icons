@@ -1,1 +1,1 @@
-export declare const cibDependabot: string[];
+export declare const cibDependabot: any[];

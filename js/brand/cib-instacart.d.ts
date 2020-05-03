@@ -1,1 +1,1 @@
-export declare const cibInstacart: string[];
+export declare const cibInstacart: any[];

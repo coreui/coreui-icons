@@ -1,1 +1,1 @@
-export declare const cibLaravel: string[];
+export declare const cibLaravel: any[];

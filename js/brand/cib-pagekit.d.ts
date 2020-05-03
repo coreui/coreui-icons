@@ -1,1 +1,1 @@
-export declare const cibPagekit: string[];
+export declare const cibPagekit: any[];

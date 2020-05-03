@@ -1,1 +1,1 @@
-export declare const cilCasino: string[];
+export declare const cilCasino: any[];

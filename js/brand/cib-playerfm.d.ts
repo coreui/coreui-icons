@@ -1,1 +1,1 @@
-export declare const cibPlayerfm: string[];
+export declare const cibPlayerfm: any[];

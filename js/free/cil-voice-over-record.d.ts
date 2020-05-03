@@ -1,1 +1,1 @@
-export declare const cilVoiceOverRecord: string[];
+export declare const cilVoiceOverRecord: any[];

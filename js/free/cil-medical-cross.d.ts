@@ -1,1 +1,1 @@
-export declare const cilMedicalCross: string[];
+export declare const cilMedicalCross: any[];

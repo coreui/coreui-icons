@@ -1,1 +1,1 @@
-export declare const cibTencentWeibo: string[];
+export declare const cibTencentWeibo: any[];

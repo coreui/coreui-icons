@@ -1,1 +1,1 @@
-export declare const cibIfixit: string[];
+export declare const cibIfixit: any[];

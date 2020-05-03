@@ -1,1 +1,1 @@
-export declare const cilAirplaneModeOff: string[];
+export declare const cilAirplaneModeOff: any[];

@@ -1,1 +1,1 @@
-export declare const cibGraphcool: string[];
+export declare const cibGraphcool: any[];

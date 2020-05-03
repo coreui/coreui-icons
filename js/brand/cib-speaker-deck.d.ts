@@ -1,1 +1,1 @@
-export declare const cibSpeakerDeck: string[];
+export declare const cibSpeakerDeck: any[];

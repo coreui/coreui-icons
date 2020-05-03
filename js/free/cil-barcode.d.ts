@@ -1,1 +1,1 @@
-export declare const cilBarcode: string[];
+export declare const cilBarcode: any[];

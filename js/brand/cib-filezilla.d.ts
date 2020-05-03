@@ -1,1 +1,1 @@
-export declare const cibFilezilla: string[];
+export declare const cibFilezilla: any[];

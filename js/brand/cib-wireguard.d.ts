@@ -1,1 +1,1 @@
-export declare const cibWireguard: string[];
+export declare const cibWireguard: any[];

@@ -1,1 +1,1 @@
-export declare const cibProductHunt: string[];
+export declare const cibProductHunt: any[];

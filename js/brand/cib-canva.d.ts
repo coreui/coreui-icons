@@ -1,1 +1,1 @@
-export declare const cibCanva: string[];
+export declare const cibCanva: any[];

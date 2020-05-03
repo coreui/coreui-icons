@@ -1,1 +1,1 @@
-export declare const cibDtube: string[];
+export declare const cibDtube: any[];

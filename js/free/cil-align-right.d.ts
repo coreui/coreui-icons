@@ -1,1 +1,1 @@
-export declare const cilAlignRight: string[];
+export declare const cilAlignRight: any[];

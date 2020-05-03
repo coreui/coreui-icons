@@ -1,1 +1,1 @@
-export declare const cibSlides: string[];
+export declare const cibSlides: any[];

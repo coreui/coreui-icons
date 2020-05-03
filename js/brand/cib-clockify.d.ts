@@ -1,1 +1,1 @@
-export declare const cibClockify: string[];
+export declare const cibClockify: any[];

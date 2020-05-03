@@ -1,1 +1,1 @@
-export declare const cilUserFemale: string[];
+export declare const cilUserFemale: any[];

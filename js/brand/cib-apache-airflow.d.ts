@@ -1,1 +1,1 @@
-export declare const cibApacheAirflow: string[];
+export declare const cibApacheAirflow: any[];

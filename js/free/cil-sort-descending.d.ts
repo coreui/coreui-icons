@@ -1,1 +1,1 @@
-export declare const cilSortDescending: string[];
+export declare const cilSortDescending: any[];

@@ -1,1 +1,1 @@
-export declare const cilHandPointRight: string[];
+export declare const cilHandPointRight: any[];

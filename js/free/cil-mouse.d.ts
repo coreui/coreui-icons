@@ -1,1 +1,1 @@
-export declare const cilMouse: string[];
+export declare const cilMouse: any[];

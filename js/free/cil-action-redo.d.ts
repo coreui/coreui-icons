@@ -1,1 +1,1 @@
-export declare const cilActionRedo: string[];
+export declare const cilActionRedo: any[];

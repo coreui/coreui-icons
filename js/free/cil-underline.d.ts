@@ -1,1 +1,1 @@
-export declare const cilUnderline: string[];
+export declare const cilUnderline: any[];

@@ -1,1 +1,1 @@
-export declare const cibHtmlacademy: string[];
+export declare const cibHtmlacademy: any[];

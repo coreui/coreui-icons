@@ -1,1 +1,1 @@
-export declare const cibNintendoGamecube: string[];
+export declare const cibNintendoGamecube: any[];

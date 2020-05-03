@@ -1,1 +1,1 @@
-export declare const cilFingerprint: string[];
+export declare const cilFingerprint: any[];

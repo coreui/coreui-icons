@@ -1,1 +1,1 @@
-export declare const cibCampaignMonitor: string[];
+export declare const cibCampaignMonitor: any[];

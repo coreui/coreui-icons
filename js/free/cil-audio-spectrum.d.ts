@@ -1,1 +1,1 @@
-export declare const cilAudioSpectrum: string[];
+export declare const cilAudioSpectrum: any[];

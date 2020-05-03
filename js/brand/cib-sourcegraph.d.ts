@@ -1,1 +1,1 @@
-export declare const cibSourcegraph: string[];
+export declare const cibSourcegraph: any[];

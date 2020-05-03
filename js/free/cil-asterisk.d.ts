@@ -1,1 +1,1 @@
-export declare const cilAsterisk: string[];
+export declare const cilAsterisk: any[];

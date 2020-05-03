@@ -1,1 +1,1 @@
-export declare const cibTwitch: string[];
+export declare const cibTwitch: any[];

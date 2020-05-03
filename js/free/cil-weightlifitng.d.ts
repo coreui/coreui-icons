@@ -1,1 +1,1 @@
-export declare const cilWeightlifitng: string[];
+export declare const cilWeightlifitng: any[];

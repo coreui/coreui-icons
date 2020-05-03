@@ -1,1 +1,1 @@
-export declare const cibJsdelivr: string[];
+export declare const cibJsdelivr: any[];

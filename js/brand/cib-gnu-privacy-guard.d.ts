@@ -1,1 +1,1 @@
-export declare const cibGnuPrivacyGuard: string[];
+export declare const cibGnuPrivacyGuard: any[];

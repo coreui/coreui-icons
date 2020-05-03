@@ -1,1 +1,1 @@
-export declare const cibDraugiemLv: string[];
+export declare const cibDraugiemLv: any[];

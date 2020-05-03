@@ -1,1 +1,1 @@
-export declare const cibLaravelHorizon: string[];
+export declare const cibLaravelHorizon: any[];

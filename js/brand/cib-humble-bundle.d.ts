@@ -1,1 +1,1 @@
-export declare const cibHumbleBundle: string[];
+export declare const cibHumbleBundle: any[];

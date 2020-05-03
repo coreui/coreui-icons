@@ -1,1 +1,1 @@
-export declare const cilFullscreenExit: string[];
+export declare const cilFullscreenExit: any[];

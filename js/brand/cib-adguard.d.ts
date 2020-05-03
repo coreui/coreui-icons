@@ -1,1 +1,1 @@
-export declare const cibAdguard: string[];
+export declare const cibAdguard: any[];

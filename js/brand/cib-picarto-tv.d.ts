@@ -1,1 +1,1 @@
-export declare const cibPicartoTv: string[];
+export declare const cibPicartoTv: any[];

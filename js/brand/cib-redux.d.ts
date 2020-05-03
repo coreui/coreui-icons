@@ -1,1 +1,1 @@
-export declare const cibRedux: string[];
+export declare const cibRedux: any[];

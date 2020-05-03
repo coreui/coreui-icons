@@ -1,1 +1,1 @@
-export declare const cibPlangrid: string[];
+export declare const cibPlangrid: any[];

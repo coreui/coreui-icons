@@ -1,1 +1,1 @@
-export declare const cilDoubleQuoteSansRight: string[];
+export declare const cilDoubleQuoteSansRight: any[];

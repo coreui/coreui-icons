@@ -1,1 +1,1 @@
-export declare const cilSignalCellular0: string[];
+export declare const cilSignalCellular0: any[];

@@ -1,1 +1,1 @@
-export declare const cibIntercom: string[];
+export declare const cibIntercom: any[];

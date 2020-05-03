@@ -1,1 +1,1 @@
-export declare const cilToggleOff: string[];
+export declare const cilToggleOff: any[];

@@ -1,1 +1,1 @@
-export declare const cibJetbrains: string[];
+export declare const cibJetbrains: any[];

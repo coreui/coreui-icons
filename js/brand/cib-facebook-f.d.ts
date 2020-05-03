@@ -1,1 +1,1 @@
-export declare const cibFacebookF: string[];
+export declare const cibFacebookF: any[];

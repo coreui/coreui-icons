@@ -1,1 +1,1 @@
-export declare const cibOvercast: string[];
+export declare const cibOvercast: any[];

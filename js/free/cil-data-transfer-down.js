@@ -1,1 +1,1 @@
-export const cilDataTransferDown = ["24 24","<path d='M0.75 21.75h22.5v1.5h-22.5v-1.5z'></path><path d='M18.53 14.030l-1.061-1.061-4.345 4.345v-16.564h-1.5v16.564l-4.345-4.345-1.061 1.061 6.155 6.155 6.155-6.155z'></path>"]
+export const cilDataTransferDown = ["512 512","<rect width='480' height='32' x='16' y='464' fill='currentColor' class='ci-primary'/><polygon fill='currentColor' points='395.313 299.313 372.687 276.687 280 369.373 280 16 248 16 248 369.373 155.313 276.687 132.687 299.313 264 430.627 395.313 299.313' class='ci-primary'/>"]

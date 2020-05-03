@@ -1,1 +1,1 @@
-export declare const cibCss3Shiled: string[];
+export declare const cibCss3Shiled: any[];

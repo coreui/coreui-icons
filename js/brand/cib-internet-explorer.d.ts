@@ -1,1 +1,1 @@
-export declare const cibInternetExplorer: string[];
+export declare const cibInternetExplorer: any[];

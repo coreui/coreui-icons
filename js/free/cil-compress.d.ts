@@ -1,1 +1,1 @@
-export declare const cilCompress: string[];
+export declare const cilCompress: any[];

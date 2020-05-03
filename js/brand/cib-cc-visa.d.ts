@@ -1,1 +1,1 @@
-export declare const cibCcVisa: string[];
+export declare const cibCcVisa: any[];

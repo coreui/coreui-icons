@@ -1,1 +1,1 @@
-export declare const cilMediaPause: string[];
+export declare const cilMediaPause: any[];

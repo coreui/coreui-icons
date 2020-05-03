@@ -1,1 +1,1 @@
-export declare const cibVisualStudioCode: string[];
+export declare const cibVisualStudioCode: any[];

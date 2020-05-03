@@ -1,1 +1,1 @@
-export declare const cibSpacemacs: string[];
+export declare const cibSpacemacs: any[];

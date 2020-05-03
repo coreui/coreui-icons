@@ -1,1 +1,1 @@
-export declare const cibManjaro: string[];
+export declare const cibManjaro: any[];

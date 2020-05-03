@@ -1,1 +1,1 @@
-export declare const cibIntellijidea: string[];
+export declare const cibIntellijidea: any[];

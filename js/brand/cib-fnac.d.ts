@@ -1,1 +1,1 @@
-export declare const cibFnac: string[];
+export declare const cibFnac: any[];

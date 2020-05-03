@@ -1,1 +1,1 @@
-export declare const cilLockLocked: string[];
+export declare const cilLockLocked: any[];

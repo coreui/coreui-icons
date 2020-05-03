@@ -1,1 +1,1 @@
-export declare const cibUbuntu: string[];
+export declare const cibUbuntu: any[];

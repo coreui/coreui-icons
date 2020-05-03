@@ -1,1 +1,1 @@
-export declare const cibDisqus: string[];
+export declare const cibDisqus: any[];

@@ -1,1 +1,1 @@
-export declare const cibJavascript: string[];
+export declare const cibJavascript: any[];

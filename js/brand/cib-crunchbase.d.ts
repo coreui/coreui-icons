@@ -1,1 +1,1 @@
-export declare const cibCrunchbase: string[];
+export declare const cibCrunchbase: any[];

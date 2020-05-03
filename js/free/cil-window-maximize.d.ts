@@ -1,1 +1,1 @@
-export declare const cilWindowMaximize: string[];
+export declare const cilWindowMaximize: any[];

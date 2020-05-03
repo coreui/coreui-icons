@@ -1,1 +1,1 @@
-export declare const cibLivejournal: string[];
+export declare const cibLivejournal: any[];

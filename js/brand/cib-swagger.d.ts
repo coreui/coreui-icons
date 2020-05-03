@@ -1,1 +1,1 @@
-export declare const cibSwagger: string[];
+export declare const cibSwagger: any[];

@@ -1,1 +1,1 @@
-export declare const cibServerFault: string[];
+export declare const cibServerFault: any[];

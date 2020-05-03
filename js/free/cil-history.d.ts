@@ -1,1 +1,1 @@
-export declare const cilHistory: string[];
+export declare const cilHistory: any[];

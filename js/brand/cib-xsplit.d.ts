@@ -1,1 +1,1 @@
-export declare const cibXsplit: string[];
+export declare const cibXsplit: any[];

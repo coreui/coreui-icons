@@ -1,1 +1,1 @@
-export declare const cilWallpaper: string[];
+export declare const cilWallpaper: any[];

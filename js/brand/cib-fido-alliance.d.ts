@@ -1,1 +1,1 @@
-export declare const cibFidoAlliance: string[];
+export declare const cibFidoAlliance: any[];

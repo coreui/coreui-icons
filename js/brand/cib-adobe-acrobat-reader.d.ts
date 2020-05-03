@@ -1,1 +1,1 @@
-export declare const cibAdobeAcrobatReader: string[];
+export declare const cibAdobeAcrobatReader: any[];

@@ -1,1 +1,1 @@
-export declare const cibSocketIo: string[];
+export declare const cibSocketIo: any[];

@@ -1,1 +1,1 @@
-export declare const cilViewQuilt: string[];
+export declare const cilViewQuilt: any[];

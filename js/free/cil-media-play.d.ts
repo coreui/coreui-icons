@@ -1,1 +1,1 @@
-export declare const cilMediaPlay: string[];
+export declare const cilMediaPlay: any[];

@@ -1,1 +1,1 @@
-export declare const cilResizeHeight: string[];
+export declare const cilResizeHeight: any[];

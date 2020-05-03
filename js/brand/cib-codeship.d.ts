@@ -1,1 +1,1 @@
-export declare const cibCodeship: string[];
+export declare const cibCodeship: any[];

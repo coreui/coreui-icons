@@ -1,1 +1,1 @@
-export declare const cilMobile: string[];
+export declare const cilMobile: any[];

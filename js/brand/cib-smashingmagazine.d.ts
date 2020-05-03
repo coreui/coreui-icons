@@ -1,1 +1,1 @@
-export declare const cibSmashingmagazine: string[];
+export declare const cibSmashingmagazine: any[];

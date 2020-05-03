@@ -1,1 +1,1 @@
-export declare const cilStream: string[];
+export declare const cilStream: any[];

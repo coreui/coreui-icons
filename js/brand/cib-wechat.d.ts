@@ -1,1 +1,1 @@
-export declare const cibWechat: string[];
+export declare const cibWechat: any[];

@@ -1,1 +1,1 @@
-export declare const cibSuperuser: string[];
+export declare const cibSuperuser: any[];

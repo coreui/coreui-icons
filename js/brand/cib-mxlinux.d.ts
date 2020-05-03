@@ -1,1 +1,1 @@
-export declare const cibMxlinux: string[];
+export declare const cibMxlinux: any[];

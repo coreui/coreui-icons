@@ -1,1 +1,1 @@
-export declare const cibSublimeText: string[];
+export declare const cibSublimeText: any[];

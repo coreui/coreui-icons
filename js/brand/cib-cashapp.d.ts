@@ -1,1 +1,1 @@
-export declare const cibCashapp: string[];
+export declare const cibCashapp: any[];

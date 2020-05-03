@@ -1,1 +1,1 @@
-export declare const cibRiot: string[];
+export declare const cibRiot: any[];

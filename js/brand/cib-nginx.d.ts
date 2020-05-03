@@ -1,1 +1,1 @@
-export declare const cibNginx: string[];
+export declare const cibNginx: any[];

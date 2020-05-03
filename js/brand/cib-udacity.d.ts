@@ -1,1 +1,1 @@
-export declare const cibUdacity: string[];
+export declare const cibUdacity: any[];

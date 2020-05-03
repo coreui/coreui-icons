@@ -1,1 +1,1 @@
-export declare const cibMonogram: string[];
+export declare const cibMonogram: any[];

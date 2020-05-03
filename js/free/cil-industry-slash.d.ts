@@ -1,1 +1,1 @@
-export declare const cilIndustrySlash: string[];
+export declare const cilIndustrySlash: any[];

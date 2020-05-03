@@ -1,1 +1,1 @@
-export declare const cibAdobeLightroom: string[];
+export declare const cibAdobeLightroom: any[];

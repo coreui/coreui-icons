@@ -1,1 +1,1 @@
-export declare const cibRails: string[];
+export declare const cibRails: any[];

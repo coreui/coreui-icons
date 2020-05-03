@@ -1,1 +1,1 @@
-export declare const cibQwiklabs: string[];
+export declare const cibQwiklabs: any[];

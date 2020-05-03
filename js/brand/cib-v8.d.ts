@@ -1,1 +1,1 @@
-export declare const cibV8: string[];
+export declare const cibV8: any[];

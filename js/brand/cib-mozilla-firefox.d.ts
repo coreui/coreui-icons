@@ -1,1 +1,1 @@
-export declare const cibMozillaFirefox: string[];
+export declare const cibMozillaFirefox: any[];

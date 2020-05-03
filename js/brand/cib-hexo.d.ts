@@ -1,1 +1,1 @@
-export declare const cibHexo: string[];
+export declare const cibHexo: any[];

@@ -1,1 +1,1 @@
-export declare const cibFlipboard: string[];
+export declare const cibFlipboard: any[];

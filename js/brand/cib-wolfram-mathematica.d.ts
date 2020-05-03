@@ -1,1 +1,1 @@
-export declare const cibWolframMathematica: string[];
+export declare const cibWolframMathematica: any[];

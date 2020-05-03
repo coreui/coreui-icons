@@ -1,1 +1,1 @@
-export declare const cilFindInPage: string[];
+export declare const cilFindInPage: any[];

@@ -1,1 +1,1 @@
-export declare const cibHipchat: string[];
+export declare const cibHipchat: any[];

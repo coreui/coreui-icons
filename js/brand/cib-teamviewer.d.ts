@@ -1,1 +1,1 @@
-export declare const cibTeamviewer: string[];
+export declare const cibTeamviewer: any[];

@@ -1,1 +1,1 @@
-export declare const cibKaspersky: string[];
+export declare const cibKaspersky: any[];

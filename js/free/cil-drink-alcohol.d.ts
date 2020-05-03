@@ -1,1 +1,1 @@
-export declare const cilDrinkAlcohol: string[];
+export declare const cilDrinkAlcohol: any[];

@@ -1,1 +1,1 @@
-export declare const cilAirplay: string[];
+export declare const cilAirplay: any[];

@@ -1,1 +1,1 @@
-export declare const cibNextcloud: string[];
+export declare const cibNextcloud: any[];

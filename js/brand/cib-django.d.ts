@@ -1,1 +1,1 @@
-export declare const cibDjango: string[];
+export declare const cibDjango: any[];

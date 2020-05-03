@@ -1,1 +1,1 @@
-export declare const cibElasticSearch: string[];
+export declare const cibElasticSearch: any[];

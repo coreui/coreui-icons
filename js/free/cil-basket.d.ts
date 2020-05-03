@@ -1,1 +1,1 @@
-export declare const cilBasket: string[];
+export declare const cilBasket: any[];

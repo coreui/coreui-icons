@@ -1,1 +1,1 @@
-export const cilBookmark = ["24 24","<path d='M19.875 23.25h-1.652l-6.222-5.382-6.213 5.382h-1.663v-22.5h15.75zM5.625 2.25v19.156l6.375-5.522 6.375 5.514v-19.149z'></path>"]
+export const cilBookmark = ["512 512","<path fill='currentColor' d='M424,496H388.75L256.008,381.19,123.467,496H88V16H424ZM120,48V456.667l135.992-117.8L392,456.5V48Z' class='ci-primary'/>"]

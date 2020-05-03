@@ -1,1 +1,1 @@
-export declare const cibRubygems: string[];
+export declare const cibRubygems: any[];

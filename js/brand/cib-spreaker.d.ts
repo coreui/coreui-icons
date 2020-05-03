@@ -1,1 +1,1 @@
-export declare const cibSpreaker: string[];
+export declare const cibSpreaker: any[];

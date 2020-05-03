@@ -1,1 +1,1 @@
-export declare const cibOracle: string[];
+export declare const cibOracle: any[];

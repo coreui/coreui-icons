@@ -1,1 +1,1 @@
-export declare const cibClojure: string[];
+export declare const cibClojure: any[];

@@ -1,1 +1,1 @@
-export const cilShortText = ["24 24","<path d='M6 9h12v1.5h-12v-1.5z'></path><path d='M6 14.25h6v1.5h-6v-1.5z'></path><path d='M2.25 4.125v16.125h19.5v-16.125zM20.25 18.75h-16.5v-13.125h16.5z'></path>"]
+export const cilShortText = ["512 512","<rect width='256' height='32' x='128' y='192' fill='currentColor' class='ci-primary'/><rect width='128' height='32' x='128' y='304' fill='currentColor' class='ci-primary'/><path fill='currentColor' d='M48,432H464V88H48ZM80,120H432V400H80Z' class='ci-primary'/>"]

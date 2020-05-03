@@ -1,1 +1,1 @@
-export declare const cibSpotlight: string[];
+export declare const cibSpotlight: any[];

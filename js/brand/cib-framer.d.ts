@@ -1,1 +1,1 @@
-export declare const cibFramer: string[];
+export declare const cibFramer: any[];

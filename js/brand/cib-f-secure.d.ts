@@ -1,1 +1,1 @@
-export declare const cibFSecure: string[];
+export declare const cibFSecure: any[];

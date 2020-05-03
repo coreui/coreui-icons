@@ -1,1 +1,1 @@
-export declare const cibCoOp: string[];
+export declare const cibCoOp: any[];

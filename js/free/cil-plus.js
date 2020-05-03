@@ -1,1 +1,1 @@
-export const cilPlus = ["24 24","<path d='M20.625 11.25h-7.875v-7.875h-1.5v7.875h-7.875v1.5h7.875v7.875h1.5v-7.875h7.875v-1.5z'></path>"]
+export const cilPlus = ["512 512","<polygon fill='currentColor' points='440 240 272 240 272 72 240 72 240 240 72 240 72 272 240 272 240 440 272 440 272 272 440 272 440 240' class='ci-primary'/>"]

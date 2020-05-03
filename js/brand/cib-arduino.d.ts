@@ -1,1 +1,1 @@
-export declare const cibArduino: string[];
+export declare const cibArduino: any[];

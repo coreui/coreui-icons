@@ -1,1 +1,1 @@
-export declare const cibBancontact: string[];
+export declare const cibBancontact: any[];

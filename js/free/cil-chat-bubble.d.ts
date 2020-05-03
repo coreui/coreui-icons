@@ -1,1 +1,1 @@
-export declare const cilChatBubble: string[];
+export declare const cilChatBubble: any[];

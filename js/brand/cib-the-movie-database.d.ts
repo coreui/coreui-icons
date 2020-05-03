@@ -1,1 +1,1 @@
-export declare const cibTheMovieDatabase: string[];
+export declare const cibTheMovieDatabase: any[];

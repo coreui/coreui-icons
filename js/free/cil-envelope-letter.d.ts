@@ -1,1 +1,1 @@
-export declare const cilEnvelopeLetter: string[];
+export declare const cilEnvelopeLetter: any[];

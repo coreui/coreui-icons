@@ -1,1 +1,1 @@
-export declare const cibWebstorm: string[];
+export declare const cibWebstorm: any[];

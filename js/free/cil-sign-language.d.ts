@@ -1,1 +1,1 @@
-export declare const cilSignLanguage: string[];
+export declare const cilSignLanguage: any[];

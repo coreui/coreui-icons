@@ -1,1 +1,1 @@
-export declare const cibNodeJs: string[];
+export declare const cibNodeJs: any[];

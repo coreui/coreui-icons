@@ -1,1 +1,1 @@
-export declare const cibRuby: string[];
+export declare const cibRuby: any[];

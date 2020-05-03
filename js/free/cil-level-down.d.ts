@@ -1,1 +1,1 @@
-export declare const cilLevelDown: string[];
+export declare const cilLevelDown: any[];

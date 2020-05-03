@@ -1,1 +1,1 @@
-export declare const cibAndroidAlt: string[];
+export declare const cibAndroidAlt: any[];

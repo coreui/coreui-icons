@@ -1,1 +1,1 @@
-export declare const cibSassAlt: string[];
+export declare const cibSassAlt: any[];

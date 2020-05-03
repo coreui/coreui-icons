@@ -1,1 +1,1 @@
-export declare const cilCheckAlt: string[];
+export declare const cilCheckAlt: any[];

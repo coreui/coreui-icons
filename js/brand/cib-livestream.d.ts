@@ -1,1 +1,1 @@
-export declare const cibLivestream: string[];
+export declare const cibLivestream: any[];

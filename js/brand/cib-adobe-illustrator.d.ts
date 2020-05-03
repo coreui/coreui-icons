@@ -1,1 +1,1 @@
-export declare const cibAdobeIllustrator: string[];
+export declare const cibAdobeIllustrator: any[];

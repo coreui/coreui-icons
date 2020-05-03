@@ -1,1 +1,1 @@
-export declare const cibFreebsd: string[];
+export declare const cibFreebsd: any[];

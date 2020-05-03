@@ -1,1 +1,1 @@
-export declare const cibShell: string[];
+export declare const cibShell: any[];

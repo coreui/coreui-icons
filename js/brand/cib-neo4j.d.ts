@@ -1,1 +1,1 @@
-export declare const cibNeo4j: string[];
+export declare const cibNeo4j: any[];

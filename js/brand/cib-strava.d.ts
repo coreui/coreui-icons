@@ -1,1 +1,1 @@
-export declare const cibStrava: string[];
+export declare const cibStrava: any[];

@@ -1,1 +1,1 @@
-export declare const cilFlip: string[];
+export declare const cilFlip: any[];

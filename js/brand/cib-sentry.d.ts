@@ -1,1 +1,1 @@
-export declare const cibSentry: string[];
+export declare const cibSentry: any[];

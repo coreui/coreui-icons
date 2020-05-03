@@ -1,1 +1,1 @@
-export declare const cibSparkfun: string[];
+export declare const cibSparkfun: any[];

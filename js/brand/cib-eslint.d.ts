@@ -1,1 +1,1 @@
-export declare const cibEslint: string[];
+export declare const cibEslint: any[];

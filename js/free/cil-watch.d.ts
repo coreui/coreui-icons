@@ -1,1 +1,1 @@
-export declare const cilWatch: string[];
+export declare const cilWatch: any[];

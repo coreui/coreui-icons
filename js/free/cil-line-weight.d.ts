@@ -1,1 +1,1 @@
-export declare const cilLineWeight: string[];
+export declare const cilLineWeight: any[];

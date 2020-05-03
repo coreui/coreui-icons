@@ -1,1 +1,1 @@
-export declare const cibPatreon: string[];
+export declare const cibPatreon: any[];

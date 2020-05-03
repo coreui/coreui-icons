@@ -1,1 +1,1 @@
-export declare const cibFeedly: string[];
+export declare const cibFeedly: any[];

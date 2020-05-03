@@ -1,1 +1,1 @@
-export declare const cibNvidia: string[];
+export declare const cibNvidia: any[];

@@ -1,1 +1,1 @@
-export declare const cibEnvato: string[];
+export declare const cibEnvato: any[];

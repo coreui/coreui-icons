@@ -1,1 +1,1 @@
-export declare const cilMediaRecord: string[];
+export declare const cilMediaRecord: any[];

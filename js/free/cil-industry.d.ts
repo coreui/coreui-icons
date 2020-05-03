@@ -1,1 +1,1 @@
-export declare const cilIndustry: string[];
+export declare const cilIndustry: any[];

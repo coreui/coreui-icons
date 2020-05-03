@@ -1,1 +1,1 @@
-export declare const cibPrismic: string[];
+export declare const cibPrismic: any[];

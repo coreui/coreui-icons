@@ -1,1 +1,1 @@
-export declare const cibMedium: string[];
+export declare const cibMedium: any[];

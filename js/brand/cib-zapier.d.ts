@@ -1,1 +1,1 @@
-export declare const cibZapier: string[];
+export declare const cibZapier: any[];

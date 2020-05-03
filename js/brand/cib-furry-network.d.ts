@@ -1,1 +1,1 @@
-export declare const cibFurryNetwork: string[];
+export declare const cibFurryNetwork: any[];

@@ -1,1 +1,1 @@
-export declare const cilPlaylistAdd: string[];
+export declare const cilPlaylistAdd: any[];

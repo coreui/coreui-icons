@@ -1,1 +1,1 @@
-export declare const cibDesignerNews: string[];
+export declare const cibDesignerNews: any[];

@@ -1,1 +1,1 @@
-export declare const cibLetterboxd: string[];
+export declare const cibLetterboxd: any[];

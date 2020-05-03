@@ -1,1 +1,1 @@
-export declare const cilBadge: string[];
+export declare const cilBadge: any[];

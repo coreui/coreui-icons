@@ -1,1 +1,1 @@
-export declare const cilFaceDead: string[];
+export declare const cilFaceDead: any[];

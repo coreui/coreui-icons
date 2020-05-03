@@ -1,1 +1,1 @@
-export declare const cibGodotEngine: string[];
+export declare const cibGodotEngine: any[];

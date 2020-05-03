@@ -1,1 +1,1 @@
-export declare const cibMathworks: string[];
+export declare const cibMathworks: any[];

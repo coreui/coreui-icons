@@ -1,1 +1,1 @@
-export declare const cibRealm: string[];
+export declare const cibRealm: any[];

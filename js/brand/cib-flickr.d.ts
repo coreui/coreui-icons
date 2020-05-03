@@ -1,1 +1,1 @@
-export declare const cibFlickr: string[];
+export declare const cibFlickr: any[];

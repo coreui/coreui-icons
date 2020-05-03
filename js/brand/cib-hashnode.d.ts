@@ -1,1 +1,1 @@
-export declare const cibHashnode: string[];
+export declare const cibHashnode: any[];

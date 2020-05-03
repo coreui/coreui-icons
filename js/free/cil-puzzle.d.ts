@@ -1,1 +1,1 @@
-export declare const cilPuzzle: string[];
+export declare const cilPuzzle: any[];

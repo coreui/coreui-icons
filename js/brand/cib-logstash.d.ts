@@ -1,1 +1,1 @@
-export declare const cibLogstash: string[];
+export declare const cibLogstash: any[];

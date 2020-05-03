@@ -1,1 +1,1 @@
-export declare const cibKentico: string[];
+export declare const cibKentico: any[];

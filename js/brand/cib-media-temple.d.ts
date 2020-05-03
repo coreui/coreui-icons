@@ -1,1 +1,1 @@
-export declare const cibMediaTemple: string[];
+export declare const cibMediaTemple: any[];

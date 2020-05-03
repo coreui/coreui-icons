@@ -1,1 +1,1 @@
-export declare const cibPrettier: string[];
+export declare const cibPrettier: any[];

@@ -1,1 +1,1 @@
-export declare const cibPhp: string[];
+export declare const cibPhp: any[];

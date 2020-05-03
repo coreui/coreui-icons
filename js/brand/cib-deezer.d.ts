@@ -1,1 +1,1 @@
-export declare const cibDeezer: string[];
+export declare const cibDeezer: any[];

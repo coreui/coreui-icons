@@ -1,1 +1,1 @@
-export declare const cibUntappd: string[];
+export declare const cibUntappd: any[];

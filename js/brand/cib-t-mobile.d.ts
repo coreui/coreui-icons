@@ -1,1 +1,1 @@
-export declare const cibTMobile: string[];
+export declare const cibTMobile: any[];

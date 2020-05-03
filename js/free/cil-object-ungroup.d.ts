@@ -1,1 +1,1 @@
-export declare const cilObjectUngroup: string[];
+export declare const cilObjectUngroup: any[];

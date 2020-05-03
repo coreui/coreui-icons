@@ -1,1 +1,1 @@
-export declare const cibSkype: string[];
+export declare const cibSkype: any[];

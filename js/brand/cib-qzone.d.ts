@@ -1,1 +1,1 @@
-export declare const cibQzone: string[];
+export declare const cibQzone: any[];

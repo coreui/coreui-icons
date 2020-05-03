@@ -1,1 +1,1 @@
-export declare const cilCalendarCheck: string[];
+export declare const cilCalendarCheck: any[];

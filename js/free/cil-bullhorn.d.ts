@@ -1,1 +1,1 @@
-export declare const cilBullhorn: string[];
+export declare const cilBullhorn: any[];

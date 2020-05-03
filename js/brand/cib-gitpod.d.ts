@@ -1,1 +1,1 @@
-export declare const cibGitpod: string[];
+export declare const cibGitpod: any[];

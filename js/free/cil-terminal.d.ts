@@ -1,1 +1,1 @@
-export declare const cilTerminal: string[];
+export declare const cilTerminal: any[];

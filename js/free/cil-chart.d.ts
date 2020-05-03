@@ -1,1 +1,1 @@
-export declare const cilChart: string[];
+export declare const cilChart: any[];

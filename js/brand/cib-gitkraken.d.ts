@@ -1,1 +1,1 @@
-export declare const cibGitkraken: string[];
+export declare const cibGitkraken: any[];

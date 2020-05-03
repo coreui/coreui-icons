@@ -1,1 +1,1 @@
-export declare const cibUblockOrigin: string[];
+export declare const cibUblockOrigin: any[];

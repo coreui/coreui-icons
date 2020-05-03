@@ -1,1 +1,1 @@
-export declare const cibUnsplash: string[];
+export declare const cibUnsplash: any[];

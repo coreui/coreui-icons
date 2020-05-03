@@ -1,1 +1,1 @@
-export declare const cibOverleaf: string[];
+export declare const cibOverleaf: any[];

@@ -1,1 +1,1 @@
-export declare const cibTodoist: string[];
+export declare const cibTodoist: any[];

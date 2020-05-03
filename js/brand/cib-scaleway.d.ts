@@ -1,1 +1,1 @@
-export declare const cibScaleway: string[];
+export declare const cibScaleway: any[];

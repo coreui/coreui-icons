@@ -1,1 +1,1 @@
-export declare const cilPaperclip: string[];
+export declare const cilPaperclip: any[];

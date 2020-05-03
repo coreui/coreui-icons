@@ -1,1 +1,1 @@
-export declare const cibOpensuse: string[];
+export declare const cibOpensuse: any[];

@@ -1,1 +1,1 @@
-export declare const cibGravatar: string[];
+export declare const cibGravatar: any[];

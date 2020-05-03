@@ -1,1 +1,1 @@
-export declare const cilBorderTop: string[];
+export declare const cilBorderTop: any[];

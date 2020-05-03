@@ -1,1 +1,1 @@
-export declare const cilScrubber: string[];
+export declare const cilScrubber: any[];

@@ -1,1 +1,1 @@
-export declare const cilTouchApp: string[];
+export declare const cilTouchApp: any[];

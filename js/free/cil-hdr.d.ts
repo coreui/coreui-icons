@@ -1,1 +1,1 @@
-export declare const cilHdr: string[];
+export declare const cilHdr: any[];

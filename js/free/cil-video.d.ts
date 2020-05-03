@@ -1,1 +1,1 @@
-export declare const cilVideo: string[];
+export declare const cilVideo: any[];

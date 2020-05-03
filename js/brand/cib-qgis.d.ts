@@ -1,1 +1,1 @@
-export declare const cibQgis: string[];
+export declare const cibQgis: any[];

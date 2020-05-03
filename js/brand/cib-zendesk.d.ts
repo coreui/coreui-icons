@@ -1,1 +1,1 @@
-export declare const cibZendesk: string[];
+export declare const cibZendesk: any[];

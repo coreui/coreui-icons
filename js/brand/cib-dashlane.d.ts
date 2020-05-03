@@ -1,1 +1,1 @@
-export declare const cibDashlane: string[];
+export declare const cibDashlane: any[];

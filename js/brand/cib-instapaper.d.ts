@@ -1,1 +1,1 @@
-export declare const cibInstapaper: string[];
+export declare const cibInstapaper: any[];

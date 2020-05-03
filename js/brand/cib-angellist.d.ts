@@ -1,1 +1,1 @@
-export declare const cibAngellist: string[];
+export declare const cibAngellist: any[];

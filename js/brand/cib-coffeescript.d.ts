@@ -1,1 +1,1 @@
-export declare const cibCoffeescript: string[];
+export declare const cibCoffeescript: any[];

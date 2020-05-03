@@ -1,1 +1,1 @@
-export declare const cibOpenstreetmap: string[];
+export declare const cibOpenstreetmap: any[];

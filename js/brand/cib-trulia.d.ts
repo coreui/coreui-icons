@@ -1,1 +1,1 @@
-export declare const cibTrulia: string[];
+export declare const cibTrulia: any[];

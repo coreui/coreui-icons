@@ -1,1 +1,1 @@
-export declare const cibGmail: string[];
+export declare const cibGmail: any[];

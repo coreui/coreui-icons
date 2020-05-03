@@ -1,1 +1,1 @@
-export declare const cilScreenSmartphone: string[];
+export declare const cilScreenSmartphone: any[];

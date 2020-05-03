@@ -1,1 +1,1 @@
-export declare const cilPaintBucket: string[];
+export declare const cilPaintBucket: any[];

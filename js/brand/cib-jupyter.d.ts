@@ -1,1 +1,1 @@
-export declare const cibJupyter: string[];
+export declare const cibJupyter: any[];

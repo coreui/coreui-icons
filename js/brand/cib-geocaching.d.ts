@@ -1,1 +1,1 @@
-export declare const cibGeocaching: string[];
+export declare const cibGeocaching: any[];

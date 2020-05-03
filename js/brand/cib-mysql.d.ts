@@ -1,1 +1,1 @@
-export declare const cibMysql: string[];
+export declare const cibMysql: any[];

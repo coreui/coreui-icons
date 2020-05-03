@@ -1,1 +1,1 @@
-export declare const cibSeagate: string[];
+export declare const cibSeagate: any[];

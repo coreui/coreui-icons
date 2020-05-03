@@ -1,1 +1,1 @@
-export declare const cibJoomla: string[];
+export declare const cibJoomla: any[];

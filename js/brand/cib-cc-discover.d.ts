@@ -1,1 +1,1 @@
-export declare const cibCcDiscover: string[];
+export declare const cibCcDiscover: any[];

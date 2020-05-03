@@ -1,1 +1,1 @@
-export declare const cilBank: string[];
+export declare const cilBank: any[];

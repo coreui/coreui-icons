@@ -1,1 +1,1 @@
-export declare const cibApacheSpark: string[];
+export declare const cibApacheSpark: any[];

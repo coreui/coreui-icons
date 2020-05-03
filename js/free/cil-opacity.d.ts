@@ -1,1 +1,1 @@
-export declare const cilOpacity: string[];
+export declare const cilOpacity: any[];

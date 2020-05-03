@@ -1,1 +1,1 @@
-export declare const cibGarmin: string[];
+export declare const cibGarmin: any[];

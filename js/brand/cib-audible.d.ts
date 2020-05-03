@@ -1,1 +1,1 @@
-export declare const cibAudible: string[];
+export declare const cibAudible: any[];

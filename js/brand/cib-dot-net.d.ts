@@ -1,1 +1,1 @@
-export declare const cibDotNet: string[];
+export declare const cibDotNet: any[];

@@ -1,1 +1,1 @@
-export declare const cibStatamic: string[];
+export declare const cibStatamic: any[];

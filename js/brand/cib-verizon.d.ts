@@ -1,1 +1,1 @@
-export declare const cibVerizon: string[];
+export declare const cibVerizon: any[];

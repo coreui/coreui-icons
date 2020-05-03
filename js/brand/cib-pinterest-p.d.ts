@@ -1,1 +1,1 @@
-export declare const cibPinterestP: string[];
+export declare const cibPinterestP: any[];

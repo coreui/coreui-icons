@@ -1,1 +1,1 @@
-export declare const cilWindowRestore: string[];
+export declare const cilWindowRestore: any[];

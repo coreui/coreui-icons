@@ -1,1 +1,1 @@
-export declare const cibGimp: string[];
+export declare const cibGimp: any[];

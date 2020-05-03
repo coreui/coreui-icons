@@ -1,1 +1,1 @@
-export declare const cibStackexchange: string[];
+export declare const cibStackexchange: any[];

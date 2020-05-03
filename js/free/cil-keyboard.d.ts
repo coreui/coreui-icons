@@ -1,1 +1,1 @@
-export declare const cilKeyboard: string[];
+export declare const cilKeyboard: any[];

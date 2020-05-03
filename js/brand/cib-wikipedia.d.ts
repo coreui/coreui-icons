@@ -1,1 +1,1 @@
-export declare const cibWikipedia: string[];
+export declare const cibWikipedia: any[];

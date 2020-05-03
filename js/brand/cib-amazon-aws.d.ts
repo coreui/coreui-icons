@@ -1,1 +1,1 @@
-export declare const cibAmazonAws: string[];
+export declare const cibAmazonAws: any[];

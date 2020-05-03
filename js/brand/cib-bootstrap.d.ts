@@ -1,1 +1,1 @@
-export declare const cibBootstrap: string[];
+export declare const cibBootstrap: any[];

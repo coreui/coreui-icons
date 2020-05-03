@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .ci-primary {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <rect class="ci-primary" x="184" y="288" width="120" height="32"/>
+  <rect class="ci-primary" x="184" y="216" width="184" height="32"/>
+  <rect class="ci-primary" x="184" y="144" width="248" height="32"/>
+  <rect class="ci-primary" x="184" y="72" width="312" height="32"/>
+  <polygon class="ci-primary" points="95.196 16 95.196 433.568 43.313 381.686 20.687 404.313 111.196 494.823 201.705 404.313 179.078 381.687 127.196 433.568 127.196 16 95.196 16"/>
+</svg>

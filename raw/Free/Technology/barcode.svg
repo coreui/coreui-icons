@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .ci-primary {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <path class="ci-primary" d="M16,464H496V56H16ZM48,88H464V432H48Z"/>
+  <rect class="ci-primary" x="80" y="128" width="32" height="256"/>
+  <rect class="ci-primary" x="144" y="128" width="32" height="192"/>
+  <rect class="ci-primary" x="208" y="128" width="32" height="256"/>
+  <rect class="ci-primary" x="272" y="128" width="32" height="192"/>
+  <rect class="ci-primary" x="336" y="128" width="32" height="192"/>
+  <rect class="ci-primary" x="400" y="128" width="32" height="256"/>
+  <rect class="ci-primary" x="144" y="352" width="32" height="32"/>
+  <rect class="ci-primary" x="272" y="352" width="32" height="32"/>
+  <rect class="ci-primary" x="336" y="352" width="32" height="32"/>
+</svg>

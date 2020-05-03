@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .ci-primary {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <path class="ci-primary" d="M64,496H400V464H64a16.019,16.019,0,0,1-16-16V120H16V448A48.055,48.055,0,0,0,64,496Z"/>
+  <rect class="ci-primary" x="464" y="368" width="32" height="32"/>
+  <rect class="ci-primary" x="173.091" y="368" width="29.091" height="32"/>
+  <rect class="ci-primary" x="405.818" y="368" width="29.091" height="32"/>
+  <rect class="ci-primary" x="231.272" y="368" width="29.091" height="32"/>
+  <rect class="ci-primary" x="289.455" y="368" width="29.091" height="32"/>
+  <rect class="ci-primary" x="347.637" y="368" width="29.091" height="32"/>
+  <rect class="ci-primary" x="112" y="368" width="32" height="32"/>
+  <rect class="ci-primary" x="112" y="135.272" width="32" height="29.091"/>
+  <rect class="ci-primary" x="112" y="77.091" width="32" height="29.091"/>
+  <rect class="ci-primary" x="112" y="309.818" width="32" height="29.091"/>
+  <rect class="ci-primary" x="112" y="251.637" width="32" height="29.091"/>
+  <rect class="ci-primary" x="112" y="193.455" width="32" height="29.091"/>
+  <rect class="ci-primary" x="112" y="16" width="32" height="32"/>
+  <rect class="ci-primary" x="289.454" y="16" width="29.091" height="32"/>
+  <rect class="ci-primary" x="231.272" y="16" width="29.091" height="32"/>
+  <rect class="ci-primary" x="405.818" y="16" width="29.091" height="32"/>
+  <rect class="ci-primary" x="173.091" y="16" width="29.091" height="32"/>
+  <rect class="ci-primary" x="347.637" y="16" width="29.091" height="32"/>
+  <rect class="ci-primary" x="464" y="16" width="32" height="32"/>
+  <rect class="ci-primary" x="464" y="309.818" width="32" height="29.091"/>
+  <rect class="ci-primary" x="464" y="77.091" width="32" height="29.091"/>
+  <rect class="ci-primary" x="464" y="193.454" width="32" height="29.091"/>
+  <rect class="ci-primary" x="464" y="135.272" width="32" height="29.091"/>
+  <rect class="ci-primary" x="464" y="251.637" width="32" height="29.091"/>
+</svg>

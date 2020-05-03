@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .ci-primary {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <path class="ci-primary" d="M32,16V496H480V16ZM448,304H342.111l-32,64H201.889l-32-64H64V144H448Zm0-256v64H64V48ZM64,464V336h86.111l32,64H329.889l32-64H448V464Z"/>
+</svg>

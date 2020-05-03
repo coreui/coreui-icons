@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .ci-primary {
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <polygon class="ci-primary" points="40 288 40 416 464 416 464 288 432 288 432 384 72 384 72 288 40 288"/>
+</svg>

@@ -3,38 +3,38 @@ export { freeSet }
 
 import { cil3d } from './cil-3d.js'
 import { cil4k } from './cil-4k.js'
+import { cilAccountLogout } from './cil-account-logout.js'
 import { cilActionRedo } from './cil-action-redo.js'
 import { cilActionUndo } from './cil-action-undo.js'
-import { cilAccountLogout } from './cil-account-logout.js'
 import { cilAddressBook } from './cil-address-book.js'
 import { cilAirplaneModeOff } from './cil-airplane-mode-off.js'
-import { cilAirplay } from './cil-airplay.js'
 import { cilAirplaneMode } from './cil-airplane-mode.js'
+import { cilAirplay } from './cil-airplay.js'
 import { cilAlarm } from './cil-alarm.js'
 import { cilAlbum } from './cil-album.js'
 import { cilAlignCenter } from './cil-align-center.js'
-import { cilAmericanFootball } from './cil-american-football.js'
-import { cilAlignRight } from './cil-align-right.js'
 import { cilAlignLeft } from './cil-align-left.js'
+import { cilAlignRight } from './cil-align-right.js'
+import { cilAmericanFootball } from './cil-american-football.js'
 import { cilAnimal } from './cil-animal.js'
 import { cilAperture } from './cil-aperture.js'
 import { cilApple } from './cil-apple.js'
 import { cilApplicationsSettings } from './cil-applications-settings.js'
-import { cilAppsSettings } from './cil-apps-settings.js'
 import { cilApplications } from './cil-applications.js'
-import { cilArrowBottom } from './cil-arrow-bottom.js'
+import { cilAppsSettings } from './cil-apps-settings.js'
 import { cilApps } from './cil-apps.js'
+import { cilArrowBottom } from './cil-arrow-bottom.js'
 import { cilArrowCircleBottom } from './cil-arrow-circle-bottom.js'
 import { cilArrowCircleLeft } from './cil-arrow-circle-left.js'
-import { cilArrowLeft } from './cil-arrow-left.js'
 import { cilArrowCircleRight } from './cil-arrow-circle-right.js'
 import { cilArrowCircleTop } from './cil-arrow-circle-top.js'
+import { cilArrowLeft } from './cil-arrow-left.js'
 import { cilArrowRight } from './cil-arrow-right.js'
 import { cilArrowThickBottom } from './cil-arrow-thick-bottom.js'
-import { cilArrowThickFromLeft } from './cil-arrow-thick-from-left.js'
 import { cilArrowThickFromBottom } from './cil-arrow-thick-from-bottom.js'
-import { cilArrowThickFromTop } from './cil-arrow-thick-from-top.js'
+import { cilArrowThickFromLeft } from './cil-arrow-thick-from-left.js'
 import { cilArrowThickFromRight } from './cil-arrow-thick-from-right.js'
+import { cilArrowThickFromTop } from './cil-arrow-thick-from-top.js'
 import { cilArrowThickLeft } from './cil-arrow-thick-left.js'
 import { cilArrowThickRight } from './cil-arrow-thick-right.js'
 import { cilArrowThickToBottom } from './cil-arrow-thick-to-bottom.js'
@@ -55,8 +55,8 @@ import { cilBabyCarriage } from './cil-baby-carriage.js'
 import { cilBaby } from './cil-baby.js'
 import { cilBackspace } from './cil-backspace.js'
 import { cilBadge } from './cil-badge.js'
-import { cilBan } from './cil-ban.js'
 import { cilBalanceScale } from './cil-balance-scale.js'
+import { cilBan } from './cil-ban.js'
 import { cilBank } from './cil-bank.js'
 import { cilBarChart } from './cil-bar-chart.js'
 import { cilBarcode } from './cil-barcode.js'
@@ -76,8 +76,8 @@ import { cilBeachAccess } from './cil-beach-access.js'
 import { cilBeaker } from './cil-beaker.js'
 import { cilBed } from './cil-bed.js'
 import { cilBellExclamation } from './cil-bell-exclamation.js'
-import { cilBike } from './cil-bike.js'
 import { cilBell } from './cil-bell.js'
+import { cilBike } from './cil-bike.js'
 import { cilBirthdayCake } from './cil-birthday-cake.js'
 import { cilBlind } from './cil-blind.js'
 import { cilBluetooth } from './cil-bluetooth.js'
@@ -110,8 +110,8 @@ import { cilBrowser } from './cil-browser.js'
 import { cilBrushAlt } from './cil-brush-alt.js'
 import { cilBrush } from './cil-brush.js'
 import { cilBug } from './cil-bug.js'
-import { cilBullhorn } from './cil-bullhorn.js'
 import { cilBuilding } from './cil-building.js'
+import { cilBullhorn } from './cil-bullhorn.js'
 import { cilBurger } from './cil-burger.js'
 import { cilBurn } from './cil-burn.js'
 import { cilBusAlt } from './cil-bus-alt.js'
@@ -131,8 +131,8 @@ import { cilCash } from './cil-cash.js'
 import { cilCasino } from './cil-casino.js'
 import { cilCast } from './cil-cast.js'
 import { cilCat } from './cil-cat.js'
-import { cilCenterFocus } from './cil-center-focus.js'
 import { cilCc } from './cil-cc.js'
+import { cilCenterFocus } from './cil-center-focus.js'
 import { cilChartLine } from './cil-chart-line.js'
 import { cilChartPie } from './cil-chart-pie.js'
 import { cilChart } from './cil-chart.js'
@@ -154,9 +154,9 @@ import { cilChevronRight } from './cil-chevron-right.js'
 import { cilChevronTop } from './cil-chevron-top.js'
 import { cilChildFriendly } from './cil-child-friendly.js'
 import { cilChild } from './cil-child.js'
+import { cilCircle } from './cil-circle.js'
 import { cilClearAll } from './cil-clear-all.js'
 import { cilClipboard } from './cil-clipboard.js'
-import { cilCircle } from './cil-circle.js'
 import { cilClock } from './cil-clock.js'
 import { cilClone } from './cil-clone.js'
 import { cilClosedCaptioning } from './cil-closed-captioning.js'
@@ -166,13 +166,13 @@ import { cilCloud } from './cil-cloud.js'
 import { cilCloudy } from './cil-cloudy.js'
 import { cilCode } from './cil-code.js'
 import { cilCoffee } from './cil-coffee.js'
-import { cilColorBorder } from './cil-color-border.js'
 import { cilCog } from './cil-cog.js'
+import { cilColorBorder } from './cil-color-border.js'
 import { cilColorFill } from './cil-color-fill.js'
 import { cilColorPalette } from './cil-color-palette.js'
 import { cilColumns } from './cil-columns.js'
-import { cilCommentBubble } from './cil-comment-bubble.js'
 import { cilCommand } from './cil-command.js'
+import { cilCommentBubble } from './cil-comment-bubble.js'
 import { cilCommentSquare } from './cil-comment-square.js'
 import { cilCompass } from './cil-compass.js'
 import { cilCompress } from './cil-compress.js'
@@ -211,13 +211,13 @@ import { cilElevator } from './cil-elevator.js'
 import { cilEnvelopeClosed } from './cil-envelope-closed.js'
 import { cilEnvelopeLetter } from './cil-envelope-letter.js'
 import { cilEnvelopeOpen } from './cil-envelope-open.js'
-import { cilEthernet } from './cil-ethernet.js'
 import { cilEqualizer } from './cil-equalizer.js'
+import { cilEthernet } from './cil-ethernet.js'
 import { cilEuro } from './cil-euro.js'
 import { cilExcerpt } from './cil-excerpt.js'
 import { cilExitToApp } from './cil-exit-to-app.js'
-import { cilExpandLeft } from './cil-expand-left.js'
 import { cilExpandDown } from './cil-expand-down.js'
+import { cilExpandLeft } from './cil-expand-left.js'
 import { cilExpandRight } from './cil-expand-right.js'
 import { cilExpandUp } from './cil-expand-up.js'
 import { cilExposure } from './cil-exposure.js'
@@ -231,8 +231,8 @@ import { cilFastfood } from './cil-fastfood.js'
 import { cilFax } from './cil-fax.js'
 import { cilFeaturedPlaylist } from './cil-featured-playlist.js'
 import { cilFile } from './cil-file.js'
-import { cilFilterPhoto } from './cil-filter-photo.js'
 import { cilFilterFrames } from './cil-filter-frames.js'
+import { cilFilterPhoto } from './cil-filter-photo.js'
 import { cilFilterSquare } from './cil-filter-square.js'
 import { cilFilterX } from './cil-filter-x.js'
 import { cilFilter } from './cil-filter.js'
@@ -253,8 +253,8 @@ import { cilFork } from './cil-fork.js'
 import { cilFridge } from './cil-fridge.js'
 import { cilFrown } from './cil-frown.js'
 import { cilFullscreenExit } from './cil-fullscreen-exit.js'
-import { cilFunctionsAlt } from './cil-functions-alt.js'
 import { cilFullscreen } from './cil-fullscreen.js'
+import { cilFunctionsAlt } from './cil-functions-alt.js'
 import { cilFunctions } from './cil-functions.js'
 import { cilGamepad } from './cil-gamepad.js'
 import { cilGarage } from './cil-garage.js'
@@ -288,8 +288,8 @@ import { cilHistory } from './cil-history.js'
 import { cilHome } from './cil-home.js'
 import { cilHospital } from './cil-hospital.js'
 import { cilHotTub } from './cil-hot-tub.js'
-import { cilHttps } from './cil-https.js'
 import { cilHouse } from './cil-house.js'
+import { cilHttps } from './cil-https.js'
 import { cilImageBroken } from './cil-image-broken.js'
 import { cilImagePlus } from './cil-image-plus.js'
 import { cilImage } from './cil-image.js'
@@ -299,11 +299,11 @@ import { cilIndentIncrease } from './cil-indent-increase.js'
 import { cilIndustrySlash } from './cil-industry-slash.js'
 import { cilIndustry } from './cil-industry.js'
 import { cilInfinity } from './cil-infinity.js'
+import { cilInfo } from './cil-info.js'
 import { cilInputHdmi } from './cil-input-hdmi.js'
 import { cilInputPower } from './cil-input-power.js'
-import { cilInfo } from './cil-info.js'
-import { cilInstitution } from './cil-institution.js'
 import { cilInput } from './cil-input.js'
+import { cilInstitution } from './cil-institution.js'
 import { cilItalic } from './cil-italic.js'
 import { cilJustifyCenter } from './cil-justify-center.js'
 import { cilJustifyLeft } from './cil-justify-left.js'
@@ -311,22 +311,22 @@ import { cilJustifyRight } from './cil-justify-right.js'
 import { cilKeyboard } from './cil-keyboard.js'
 import { cilLan } from './cil-lan.js'
 import { cilLanguage } from './cil-language.js'
-import { cilLeaf } from './cil-leaf.js'
 import { cilLaptop } from './cil-laptop.js'
-import { cilLemon } from './cil-lemon.js'
 import { cilLayers } from './cil-layers.js'
+import { cilLeaf } from './cil-leaf.js'
+import { cilLemon } from './cil-lemon.js'
 import { cilLevelDown } from './cil-level-down.js'
 import { cilLevelUp } from './cil-level-up.js'
 import { cilLibraryAdd } from './cil-library-add.js'
 import { cilLibraryBuilding } from './cil-library-building.js'
 import { cilLibrary } from './cil-library.js'
 import { cilLifeRing } from './cil-life-ring.js'
-import { cilLineSpacing } from './cil-line-spacing.js'
 import { cilLightbulb } from './cil-lightbulb.js'
-import { cilLineWeight } from './cil-line-weight.js'
+import { cilLineSpacing } from './cil-line-spacing.js'
 import { cilLineStyle } from './cil-line-style.js'
-import { cilLinkBroken } from './cil-link-broken.js'
+import { cilLineWeight } from './cil-line-weight.js'
 import { cilLinkAlt } from './cil-link-alt.js'
+import { cilLinkBroken } from './cil-link-broken.js'
 import { cilLink } from './cil-link.js'
 import { cilListFilter } from './cil-list-filter.js'
 import { cilListHighPriority } from './cil-list-high-priority.js'
@@ -334,8 +334,8 @@ import { cilListLowPriority } from './cil-list-low-priority.js'
 import { cilListNumberedRtl } from './cil-list-numbered-rtl.js'
 import { cilListNumbered } from './cil-list-numbered.js'
 import { cilListRich } from './cil-list-rich.js'
-import { cilLocationPin } from './cil-location-pin.js'
 import { cilList } from './cil-list.js'
+import { cilLocationPin } from './cil-location-pin.js'
 import { cilLockLocked } from './cil-lock-locked.js'
 import { cilLockUnlocked } from './cil-lock-unlocked.js'
 import { cilLocomotive } from './cil-locomotive.js'
@@ -354,8 +354,8 @@ import { cilMediaSkipForward } from './cil-media-skip-forward.js'
 import { cilMediaStepBackward } from './cil-media-step-backward.js'
 import { cilMediaStepForward } from './cil-media-step-forward.js'
 import { cilMediaStop } from './cil-media-stop.js'
-import { cilMeh } from './cil-meh.js'
 import { cilMedicalCross } from './cil-medical-cross.js'
+import { cilMeh } from './cil-meh.js'
 import { cilMemory } from './cil-memory.js'
 import { cilMenu } from './cil-menu.js'
 import { cilMic } from './cil-mic.js'
@@ -374,8 +374,8 @@ import { cilMouse } from './cil-mouse.js'
 import { cilMouthSlash } from './cil-mouth-slash.js'
 import { cilMove } from './cil-move.js'
 import { cilMovie } from './cil-movie.js'
-import { cilMug } from './cil-mug.js'
 import { cilMugTea } from './cil-mug-tea.js'
+import { cilMug } from './cil-mug.js'
 import { cilMusicNote } from './cil-music-note.js'
 import { cilNewspaper } from './cil-newspaper.js'
 import { cilNoteAdd } from './cil-note-add.js'
@@ -390,8 +390,8 @@ import { cilPaint } from './cil-paint.js'
 import { cilPaperPlane } from './cil-paper-plane.js'
 import { cilPaperclip } from './cil-paperclip.js'
 import { cilParagraph } from './cil-paragraph.js'
-import { cilPenAlt } from './cil-pen-alt.js'
 import { cilPaw } from './cil-paw.js'
+import { cilPenAlt } from './cil-pen-alt.js'
 import { cilPenNib } from './cil-pen-nib.js'
 import { cilPen } from './cil-pen.js'
 import { cilPencil } from './cil-pencil.js'
@@ -451,8 +451,8 @@ import { cilSmilePlus } from './cil-smile-plus.js'
 import { cilSmile } from './cil-smile.js'
 import { cilSmokeFree } from './cil-smoke-free.js'
 import { cilSmokeSlash } from './cil-smoke-slash.js'
-import { cilSmokingRoom } from './cil-smoking-room.js'
 import { cilSmoke } from './cil-smoke.js'
+import { cilSmokingRoom } from './cil-smoking-room.js'
 import { cilSnowflake } from './cil-snowflake.js'
 import { cilSoccer } from './cil-soccer.js'
 import { cilSofa } from './cil-sofa.js'
@@ -463,8 +463,8 @@ import { cilSortDescending } from './cil-sort-descending.js'
 import { cilSortNumericDown } from './cil-sort-numeric-down.js'
 import { cilSortNumericUp } from './cil-sort-numeric-up.js'
 import { cilSpa } from './cil-spa.js'
-import { cilSpeak } from './cil-speak.js'
 import { cilSpaceBar } from './cil-space-bar.js'
+import { cilSpeak } from './cil-speak.js'
 import { cilSpeaker } from './cil-speaker.js'
 import { cilSpeech } from './cil-speech.js'
 import { cilSpeedometer } from './cil-speedometer.js'
@@ -477,9 +477,9 @@ import { cilStream } from './cil-stream.js'
 import { cilStrikethrough } from './cil-strikethrough.js'
 import { cilSun } from './cil-sun.js'
 import { cilSwapHorizontal } from './cil-swap-horizontal.js'
+import { cilSwapVertical } from './cil-swap-vertical.js'
 import { cilSwimming } from './cil-swimming.js'
 import { cilSync } from './cil-sync.js'
-import { cilSwapVertical } from './cil-swap-vertical.js'
 import { cilTablet } from './cil-tablet.js'
 import { cilTag } from './cil-tag.js'
 import { cilTags } from './cil-tags.js'
@@ -497,8 +497,8 @@ import { cilText } from './cil-text.js'
 import { cilThumbDown } from './cil-thumb-down.js'
 import { cilThumbUp } from './cil-thumb-up.js'
 import { cilToggleOff } from './cil-toggle-off.js'
-import { cilToilet } from './cil-toilet.js'
 import { cilToggleOn } from './cil-toggle-on.js'
+import { cilToilet } from './cil-toilet.js'
 import { cilTouchApp } from './cil-touch-app.js'
 import { cilTransfer } from './cil-transfer.js'
 import { cilTranslate } from './cil-translate.js'
@@ -537,16 +537,16 @@ import { cilWatch } from './cil-watch.js'
 import { cilWc } from './cil-wc.js'
 import { cilWeightlifitng } from './cil-weightlifitng.js'
 import { cilWheelchair } from './cil-wheelchair.js'
-import { cilWifiSignal1 } from './cil-wifi-signal-1.js'
 import { cilWifiSignal0 } from './cil-wifi-signal-0.js'
-import { cilWifiSignal3 } from './cil-wifi-signal-3.js'
+import { cilWifiSignal1 } from './cil-wifi-signal-1.js'
 import { cilWifiSignal2 } from './cil-wifi-signal-2.js'
+import { cilWifiSignal3 } from './cil-wifi-signal-3.js'
 import { cilWifiSignal4 } from './cil-wifi-signal-4.js'
 import { cilWifiSignalOff } from './cil-wifi-signal-off.js'
-import { cilWindowMinimize } from './cil-window-minimize.js'
 import { cilWindowMaximize } from './cil-window-maximize.js'
-import { cilWindow } from './cil-window.js'
+import { cilWindowMinimize } from './cil-window-minimize.js'
 import { cilWindowRestore } from './cil-window-restore.js'
+import { cilWindow } from './cil-window.js'
 import { cilWrapText } from './cil-wrap-text.js'
 import { cilXCircle } from './cil-x-circle.js'
 import { cilX } from './cil-x.js'
@@ -556,38 +556,38 @@ import { cilZoomOut } from './cil-zoom-out.js'
 import { cilZoom } from './cil-zoom.js'
 export { cil3d }
 export { cil4k }
+export { cilAccountLogout }
 export { cilActionRedo }
 export { cilActionUndo }
-export { cilAccountLogout }
 export { cilAddressBook }
 export { cilAirplaneModeOff }
-export { cilAirplay }
 export { cilAirplaneMode }
+export { cilAirplay }
 export { cilAlarm }
 export { cilAlbum }
 export { cilAlignCenter }
-export { cilAmericanFootball }
-export { cilAlignRight }
 export { cilAlignLeft }
+export { cilAlignRight }
+export { cilAmericanFootball }
 export { cilAnimal }
 export { cilAperture }
 export { cilApple }
 export { cilApplicationsSettings }
-export { cilAppsSettings }
 export { cilApplications }
-export { cilArrowBottom }
+export { cilAppsSettings }
 export { cilApps }
+export { cilArrowBottom }
 export { cilArrowCircleBottom }
 export { cilArrowCircleLeft }
-export { cilArrowLeft }
 export { cilArrowCircleRight }
 export { cilArrowCircleTop }
+export { cilArrowLeft }
 export { cilArrowRight }
 export { cilArrowThickBottom }
-export { cilArrowThickFromLeft }
 export { cilArrowThickFromBottom }
-export { cilArrowThickFromTop }
+export { cilArrowThickFromLeft }
 export { cilArrowThickFromRight }
+export { cilArrowThickFromTop }
 export { cilArrowThickLeft }
 export { cilArrowThickRight }
 export { cilArrowThickToBottom }
@@ -608,8 +608,8 @@ export { cilBabyCarriage }
 export { cilBaby }
 export { cilBackspace }
 export { cilBadge }
-export { cilBan }
 export { cilBalanceScale }
+export { cilBan }
 export { cilBank }
 export { cilBarChart }
 export { cilBarcode }
@@ -629,8 +629,8 @@ export { cilBeachAccess }
 export { cilBeaker }
 export { cilBed }
 export { cilBellExclamation }
-export { cilBike }
 export { cilBell }
+export { cilBike }
 export { cilBirthdayCake }
 export { cilBlind }
 export { cilBluetooth }
@@ -663,8 +663,8 @@ export { cilBrowser }
 export { cilBrushAlt }
 export { cilBrush }
 export { cilBug }
-export { cilBullhorn }
 export { cilBuilding }
+export { cilBullhorn }
 export { cilBurger }
 export { cilBurn }
 export { cilBusAlt }
@@ -684,8 +684,8 @@ export { cilCash }
 export { cilCasino }
 export { cilCast }
 export { cilCat }
-export { cilCenterFocus }
 export { cilCc }
+export { cilCenterFocus }
 export { cilChartLine }
 export { cilChartPie }
 export { cilChart }
@@ -707,9 +707,9 @@ export { cilChevronRight }
 export { cilChevronTop }
 export { cilChildFriendly }
 export { cilChild }
+export { cilCircle }
 export { cilClearAll }
 export { cilClipboard }
-export { cilCircle }
 export { cilClock }
 export { cilClone }
 export { cilClosedCaptioning }
@@ -719,13 +719,13 @@ export { cilCloud }
 export { cilCloudy }
 export { cilCode }
 export { cilCoffee }
-export { cilColorBorder }
 export { cilCog }
+export { cilColorBorder }
 export { cilColorFill }
 export { cilColorPalette }
 export { cilColumns }
-export { cilCommentBubble }
 export { cilCommand }
+export { cilCommentBubble }
 export { cilCommentSquare }
 export { cilCompass }
 export { cilCompress }
@@ -764,13 +764,13 @@ export { cilElevator }
 export { cilEnvelopeClosed }
 export { cilEnvelopeLetter }
 export { cilEnvelopeOpen }
-export { cilEthernet }
 export { cilEqualizer }
+export { cilEthernet }
 export { cilEuro }
 export { cilExcerpt }
 export { cilExitToApp }
-export { cilExpandLeft }
 export { cilExpandDown }
+export { cilExpandLeft }
 export { cilExpandRight }
 export { cilExpandUp }
 export { cilExposure }
@@ -784,8 +784,8 @@ export { cilFastfood }
 export { cilFax }
 export { cilFeaturedPlaylist }
 export { cilFile }
-export { cilFilterPhoto }
 export { cilFilterFrames }
+export { cilFilterPhoto }
 export { cilFilterSquare }
 export { cilFilterX }
 export { cilFilter }
@@ -806,8 +806,8 @@ export { cilFork }
 export { cilFridge }
 export { cilFrown }
 export { cilFullscreenExit }
-export { cilFunctionsAlt }
 export { cilFullscreen }
+export { cilFunctionsAlt }
 export { cilFunctions }
 export { cilGamepad }
 export { cilGarage }
@@ -841,8 +841,8 @@ export { cilHistory }
 export { cilHome }
 export { cilHospital }
 export { cilHotTub }
-export { cilHttps }
 export { cilHouse }
+export { cilHttps }
 export { cilImageBroken }
 export { cilImagePlus }
 export { cilImage }
@@ -852,11 +852,11 @@ export { cilIndentIncrease }
 export { cilIndustrySlash }
 export { cilIndustry }
 export { cilInfinity }
+export { cilInfo }
 export { cilInputHdmi }
 export { cilInputPower }
-export { cilInfo }
-export { cilInstitution }
 export { cilInput }
+export { cilInstitution }
 export { cilItalic }
 export { cilJustifyCenter }
 export { cilJustifyLeft }
@@ -864,22 +864,22 @@ export { cilJustifyRight }
 export { cilKeyboard }
 export { cilLan }
 export { cilLanguage }
-export { cilLeaf }
 export { cilLaptop }
-export { cilLemon }
 export { cilLayers }
+export { cilLeaf }
+export { cilLemon }
 export { cilLevelDown }
 export { cilLevelUp }
 export { cilLibraryAdd }
 export { cilLibraryBuilding }
 export { cilLibrary }
 export { cilLifeRing }
-export { cilLineSpacing }
 export { cilLightbulb }
-export { cilLineWeight }
+export { cilLineSpacing }
 export { cilLineStyle }
-export { cilLinkBroken }
+export { cilLineWeight }
 export { cilLinkAlt }
+export { cilLinkBroken }
 export { cilLink }
 export { cilListFilter }
 export { cilListHighPriority }
@@ -887,8 +887,8 @@ export { cilListLowPriority }
 export { cilListNumberedRtl }
 export { cilListNumbered }
 export { cilListRich }
-export { cilLocationPin }
 export { cilList }
+export { cilLocationPin }
 export { cilLockLocked }
 export { cilLockUnlocked }
 export { cilLocomotive }
@@ -907,8 +907,8 @@ export { cilMediaSkipForward }
 export { cilMediaStepBackward }
 export { cilMediaStepForward }
 export { cilMediaStop }
-export { cilMeh }
 export { cilMedicalCross }
+export { cilMeh }
 export { cilMemory }
 export { cilMenu }
 export { cilMic }
@@ -927,8 +927,8 @@ export { cilMouse }
 export { cilMouthSlash }
 export { cilMove }
 export { cilMovie }
-export { cilMug }
 export { cilMugTea }
+export { cilMug }
 export { cilMusicNote }
 export { cilNewspaper }
 export { cilNoteAdd }
@@ -943,8 +943,8 @@ export { cilPaint }
 export { cilPaperPlane }
 export { cilPaperclip }
 export { cilParagraph }
-export { cilPenAlt }
 export { cilPaw }
+export { cilPenAlt }
 export { cilPenNib }
 export { cilPen }
 export { cilPencil }
@@ -1004,8 +1004,8 @@ export { cilSmilePlus }
 export { cilSmile }
 export { cilSmokeFree }
 export { cilSmokeSlash }
-export { cilSmokingRoom }
 export { cilSmoke }
+export { cilSmokingRoom }
 export { cilSnowflake }
 export { cilSoccer }
 export { cilSofa }
@@ -1016,8 +1016,8 @@ export { cilSortDescending }
 export { cilSortNumericDown }
 export { cilSortNumericUp }
 export { cilSpa }
-export { cilSpeak }
 export { cilSpaceBar }
+export { cilSpeak }
 export { cilSpeaker }
 export { cilSpeech }
 export { cilSpeedometer }
@@ -1030,9 +1030,9 @@ export { cilStream }
 export { cilStrikethrough }
 export { cilSun }
 export { cilSwapHorizontal }
+export { cilSwapVertical }
 export { cilSwimming }
 export { cilSync }
-export { cilSwapVertical }
 export { cilTablet }
 export { cilTag }
 export { cilTags }
@@ -1050,8 +1050,8 @@ export { cilText }
 export { cilThumbDown }
 export { cilThumbUp }
 export { cilToggleOff }
-export { cilToilet }
 export { cilToggleOn }
+export { cilToilet }
 export { cilTouchApp }
 export { cilTransfer }
 export { cilTranslate }
@@ -1090,16 +1090,16 @@ export { cilWatch }
 export { cilWc }
 export { cilWeightlifitng }
 export { cilWheelchair }
-export { cilWifiSignal1 }
 export { cilWifiSignal0 }
-export { cilWifiSignal3 }
+export { cilWifiSignal1 }
 export { cilWifiSignal2 }
+export { cilWifiSignal3 }
 export { cilWifiSignal4 }
 export { cilWifiSignalOff }
-export { cilWindowMinimize }
 export { cilWindowMaximize }
-export { cilWindow }
+export { cilWindowMinimize }
 export { cilWindowRestore }
+export { cilWindow }
 export { cilWrapText }
 export { cilXCircle }
 export { cilX }

@@ -1,3931 +1,4482 @@
-{
-  "icons": [
-    {
-      "name": "assistive-listening-system",
-      "unicode": "\\ea2b",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "blind",
-      "unicode": "\\ea4f",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "braille",
-      "unicode": "\\ea66",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "deaf",
-      "unicode": "\\eabd",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fingerprint",
-      "unicode": "\\eaed",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "life-ring",
-      "unicode": "\\eb40",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "lock-locked",
-      "unicode": "\\eb50",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "lock-unlocked",
-      "unicode": "\\eb51",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "low-vision",
-      "unicode": "\\eb56",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mouth-slash",
-      "unicode": "\\eb73",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pregnant",
-      "unicode": "\\eb94",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "shield-alt",
-      "unicode": "\\ebb6",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sign-language",
-      "unicode": "\\ebb9",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "speak",
-      "unicode": "\\ebd0",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "voice",
-      "unicode": "\\ec0c",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wheelchair",
-      "unicode": "\\ec18",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "disabled",
-      "unicode": "\\eac4",
-      "category": "Accessibility",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "alarm",
-      "unicode": "\\ea0a",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bell-exclamation",
-      "unicode": "\\ea4c",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bell",
-      "unicode": "\\ea4b",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bullhorn",
-      "unicode": "\\ea6f",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "report-slash",
-      "unicode": "\\eb9d",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "warning",
-      "unicode": "\\ec14",
-      "category": "Alerts",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bank",
-      "unicode": "\\ea39",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bath",
-      "unicode": "\\ea3f",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bathroom",
-      "unicode": "\\ea40",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "beach-access",
-      "unicode": "\\ea48",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bed",
-      "unicode": "\\ea4a",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "building",
-      "unicode": "\\ea6e",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "casino",
-      "unicode": "\\ea80",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "child-friendly",
-      "unicode": "\\ea99",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "baby-carriage",
-      "unicode": "\\ea34",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pushchair",
-      "unicode": "\\eb96",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "couch",
-      "unicode": "\\eab4",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sofa",
-      "unicode": "\\ebc7",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "door",
-      "unicode": "\\eac7",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "elevator",
-      "unicode": "\\eacf",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fridge",
-      "unicode": "\\eafa",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "garage",
-      "unicode": "\\eb01",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "home",
-      "unicode": "\\eb1d",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hospital",
-      "unicode": "\\eb1e",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hot-tub",
-      "unicode": "\\eb1f",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "house",
-      "unicode": "\\eb20",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "industry",
-      "unicode": "\\eb28",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "factory",
-      "unicode": "\\eae1",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "industry-slash",
-      "unicode": "\\eb29",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "factory-slash",
-      "unicode": "\\eae2",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "institution",
-      "unicode": "\\eb2f",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "library-building",
-      "unicode": "\\eb3f",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "medical-cross",
-      "unicode": "\\eb62",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pool",
-      "unicode": "\\eb92",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "room",
-      "unicode": "\\eba2",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "school",
-      "unicode": "\\ebab",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "education",
-      "unicode": "\\eace",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "shower",
-      "unicode": "\\ebb8",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smoke-free",
-      "unicode": "\\ebc2",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smoke-slash",
-      "unicode": "\\ebc3",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smoking-room",
-      "unicode": "\\ebc4",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smoke",
-      "unicode": "\\ebc1",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "spa",
-      "unicode": "\\ebce",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "toilet",
-      "unicode": "\\ebf2",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wc",
-      "unicode": "\\ec16",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "window",
-      "unicode": "\\ec1f",
-      "category": "Buildings",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "balance-scale",
-      "unicode": "\\ea37",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bank",
-      "unicode": "\\ea39",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bar-chart",
-      "unicode": "\\ea3a",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "basket",
-      "unicode": "\\ea3d",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "briefcase",
-      "unicode": "\\ea67",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "british-pound",
-      "unicode": "\\ea69",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "calculator",
-      "unicode": "\\ea73",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cart",
-      "unicode": "\\ea7e",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chart-line",
-      "unicode": "\\ea86",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chart-pie",
-      "unicode": "\\ea87",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chart",
-      "unicode": "\\ea85",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "credit-card",
-      "unicode": "\\eab5",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "dollar",
-      "unicode": "\\eac6",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "euro",
-      "unicode": "\\ead5",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "gem",
-      "unicode": "\\eb02",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "diamond",
-      "unicode": "\\eac2",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "gift",
-      "unicode": "\\eb04",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "graph",
-      "unicode": "\\eb0a",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "money",
-      "unicode": "\\eb6b",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cash",
-      "unicode": "\\ea7f",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "ruble",
-      "unicode": "\\eba6",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wallet",
-      "unicode": "\\ec12",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "yen",
-      "unicode": "\\ec26",
-      "category": "Business",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chat-bubble",
-      "unicode": "\\ea88",
-      "category": "Chat",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "comment-bubble",
-      "unicode": "\\eaac",
-      "category": "Chat",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "comment-square",
-      "unicode": "\\eaad",
-      "category": "Chat",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "speech",
-      "unicode": "\\ebd2",
-      "category": "Chat",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "child",
-      "unicode": "\\ea98",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "baby",
-      "unicode": "\\ea33",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "face-dead",
-      "unicode": "\\eae0",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "face",
-      "unicode": "\\eadf",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "frown",
-      "unicode": "\\eafb",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sad",
-      "unicode": "\\eba8",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "meh",
-      "unicode": "\\eb63",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mood-bad",
-      "unicode": "\\eb6d",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mood-good",
-      "unicode": "\\eb6e",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mood-very-bad",
-      "unicode": "\\eb6f",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mood-very-good",
-      "unicode": "\\eb70",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smile",
-      "unicode": "\\ebbf",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "happy",
-      "unicode": "\\eb13",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "smile-plus",
-      "unicode": "\\ebc0",
-      "category": "Faces",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "at",
-      "unicode": "\\ea2e",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "book",
-      "unicode": "\\ea58",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bookmark",
-      "unicode": "\\ea59",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "compress",
-      "unicode": "\\eaaf",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "description",
-      "unicode": "\\eabf",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "envelope-closed",
-      "unicode": "\\ead0",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "envelope-letter",
-      "unicode": "\\ead1",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "envelope-open",
-      "unicode": "\\ead2",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "file",
-      "unicode": "\\eae6",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "find-in-page",
-      "unicode": "\\eaec",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "folder-open",
-      "unicode": "\\eaf6",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "folder",
-      "unicode": "\\eaf5",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "image",
-      "unicode": "\\eb22",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "inbox",
-      "unicode": "\\eb25",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "library",
-      "unicode": "\\eb3d",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "note-add",
-      "unicode": "\\eb7a",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paperclip",
-      "unicode": "\\eb84",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tag",
-      "unicode": "\\ebe1",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tags",
-      "unicode": "\\ebe2",
-      "category": "Files",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "apple",
-      "unicode": "\\ea12",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "birthday-cake",
-      "unicode": "\\ea4e",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "burger",
-      "unicode": "\\ea70",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "coffee",
-      "unicode": "\\eaa5",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "dinner",
-      "unicode": "\\eac3",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "drink-alcohol",
-      "unicode": "\\eacb",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "drink",
-      "unicode": "\\eaca",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fastfood",
-      "unicode": "\\eae3",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "lemon",
-      "unicode": "\\eb3a",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mug-tea",
-      "unicode": "\\eb77",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mug",
-      "unicode": "\\eb76",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pizza",
-      "unicode": "\\eb8e",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "restaurant",
-      "unicode": "\\eba1",
-      "category": "Food",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hand-point-down",
-      "unicode": "\\eb0f",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hand-point-left",
-      "unicode": "\\eb10",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hand-point-right",
-      "unicode": "\\eb11",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hand-point-up",
-      "unicode": "\\eb12",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "thumb-down",
-      "unicode": "\\ebee",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "thumb-up",
-      "unicode": "\\ebef",
-      "category": "Hands",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "3d",
-      "unicode": "\\ea01",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "aperture",
-      "unicode": "\\ea11",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "blur-circular",
-      "unicode": "\\ea52",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "blur-linear",
-      "unicode": "\\ea53",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "blur",
-      "unicode": "\\ea51",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-all",
-      "unicode": "\\ea5a",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-bottom",
-      "unicode": "\\ea5b",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-clear",
-      "unicode": "\\ea5c",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-horizontal",
-      "unicode": "\\ea5d",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-inner",
-      "unicode": "\\ea5e",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-left",
-      "unicode": "\\ea5f",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-outer",
-      "unicode": "\\ea60",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-right",
-      "unicode": "\\ea61",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-style",
-      "unicode": "\\ea62",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-top",
-      "unicode": "\\ea63",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "border-vertical",
-      "unicode": "\\ea64",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "brush-alt",
-      "unicode": "\\ea6c",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "brush",
-      "unicode": "\\ea6b",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "camera-roll",
-      "unicode": "\\ea78",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "center-focus",
-      "unicode": "\\ea84",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "color-border",
-      "unicode": "\\eaa7",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "color-fill",
-      "unicode": "\\eaa8",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "color-palette",
-      "unicode": "\\eaa9",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "contrast",
-      "unicode": "\\eab1",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "crop-rotate",
-      "unicode": "\\eab7",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "crop",
-      "unicode": "\\eab6",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cursor-move",
-      "unicode": "\\eab9",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cursor",
-      "unicode": "\\eab8",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "drop",
-      "unicode": "\\eacc",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "exposure",
-      "unicode": "\\eadc",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "eyedropper",
-      "unicode": "\\eade",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "filter-frames",
-      "unicode": "\\eae8",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "filter-photo",
-      "unicode": "\\eae9",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flip-to-back",
-      "unicode": "\\eaf2",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flip-to-front",
-      "unicode": "\\eaf3",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flip",
-      "unicode": "\\eaf1",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "gif",
-      "unicode": "\\eb03",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "gradient",
-      "unicode": "\\eb08",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "grain",
-      "unicode": "\\eb09",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "grid-slash",
-      "unicode": "\\eb0c",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "grid",
-      "unicode": "\\eb0b",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hdr",
-      "unicode": "\\eb15",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "healing",
-      "unicode": "\\eb18",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "image-broken",
-      "unicode": "\\eb23",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "image-plus",
-      "unicode": "\\eb24",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "image",
-      "unicode": "\\eb22",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "layers",
-      "unicode": "\\eb38",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "line-style",
-      "unicode": "\\eb43",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "line-weight",
-      "unicode": "\\eb44",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "object-group",
-      "unicode": "\\eb7c",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "object-ungroup",
-      "unicode": "\\eb7d",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "opacity",
-      "unicode": "\\eb7e",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paint-bucket",
-      "unicode": "\\eb82",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paint",
-      "unicode": "\\eb81",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "swap-horizontal",
-      "unicode": "\\ebdc",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "swap-vertical",
-      "unicode": "\\ebdd",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vector",
-      "unicode": "\\ec02",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-bottom",
-      "unicode": "\\ec03",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-center",
-      "unicode": "\\ec04",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-top",
-      "unicode": "\\ec05",
-      "category": "ImageEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "account-logout",
-      "unicode": "\\ea03",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "action-redo",
-      "unicode": "\\ea04",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "action-undo",
-      "unicode": "\\ea05",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "applications",
-      "unicode": "\\ea13",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "apps",
-      "unicode": "\\ea15",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "applications-settings",
-      "unicode": "\\ea14",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "apps-settings",
-      "unicode": "\\ea16",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-bottom",
-      "unicode": "\\ea17",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-circle-bottom",
-      "unicode": "\\ea18",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-circle-left",
-      "unicode": "\\ea19",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-circle-right",
-      "unicode": "\\ea1a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-circle-top",
-      "unicode": "\\ea1b",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-left",
-      "unicode": "\\ea1c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-right",
-      "unicode": "\\ea1d",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-bottom",
-      "unicode": "\\ea1e",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-from-bottom",
-      "unicode": "\\ea1f",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-from-left",
-      "unicode": "\\ea20",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-from-right",
-      "unicode": "\\ea21",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-from-top",
-      "unicode": "\\ea22",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-left",
-      "unicode": "\\ea23",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-right",
-      "unicode": "\\ea24",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-to-bottom",
-      "unicode": "\\ea25",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-to-left",
-      "unicode": "\\ea26",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-to-right",
-      "unicode": "\\ea27",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-to-top",
-      "unicode": "\\ea28",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-thick-top",
-      "unicode": "\\ea29",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "arrow-top",
-      "unicode": "\\ea2a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "ban",
-      "unicode": "\\ea38",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "brightness",
-      "unicode": "\\ea68",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "caret-bottom",
-      "unicode": "\\ea7a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "caret-left",
-      "unicode": "\\ea7b",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "caret-right",
-      "unicode": "\\ea7c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "caret-top",
-      "unicode": "\\ea7d",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "check-alt",
-      "unicode": "\\ea8a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "check-circle",
-      "unicode": "\\ea8b",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "check",
-      "unicode": "\\ea89",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-bottom",
-      "unicode": "\\ea8c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-circle-down-alt",
-      "unicode": "\\ea8d",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-circle-left-alt",
-      "unicode": "\\ea8e",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-circle-right-alt",
-      "unicode": "\\ea8f",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-circle-up-alt",
-      "unicode": "\\ea90",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-double-down",
-      "unicode": "\\ea91",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-double-left",
-      "unicode": "\\ea92",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-double-right",
-      "unicode": "\\ea93",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-double-up",
-      "unicode": "\\ea94",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-left",
-      "unicode": "\\ea95",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-right",
-      "unicode": "\\ea96",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "chevron-top",
-      "unicode": "\\ea97",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "clear-all",
-      "unicode": "\\ea9b",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "clipboard",
-      "unicode": "\\ea9c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "clone",
-      "unicode": "\\ea9e",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "columns",
-      "unicode": "\\eaaa",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "exit-to-app",
-      "unicode": "\\ead7",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "filter-square",
-      "unicode": "\\eaea",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "filter-x",
-      "unicode": "\\eaeb",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "filter",
-      "unicode": "\\eae7",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "infinity",
-      "unicode": "\\eb2a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "input",
-      "unicode": "\\eb2c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "magnifying-glass",
-      "unicode": "\\eb57",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "zoom",
-      "unicode": "\\ec27",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "search",
-      "unicode": "\\ebaf",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "menu",
-      "unicode": "\\eb65",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hamburger-menu",
-      "unicode": "\\eb0e",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "minus",
-      "unicode": "\\eb68",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "move",
-      "unicode": "\\eb74",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "options",
-      "unicode": "\\eb80",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pin",
-      "unicode": "\\eb8d",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "plus",
-      "unicode": "\\eb91",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "power-standby",
-      "unicode": "\\eb93",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "reload",
-      "unicode": "\\eb9c",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "resize-both",
-      "unicode": "\\eb9e",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "resize-height",
-      "unicode": "\\eb9f",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "resize-width",
-      "unicode": "\\eba0",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "save",
-      "unicode": "\\ebaa",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "settings",
-      "unicode": "\\ebb1",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cog",
-      "unicode": "\\eaa6",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "speedometer",
-      "unicode": "\\ebd3",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "spreadsheet",
-      "unicode": "\\ebd4",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "storage",
-      "unicode": "\\ebd8",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sync",
-      "unicode": "\\ebdf",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "toggle-off",
-      "unicode": "\\ebf0",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "toggle-on",
-      "unicode": "\\ebf1",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "touch-app",
-      "unicode": "\\ebf3",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "trash",
-      "unicode": "\\ebf6",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "view-column",
-      "unicode": "\\ec08",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "view-module",
-      "unicode": "\\ec09",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "view-quilt",
-      "unicode": "\\ec0a",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "view-stream",
-      "unicode": "\\ec0b",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wallpaper",
-      "unicode": "\\ec13",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "window-maximize",
-      "unicode": "\\ec20",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "window-minimize",
-      "unicode": "\\ec21",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "window-restore",
-      "unicode": "\\ec22",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "x-circle",
-      "unicode": "\\ec25",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "x",
-      "unicode": "\\ec24",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "zoom-in",
-      "unicode": "\\ec28",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "zoom-out",
-      "unicode": "\\ec29",
-      "category": "Interface",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "calendar-check",
-      "unicode": "\\ea75",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "calendar",
-      "unicode": "\\ea74",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "clock",
-      "unicode": "\\ea9d",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "compass",
-      "unicode": "\\eaae",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flag-alt",
-      "unicode": "\\eaef",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "globe-alt",
-      "unicode": "\\eb05",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "history",
-      "unicode": "\\eb1c",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "language",
-      "unicode": "\\eb36",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "location-pin",
-      "unicode": "\\eb4f",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "map",
-      "unicode": "\\eb58",
-      "category": "LocationTime",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "4k",
-      "unicode": "\\ea02",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "airplay",
-      "unicode": "\\ea09",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "album",
-      "unicode": "\\ea0b",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "audio-description",
-      "unicode": "\\ea30",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "audio-spectrum",
-      "unicode": "\\ea31",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "audio",
-      "unicode": "\\ea2f",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "av-timer",
-      "unicode": "\\ea32",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "camera-control",
-      "unicode": "\\ea77",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "control",
-      "unicode": "\\eab2",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "camera",
-      "unicode": "\\ea76",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "closed-captioning",
-      "unicode": "\\ea9f",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cc",
-      "unicode": "\\ea83",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "compress",
-      "unicode": "\\eaaf",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "equalizer",
-      "unicode": "\\ead3",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "featured-playlist",
-      "unicode": "\\eae5",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fullscreen-exit",
-      "unicode": "\\eafd",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fullscreen",
-      "unicode": "\\eafc",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "hd",
-      "unicode": "\\eb14",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "headphones",
-      "unicode": "\\eb17",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "library-add",
-      "unicode": "\\eb3e",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "loop-1",
-      "unicode": "\\eb54",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "loop-circular",
-      "unicode": "\\eb55",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "loop",
-      "unicode": "\\eb53",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-eject",
-      "unicode": "\\eb59",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-pause",
-      "unicode": "\\eb5a",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-play",
-      "unicode": "\\eb5b",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-record",
-      "unicode": "\\eb5c",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-skip-backward",
-      "unicode": "\\eb5d",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-skip-forward",
-      "unicode": "\\eb5e",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-step-backward",
-      "unicode": "\\eb5f",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-step-forward",
-      "unicode": "\\eb60",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "media-stop",
-      "unicode": "\\eb61",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "microphone",
-      "unicode": "\\eb67",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mic",
-      "unicode": "\\eb66",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "movie",
-      "unicode": "\\eb75",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "music-note",
-      "unicode": "\\eb78",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "playlist-add",
-      "unicode": "\\eb90",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "speaker",
-      "unicode": "\\ebd1",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tv",
-      "unicode": "\\ebf9",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "video",
-      "unicode": "\\ec06",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "voice-over-record",
-      "unicode": "\\ec0d",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "volume-high",
-      "unicode": "\\ec0e",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "volume-low",
-      "unicode": "\\ec0f",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "volume-off",
-      "unicode": "\\ec10",
-      "category": "Media",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cat",
-      "unicode": "\\ea82",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "dog",
-      "unicode": "\\eac5",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flower",
-      "unicode": "\\eaf4",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "leaf",
-      "unicode": "\\eb39",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "eco",
-      "unicode": "\\eacd",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "plant",
-      "unicode": "\\eb8f",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paw",
-      "unicode": "\\eb86",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "animal",
-      "unicode": "\\ea10",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "recycle",
-      "unicode": "\\eb9b",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "terrain",
-      "unicode": "\\ebe8",
-      "category": "Nature",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "airplane-mode-off",
-      "unicode": "\\ea08",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "airplane-mode",
-      "unicode": "\\ea07",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "contact",
-      "unicode": "\\eab0",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "dialpad",
-      "unicode": "\\eac1",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mobile-landscape",
-      "unicode": "\\eb6a",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mobile",
-      "unicode": "\\eb69",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "phone",
-      "unicode": "\\eb8c",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sim",
-      "unicode": "\\ebbd",
-      "category": "Phone",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-0",
-      "unicode": "\\ea41",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-empty",
-      "unicode": "\\ea45",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-3",
-      "unicode": "\\ea42",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-5",
-      "unicode": "\\ea43",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-full",
-      "unicode": "\\ea46",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-alert",
-      "unicode": "\\ea44",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "battery-slash",
-      "unicode": "\\ea47",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bolt-circle",
-      "unicode": "\\ea57",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bolt",
-      "unicode": "\\ea56",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fire",
-      "unicode": "\\eaee",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "burn",
-      "unicode": "\\ea71",
-      "category": "Power",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "asterisk-circle",
-      "unicode": "\\ea2d",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "asterisk",
-      "unicode": "\\ea2c",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "badge",
-      "unicode": "\\ea36",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "circle",
-      "unicode": "\\ea9a",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "drop",
-      "unicode": "\\eacc",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "heart",
-      "unicode": "\\eb19",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "puzzle",
-      "unicode": "\\eb97",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "rectangle",
-      "unicode": "\\eb9a",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "scrubber",
-      "unicode": "\\ebae",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "square",
-      "unicode": "\\ebd5",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "star-half",
-      "unicode": "\\ebd7",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "star",
-      "unicode": "\\ebd6",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "triangle",
-      "unicode": "\\ebf7",
-      "category": "Shapes",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "american-football",
-      "unicode": "\\ea0f",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "baseball",
-      "unicode": "\\ea3c",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "basketball",
-      "unicode": "\\ea3e",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bowling",
-      "unicode": "\\ea65",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "football",
-      "unicode": "\\eaf8",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "soccer",
-      "unicode": "\\ebc6",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "golf-alt",
-      "unicode": "\\eb07",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "golf",
-      "unicode": "\\eb06",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "rowing",
-      "unicode": "\\eba4",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "running",
-      "unicode": "\\eba7",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "swimming",
-      "unicode": "\\ebde",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tennis-ball",
-      "unicode": "\\ebe6",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tennis",
-      "unicode": "\\ebe5",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "weightlifitng",
-      "unicode": "\\ec17",
-      "category": "Sport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "barcode",
-      "unicode": "\\ea3b",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "beaker",
-      "unicode": "\\ea49",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bluetooth",
-      "unicode": "\\ea50",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bug",
-      "unicode": "\\ea6d",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "code",
-      "unicode": "\\eaa4",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "command",
-      "unicode": "\\eaab",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "devices",
-      "unicode": "\\eac0",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fax",
-      "unicode": "\\eae4",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "fork",
-      "unicode": "\\eaf9",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "gamepad",
-      "unicode": "\\eb00",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "input-hdmi",
-      "unicode": "\\eb2d",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "input-power",
-      "unicode": "\\eb2e",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "keyboard",
-      "unicode": "\\eb34",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "laptop",
-      "unicode": "\\eb37",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "lightbulb",
-      "unicode": "\\eb41",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "memory",
-      "unicode": "\\eb64",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "monitor",
-      "unicode": "\\eb6c",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "mouse",
-      "unicode": "\\eb72",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "print",
-      "unicode": "\\eb95",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "qr-code",
-      "unicode": "\\eb98",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "router",
-      "unicode": "\\eba3",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "satelite",
-      "unicode": "\\eba9",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "screen-desktop",
-      "unicode": "\\ebac",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "screen-smartphone",
-      "unicode": "\\ebad",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "signal-cellular-0",
-      "unicode": "\\ebba",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "signal-cellular-3",
-      "unicode": "\\ebbb",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "signal-cellular-4",
-      "unicode": "\\ebbc",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tablet",
-      "unicode": "\\ebe0",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "task",
-      "unicode": "\\ebe3",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "terminal",
-      "unicode": "\\ebe7",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "tv",
-      "unicode": "\\ebf9",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "usb",
-      "unicode": "\\ebfb",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "videogame",
-      "unicode": "\\ec07",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "watch",
-      "unicode": "\\ec15",
-      "category": "Technology",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "align-center",
-      "unicode": "\\ea0c",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "align-left",
-      "unicode": "\\ea0d",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "align-right",
-      "unicode": "\\ea0e",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bold",
-      "unicode": "\\ea55",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "copy",
-      "unicode": "\\eab3",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cut",
-      "unicode": "\\eaba",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "delete",
-      "unicode": "\\eabe",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "backspace",
-      "unicode": "\\ea35",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "double-quote-sans-left",
-      "unicode": "\\eac8",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "double-quote-sans-right",
-      "unicode": "\\eac9",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "excerpt",
-      "unicode": "\\ead6",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "expand-down",
-      "unicode": "\\ead8",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "expand-left",
-      "unicode": "\\ead9",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "expand-right",
-      "unicode": "\\eada",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "expand-up",
-      "unicode": "\\eadb",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "font",
-      "unicode": "\\eaf7",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "functions-alt",
-      "unicode": "\\eaff",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "functions",
-      "unicode": "\\eafe",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "header",
-      "unicode": "\\eb16",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "highlighter",
-      "unicode": "\\eb1a",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "highligt",
-      "unicode": "\\eb1b",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "indent-decrease",
-      "unicode": "\\eb26",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "indent-increase",
-      "unicode": "\\eb27",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "info",
-      "unicode": "\\eb2b",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "italic",
-      "unicode": "\\eb30",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "justify-center",
-      "unicode": "\\eb31",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "justify-left",
-      "unicode": "\\eb32",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "justify-right",
-      "unicode": "\\eb33",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "level-down",
-      "unicode": "\\eb3b",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "level-up",
-      "unicode": "\\eb3c",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "line-spacing",
-      "unicode": "\\eb42",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-filter",
-      "unicode": "\\eb49",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-high-priority",
-      "unicode": "\\eb4a",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-low-priority",
-      "unicode": "\\eb4b",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-numbered-rtl",
-      "unicode": "\\eb4d",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-numbered",
-      "unicode": "\\eb4c",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list-rich",
-      "unicode": "\\eb4e",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "list",
-      "unicode": "\\eb48",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "notes",
-      "unicode": "\\eb7b",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "opentype",
-      "unicode": "\\eb7f",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paragraph",
-      "unicode": "\\eb85",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pen-alt",
-      "unicode": "\\eb88",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pen-nib",
-      "unicode": "\\eb89",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pen",
-      "unicode": "\\eb87",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "pencil",
-      "unicode": "\\eb8a",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "short-text",
-      "unicode": "\\ebb7",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-alpha-down",
-      "unicode": "\\ebc8",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-alpha-up",
-      "unicode": "\\ebc9",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-ascending",
-      "unicode": "\\ebca",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-descending",
-      "unicode": "\\ebcb",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-numeric-down",
-      "unicode": "\\ebcc",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sort-numeric-up",
-      "unicode": "\\ebcd",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "space-bar",
-      "unicode": "\\ebcf",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "text-shapes",
-      "unicode": "\\ebea",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "text-size",
-      "unicode": "\\ebeb",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "text-square",
-      "unicode": "\\ebec",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "text-strike",
-      "unicode": "\\ebed",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "strikethrough",
-      "unicode": "\\ebda",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "text",
-      "unicode": "\\ebe9",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "translate",
-      "unicode": "\\ebf5",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "underline",
-      "unicode": "\\ebfa",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-bottom",
-      "unicode": "\\ec03",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-center",
-      "unicode": "\\ec04",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "vertical-align-top",
-      "unicode": "\\ec05",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wrap-text",
-      "unicode": "\\ec23",
-      "category": "TextEdit",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bike",
-      "unicode": "\\ea4d",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "boat-alt",
-      "unicode": "\\ea54",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "bus-alt",
-      "unicode": "\\ea72",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "car-alt",
-      "unicode": "\\ea79",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "flight-takeoff",
-      "unicode": "\\eaf0",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "locomotive",
-      "unicode": "\\eb52",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "taxi",
-      "unicode": "\\ebe4",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "truck",
-      "unicode": "\\ebf8",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "walk",
-      "unicode": "\\ec11",
-      "category": "Transport",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "address-book",
-      "unicode": "\\ea06",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "people",
-      "unicode": "\\eb8b",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "group",
-      "unicode": "\\eb0d",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user-female",
-      "unicode": "\\ebfd",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user-follow",
-      "unicode": "\\ebfe",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user-plus",
-      "unicode": "\\ebff",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user-unfollow",
-      "unicode": "\\ec00",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user-x",
-      "unicode": "\\ec01",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "user",
-      "unicode": "\\ebfc",
-      "category": "User",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cloud",
-      "unicode": "\\eaa0",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cloudy",
-      "unicode": "\\eaa3",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "moon",
-      "unicode": "\\eb71",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "rain",
-      "unicode": "\\eb99",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "snowflake",
-      "unicode": "\\ebc5",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sun",
-      "unicode": "\\ebdb",
-      "category": "Weather",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "browser",
-      "unicode": "\\ea6a",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cast",
-      "unicode": "\\ea81",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cloud-download",
-      "unicode": "\\eaa1",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "cloud-upload",
-      "unicode": "\\eaa2",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "data-transfer-down",
-      "unicode": "\\eabb",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "data-transfer-up",
-      "unicode": "\\eabc",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "ethernet",
-      "unicode": "\\ead4",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "external-link",
-      "unicode": "\\eadd",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "https",
-      "unicode": "\\eb21",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "lan",
-      "unicode": "\\eb35",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "link-alt",
-      "unicode": "\\eb46",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "link-broken",
-      "unicode": "\\eb47",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "link",
-      "unicode": "\\eb45",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "newspaper",
-      "unicode": "\\eb79",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "paper-plane",
-      "unicode": "\\eb83",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "send",
-      "unicode": "\\ebb0",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "rss",
-      "unicode": "\\eba5",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "share-all",
-      "unicode": "\\ebb3",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "share-alt",
-      "unicode": "\\ebb4",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "share-boxed",
-      "unicode": "\\ebb5",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "share",
-      "unicode": "\\ebb2",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "sitemap",
-      "unicode": "\\ebbe",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "stream",
-      "unicode": "\\ebd9",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "transfer",
-      "unicode": "\\ebf4",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-0",
-      "unicode": "\\ec19",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-1",
-      "unicode": "\\ec1a",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-2",
-      "unicode": "\\ec1b",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-3",
-      "unicode": "\\ec1c",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-4",
-      "unicode": "\\ec1d",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    },
-    {
-      "name": "wifi-signal-off",
-      "unicode": "\\ec1e",
-      "category": "Web",
-      "type": "Free",
-      "prefix": "cil-"
-    }
-  ]
-}
+[
+  {
+    "name": "assistive-listening-system",
+    "unicode": "\\ea2b",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "blind",
+    "unicode": "\\ea4f",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "braille",
+    "unicode": "\\ea66",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "deaf",
+    "unicode": "\\eabd",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fingerprint",
+    "unicode": "\\eaed",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "life-ring",
+    "unicode": "\\eb40",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "lock-locked",
+    "unicode": "\\eb50",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "lock-unlocked",
+    "unicode": "\\eb51",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "low-vision",
+    "unicode": "\\eb56",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mouth-slash",
+    "unicode": "\\eb73",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pregnant",
+    "unicode": "\\eb94",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "shield-alt",
+    "unicode": "\\ebb6",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sign-language",
+    "unicode": "\\ebb9",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "speak",
+    "unicode": "\\ebd0",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "voice",
+    "unicode": "\\ec0c",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wheelchair",
+    "unicode": "\\ec18",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "disabled",
+    "unicode": "\\eac4",
+    "category": "Accessibility",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "alarm",
+    "unicode": "\\ea0a",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bell-exclamation",
+    "unicode": "\\ea4c",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bell",
+    "unicode": "\\ea4b",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bullhorn",
+    "unicode": "\\ea6f",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "report-slash",
+    "unicode": "\\eb9d",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "warning",
+    "unicode": "\\ec14",
+    "category": "Alerts",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bank",
+    "unicode": "\\ea39",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bath",
+    "unicode": "\\ea3f",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bathroom",
+    "unicode": "\\ea40",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "beach-access",
+    "unicode": "\\ea48",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bed",
+    "unicode": "\\ea4a",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "building",
+    "unicode": "\\ea6e",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "casino",
+    "unicode": "\\ea80",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "child-friendly",
+    "unicode": "\\ea99",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "baby-carriage",
+    "unicode": "\\ea34",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pushchair",
+    "unicode": "\\eb96",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "couch",
+    "unicode": "\\eab4",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sofa",
+    "unicode": "\\ebc7",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "door",
+    "unicode": "\\eac7",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "elevator",
+    "unicode": "\\eacf",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fridge",
+    "unicode": "\\eafa",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "garage",
+    "unicode": "\\eb01",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "home",
+    "unicode": "\\eb1d",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hospital",
+    "unicode": "\\eb1e",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hot-tub",
+    "unicode": "\\eb1f",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "house",
+    "unicode": "\\eb20",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "industry",
+    "unicode": "\\eb28",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "factory",
+    "unicode": "\\eae1",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "industry-slash",
+    "unicode": "\\eb29",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "factory-slash",
+    "unicode": "\\eae2",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "institution",
+    "unicode": "\\eb2f",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "library-building",
+    "unicode": "\\eb3f",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "medical-cross",
+    "unicode": "\\eb62",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pool",
+    "unicode": "\\eb92",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "room",
+    "unicode": "\\eba2",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "school",
+    "unicode": "\\ebab",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "education",
+    "unicode": "\\eace",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "shower",
+    "unicode": "\\ebb8",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smoke-free",
+    "unicode": "\\ebc2",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smoke-slash",
+    "unicode": "\\ebc3",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smoking-room",
+    "unicode": "\\ebc4",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smoke",
+    "unicode": "\\ebc1",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "spa",
+    "unicode": "\\ebce",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "toilet",
+    "unicode": "\\ebf2",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wc",
+    "unicode": "\\ec16",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "window",
+    "unicode": "\\ec1f",
+    "category": "Buildings",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "balance-scale",
+    "unicode": "\\ea37",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bank",
+    "unicode": "\\ea39",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bar-chart",
+    "unicode": "\\ea3a",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "basket",
+    "unicode": "\\ea3d",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "briefcase",
+    "unicode": "\\ea67",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "british-pound",
+    "unicode": "\\ea69",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "calculator",
+    "unicode": "\\ea73",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cart",
+    "unicode": "\\ea7e",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chart-line",
+    "unicode": "\\ea86",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chart-pie",
+    "unicode": "\\ea87",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chart",
+    "unicode": "\\ea85",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "credit-card",
+    "unicode": "\\eab5",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "dollar",
+    "unicode": "\\eac6",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "euro",
+    "unicode": "\\ead5",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "gem",
+    "unicode": "\\eb02",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "diamond",
+    "unicode": "\\eac2",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "gift",
+    "unicode": "\\eb04",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "graph",
+    "unicode": "\\eb0a",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "money",
+    "unicode": "\\eb6b",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cash",
+    "unicode": "\\ea7f",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "ruble",
+    "unicode": "\\eba6",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wallet",
+    "unicode": "\\ec12",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "yen",
+    "unicode": "\\ec26",
+    "category": "Business",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chat-bubble",
+    "unicode": "\\ea88",
+    "category": "Chat",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "comment-bubble",
+    "unicode": "\\eaac",
+    "category": "Chat",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "comment-square",
+    "unicode": "\\eaad",
+    "category": "Chat",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "speech",
+    "unicode": "\\ebd2",
+    "category": "Chat",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "child",
+    "unicode": "\\ea98",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "baby",
+    "unicode": "\\ea33",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "face-dead",
+    "unicode": "\\eae0",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "face",
+    "unicode": "\\eadf",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "frown",
+    "unicode": "\\eafb",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sad",
+    "unicode": "\\eba8",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "meh",
+    "unicode": "\\eb63",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mood-bad",
+    "unicode": "\\eb6d",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mood-good",
+    "unicode": "\\eb6e",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mood-very-bad",
+    "unicode": "\\eb6f",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mood-very-good",
+    "unicode": "\\eb70",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smile",
+    "unicode": "\\ebbf",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "happy",
+    "unicode": "\\eb13",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "smile-plus",
+    "unicode": "\\ebc0",
+    "category": "Faces",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "at",
+    "unicode": "\\ea2e",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "book",
+    "unicode": "\\ea58",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bookmark",
+    "unicode": "\\ea59",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "description",
+    "unicode": "\\eabf",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "envelope-closed",
+    "unicode": "\\ead0",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "envelope-letter",
+    "unicode": "\\ead1",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "envelope-open",
+    "unicode": "\\ead2",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "file",
+    "unicode": "\\eae6",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "find-in-page",
+    "unicode": "\\eaec",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "folder-open",
+    "unicode": "\\eaf6",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "folder",
+    "unicode": "\\eaf5",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "image",
+    "unicode": "\\eb22",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "inbox",
+    "unicode": "\\eb25",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "library",
+    "unicode": "\\eb3d",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "note-add",
+    "unicode": "\\eb7a",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paperclip",
+    "unicode": "\\eb84",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tag",
+    "unicode": "\\ebe1",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tags",
+    "unicode": "\\ebe2",
+    "category": "Files",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "apple",
+    "unicode": "\\ea12",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "birthday-cake",
+    "unicode": "\\ea4e",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "burger",
+    "unicode": "\\ea70",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "coffee",
+    "unicode": "\\eaa5",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "dinner",
+    "unicode": "\\eac3",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "drink-alcohol",
+    "unicode": "\\eacb",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "drink",
+    "unicode": "\\eaca",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fastfood",
+    "unicode": "\\eae3",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "lemon",
+    "unicode": "\\eb3a",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mug-tea",
+    "unicode": "\\eb77",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mug",
+    "unicode": "\\eb76",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pizza",
+    "unicode": "\\eb8e",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "restaurant",
+    "unicode": "\\eba1",
+    "category": "Food",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hand-point-down",
+    "unicode": "\\eb0f",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hand-point-left",
+    "unicode": "\\eb10",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hand-point-right",
+    "unicode": "\\eb11",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hand-point-up",
+    "unicode": "\\eb12",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "thumb-down",
+    "unicode": "\\ebee",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "thumb-up",
+    "unicode": "\\ebef",
+    "category": "Hands",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "3d",
+    "unicode": "\\ea01",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "aperture",
+    "unicode": "\\ea11",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "blur-circular",
+    "unicode": "\\ea52",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "blur-linear",
+    "unicode": "\\ea53",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "blur",
+    "unicode": "\\ea51",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-all",
+    "unicode": "\\ea5a",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-bottom",
+    "unicode": "\\ea5b",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-clear",
+    "unicode": "\\ea5c",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-horizontal",
+    "unicode": "\\ea5d",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-inner",
+    "unicode": "\\ea5e",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-left",
+    "unicode": "\\ea5f",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-outer",
+    "unicode": "\\ea60",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-right",
+    "unicode": "\\ea61",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-style",
+    "unicode": "\\ea62",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-top",
+    "unicode": "\\ea63",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "border-vertical",
+    "unicode": "\\ea64",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "brush-alt",
+    "unicode": "\\ea6c",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "brush",
+    "unicode": "\\ea6b",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "camera-roll",
+    "unicode": "\\ea78",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "center-focus",
+    "unicode": "\\ea84",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "color-border",
+    "unicode": "\\eaa7",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "color-fill",
+    "unicode": "\\eaa8",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "color-palette",
+    "unicode": "\\eaa9",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "contrast",
+    "unicode": "\\eab1",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "crop-rotate",
+    "unicode": "\\eab7",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "crop",
+    "unicode": "\\eab6",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cursor-move",
+    "unicode": "\\eab9",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cursor",
+    "unicode": "\\eab8",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "drop",
+    "unicode": "\\eacc",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "exposure",
+    "unicode": "\\eadc",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "eyedropper",
+    "unicode": "\\eade",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "filter-frames",
+    "unicode": "\\eae8",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "filter-photo",
+    "unicode": "\\eae9",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flip-to-back",
+    "unicode": "\\eaf2",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flip-to-front",
+    "unicode": "\\eaf3",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flip",
+    "unicode": "\\eaf1",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "gif",
+    "unicode": "\\eb03",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "gradient",
+    "unicode": "\\eb08",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "grain",
+    "unicode": "\\eb09",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "grid-slash",
+    "unicode": "\\eb0c",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "grid",
+    "unicode": "\\eb0b",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hdr",
+    "unicode": "\\eb15",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "healing",
+    "unicode": "\\eb18",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "image-broken",
+    "unicode": "\\eb23",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "image-plus",
+    "unicode": "\\eb24",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "image",
+    "unicode": "\\eb22",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "layers",
+    "unicode": "\\eb38",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "line-style",
+    "unicode": "\\eb43",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "line-weight",
+    "unicode": "\\eb44",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "object-group",
+    "unicode": "\\eb7c",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "object-ungroup",
+    "unicode": "\\eb7d",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "opacity",
+    "unicode": "\\eb7e",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paint-bucket",
+    "unicode": "\\eb82",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paint",
+    "unicode": "\\eb81",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "swap-horizontal",
+    "unicode": "\\ebdc",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "swap-vertical",
+    "unicode": "\\ebdd",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vector",
+    "unicode": "\\ec02",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-bottom",
+    "unicode": "\\ec03",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-center",
+    "unicode": "\\ec04",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-top",
+    "unicode": "\\ec05",
+    "category": "ImageEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "account-logout",
+    "unicode": "\\ea03",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "action-redo",
+    "unicode": "\\ea04",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "action-undo",
+    "unicode": "\\ea05",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "applications",
+    "unicode": "\\ea13",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "apps",
+    "unicode": "\\ea15",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "applications-settings",
+    "unicode": "\\ea14",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "apps-settings",
+    "unicode": "\\ea16",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-bottom",
+    "unicode": "\\ea17",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-circle-bottom",
+    "unicode": "\\ea18",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-circle-left",
+    "unicode": "\\ea19",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-circle-right",
+    "unicode": "\\ea1a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-circle-top",
+    "unicode": "\\ea1b",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-left",
+    "unicode": "\\ea1c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-right",
+    "unicode": "\\ea1d",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-bottom",
+    "unicode": "\\ea1e",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-from-bottom",
+    "unicode": "\\ea1f",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-from-left",
+    "unicode": "\\ea20",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-from-right",
+    "unicode": "\\ea21",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-from-top",
+    "unicode": "\\ea22",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-left",
+    "unicode": "\\ea23",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-right",
+    "unicode": "\\ea24",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-to-bottom",
+    "unicode": "\\ea25",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-to-left",
+    "unicode": "\\ea26",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-to-right",
+    "unicode": "\\ea27",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-to-top",
+    "unicode": "\\ea28",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-thick-top",
+    "unicode": "\\ea29",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "arrow-top",
+    "unicode": "\\ea2a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "ban",
+    "unicode": "\\ea38",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "brightness",
+    "unicode": "\\ea68",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "caret-bottom",
+    "unicode": "\\ea7a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "caret-left",
+    "unicode": "\\ea7b",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "caret-right",
+    "unicode": "\\ea7c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "caret-top",
+    "unicode": "\\ea7d",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "check-alt",
+    "unicode": "\\ea8a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "check-circle",
+    "unicode": "\\ea8b",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "check",
+    "unicode": "\\ea89",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-bottom",
+    "unicode": "\\ea8c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-circle-down-alt",
+    "unicode": "\\ea8d",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-circle-left-alt",
+    "unicode": "\\ea8e",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-circle-right-alt",
+    "unicode": "\\ea8f",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-circle-up-alt",
+    "unicode": "\\ea90",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-double-down",
+    "unicode": "\\ea91",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-double-left",
+    "unicode": "\\ea92",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-double-right",
+    "unicode": "\\ea93",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-double-up",
+    "unicode": "\\ea94",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-left",
+    "unicode": "\\ea95",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-right",
+    "unicode": "\\ea96",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "chevron-top",
+    "unicode": "\\ea97",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "clear-all",
+    "unicode": "\\ea9b",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "clipboard",
+    "unicode": "\\ea9c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "clone",
+    "unicode": "\\ea9e",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "columns",
+    "unicode": "\\eaaa",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "exit-to-app",
+    "unicode": "\\ead7",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "filter-square",
+    "unicode": "\\eaea",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "filter-x",
+    "unicode": "\\eaeb",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "filter",
+    "unicode": "\\eae7",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "infinity",
+    "unicode": "\\eb2a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "input",
+    "unicode": "\\eb2c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "magnifying-glass",
+    "unicode": "\\eb57",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "zoom",
+    "unicode": "\\ec27",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "search",
+    "unicode": "\\ebaf",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "menu",
+    "unicode": "\\eb65",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hamburger-menu",
+    "unicode": "\\eb0e",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "minus",
+    "unicode": "\\eb68",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "move",
+    "unicode": "\\eb74",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "options",
+    "unicode": "\\eb80",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pin",
+    "unicode": "\\eb8d",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "plus",
+    "unicode": "\\eb91",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "power-standby",
+    "unicode": "\\eb93",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "reload",
+    "unicode": "\\eb9c",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "resize-both",
+    "unicode": "\\eb9e",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "resize-height",
+    "unicode": "\\eb9f",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "resize-width",
+    "unicode": "\\eba0",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "save",
+    "unicode": "\\ebaa",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "settings",
+    "unicode": "\\ebb1",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cog",
+    "unicode": "\\eaa6",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "speedometer",
+    "unicode": "\\ebd3",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "spreadsheet",
+    "unicode": "\\ebd4",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "storage",
+    "unicode": "\\ebd8",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sync",
+    "unicode": "\\ebdf",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "toggle-off",
+    "unicode": "\\ebf0",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "toggle-on",
+    "unicode": "\\ebf1",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "touch-app",
+    "unicode": "\\ebf3",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "trash",
+    "unicode": "\\ebf6",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "view-column",
+    "unicode": "\\ec08",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "view-module",
+    "unicode": "\\ec09",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "view-quilt",
+    "unicode": "\\ec0a",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "view-stream",
+    "unicode": "\\ec0b",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wallpaper",
+    "unicode": "\\ec13",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "window-maximize",
+    "unicode": "\\ec20",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "window-minimize",
+    "unicode": "\\ec21",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "window-restore",
+    "unicode": "\\ec22",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "x-circle",
+    "unicode": "\\ec25",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "x",
+    "unicode": "\\ec24",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "zoom-in",
+    "unicode": "\\ec28",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "zoom-out",
+    "unicode": "\\ec29",
+    "category": "Interface",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "calendar-check",
+    "unicode": "\\ea75",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "calendar",
+    "unicode": "\\ea74",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "clock",
+    "unicode": "\\ea9d",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "compass",
+    "unicode": "\\eaae",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flag-alt",
+    "unicode": "\\eaef",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "globe-alt",
+    "unicode": "\\eb05",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "history",
+    "unicode": "\\eb1c",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "language",
+    "unicode": "\\eb36",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "location-pin",
+    "unicode": "\\eb4f",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "map",
+    "unicode": "\\eb58",
+    "category": "LocationTime",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "4k",
+    "unicode": "\\ea02",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "airplay",
+    "unicode": "\\ea09",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "album",
+    "unicode": "\\ea0b",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "audio-description",
+    "unicode": "\\ea30",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "audio-spectrum",
+    "unicode": "\\ea31",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "audio",
+    "unicode": "\\ea2f",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "av-timer",
+    "unicode": "\\ea32",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "camera-control",
+    "unicode": "\\ea77",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "control",
+    "unicode": "\\eab2",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "camera",
+    "unicode": "\\ea76",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "closed-captioning",
+    "unicode": "\\ea9f",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cc",
+    "unicode": "\\ea83",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "compress",
+    "unicode": "\\eaaf",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "equalizer",
+    "unicode": "\\ead3",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "featured-playlist",
+    "unicode": "\\eae5",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fullscreen-exit",
+    "unicode": "\\eafd",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fullscreen",
+    "unicode": "\\eafc",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "hd",
+    "unicode": "\\eb14",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "headphones",
+    "unicode": "\\eb17",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "library-add",
+    "unicode": "\\eb3e",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "loop-1",
+    "unicode": "\\eb54",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "loop-circular",
+    "unicode": "\\eb55",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "loop",
+    "unicode": "\\eb53",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-eject",
+    "unicode": "\\eb59",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-pause",
+    "unicode": "\\eb5a",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-play",
+    "unicode": "\\eb5b",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-record",
+    "unicode": "\\eb5c",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-skip-backward",
+    "unicode": "\\eb5d",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-skip-forward",
+    "unicode": "\\eb5e",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-step-backward",
+    "unicode": "\\eb5f",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-step-forward",
+    "unicode": "\\eb60",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "media-stop",
+    "unicode": "\\eb61",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "microphone",
+    "unicode": "\\eb67",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mic",
+    "unicode": "\\eb66",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "movie",
+    "unicode": "\\eb75",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "music-note",
+    "unicode": "\\eb78",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "playlist-add",
+    "unicode": "\\eb90",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "speaker",
+    "unicode": "\\ebd1",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tv",
+    "unicode": "\\ebf9",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "video",
+    "unicode": "\\ec06",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "voice-over-record",
+    "unicode": "\\ec0d",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "volume-high",
+    "unicode": "\\ec0e",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "volume-low",
+    "unicode": "\\ec0f",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "volume-off",
+    "unicode": "\\ec10",
+    "category": "Media",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cat",
+    "unicode": "\\ea82",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "dog",
+    "unicode": "\\eac5",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flower",
+    "unicode": "\\eaf4",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "leaf",
+    "unicode": "\\eb39",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "eco",
+    "unicode": "\\eacd",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "plant",
+    "unicode": "\\eb8f",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paw",
+    "unicode": "\\eb86",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "animal",
+    "unicode": "\\ea10",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "recycle",
+    "unicode": "\\eb9b",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "terrain",
+    "unicode": "\\ebe8",
+    "category": "Nature",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "airplane-mode-off",
+    "unicode": "\\ea08",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "airplane-mode",
+    "unicode": "\\ea07",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "contact",
+    "unicode": "\\eab0",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "dialpad",
+    "unicode": "\\eac1",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mobile-landscape",
+    "unicode": "\\eb6a",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mobile",
+    "unicode": "\\eb69",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "phone",
+    "unicode": "\\eb8c",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sim",
+    "unicode": "\\ebbd",
+    "category": "Phone",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-0",
+    "unicode": "\\ea41",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-empty",
+    "unicode": "\\ea45",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-3",
+    "unicode": "\\ea42",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-5",
+    "unicode": "\\ea43",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-full",
+    "unicode": "\\ea46",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-alert",
+    "unicode": "\\ea44",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "battery-slash",
+    "unicode": "\\ea47",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bolt-circle",
+    "unicode": "\\ea57",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bolt",
+    "unicode": "\\ea56",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fire",
+    "unicode": "\\eaee",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "burn",
+    "unicode": "\\ea71",
+    "category": "Power",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "asterisk-circle",
+    "unicode": "\\ea2d",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "asterisk",
+    "unicode": "\\ea2c",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "badge",
+    "unicode": "\\ea36",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "circle",
+    "unicode": "\\ea9a",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "drop",
+    "unicode": "\\eacc",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "heart",
+    "unicode": "\\eb19",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "puzzle",
+    "unicode": "\\eb97",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "rectangle",
+    "unicode": "\\eb9a",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "scrubber",
+    "unicode": "\\ebae",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "square",
+    "unicode": "\\ebd5",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "star-half",
+    "unicode": "\\ebd7",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "star",
+    "unicode": "\\ebd6",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "triangle",
+    "unicode": "\\ebf7",
+    "category": "Shapes",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "american-football",
+    "unicode": "\\ea0f",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "baseball",
+    "unicode": "\\ea3c",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "basketball",
+    "unicode": "\\ea3e",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bowling",
+    "unicode": "\\ea65",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "football",
+    "unicode": "\\eaf8",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "soccer",
+    "unicode": "\\ebc6",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "golf-alt",
+    "unicode": "\\eb07",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "golf",
+    "unicode": "\\eb06",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "rowing",
+    "unicode": "\\eba4",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "running",
+    "unicode": "\\eba7",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "swimming",
+    "unicode": "\\ebde",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tennis-ball",
+    "unicode": "\\ebe6",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tennis",
+    "unicode": "\\ebe5",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "weightlifitng",
+    "unicode": "\\ec17",
+    "category": "Sport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "barcode",
+    "unicode": "\\ea3b",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "beaker",
+    "unicode": "\\ea49",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bluetooth",
+    "unicode": "\\ea50",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bug",
+    "unicode": "\\ea6d",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "code",
+    "unicode": "\\eaa4",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "command",
+    "unicode": "\\eaab",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "devices",
+    "unicode": "\\eac0",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fax",
+    "unicode": "\\eae4",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "fork",
+    "unicode": "\\eaf9",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "gamepad",
+    "unicode": "\\eb00",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "input-hdmi",
+    "unicode": "\\eb2d",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "input-power",
+    "unicode": "\\eb2e",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "keyboard",
+    "unicode": "\\eb34",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "laptop",
+    "unicode": "\\eb37",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "lightbulb",
+    "unicode": "\\eb41",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "memory",
+    "unicode": "\\eb64",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "monitor",
+    "unicode": "\\eb6c",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "mouse",
+    "unicode": "\\eb72",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "print",
+    "unicode": "\\eb95",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "qr-code",
+    "unicode": "\\eb98",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "router",
+    "unicode": "\\eba3",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "satelite",
+    "unicode": "\\eba9",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "screen-desktop",
+    "unicode": "\\ebac",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "screen-smartphone",
+    "unicode": "\\ebad",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "signal-cellular-0",
+    "unicode": "\\ebba",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "signal-cellular-3",
+    "unicode": "\\ebbb",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "signal-cellular-4",
+    "unicode": "\\ebbc",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tablet",
+    "unicode": "\\ebe0",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "task",
+    "unicode": "\\ebe3",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "terminal",
+    "unicode": "\\ebe7",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "tv",
+    "unicode": "\\ebf9",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "usb",
+    "unicode": "\\ebfb",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "videogame",
+    "unicode": "\\ec07",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "watch",
+    "unicode": "\\ec15",
+    "category": "Technology",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "align-center",
+    "unicode": "\\ea0c",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "align-left",
+    "unicode": "\\ea0d",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "align-right",
+    "unicode": "\\ea0e",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bold",
+    "unicode": "\\ea55",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "copy",
+    "unicode": "\\eab3",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cut",
+    "unicode": "\\eaba",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "delete",
+    "unicode": "\\eabe",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "backspace",
+    "unicode": "\\ea35",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "double-quote-sans-left",
+    "unicode": "\\eac8",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "double-quote-sans-right",
+    "unicode": "\\eac9",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "excerpt",
+    "unicode": "\\ead6",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "expand-down",
+    "unicode": "\\ead8",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "expand-left",
+    "unicode": "\\ead9",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "expand-right",
+    "unicode": "\\eada",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "expand-up",
+    "unicode": "\\eadb",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "font",
+    "unicode": "\\eaf7",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "functions-alt",
+    "unicode": "\\eaff",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "functions",
+    "unicode": "\\eafe",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "header",
+    "unicode": "\\eb16",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "highlighter",
+    "unicode": "\\eb1a",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "highligt",
+    "unicode": "\\eb1b",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "indent-decrease",
+    "unicode": "\\eb26",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "indent-increase",
+    "unicode": "\\eb27",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "info",
+    "unicode": "\\eb2b",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "italic",
+    "unicode": "\\eb30",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "justify-center",
+    "unicode": "\\eb31",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "justify-left",
+    "unicode": "\\eb32",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "justify-right",
+    "unicode": "\\eb33",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "level-down",
+    "unicode": "\\eb3b",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "level-up",
+    "unicode": "\\eb3c",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "line-spacing",
+    "unicode": "\\eb42",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-filter",
+    "unicode": "\\eb49",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-high-priority",
+    "unicode": "\\eb4a",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-low-priority",
+    "unicode": "\\eb4b",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-numbered-rtl",
+    "unicode": "\\eb4d",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-numbered",
+    "unicode": "\\eb4c",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list-rich",
+    "unicode": "\\eb4e",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "list",
+    "unicode": "\\eb48",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "notes",
+    "unicode": "\\eb7b",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "opentype",
+    "unicode": "\\eb7f",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paragraph",
+    "unicode": "\\eb85",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pen-alt",
+    "unicode": "\\eb88",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pen-nib",
+    "unicode": "\\eb89",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pen",
+    "unicode": "\\eb87",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "pencil",
+    "unicode": "\\eb8a",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "short-text",
+    "unicode": "\\ebb7",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-alpha-down",
+    "unicode": "\\ebc8",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-alpha-up",
+    "unicode": "\\ebc9",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-ascending",
+    "unicode": "\\ebca",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-descending",
+    "unicode": "\\ebcb",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-numeric-down",
+    "unicode": "\\ebcc",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sort-numeric-up",
+    "unicode": "\\ebcd",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "space-bar",
+    "unicode": "\\ebcf",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "text-shapes",
+    "unicode": "\\ebea",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "text-size",
+    "unicode": "\\ebeb",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "text-square",
+    "unicode": "\\ebec",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "text-strike",
+    "unicode": "\\ebed",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "strikethrough",
+    "unicode": "\\ebda",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "text",
+    "unicode": "\\ebe9",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "translate",
+    "unicode": "\\ebf5",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "underline",
+    "unicode": "\\ebfa",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-bottom",
+    "unicode": "\\ec03",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-center",
+    "unicode": "\\ec04",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "vertical-align-top",
+    "unicode": "\\ec05",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wrap-text",
+    "unicode": "\\ec23",
+    "category": "TextEdit",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bike",
+    "unicode": "\\ea4d",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "boat-alt",
+    "unicode": "\\ea54",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "bus-alt",
+    "unicode": "\\ea72",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "car-alt",
+    "unicode": "\\ea79",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "flight-takeoff",
+    "unicode": "\\eaf0",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "locomotive",
+    "unicode": "\\eb52",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "taxi",
+    "unicode": "\\ebe4",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "truck",
+    "unicode": "\\ebf8",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "walk",
+    "unicode": "\\ec11",
+    "category": "Transport",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "address-book",
+    "unicode": "\\ea06",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "people",
+    "unicode": "\\eb8b",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "group",
+    "unicode": "\\eb0d",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user-female",
+    "unicode": "\\ebfd",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user-follow",
+    "unicode": "\\ebfe",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user-plus",
+    "unicode": "\\ebff",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user-unfollow",
+    "unicode": "\\ec00",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user-x",
+    "unicode": "\\ec01",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "user",
+    "unicode": "\\ebfc",
+    "category": "User",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cloud",
+    "unicode": "\\eaa0",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cloudy",
+    "unicode": "\\eaa3",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "moon",
+    "unicode": "\\eb71",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "rain",
+    "unicode": "\\eb99",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "snowflake",
+    "unicode": "\\ebc5",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sun",
+    "unicode": "\\ebdb",
+    "category": "Weather",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "browser",
+    "unicode": "\\ea6a",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cast",
+    "unicode": "\\ea81",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cloud-download",
+    "unicode": "\\eaa1",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "cloud-upload",
+    "unicode": "\\eaa2",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "data-transfer-down",
+    "unicode": "\\eabb",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "data-transfer-up",
+    "unicode": "\\eabc",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "ethernet",
+    "unicode": "\\ead4",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "external-link",
+    "unicode": "\\eadd",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "https",
+    "unicode": "\\eb21",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "lan",
+    "unicode": "\\eb35",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "link-alt",
+    "unicode": "\\eb46",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "link-broken",
+    "unicode": "\\eb47",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "link",
+    "unicode": "\\eb45",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "newspaper",
+    "unicode": "\\eb79",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "paper-plane",
+    "unicode": "\\eb83",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "send",
+    "unicode": "\\ebb0",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "rss",
+    "unicode": "\\eba5",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "share-all",
+    "unicode": "\\ebb3",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "share-alt",
+    "unicode": "\\ebb4",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "share-boxed",
+    "unicode": "\\ebb5",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "share",
+    "unicode": "\\ebb2",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "sitemap",
+    "unicode": "\\ebbe",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "stream",
+    "unicode": "\\ebd9",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "transfer",
+    "unicode": "\\ebf4",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-0",
+    "unicode": "\\ec19",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-1",
+    "unicode": "\\ec1a",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-2",
+    "unicode": "\\ec1b",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-3",
+    "unicode": "\\ec1c",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-4",
+    "unicode": "\\ec1d",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  },
+  {
+    "name": "wifi-signal-off",
+    "unicode": "\\ec1e",
+    "category": "Web",
+    "type": "Linear",
+    "prefix": "cil-",
+    "free": true
+  }
+]

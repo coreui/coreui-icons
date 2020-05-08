@@ -1,54 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="301" height="301" viewBox="0 0 301 301">
   <defs>
-    <radialGradient id="cif-VA_svg__m" cx="49.99%" cy="50.05%" r="54.122%" fx="49.99%" fy="50.05%">
+    <radialGradient id="m" cx="49.99%" cy="50.05%" r="54.122%" fx="49.99%" fy="50.05%">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__b" cx="49.96%" cy="50.001%" r="57.257%" fx="49.96%" fy="50.001%" gradientTransform="matrix(1 0 0 .98445 0 .008)">
+    <radialGradient id="b" cx="49.96%" cy="50.001%" r="57.257%" fx="49.96%" fy="50.001%" gradientTransform="matrix(1 0 0 .98445 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__c" cx="49.982%" cy="50.005%" r="56.344%" fx="49.982%" fy="50.005%" gradientTransform="matrix(1 0 0 .9848 0 .008)">
+    <radialGradient id="c" cx="49.982%" cy="50.005%" r="56.344%" fx="49.982%" fy="50.005%" gradientTransform="matrix(1 0 0 .9848 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__d" cx="50.012%" cy="49.979%" r="56.329%" fx="50.012%" fy="49.979%" gradientTransform="matrix(1 0 0 .9848 0 .008)">
+    <radialGradient id="d" cx="50.012%" cy="49.979%" r="56.329%" fx="50.012%" fy="49.979%" gradientTransform="matrix(1 0 0 .9848 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__e" cx="49.964%" cy="49.987%" r="57.11%" fx="49.964%" fy="49.987%" gradientTransform="matrix(1 0 0 .98482 0 .008)">
+    <radialGradient id="e" cx="49.964%" cy="49.987%" r="57.11%" fx="49.964%" fy="49.987%" gradientTransform="matrix(1 0 0 .98482 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__f" cx="49.985%" cy="50.019%" r="56.333%" fx="49.985%" fy="50.019%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
+    <radialGradient id="f" cx="49.985%" cy="50.019%" r="56.333%" fx="49.985%" fy="50.019%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__g" cx="49.983%" cy="50.017%" r="56.303%" fx="49.983%" fy="50.017%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
+    <radialGradient id="g" cx="49.983%" cy="50.017%" r="56.303%" fx="49.983%" fy="50.017%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__h" cx="49.986%" cy="50.032%" r="57.274%" fx="49.986%" fy="50.032%" gradientTransform="matrix(1 0 0 .98432 0 .008)">
+    <radialGradient id="h" cx="49.986%" cy="50.032%" r="57.274%" fx="49.986%" fy="50.032%" gradientTransform="matrix(1 0 0 .98432 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__i" cx="49.995%" cy="49.965%" r="56.326%" fx="49.995%" fy="49.965%" gradientTransform="matrix(1 0 0 .98477 0 .008)">
+    <radialGradient id="i" cx="49.995%" cy="49.965%" r="56.326%" fx="49.995%" fy="49.965%" gradientTransform="matrix(1 0 0 .98477 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__j" cx="50.012%" cy="50%" r="56.325%" fx="50.012%" fy="50%" gradientTransform="matrix(1 0 0 .98477 0 .008)">
+    <radialGradient id="j" cx="50.012%" cy="50%" r="56.325%" fx="50.012%" fy="50%" gradientTransform="matrix(1 0 0 .98477 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__k" cx="49.96%" cy="50.038%" r="57.104%" fx="49.96%" fy="50.038%" gradientTransform="matrix(1 0 0 .9847 0 .008)">
+    <radialGradient id="k" cx="49.96%" cy="50.038%" r="57.104%" fx="49.96%" fy="50.038%" gradientTransform="matrix(1 0 0 .9847 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="cif-VA_svg__l" cx="49.996%" cy="50.005%" r="55.314%" fx="49.996%" fy="50.005%">
+    <radialGradient id="l" cx="49.996%" cy="50.005%" r="55.314%" fx="49.996%" fy="50.005%">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <linearGradient id="cif-VA_svg__a" x1="96.926%" x2="14.001%" y1="101.452%" y2="1.441%">
+    <linearGradient id="a" x1="96.926%" x2="14.001%" y1="101.452%" y2="1.441%">
       <stop offset="0%" stop-opacity=".784"/>
       <stop offset="100%" stop-opacity="0"/>
     </linearGradient>
@@ -137,7 +137,7 @@
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M256.733 135.048l2.301-2.282v-2.282l-2.301 2.282zM254.432 128.202v2.282l1.151-1.141zM256.733 135.048l-2.302-2.282v-2.282l2.302 2.282zM262.486 133.907l-3.452-3.423v-2.282l4.603 4.564zM254.432 148.74l6.904-6.846h2.301l-6.903 6.846z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M259.034 130.484l-1.15-1.141 1.15-1.141z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M259.034 121.356l2.302 2.282-2.302 2.282 1.151 1.141 2.301-2.282 4.603 4.564-2.301 2.282 1.151 1.141 2.301-2.282 2.302 2.282-6.904 6.846-4.603-4.564 2.302-2.282 1.15 1.141 1.151-1.141-4.603-4.564-1.15 1.141 1.15 1.141-2.301 2.282-2.302-2.282 1.151-1.141-1.151-1.141-4.603 4.564 1.151 1.141 1.151-1.141 2.301 2.282-2.301 2.282-1.151-1.141-1.151 1.141 4.603 4.564 1.151-1.141-1.151-1.141 2.302-2.282 4.603 4.564-6.904 6.846-2.301-2.282 2.301-2.282-1.15-1.141-2.302 2.282-4.603-4.564 2.302-2.282-1.151-1.141-2.301 2.282-2.302-2.282z"/>
-    <path fill="url(#cif-VA_svg__a)" fill-rule="nonzero" d="M238.972 137.849a1.53 1.53 0 00-1.417 1.436c1.134.289 2.55 1.727 2.835 2.876.781 0 1.434-.661 1.417-1.436-.616-1.486-1.415-2.206-2.835-2.876z" opacity=".8"/>
+    <path fill="url(#a)" fill-rule="nonzero" d="M238.972 137.849a1.53 1.53 0 00-1.417 1.436c1.134.289 2.55 1.727 2.835 2.876.781 0 1.434-.661 1.417-1.436-.616-1.486-1.415-2.206-2.835-2.876z" opacity=".8"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M267.088 140.753l6.904-6.846-1.151-1.141-6.903 6.846z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M267.088 140.753v4.564l6.904-6.846v-4.564z"/>
     <path fill="silver" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M238.972 137.849a1.53 1.53 0 00-1.417 1.436c1.134.289 2.55 1.727 2.835 2.876.781 0 1.434-.661 1.417-1.436-.616-1.486-1.415-2.206-2.835-2.876z"/>
@@ -174,10 +174,10 @@
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M212.632 102.586s-1.591 1.045-1.937.952a.704.704 0 01-.504-.887c.081-.304.414-.803.747-.948.333-.145.762-.322.997-.019.2.257-.6 1.071-.6 1.071s1.039-1.007 1.37-.899c.367.12.74.411.691.923-.036.379-1.522.904-1.522.904s1.236-.533 1.413.081c.098.34-.4.844-.856 1.052-.456.208-.981.215-1.323-.128-.346-.348-.351-.799-.057-1.044.377-.315 1.581-1.058 1.581-1.058z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M207.661 100.745c-.04-.583.15-.927.604-.624.386.258.852 1.7.852 1.7s-.524-1.255.08-1.434c.335-.1.831.406 1.036.87.205.464.212.996-.126 1.342-.343.352-.906.238-1.219.02-.998-.693-1.196-1.42-1.227-1.874z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M209.197 104.625c.43.691 1.085 1.055 1.463.812.378-.242.336-.999-.094-1.69-.429-.691-1.085-1.055-1.462-.813-.379.243-.337 1 .093 1.691z"/>
-    <path fill="url(#cif-VA_svg__b)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M237.204 103.813a.542.542 0 01-.538.546.542.542 0 01-.538-.546c0-.302.241-.547.538-.547.296 0 .538.245.538.547z"/>
-    <path fill="url(#cif-VA_svg__c)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M229.885 102.442a.62.62 0 01-.616.625.62.62 0 01-.615-.625.62.62 0 01.615-.625c.34 0 .616.28.616.625z"/>
-    <path fill="url(#cif-VA_svg__d)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M222.06 102.52a.62.62 0 01-.616.625.62.62 0 01-.615-.625.62.62 0 01.615-.625.62.62 0 01.616.625z"/>
-    <path fill="url(#cif-VA_svg__e)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M214.554 103.755c0 .309-.247.56-.552.56a.555.555 0 01-.551-.56c0-.309.247-.56.551-.56.305 0 .552.25.552.56z"/>
+    <path fill="url(#b)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M237.204 103.813a.542.542 0 01-.538.546.542.542 0 01-.538-.546c0-.302.241-.547.538-.547.296 0 .538.245.538.547z"/>
+    <path fill="url(#c)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M229.885 102.442a.62.62 0 01-.616.625.62.62 0 01-.615-.625.62.62 0 01.615-.625c.34 0 .616.28.616.625z"/>
+    <path fill="url(#d)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M222.06 102.52a.62.62 0 01-.616.625.62.62 0 01-.615-.625.62.62 0 01.615-.625.62.62 0 01.616.625z"/>
+    <path fill="url(#e)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M214.554 103.755c0 .309-.247.56-.552.56a.555.555 0 01-.551-.56c0-.309.247-.56.551-.56.305 0 .552.25.552.56z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.439 108.813c-4.975.005-9.449.647-12.654 1.678-.218.076-.484-.103-.552-.312-.068-.221.086-.496.298-.571 3.224-1.069 7.808-1.743 12.908-1.748 5.093.005 9.696.679 12.92 1.748.211.076.366.35.298.571-.062.209-.334.387-.545.312-3.212-1.031-7.705-1.673-12.673-1.678z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.428 107.33l.944-.402-.867-.524-1.009.462z"/>
     <path fill="#058E6E" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M217.285 107.122l1.771-.218a.326.326 0 01.363.281l.008.062a.32.32 0 01-.279.36l-1.771.218a.326.326 0 01-.363-.281l-.008-.062a.32.32 0 01.279-.36z"/>
@@ -199,8 +199,8 @@
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M215.666 128.218s1.636-.313 1.8-.585a.623.623 0 00-.207-.874c-.233-.144-.742-.257-1.041-.145-.299.113-.677.263-.646.601.026.286 1.021.313 1.021.313s-1.262-.002-1.409.269c-.162.302-.226.717.11 1.013.249.219 1.508-.359 1.508-.359s-1.104.42-.851.919c.14.277.757.292 1.172.144.415-.148.752-.466.765-.895.013-.434-.253-.724-.585-.7-.427.033-1.637.299-1.637.299zM221.114 127.27s-1.629.349-1.883.162a.623.623 0 01-.139-.888c.161-.224.588-.527.906-.54.318-.012.725-.021.824.304.084.275-.824.687-.824.687s1.164-.494 1.402-.301c.264.216.48.574.281.978-.147.299-1.528.256-1.528.256s1.178-.042 1.134.517c-.025.31-.589.565-1.028.59-.439.025-.871-.137-1.045-.528-.176-.396-.04-.768.276-.875.407-.137 1.624-.362 1.624-.362z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M217.819 124.545s.344 1.654.159 1.912a.602.602 0 01-.874.141c-.22-.163-.519-.597-.531-.92-.012-.323-.021-.736.299-.837.27-.086.676.837.676.837s-.487-1.182-.296-1.424c.212-.268.565-.487.963-.285.294.149.251 1.552.251 1.552s-.042-1.197.51-1.151c.305.025.556.598.581 1.044.024.445-.135.884-.52 1.061-.39.179-.756.042-.862-.28-.134-.414-.356-1.65-.356-1.65z"/>
     <path fill="#058E6E" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M217.665 127.845c.138.704.563 1.212.948 1.134.385-.078.585-.712.446-1.416-.138-.704-.563-1.212-.948-1.134-.384.078-.585.712-.446 1.416z"/>
-    <path fill="url(#cif-VA_svg__f)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M229.424 128.681a.546.546 0 01-.541.549.545.545 0 01-.541-.549c0-.303.242-.549.541-.549.298 0 .541.246.541.549z"/>
-    <path fill="url(#cif-VA_svg__g)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M222.551 128.749a.545.545 0 01-.541.549.545.545 0 01-.541-.549c0-.303.242-.549.541-.549.298 0 .541.246.541.549z"/>
+    <path fill="url(#f)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M229.424 128.681a.546.546 0 01-.541.549.545.545 0 01-.541-.549c0-.303.242-.549.541-.549.298 0 .541.246.541.549z"/>
+    <path fill="url(#g)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M222.551 128.749a.545.545 0 01-.541.549.545.545 0 01-.541-.549c0-.303.242-.549.541-.549.298 0 .541.246.541.549z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.518 134.278c-4.37.005-8.3.568-11.115 1.474-.191.067-.425-.09-.485-.274-.06-.195.076-.435.261-.502 2.832-.939 6.859-1.53 11.339-1.535 4.474.005 8.517.596 11.349 1.535.186.067.321.307.261.502-.054.183-.294.34-.479.274-2.82-.906-6.767-1.47-11.131-1.474z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.508 132.975l.83-.353-.762-.46-.887.406z"/>
     <path fill="#058E6E" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M218.356 132.792l1.556-.192a.286.286 0 01.319.247l.007.054a.28.28 0 01-.245.316l-1.556.192a.286.286 0 01-.319-.247l-.007-.055a.28.28 0 01.245-.315z"/>
@@ -228,10 +228,10 @@
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M212.084 116.127s-1.672 1.097-2.034 1a.74.74 0 01-.529-.931c.085-.319.434-.844.785-.996.35-.152.8-.339 1.048-.019.21.27-.63 1.125-.63 1.125s1.092-1.058 1.439-.945c.386.125.777.432.725.97-.038.398-1.598.95-1.598.95s1.297-.56 1.484.085c.103.358-.42.887-.899 1.105-.479.219-1.03.226-1.389-.135-.364-.366-.369-.839-.06-1.097.394-.332 1.658-1.112 1.658-1.112z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M206.863 114.194c-.042-.613.158-.974.635-.656.405.271.895 1.785.895 1.785s-.551-1.317.084-1.506c.352-.105.873.426 1.088.913.215.487.222 1.046-.133 1.41-.36.369-.951.25-1.28.021-1.048-.727-1.256-1.491-1.289-1.967z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M208.476 118.268c.451.726 1.139 1.108 1.536.854.397-.255.353-1.049-.098-1.775-.452-.726-1.139-1.108-1.536-.853-.397.253-.353 1.048.098 1.774z"/>
-    <path fill="url(#cif-VA_svg__h)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M237.889 117.415a.57.57 0 01-.565.574.57.57 0 01-.565-.574.57.57 0 01.565-.574.57.57 0 01.565.574z"/>
-    <path fill="url(#cif-VA_svg__i)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M230.203 115.976a.652.652 0 01-.647.657.651.651 0 01-.646-.657.65.65 0 01.646-.656.65.65 0 01.647.656z"/>
-    <path fill="url(#cif-VA_svg__j)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M221.985 116.057a.651.651 0 01-.646.657.652.652 0 01-.647-.657c0-.362.29-.656.647-.656.357 0 .646.294.646.656z"/>
-    <path fill="url(#cif-VA_svg__k)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M214.102 117.354c0 .325-.26.588-.579.588a.584.584 0 01-.579-.588c0-.325.26-.588.579-.588.319 0 .579.263.579.588z"/>
+    <path fill="url(#h)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M237.889 117.415a.57.57 0 01-.565.574.57.57 0 01-.565-.574.57.57 0 01.565-.574.57.57 0 01.565.574z"/>
+    <path fill="url(#i)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M230.203 115.976a.652.652 0 01-.647.657.651.651 0 01-.646-.657.65.65 0 01.646-.656.65.65 0 01.647.656z"/>
+    <path fill="url(#j)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M221.985 116.057a.651.651 0 01-.646.657.652.652 0 01-.647-.657c0-.362.29-.656.647-.656.357 0 .646.294.646.656z"/>
+    <path fill="url(#k)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M214.102 117.354c0 .325-.26.588-.579.588a.584.584 0 01-.579-.588c0-.325.26-.588.579-.588.319 0 .579.263.579.588z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.533 122.667c-5.225.006-9.923.68-13.289 1.762-.229.08-.508-.108-.58-.327-.071-.233.091-.521.312-.6 3.386-1.123 8.201-1.831 13.556-1.836 5.349.005 10.184.713 13.569 1.836.222.079.384.367.312.6-.064.219-.351.407-.572.327-3.37-1.083-8.09-1.757-13.308-1.762z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M225.522 121.11l.992-.422-.911-.55-1.06.486z"/>
     <path fill="#058E6E" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M216.971 120.891l1.86-.229a.343.343 0 01.381.295l.009.066a.337.337 0 01-.294.378l-1.86.229a.343.343 0 01-.381-.295l-.009-.066a.337.337 0 01.294-.378z"/>
@@ -244,7 +244,7 @@
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M214.269 128.807s-1.398.918-1.702.836a.618.618 0 01-.442-.779c.071-.267.363-.706.656-.833.293-.128.669-.284.877-.016.175.226-.527.941-.527.941s.913-.885 1.204-.79c.323.105.65.361.607.811-.032.333-1.337.794-1.337.794s1.085-.467 1.24.072c.086.299-.351.742-.752.925-.401.183-.862.189-1.162-.113-.304-.306-.308-.702-.05-.917.33-.278 1.388-.931 1.388-.931z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M209.902 127.191c-.036-.513.132-.814.53-.548.339.226.749 1.494.749 1.494s-.461-1.102.07-1.26c.294-.088.73.356.91.763.18.407.186.875-.111 1.179-.301.309-.796.209-1.071.017-.875-.608-1.049-1.247-1.077-1.645z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M211.251 130.598c.377.607.953.926 1.285.714.332-.212.295-.878-.082-1.485-.377-.607-.953-.926-1.285-.714-.332.213-.295.878.082 1.485z"/>
-    <path fill="url(#cif-VA_svg__l)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M215.957 129.834a.488.488 0 01-.485.492.488.488 0 01-.485-.492c0-.271.217-.492.485-.492s.485.22.485.492z"/>
+    <path fill="url(#l)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M215.957 129.834a.488.488 0 01-.485.492.488.488 0 01-.485-.492c0-.271.217-.492.485-.492s.485.22.485.492z"/>
     <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".15" d="M214.022 135.04l1.488-1.407-1.727-.456"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M211.682 122.968l-.611-.544.414-.559 1.131.241z"/>
     <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".15" d="M211.789 123.578l1.779-1.682-2.066-.545"/>
@@ -256,7 +256,7 @@
     <path stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M236.315 121.59a.285.285 0 01.089-.562h.001a.285.285 0 01-.09.562h0zM236.186 122.393a.284.284 0 01-.232-.327.281.281 0 01.322-.235.285.285 0 01-.089.562h-.001zM237.089 135.105l-1.382-1.427 1.686-.487"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linejoin="round" stroke-width=".15" d="M237.157 134.532l.581-.351-.374-.538-.919.192z"/>
     <path fill="#CE1126" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M239.628 130.621c-.377.607-.953.927-1.285.714-.332-.213-.295-.878.082-1.485.377-.607.953-.926 1.285-.714.332.214.295.878-.082 1.485z"/>
-    <path fill="url(#cif-VA_svg__m)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M235.852 129.885a.476.476 0 01-.472.479.476.476 0 01-.473-.479c0-.265.212-.48.473-.48.26 0 .472.215.472.48z"/>
+    <path fill="url(#m)" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-width=".15" d="M235.852 129.885a.476.476 0 01-.472.479.476.476 0 01-.473-.479c0-.265.212-.48.473-.48.26 0 .472.215.472.48z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".15" d="M225.5 91.651c-.628 0-1.177.062-1.684.251-.148.478-.118 1.107 0 1.661.427-.209 1.246-.263 1.684-.263.438 0 1.257.053 1.683.263.119-.554.149-1.184 0-1.661-.507-.189-1.056-.251-1.683-.251z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-width=".15" d="M189.636 115.019a1.535 1.535 0 011.417 1.436l-.3-.304c-1.134.289-2.554 1.731-2.839 2.88l.3.304c-.779-.002-1.43-.662-1.414-1.436.617-1.486 1.416-2.21 2.836-2.88z"/>
     <path fill="#FFBD03" fill-rule="nonzero" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".15" d="M194.402 114.194a.178.178 0 01.108.1.183.183 0 01-.002.147c-.323.735-.748 1.429-1.557 1.643a.183.183 0 01-.184-.04.18.18 0 01.094-.307c.652-.173 1.005-.737 1.315-1.444a.181.181 0 01.226-.099h0z"/>

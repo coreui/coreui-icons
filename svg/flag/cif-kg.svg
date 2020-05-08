@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="181" viewBox="0 0 301 181">
   <defs>
-    <ellipse id="cif-KG_svg__a" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
-    <ellipse id="cif-KG_svg__c" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
-    <ellipse id="cif-KG_svg__e" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
-    <ellipse id="cif-KG_svg__g" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
-    <ellipse id="cif-KG_svg__i" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
-    <ellipse id="cif-KG_svg__k" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="a" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="c" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="e" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="g" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="i" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
+    <ellipse id="k" cx="24.704" cy="24.912" rx="24.563" ry="24.833"/>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <path fill="#E8112D" fill-rule="nonzero" d="M.5.5h300v180H.5z"/>
@@ -53,40 +53,40 @@
     <path stroke="#FFEF00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M182.599 90.195c.003 17.596-14.26 31.863-31.856 31.865-17.596.003-31.862-14.26-31.865-31.856v-.009c-.003-17.596 14.26-31.862 31.856-31.865 17.596-.003 31.862 14.26 31.865 31.856v.009z"/>
     <ellipse cx="150.704" cy="88.911" fill="#FFEF00" fill-rule="nonzero" rx="24.029" ry="24.293"/>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__b" fill="#fff">
-        <use xlink:href="#cif-KG_svg__a"/>
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M48.733 11.61c-18.768 0-33.982 15.381-33.982 34.355 0 18.974 15.214 34.355 33.982 34.355l-1.922 1.331c-19.494 0-35.298-15.977-35.298-35.686s15.804-35.686 35.298-35.686l1.922 1.331z" mask="url(#cif-KG_svg__b)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M48.733 11.61c-18.768 0-33.982 15.381-33.982 34.355 0 18.974 15.214 34.355 33.982 34.355l-1.922 1.331c-19.494 0-35.298-15.977-35.298-35.686s15.804-35.686 35.298-35.686l1.922 1.331z" mask="url(#b)"/>
     </g>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__d" fill="#fff">
-        <use xlink:href="#cif-KG_svg__c"/>
+      <mask id="d" fill="#fff">
+        <use xlink:href="#c"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M45.529 9.338C25.52 9.338 9.3 25.737 9.3 45.966s16.22 36.628 36.229 36.628l-1.922 1.486c-20.821 0-37.7-17.064-37.7-38.114 0-21.05 16.879-38.114 37.7-38.114l1.922 1.486z" mask="url(#cif-KG_svg__d)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M45.529 9.338C25.52 9.338 9.3 25.737 9.3 45.966s16.22 36.628 36.229 36.628l-1.922 1.486c-20.821 0-37.7-17.064-37.7-38.114 0-21.05 16.879-38.114 37.7-38.114l1.922 1.486z" mask="url(#d)"/>
     </g>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__f" fill="#fff">
-        <use xlink:href="#cif-KG_svg__e"/>
+      <mask id="f" fill="#fff">
+        <use xlink:href="#e"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M42.325 6.815c-21.387 0-38.724 17.528-38.724 39.15s17.337 39.15 38.724 39.15l-1.922 1.614c-22.268 0-40.32-18.25-40.32-40.764 0-22.513 18.052-40.763 40.32-40.763l1.922 1.613z" mask="url(#cif-KG_svg__f)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M42.325 6.815c-21.387 0-38.724 17.528-38.724 39.15s17.337 39.15 38.724 39.15l-1.922 1.614c-22.268 0-40.32-18.25-40.32-40.764 0-22.513 18.052-40.763 40.32-40.763l1.922 1.613z" mask="url(#f)"/>
     </g>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__h" fill="#fff">
-        <use xlink:href="#cif-KG_svg__g"/>
+      <mask id="h" fill="#fff">
+        <use xlink:href="#g"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M.675 11.61c18.768 0 33.982 15.381 33.982 34.355 0 18.974-15.214 34.355-33.982 34.355l1.922 1.331c19.495 0 35.298-15.977 35.298-35.686S22.092 10.279 2.597 10.279L.675 11.61z" mask="url(#cif-KG_svg__h)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M.675 11.61c18.768 0 33.982 15.381 33.982 34.355 0 18.974-15.214 34.355-33.982 34.355l1.922 1.331c19.495 0 35.298-15.977 35.298-35.686S22.092 10.279 2.597 10.279L.675 11.61z" mask="url(#h)"/>
     </g>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__j" fill="#fff">
-        <use xlink:href="#cif-KG_svg__i"/>
+      <mask id="j" fill="#fff">
+        <use xlink:href="#i"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M3.879 9.338c20.009 0 36.23 16.399 36.23 36.628s-16.22 36.628-36.23 36.628l1.922 1.486c20.821 0 37.699-17.064 37.699-38.114 0-21.05-16.879-38.114-37.699-38.114L3.879 9.338z" mask="url(#cif-KG_svg__j)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M3.879 9.338c20.009 0 36.23 16.399 36.23 36.628s-16.22 36.628-36.23 36.628l1.922 1.486c20.821 0 37.699-17.064 37.699-38.114 0-21.05-16.879-38.114-37.699-38.114L3.879 9.338z" mask="url(#j)"/>
     </g>
     <g transform="translate(126 64)">
-      <mask id="cif-KG_svg__l" fill="#fff">
-        <use xlink:href="#cif-KG_svg__k"/>
+      <mask id="l" fill="#fff">
+        <use xlink:href="#k"/>
       </mask>
-      <path fill="#E8112D" fill-rule="nonzero" d="M7.083 6.815c21.387 0 38.724 17.528 38.724 39.15s-17.338 39.15-38.724 39.15l1.922 1.614c22.268 0 40.32-18.25 40.32-40.764 0-22.513-18.052-40.763-40.32-40.763L7.083 6.815z" mask="url(#cif-KG_svg__l)"/>
+      <path fill="#E8112D" fill-rule="nonzero" d="M7.083 6.815c21.387 0 38.724 17.528 38.724 39.15s-17.338 39.15-38.724 39.15l1.922 1.614c22.268 0 40.32-18.25 40.32-40.764 0-22.513-18.052-40.763-40.32-40.763L7.083 6.815z" mask="url(#l)"/>
     </g>
   </g>
 </svg>

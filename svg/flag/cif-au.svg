@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="151" viewBox="0 0 301 151">
   <defs>
-    <path id="cif-AU_svg__a" d="M.5.5h150v75H.5z"/>
-    <path id="cif-AU_svg__c" d="M.5.5V38h175v37.5h-25L.5.5zm150 0h-75V88H.5V75.5l150-75z"/>
+    <path id="a" d="M.5.5h150v75H.5z"/>
+    <path id="c" d="M.5.5V38h175v37.5h-25L.5.5zm150 0h-75V88H.5V75.5l150-75z"/>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <path fill="#00008B" fill-rule="nonzero" d="M.5.5h300v150H.5z"/>
-    <mask id="cif-AU_svg__b" fill="#fff">
-      <use xlink:href="#cif-AU_svg__a"/>
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
     </mask>
-    <path fill="#000" fill-rule="nonzero" stroke="#FFF" stroke-width="17.578" d="M.5.5l150 75m0-75l-150 75" mask="url(#cif-AU_svg__b)"/>
-    <mask id="cif-AU_svg__d" fill="#fff">
-      <use xlink:href="#cif-AU_svg__c"/>
+    <path fill="#000" fill-rule="nonzero" stroke="#FFF" stroke-width="17.578" d="M.5.5l150 75m0-75l-150 75" mask="url(#b)"/>
+    <mask id="d" fill="#fff">
+      <use xlink:href="#c"/>
     </mask>
-    <path fill="#000" fill-rule="nonzero" stroke="red" stroke-width="9.375" d="M.5.5l150 75m0-75l-150 75" mask="url(#cif-AU_svg__d)"/>
+    <path fill="#000" fill-rule="nonzero" stroke="red" stroke-width="9.375" d="M.5.5l150 75m0-75l-150 75" mask="url(#d)"/>
     <path fill="#000" fill-rule="nonzero" stroke="#FFF" stroke-width="23.438" d="M75.5.5V88M.5 38h175"/>
     <path fill="#000" fill-rule="nonzero" stroke="red" stroke-width="14.063" d="M75.5.5v80.273M.5 38h155.273"/>
     <path fill="#00008B" fill-rule="nonzero" d="M.5 75.5h150V.5h50v100H.5z"/>

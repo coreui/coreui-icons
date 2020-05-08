@@ -20,10 +20,8 @@ const unique = (array, key) => array.map(e => e[key]).map((e, i, final) => final
 
 const main = () => {
   rimraf.sync(examplesDir)
-  mkdirp(examplesDir, (err) => {
-    if (err) {
-      return
-    }
+  mkdirp(examplesDir).then(() => {
+
     const files = walkSync(dataDir).filter(element => path.extname(element) === '.json')
     files.forEach(file => {
       const rawdata = fs.readFileSync(file)
@@ -48,12 +46,6 @@ const main = () => {
       unique(icons, 'name').forEach(icon => {
         const name = icon.name
         html += `    <div class="col-1 py-4 text-center"><svg class="c-icon c-icon-2xl"><use xlink:href="../sprites/${type.toLowerCase()}.svg#${prefix}${name.toLowerCase()}"></use></svg></div>\n`
-      })
-      html += `  </div>\n<hr>\n`
-      html += `  <div class="row">\n`
-      unique(icons, 'name').forEach(icon => {
-        const name = icon.name
-        html += `    <div class="col-1 py-4 text-center"><object class="c-icon c-icon-2xl" type="image/svg+xml" data="../svg/${type.toLowerCase()}/${prefix}${name.toLowerCase()}.svg">Your browser does not support SVGs</object></div>\n`
       })
       html += `  </div>\n`
       html += `</body>\n</html>`

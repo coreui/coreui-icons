@@ -19,8 +19,7 @@ webfont({
   verbose: true,
 }).then(result => {
 
-  mkdirp(fontDir, (err) => {
-    if (err) throw err
+  mkdirp(fontDir).then(() => {
 
     fs.writeFile(`${path.join(fontDir, argv.name)}.eot`, result.eot, (err) => {
       if (err) throw err
@@ -66,15 +65,12 @@ webfont({
     if (err) throw err
     obj = JSON.parse(data)
 
-    const mergeByName = (a1, a2) =>
-    a1.map(itm => ({
-        ...a2.find((item) => (item.name === itm.name) && item),
-        ...itm
+    const mergeByName = (a1, a2) => a1.map(itm => ({
+      ...a2.find((item) => (item.name === itm.name) && item),
+      ...itm
     }))
 
-    json = JSON.stringify({
-      "icons": mergeByName(obj.icons, iconsList)
-    }, null, 2)
+    json = JSON.stringify(mergeByName(obj, iconsList), null, 2)
 
     fs.writeFileSync(`${dataDir}/${argv.name.replace('CoreUI-Icons-', '')}.json`, json)
   })

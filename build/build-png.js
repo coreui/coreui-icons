@@ -18,11 +18,7 @@ dirnames.forEach(setName => {
   const svgs = fs.readdirSync(dirname)
 
   sizes.forEach(size => {
-    mkdirp(`${dest}${setName}/${size}x${size}/`, function(err) {
-      if (err) {
-        return
-      } 
-  
+    mkdirp(`${dest}${setName}/${size}x${size}/`).then(() => {
       svgs.forEach((svg) => {
         const file = dirname + svg
         sharp(file, { density: 72 * size / 16 })

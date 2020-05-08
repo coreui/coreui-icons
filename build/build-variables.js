@@ -15,7 +15,7 @@ const unique = (array, key) => array.map(e => e[key]).map((e, i, final) => final
 
 const main = () => {
   const rawdata = fs.readFileSync(json)
-  const icons = JSON.parse(rawdata).icons.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))
+  const icons = JSON.parse(rawdata).sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))
   let content = `$coreui-icons-prefix: "${argv.prefix}-" !default;\n`
 
   if (argv.font) {

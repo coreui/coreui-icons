@@ -1,1 +1,1 @@
-export declare const cifVA: any[];
+export declare const cifVa: any[];

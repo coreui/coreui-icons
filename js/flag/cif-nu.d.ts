@@ -1,1 +1,1 @@
-export declare const cifNU: any[];
+export declare const cifNu: any[];

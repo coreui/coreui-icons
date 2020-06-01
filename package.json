@@ -5,6 +5,7 @@
   "main": "js/index.js",
   "style": "css/all.css",
   "sideEffects": false,
+  "typings": "js/index.d.ts",
   "scripts": {
     "clean": "rimraf css",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",

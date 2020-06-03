@@ -1,1 +1,1 @@
-export declare const cifZA: any[];
+export declare const cifZa: any[];

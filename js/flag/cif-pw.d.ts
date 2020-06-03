@@ -1,1 +1,1 @@
-export declare const cifPW: any[];
+export declare const cifPw: any[];

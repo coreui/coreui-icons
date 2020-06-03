@@ -1,1 +1,1 @@
-export declare const cifLI: any[];
+export declare const cifLi: any[];

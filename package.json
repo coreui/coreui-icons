@@ -1,11 +1,11 @@
 {
   "name": "@coreui/icons",
-  "version": "2.0.0-beta.3",
+  "version": "2.0.0-beta.4",
   "description": "CoreUI Icons Free",
   "main": "js/index.js",
+  "typings": "js/index.d.ts",
   "style": "css/all.css",
   "sideEffects": false,
-  "typings": "js/index.d.ts",
   "scripts": {
     "clean": "rimraf css",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",

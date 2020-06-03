@@ -1,1 +1,1 @@
-export declare const cifFM: any[];
+export declare const cifFm: any[];

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:#fff}.cls-2,.cls-3{fill:currentColor}.cls-3{opacity:.25}
+    </style>
+  </defs>
+  <rect width="36" height="16" x="138" y="496" class="cls-1"/>
+  <rect width="36" height="72" x="138" y="424" class="cls-1"/>
+  <polygon points="296 266.025 296 266.383 328 298.395 328 298.025 296 266.025" class="cls-1"/>
+  <polygon points="45.976 16 45.709 16 296 266.383 296 266.025 45.976 16" class="cls-1"/>
+  <polygon points="296 215.057 296 16 96.68 16 296 215.057" class="cls-2"/>
+  <polygon points="430 400.432 496 466.457 496 466.025 430 400.025 430 400.432" class="cls-1"/>
+  <polygon points="405.975 376 328 298.025 328 298.395 405.577 376 405.975 376" class="cls-1"/>
+  <polygon points="430 400.432 430 400.025 405.975 376 405.577 376 430 400.432" class="cls-1"/>
+  <path d="M328,160v87.0291l66,66V296h36v36H412.9707L496,415.0292V160Zm102,92H394V216h36Z" class="cls-3"/>
+  <rect width="36" height="36" x="394" y="216" class="cls-2"/>
+  <polygon points="430 296 394 296 394 313.029 412.971 332 430 332 430 296" class="cls-2"/>
+  <polygon points="328 496 448 496 466.578 496 328 357.422 328 496" class="cls-3"/>
+  <path d="M430,400.4324,405.5767,376,328,298.3948l-32-32.0117L45.7092,16H16V496H138V424h36v72H296V325.4222l32,32L466.5776,496H496V466.4568ZM132,316H96V280h36Zm0-84H96V196h36Zm84,84H180V280h36Z" class="cls-2"/>
+</svg>

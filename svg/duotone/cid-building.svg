@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="36" height="64" x="238" y="384" fill="none"/>
+  <polygon fill="currentColor" points="424 448 274 448 238 448 88 448 16 448 16 496 496 496 496 448 424 448" opacity=".25"/>
+  <path fill="currentColor" d="M88,32V448H238V384h36v64H424V32Zm96,296H144V288h40Zm0-96H144V192h40Zm0-96H144V96h40Zm92,192H236V288h40Zm0-96H236V192h40Zm0-96H236V96h40Zm92,192H328V288h40Zm0-96H328V192h40Zm0-96H328V96h40Z"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor}
+    </style>
+  </defs>
+  <path d="M144,120H48a16,16,0,0,0-16,16V238H160V136A16,16,0,0,0,144,120Z" class="cls-1"/>
+  <path d="M32,376a16,16,0,0,0,16,16h96a16,16,0,0,0,16-16V274H32Z" class="cls-1"/>
+  <path d="M304,120H208a16,16,0,0,0-16,16V238H320V136A16,16,0,0,0,304,120Z" class="cls-1"/>
+  <path d="M192,376a16,16,0,0,0,16,16h96a16,16,0,0,0,16-16V274H192Z" class="cls-1"/>
+  <path d="M352,376a16,16,0,0,0,16,16h96a16,16,0,0,0,16-16V274H352Z" class="cls-1"/>
+  <path d="M464,120H368a16,16,0,0,0-16,16V238H480V136A16,16,0,0,0,464,120Z" class="cls-1"/>
+  <g opacity=".25">
+    <rect width="48" height="104" x="72" y="16" class="cls-1"/>
+    <rect width="48" height="104" x="72" y="392" class="cls-1"/>
+    <rect width="48" height="104" x="232" y="16" class="cls-1"/>
+    <rect width="48" height="104" x="232" y="392" class="cls-1"/>
+    <rect width="48" height="104" x="392" y="16" class="cls-1"/>
+    <rect width="48" height="104" x="392" y="392" class="cls-1"/>
+  </g>
+</svg>

@@ -1,0 +1,4150 @@
+@charset "UTF-8";
+/*!
+ * CoreUI Icons PRO - Duotone
+ * @version v2.0.0-beta.1
+ * @link https://coreui.io/icons
+ * Copyright (c) 2020 creativeLabs Łukasz Holeczek
+ * License (https://coreui.io/icons/pro/license/)
+ */
+[class^="cid-"], [class*=" cid-"] {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1.33333333em;
+  line-height: 1em;
+}
+
+.cid-3d {
+  background-image: url(../svg/duotone/cid-3d.svg);
+}
+
+.cid-3d-rotate {
+  background-image: url(../svg/duotone/cid-3d-rotate.svg);
+}
+
+.cid-4k {
+  background-image: url(../svg/duotone/cid-4k.svg);
+}
+
+.cid-accessible {
+  background-image: url(../svg/duotone/cid-accessible.svg);
+}
+
+.cid-account-logout {
+  background-image: url(../svg/duotone/cid-account-logout.svg);
+}
+
+.cid-action-redo {
+  background-image: url(../svg/duotone/cid-action-redo.svg);
+}
+
+.cid-action-undo {
+  background-image: url(../svg/duotone/cid-action-undo.svg);
+}
+
+.cid-address-book {
+  background-image: url(../svg/duotone/cid-address-book.svg);
+}
+
+.cid-address-card {
+  background-image: url(../svg/duotone/cid-address-card.svg);
+}
+
+.cid-airplane-mode {
+  background-image: url(../svg/duotone/cid-airplane-mode.svg);
+}
+
+.cid-airplane-mode-off {
+  background-image: url(../svg/duotone/cid-airplane-mode-off.svg);
+}
+
+.cid-airplay {
+  background-image: url(../svg/duotone/cid-airplay.svg);
+}
+
+.cid-alarm {
+  background-image: url(../svg/duotone/cid-alarm.svg);
+}
+
+.cid-alarm-add {
+  background-image: url(../svg/duotone/cid-alarm-add.svg);
+}
+
+.cid-alarm-off {
+  background-image: url(../svg/duotone/cid-alarm-off.svg);
+}
+
+.cid-alarm-on {
+  background-image: url(../svg/duotone/cid-alarm-on.svg);
+}
+
+.cid-alarm-snooze {
+  background-image: url(../svg/duotone/cid-alarm-snooze.svg);
+}
+
+.cid-album {
+  background-image: url(../svg/duotone/cid-album.svg);
+}
+
+.cid-align-center {
+  background-image: url(../svg/duotone/cid-align-center.svg);
+}
+
+.cid-align-left {
+  background-image: url(../svg/duotone/cid-align-left.svg);
+}
+
+.cid-align-right {
+  background-image: url(../svg/duotone/cid-align-right.svg);
+}
+
+.cid-american-football {
+  background-image: url(../svg/duotone/cid-american-football.svg);
+}
+
+.cid-animal {
+  background-image: url(../svg/duotone/cid-animal.svg);
+}
+
+.cid-aperture {
+  background-image: url(../svg/duotone/cid-aperture.svg);
+}
+
+.cid-apple {
+  background-image: url(../svg/duotone/cid-apple.svg);
+}
+
+.cid-applications {
+  background-image: url(../svg/duotone/cid-applications.svg);
+}
+
+.cid-applications-settings {
+  background-image: url(../svg/duotone/cid-applications-settings.svg);
+}
+
+.cid-apps {
+  background-image: url(../svg/duotone/cid-apps.svg);
+}
+
+.cid-apps-settings {
+  background-image: url(../svg/duotone/cid-apps-settings.svg);
+}
+
+.cid-archive {
+  background-image: url(../svg/duotone/cid-archive.svg);
+}
+
+.cid-arrow-circle-bottom {
+  background-image: url(../svg/duotone/cid-arrow-circle-bottom.svg);
+}
+
+.cid-arrow-circle-left {
+  background-image: url(../svg/duotone/cid-arrow-circle-left.svg);
+}
+
+.cid-arrow-circle-right {
+  background-image: url(../svg/duotone/cid-arrow-circle-right.svg);
+}
+
+.cid-arrow-circle-top {
+  background-image: url(../svg/duotone/cid-arrow-circle-top.svg);
+}
+
+.cid-arrow-thick-circle-down {
+  background-image: url(../svg/duotone/cid-arrow-thick-circle-down.svg);
+}
+
+.cid-arrow-thick-circle-left {
+  background-image: url(../svg/duotone/cid-arrow-thick-circle-left.svg);
+}
+
+.cid-arrow-thick-circle-right {
+  background-image: url(../svg/duotone/cid-arrow-thick-circle-right.svg);
+}
+
+.cid-arrow-thick-circle-up {
+  background-image: url(../svg/duotone/cid-arrow-thick-circle-up.svg);
+}
+
+.cid-arrow-thick-from-bottom {
+  background-image: url(../svg/duotone/cid-arrow-thick-from-bottom.svg);
+}
+
+.cid-arrow-thick-from-left {
+  background-image: url(../svg/duotone/cid-arrow-thick-from-left.svg);
+}
+
+.cid-arrow-thick-from-right {
+  background-image: url(../svg/duotone/cid-arrow-thick-from-right.svg);
+}
+
+.cid-arrow-thick-from-top {
+  background-image: url(../svg/duotone/cid-arrow-thick-from-top.svg);
+}
+
+.cid-arrow-thick-square-down {
+  background-image: url(../svg/duotone/cid-arrow-thick-square-down.svg);
+}
+
+.cid-arrow-thick-square-left {
+  background-image: url(../svg/duotone/cid-arrow-thick-square-left.svg);
+}
+
+.cid-arrow-thick-square-right {
+  background-image: url(../svg/duotone/cid-arrow-thick-square-right.svg);
+}
+
+.cid-arrow-thick-square-up {
+  background-image: url(../svg/duotone/cid-arrow-thick-square-up.svg);
+}
+
+.cid-arrow-thick-to-bottom {
+  background-image: url(../svg/duotone/cid-arrow-thick-to-bottom.svg);
+}
+
+.cid-arrow-thick-to-left {
+  background-image: url(../svg/duotone/cid-arrow-thick-to-left.svg);
+}
+
+.cid-arrow-thick-to-right {
+  background-image: url(../svg/duotone/cid-arrow-thick-to-right.svg);
+}
+
+.cid-arrow-thick-to-top {
+  background-image: url(../svg/duotone/cid-arrow-thick-to-top.svg);
+}
+
+.cid-art-track {
+  background-image: url(../svg/duotone/cid-art-track.svg);
+}
+
+.cid-assistive-listening-system {
+  background-image: url(../svg/duotone/cid-assistive-listening-system.svg);
+}
+
+.cid-asterisk-circle {
+  background-image: url(../svg/duotone/cid-asterisk-circle.svg);
+}
+
+.cid-at {
+  background-image: url(../svg/duotone/cid-at.svg);
+}
+
+.cid-audio {
+  background-image: url(../svg/duotone/cid-audio.svg);
+}
+
+.cid-audio-description {
+  background-image: url(../svg/duotone/cid-audio-description.svg);
+}
+
+.cid-audio-spectrum {
+  background-image: url(../svg/duotone/cid-audio-spectrum.svg);
+}
+
+.cid-av-timer {
+  background-image: url(../svg/duotone/cid-av-timer.svg);
+}
+
+.cid-baby {
+  background-image: url(../svg/duotone/cid-baby.svg);
+}
+
+.cid-baby-carriage {
+  background-image: url(../svg/duotone/cid-baby-carriage.svg);
+}
+
+.cid-backspace {
+  background-image: url(../svg/duotone/cid-backspace.svg);
+}
+
+.cid-badge {
+  background-image: url(../svg/duotone/cid-badge.svg);
+}
+
+.cid-balance-scale {
+  background-image: url(../svg/duotone/cid-balance-scale.svg);
+}
+
+.cid-balance-scale-left {
+  background-image: url(../svg/duotone/cid-balance-scale-left.svg);
+}
+
+.cid-balance-scale-right {
+  background-image: url(../svg/duotone/cid-balance-scale-right.svg);
+}
+
+.cid-ban {
+  background-image: url(../svg/duotone/cid-ban.svg);
+}
+
+.cid-bank {
+  background-image: url(../svg/duotone/cid-bank.svg);
+}
+
+.cid-bar-chart {
+  background-image: url(../svg/duotone/cid-bar-chart.svg);
+}
+
+.cid-barcode {
+  background-image: url(../svg/duotone/cid-barcode.svg);
+}
+
+.cid-baseball {
+  background-image: url(../svg/duotone/cid-baseball.svg);
+}
+
+.cid-basket {
+  background-image: url(../svg/duotone/cid-basket.svg);
+}
+
+.cid-basket-arrow-down {
+  background-image: url(../svg/duotone/cid-basket-arrow-down.svg);
+}
+
+.cid-basket-loaded {
+  background-image: url(../svg/duotone/cid-basket-loaded.svg);
+}
+
+.cid-basket-plus {
+  background-image: url(../svg/duotone/cid-basket-plus.svg);
+}
+
+.cid-basketball {
+  background-image: url(../svg/duotone/cid-basketball.svg);
+}
+
+.cid-bath {
+  background-image: url(../svg/duotone/cid-bath.svg);
+}
+
+.cid-bathroom {
+  background-image: url(../svg/duotone/cid-bathroom.svg);
+}
+
+.cid-battery-0 {
+  background-image: url(../svg/duotone/cid-battery-0.svg);
+}
+
+.cid-battery-1 {
+  background-image: url(../svg/duotone/cid-battery-1.svg);
+}
+
+.cid-battery-2 {
+  background-image: url(../svg/duotone/cid-battery-2.svg);
+}
+
+.cid-battery-3 {
+  background-image: url(../svg/duotone/cid-battery-3.svg);
+}
+
+.cid-battery-4 {
+  background-image: url(../svg/duotone/cid-battery-4.svg);
+}
+
+.cid-battery-5 {
+  background-image: url(../svg/duotone/cid-battery-5.svg);
+}
+
+.cid-battery-alert {
+  background-image: url(../svg/duotone/cid-battery-alert.svg);
+}
+
+.cid-battery-alt-0 {
+  background-image: url(../svg/duotone/cid-battery-alt-0.svg);
+}
+
+.cid-battery-alt-1 {
+  background-image: url(../svg/duotone/cid-battery-alt-1.svg);
+}
+
+.cid-battery-alt-2 {
+  background-image: url(../svg/duotone/cid-battery-alt-2.svg);
+}
+
+.cid-battery-alt-3 {
+  background-image: url(../svg/duotone/cid-battery-alt-3.svg);
+}
+
+.cid-battery-alt-empty {
+  background-image: url(../svg/duotone/cid-battery-alt-empty.svg);
+}
+
+.cid-battery-alt-full {
+  background-image: url(../svg/duotone/cid-battery-alt-full.svg);
+}
+
+.cid-battery-alt-slash {
+  background-image: url(../svg/duotone/cid-battery-alt-slash.svg);
+}
+
+.cid-battery-charge {
+  background-image: url(../svg/duotone/cid-battery-charge.svg);
+}
+
+.cid-battery-empty {
+  background-image: url(../svg/duotone/cid-battery-empty.svg);
+}
+
+.cid-battery-full {
+  background-image: url(../svg/duotone/cid-battery-full.svg);
+}
+
+.cid-battery-slash {
+  background-image: url(../svg/duotone/cid-battery-slash.svg);
+}
+
+.cid-battery-unknown {
+  background-image: url(../svg/duotone/cid-battery-unknown.svg);
+}
+
+.cid-battery-x {
+  background-image: url(../svg/duotone/cid-battery-x.svg);
+}
+
+.cid-beach-access {
+  background-image: url(../svg/duotone/cid-beach-access.svg);
+}
+
+.cid-beaker {
+  background-image: url(../svg/duotone/cid-beaker.svg);
+}
+
+.cid-bed {
+  background-image: url(../svg/duotone/cid-bed.svg);
+}
+
+.cid-bell {
+  background-image: url(../svg/duotone/cid-bell.svg);
+}
+
+.cid-bell-exclamation {
+  background-image: url(../svg/duotone/cid-bell-exclamation.svg);
+}
+
+.cid-bell-plus {
+  background-image: url(../svg/duotone/cid-bell-plus.svg);
+}
+
+.cid-bell-ring {
+  background-image: url(../svg/duotone/cid-bell-ring.svg);
+}
+
+.cid-bell-slash {
+  background-image: url(../svg/duotone/cid-bell-slash.svg);
+}
+
+.cid-bike {
+  background-image: url(../svg/duotone/cid-bike.svg);
+}
+
+.cid-bike-alt {
+  background-image: url(../svg/duotone/cid-bike-alt.svg);
+}
+
+.cid-birthday-cake {
+  background-image: url(../svg/duotone/cid-birthday-cake.svg);
+}
+
+.cid-blind {
+  background-image: url(../svg/duotone/cid-blind.svg);
+}
+
+.cid-bluetooth {
+  background-image: url(../svg/duotone/cid-bluetooth.svg);
+}
+
+.cid-bluetooth-connected {
+  background-image: url(../svg/duotone/cid-bluetooth-connected.svg);
+}
+
+.cid-bluetooth-searching {
+  background-image: url(../svg/duotone/cid-bluetooth-searching.svg);
+}
+
+.cid-bluetooth-settings {
+  background-image: url(../svg/duotone/cid-bluetooth-settings.svg);
+}
+
+.cid-bluetooth-slash {
+  background-image: url(../svg/duotone/cid-bluetooth-slash.svg);
+}
+
+.cid-boat {
+  background-image: url(../svg/duotone/cid-boat.svg);
+}
+
+.cid-boat-alt {
+  background-image: url(../svg/duotone/cid-boat-alt.svg);
+}
+
+.cid-bold {
+  background-image: url(../svg/duotone/cid-bold.svg);
+}
+
+.cid-bolt-circle {
+  background-image: url(../svg/duotone/cid-bolt-circle.svg);
+}
+
+.cid-book {
+  background-image: url(../svg/duotone/cid-book.svg);
+}
+
+.cid-book-open {
+  background-image: url(../svg/duotone/cid-book-open.svg);
+}
+
+.cid-bookmark {
+  background-image: url(../svg/duotone/cid-bookmark.svg);
+}
+
+.cid-bookmarks {
+  background-image: url(../svg/duotone/cid-bookmarks.svg);
+}
+
+.cid-border-all {
+  background-image: url(../svg/duotone/cid-border-all.svg);
+}
+
+.cid-border-bottom {
+  background-image: url(../svg/duotone/cid-border-bottom.svg);
+}
+
+.cid-border-clear {
+  background-image: url(../svg/duotone/cid-border-clear.svg);
+}
+
+.cid-border-horizontal {
+  background-image: url(../svg/duotone/cid-border-horizontal.svg);
+}
+
+.cid-border-inner {
+  background-image: url(../svg/duotone/cid-border-inner.svg);
+}
+
+.cid-border-left {
+  background-image: url(../svg/duotone/cid-border-left.svg);
+}
+
+.cid-border-outer {
+  background-image: url(../svg/duotone/cid-border-outer.svg);
+}
+
+.cid-border-right {
+  background-image: url(../svg/duotone/cid-border-right.svg);
+}
+
+.cid-border-style {
+  background-image: url(../svg/duotone/cid-border-style.svg);
+}
+
+.cid-border-top {
+  background-image: url(../svg/duotone/cid-border-top.svg);
+}
+
+.cid-border-vertical {
+  background-image: url(../svg/duotone/cid-border-vertical.svg);
+}
+
+.cid-bowling {
+  background-image: url(../svg/duotone/cid-bowling.svg);
+}
+
+.cid-bowling-pins {
+  background-image: url(../svg/duotone/cid-bowling-pins.svg);
+}
+
+.cid-box {
+  background-image: url(../svg/duotone/cid-box.svg);
+}
+
+.cid-box-alt {
+  background-image: url(../svg/duotone/cid-box-alt.svg);
+}
+
+.cid-braille {
+  background-image: url(../svg/duotone/cid-braille.svg);
+}
+
+.cid-branding-watermark {
+  background-image: url(../svg/duotone/cid-branding-watermark.svg);
+}
+
+.cid-briefcase {
+  background-image: url(../svg/duotone/cid-briefcase.svg);
+}
+
+.cid-briefcase-arrow-left {
+  background-image: url(../svg/duotone/cid-briefcase-arrow-left.svg);
+}
+
+.cid-briefcase-arrow-right {
+  background-image: url(../svg/duotone/cid-briefcase-arrow-right.svg);
+}
+
+.cid-briefcase-slash {
+  background-image: url(../svg/duotone/cid-briefcase-slash.svg);
+}
+
+.cid-brightness {
+  background-image: url(../svg/duotone/cid-brightness.svg);
+}
+
+.cid-brightness-auto {
+  background-image: url(../svg/duotone/cid-brightness-auto.svg);
+}
+
+.cid-brightness-high {
+  background-image: url(../svg/duotone/cid-brightness-high.svg);
+}
+
+.cid-brightness-low {
+  background-image: url(../svg/duotone/cid-brightness-low.svg);
+}
+
+.cid-brightness-medium {
+  background-image: url(../svg/duotone/cid-brightness-medium.svg);
+}
+
+.cid-british-pound {
+  background-image: url(../svg/duotone/cid-british-pound.svg);
+}
+
+.cid-british-pound-circle {
+  background-image: url(../svg/duotone/cid-british-pound-circle.svg);
+}
+
+.cid-british-pound-slash {
+  background-image: url(../svg/duotone/cid-british-pound-slash.svg);
+}
+
+.cid-broadcast-tower {
+  background-image: url(../svg/duotone/cid-broadcast-tower.svg);
+}
+
+.cid-browser {
+  background-image: url(../svg/duotone/cid-browser.svg);
+}
+
+.cid-brush {
+  background-image: url(../svg/duotone/cid-brush.svg);
+}
+
+.cid-brush-alt {
+  background-image: url(../svg/duotone/cid-brush-alt.svg);
+}
+
+.cid-bug {
+  background-image: url(../svg/duotone/cid-bug.svg);
+}
+
+.cid-building {
+  background-image: url(../svg/duotone/cid-building.svg);
+}
+
+.cid-building-business {
+  background-image: url(../svg/duotone/cid-building-business.svg);
+}
+
+.cid-building-business-slash {
+  background-image: url(../svg/duotone/cid-building-business-slash.svg);
+}
+
+.cid-building-slash {
+  background-image: url(../svg/duotone/cid-building-slash.svg);
+}
+
+.cid-bullhorn {
+  background-image: url(../svg/duotone/cid-bullhorn.svg);
+}
+
+.cid-burger {
+  background-image: url(../svg/duotone/cid-burger.svg);
+}
+
+.cid-burn {
+  background-image: url(../svg/duotone/cid-burn.svg);
+}
+
+.cid-bus {
+  background-image: url(../svg/duotone/cid-bus.svg);
+}
+
+.cid-bus-alt {
+  background-image: url(../svg/duotone/cid-bus-alt.svg);
+}
+
+.cid-bus-timer {
+  background-image: url(../svg/duotone/cid-bus-timer.svg);
+}
+
+.cid-calculator {
+  background-image: url(../svg/duotone/cid-calculator.svg);
+}
+
+.cid-calendar {
+  background-image: url(../svg/duotone/cid-calendar.svg);
+}
+
+.cid-calendar-check {
+  background-image: url(../svg/duotone/cid-calendar-check.svg);
+}
+
+.cid-calendar-event {
+  background-image: url(../svg/duotone/cid-calendar-event.svg);
+}
+
+.cid-calendar-minus {
+  background-image: url(../svg/duotone/cid-calendar-minus.svg);
+}
+
+.cid-calendar-note {
+  background-image: url(../svg/duotone/cid-calendar-note.svg);
+}
+
+.cid-calendar-plus {
+  background-image: url(../svg/duotone/cid-calendar-plus.svg);
+}
+
+.cid-calendar-times {
+  background-image: url(../svg/duotone/cid-calendar-times.svg);
+}
+
+.cid-calendar-today {
+  background-image: url(../svg/duotone/cid-calendar-today.svg);
+}
+
+.cid-calendar-view-day {
+  background-image: url(../svg/duotone/cid-calendar-view-day.svg);
+}
+
+.cid-call-made {
+  background-image: url(../svg/duotone/cid-call-made.svg);
+}
+
+.cid-call-merge {
+  background-image: url(../svg/duotone/cid-call-merge.svg);
+}
+
+.cid-call-missed {
+  background-image: url(../svg/duotone/cid-call-missed.svg);
+}
+
+.cid-call-missed-outgoing {
+  background-image: url(../svg/duotone/cid-call-missed-outgoing.svg);
+}
+
+.cid-call-received {
+  background-image: url(../svg/duotone/cid-call-received.svg);
+}
+
+.cid-call-split {
+  background-image: url(../svg/duotone/cid-call-split.svg);
+}
+
+.cid-call-swap-calls {
+  background-image: url(../svg/duotone/cid-call-swap-calls.svg);
+}
+
+.cid-call-to-action {
+  background-image: url(../svg/duotone/cid-call-to-action.svg);
+}
+
+.cid-camera {
+  background-image: url(../svg/duotone/cid-camera.svg);
+}
+
+.cid-camera-control {
+  background-image: url(../svg/duotone/cid-camera-control.svg);
+}
+
+.cid-camera-enhance {
+  background-image: url(../svg/duotone/cid-camera-enhance.svg);
+}
+
+.cid-camera-plus {
+  background-image: url(../svg/duotone/cid-camera-plus.svg);
+}
+
+.cid-camera-roll {
+  background-image: url(../svg/duotone/cid-camera-roll.svg);
+}
+
+.cid-camera-switch {
+  background-image: url(../svg/duotone/cid-camera-switch.svg);
+}
+
+.cid-car {
+  background-image: url(../svg/duotone/cid-car.svg);
+}
+
+.cid-car-alt {
+  background-image: url(../svg/duotone/cid-car-alt.svg);
+}
+
+.cid-card-giftcard {
+  background-image: url(../svg/duotone/cid-card-giftcard.svg);
+}
+
+.cid-card-membership {
+  background-image: url(../svg/duotone/cid-card-membership.svg);
+}
+
+.cid-card-travel {
+  background-image: url(../svg/duotone/cid-card-travel.svg);
+}
+
+.cid-caret-bottom {
+  background-image: url(../svg/duotone/cid-caret-bottom.svg);
+}
+
+.cid-caret-left {
+  background-image: url(../svg/duotone/cid-caret-left.svg);
+}
+
+.cid-caret-right {
+  background-image: url(../svg/duotone/cid-caret-right.svg);
+}
+
+.cid-caret-top {
+  background-image: url(../svg/duotone/cid-caret-top.svg);
+}
+
+.cid-cart {
+  background-image: url(../svg/duotone/cid-cart.svg);
+}
+
+.cid-cart-arrow-down {
+  background-image: url(../svg/duotone/cid-cart-arrow-down.svg);
+}
+
+.cid-cart-loaded {
+  background-image: url(../svg/duotone/cid-cart-loaded.svg);
+}
+
+.cid-cart-plus {
+  background-image: url(../svg/duotone/cid-cart-plus.svg);
+}
+
+.cid-cart-slash {
+  background-image: url(../svg/duotone/cid-cart-slash.svg);
+}
+
+.cid-cash {
+  background-image: url(../svg/duotone/cid-cash.svg);
+}
+
+.cid-casino {
+  background-image: url(../svg/duotone/cid-casino.svg);
+}
+
+.cid-cast {
+  background-image: url(../svg/duotone/cid-cast.svg);
+}
+
+.cid-cast-connected {
+  background-image: url(../svg/duotone/cid-cast-connected.svg);
+}
+
+.cid-cast-for-education {
+  background-image: url(../svg/duotone/cid-cast-for-education.svg);
+}
+
+.cid-cat {
+  background-image: url(../svg/duotone/cid-cat.svg);
+}
+
+.cid-cc {
+  background-image: url(../svg/duotone/cid-cc.svg);
+}
+
+.cid-center-focus {
+  background-image: url(../svg/duotone/cid-center-focus.svg);
+}
+
+.cid-center-focus-weak {
+  background-image: url(../svg/duotone/cid-center-focus-weak.svg);
+}
+
+.cid-chalkboard-teacher {
+  background-image: url(../svg/duotone/cid-chalkboard-teacher.svg);
+}
+
+.cid-chart {
+  background-image: url(../svg/duotone/cid-chart.svg);
+}
+
+.cid-chart-area {
+  background-image: url(../svg/duotone/cid-chart-area.svg);
+}
+
+.cid-chart-bubble {
+  background-image: url(../svg/duotone/cid-chart-bubble.svg);
+}
+
+.cid-chart-donut {
+  background-image: url(../svg/duotone/cid-chart-donut.svg);
+}
+
+.cid-chart-line {
+  background-image: url(../svg/duotone/cid-chart-line.svg);
+}
+
+.cid-chart-multiline {
+  background-image: url(../svg/duotone/cid-chart-multiline.svg);
+}
+
+.cid-chart-pie {
+  background-image: url(../svg/duotone/cid-chart-pie.svg);
+}
+
+.cid-chart-show {
+  background-image: url(../svg/duotone/cid-chart-show.svg);
+}
+
+.cid-chart-table {
+  background-image: url(../svg/duotone/cid-chart-table.svg);
+}
+
+.cid-chat-bubble {
+  background-image: url(../svg/duotone/cid-chat-bubble.svg);
+}
+
+.cid-chat-square {
+  background-image: url(../svg/duotone/cid-chat-square.svg);
+}
+
+.cid-check {
+  background-image: url(../svg/duotone/cid-check.svg);
+}
+
+.cid-check-alt {
+  background-image: url(../svg/duotone/cid-check-alt.svg);
+}
+
+.cid-check-circle {
+  background-image: url(../svg/duotone/cid-check-circle.svg);
+}
+
+.cid-check-double {
+  background-image: url(../svg/duotone/cid-check-double.svg);
+}
+
+.cid-check-double-alt {
+  background-image: url(../svg/duotone/cid-check-double-alt.svg);
+}
+
+.cid-chevron-bottom-alt {
+  background-image: url(../svg/duotone/cid-chevron-bottom-alt.svg);
+}
+
+.cid-chevron-circle-down {
+  background-image: url(../svg/duotone/cid-chevron-circle-down.svg);
+}
+
+.cid-chevron-circle-down-alt {
+  background-image: url(../svg/duotone/cid-chevron-circle-down-alt.svg);
+}
+
+.cid-chevron-circle-left {
+  background-image: url(../svg/duotone/cid-chevron-circle-left.svg);
+}
+
+.cid-chevron-circle-left-alt {
+  background-image: url(../svg/duotone/cid-chevron-circle-left-alt.svg);
+}
+
+.cid-chevron-circle-right {
+  background-image: url(../svg/duotone/cid-chevron-circle-right.svg);
+}
+
+.cid-chevron-circle-right-alt {
+  background-image: url(../svg/duotone/cid-chevron-circle-right-alt.svg);
+}
+
+.cid-chevron-circle-up {
+  background-image: url(../svg/duotone/cid-chevron-circle-up.svg);
+}
+
+.cid-chevron-circle-up-alt {
+  background-image: url(../svg/duotone/cid-chevron-circle-up-alt.svg);
+}
+
+.cid-chevron-double-down {
+  background-image: url(../svg/duotone/cid-chevron-double-down.svg);
+}
+
+.cid-chevron-double-down-alt {
+  background-image: url(../svg/duotone/cid-chevron-double-down-alt.svg);
+}
+
+.cid-chevron-double-left {
+  background-image: url(../svg/duotone/cid-chevron-double-left.svg);
+}
+
+.cid-chevron-double-left-alt {
+  background-image: url(../svg/duotone/cid-chevron-double-left-alt.svg);
+}
+
+.cid-chevron-double-right {
+  background-image: url(../svg/duotone/cid-chevron-double-right.svg);
+}
+
+.cid-chevron-double-right-alt {
+  background-image: url(../svg/duotone/cid-chevron-double-right-alt.svg);
+}
+
+.cid-chevron-double-up {
+  background-image: url(../svg/duotone/cid-chevron-double-up.svg);
+}
+
+.cid-chevron-double-up-alt {
+  background-image: url(../svg/duotone/cid-chevron-double-up-alt.svg);
+}
+
+.cid-chevron-left-alt {
+  background-image: url(../svg/duotone/cid-chevron-left-alt.svg);
+}
+
+.cid-chevron-right-alt {
+  background-image: url(../svg/duotone/cid-chevron-right-alt.svg);
+}
+
+.cid-chevron-square-down {
+  background-image: url(../svg/duotone/cid-chevron-square-down.svg);
+}
+
+.cid-chevron-square-down-alt {
+  background-image: url(../svg/duotone/cid-chevron-square-down-alt.svg);
+}
+
+.cid-chevron-square-left {
+  background-image: url(../svg/duotone/cid-chevron-square-left.svg);
+}
+
+.cid-chevron-square-left-alt {
+  background-image: url(../svg/duotone/cid-chevron-square-left-alt.svg);
+}
+
+.cid-chevron-square-right {
+  background-image: url(../svg/duotone/cid-chevron-square-right.svg);
+}
+
+.cid-chevron-square-right-alt {
+  background-image: url(../svg/duotone/cid-chevron-square-right-alt.svg);
+}
+
+.cid-chevron-square-up {
+  background-image: url(../svg/duotone/cid-chevron-square-up.svg);
+}
+
+.cid-chevron-square-up-alt {
+  background-image: url(../svg/duotone/cid-chevron-square-up-alt.svg);
+}
+
+.cid-chevron-top-alt {
+  background-image: url(../svg/duotone/cid-chevron-top-alt.svg);
+}
+
+.cid-child {
+  background-image: url(../svg/duotone/cid-child.svg);
+}
+
+.cid-child-friendly {
+  background-image: url(../svg/duotone/cid-child-friendly.svg);
+}
+
+.cid-city {
+  background-image: url(../svg/duotone/cid-city.svg);
+}
+
+.cid-clear-all {
+  background-image: url(../svg/duotone/cid-clear-all.svg);
+}
+
+.cid-clipboard {
+  background-image: url(../svg/duotone/cid-clipboard.svg);
+}
+
+.cid-clock {
+  background-image: url(../svg/duotone/cid-clock.svg);
+}
+
+.cid-clone {
+  background-image: url(../svg/duotone/cid-clone.svg);
+}
+
+.cid-closed-captioning {
+  background-image: url(../svg/duotone/cid-closed-captioning.svg);
+}
+
+.cid-cloud-check {
+  background-image: url(../svg/duotone/cid-cloud-check.svg);
+}
+
+.cid-cloud-circle {
+  background-image: url(../svg/duotone/cid-cloud-circle.svg);
+}
+
+.cid-cloud-data {
+  background-image: url(../svg/duotone/cid-cloud-data.svg);
+}
+
+.cid-cloud-download {
+  background-image: url(../svg/duotone/cid-cloud-download.svg);
+}
+
+.cid-cloud-slash {
+  background-image: url(../svg/duotone/cid-cloud-slash.svg);
+}
+
+.cid-cloud-upload {
+  background-image: url(../svg/duotone/cid-cloud-upload.svg);
+}
+
+.cid-cloudy {
+  background-image: url(../svg/duotone/cid-cloudy.svg);
+}
+
+.cid-code {
+  background-image: url(../svg/duotone/cid-code.svg);
+}
+
+.cid-coffee {
+  background-image: url(../svg/duotone/cid-coffee.svg);
+}
+
+.cid-cog {
+  background-image: url(../svg/duotone/cid-cog.svg);
+}
+
+.cid-color-border {
+  background-image: url(../svg/duotone/cid-color-border.svg);
+}
+
+.cid-color-fill {
+  background-image: url(../svg/duotone/cid-color-fill.svg);
+}
+
+.cid-color-palette {
+  background-image: url(../svg/duotone/cid-color-palette.svg);
+}
+
+.cid-columns {
+  background-image: url(../svg/duotone/cid-columns.svg);
+}
+
+.cid-command {
+  background-image: url(../svg/duotone/cid-command.svg);
+}
+
+.cid-comment-bubble {
+  background-image: url(../svg/duotone/cid-comment-bubble.svg);
+}
+
+.cid-comment-bubble-check {
+  background-image: url(../svg/duotone/cid-comment-bubble-check.svg);
+}
+
+.cid-comment-bubble-edit {
+  background-image: url(../svg/duotone/cid-comment-bubble-edit.svg);
+}
+
+.cid-comment-bubble-exclamation {
+  background-image: url(../svg/duotone/cid-comment-bubble-exclamation.svg);
+}
+
+.cid-comment-bubble-lines {
+  background-image: url(../svg/duotone/cid-comment-bubble-lines.svg);
+}
+
+.cid-comment-bubble-minus {
+  background-image: url(../svg/duotone/cid-comment-bubble-minus.svg);
+}
+
+.cid-comment-bubble-plus {
+  background-image: url(../svg/duotone/cid-comment-bubble-plus.svg);
+}
+
+.cid-comment-bubble-question {
+  background-image: url(../svg/duotone/cid-comment-bubble-question.svg);
+}
+
+.cid-comment-bubble-smile {
+  background-image: url(../svg/duotone/cid-comment-bubble-smile.svg);
+}
+
+.cid-comment-bubble-x {
+  background-image: url(../svg/duotone/cid-comment-bubble-x.svg);
+}
+
+.cid-comment-square {
+  background-image: url(../svg/duotone/cid-comment-square.svg);
+}
+
+.cid-comment-square-check {
+  background-image: url(../svg/duotone/cid-comment-square-check.svg);
+}
+
+.cid-comment-square-edit {
+  background-image: url(../svg/duotone/cid-comment-square-edit.svg);
+}
+
+.cid-comment-square-exclamation {
+  background-image: url(../svg/duotone/cid-comment-square-exclamation.svg);
+}
+
+.cid-comment-square-image {
+  background-image: url(../svg/duotone/cid-comment-square-image.svg);
+}
+
+.cid-comment-square-lines {
+  background-image: url(../svg/duotone/cid-comment-square-lines.svg);
+}
+
+.cid-comment-square-minus {
+  background-image: url(../svg/duotone/cid-comment-square-minus.svg);
+}
+
+.cid-comment-square-plus {
+  background-image: url(../svg/duotone/cid-comment-square-plus.svg);
+}
+
+.cid-comment-square-rate-review {
+  background-image: url(../svg/duotone/cid-comment-square-rate-review.svg);
+}
+
+.cid-comment-square-smile {
+  background-image: url(../svg/duotone/cid-comment-square-smile.svg);
+}
+
+.cid-comment-square-x {
+  background-image: url(../svg/duotone/cid-comment-square-x.svg);
+}
+
+.cid-commute {
+  background-image: url(../svg/duotone/cid-commute.svg);
+}
+
+.cid-compare {
+  background-image: url(../svg/duotone/cid-compare.svg);
+}
+
+.cid-compass {
+  background-image: url(../svg/duotone/cid-compass.svg);
+}
+
+.cid-compass-calibration {
+  background-image: url(../svg/duotone/cid-compass-calibration.svg);
+}
+
+.cid-compass-slash {
+  background-image: url(../svg/duotone/cid-compass-slash.svg);
+}
+
+.cid-compress {
+  background-image: url(../svg/duotone/cid-compress.svg);
+}
+
+.cid-compress-wide {
+  background-image: url(../svg/duotone/cid-compress-wide.svg);
+}
+
+.cid-contact {
+  background-image: url(../svg/duotone/cid-contact.svg);
+}
+
+.cid-contact-mail {
+  background-image: url(../svg/duotone/cid-contact-mail.svg);
+}
+
+.cid-contact-phone {
+  background-image: url(../svg/duotone/cid-contact-phone.svg);
+}
+
+.cid-contacts {
+  background-image: url(../svg/duotone/cid-contacts.svg);
+}
+
+.cid-contrast {
+  background-image: url(../svg/duotone/cid-contrast.svg);
+}
+
+.cid-control {
+  background-image: url(../svg/duotone/cid-control.svg);
+}
+
+.cid-copy {
+  background-image: url(../svg/duotone/cid-copy.svg);
+}
+
+.cid-copyright {
+  background-image: url(../svg/duotone/cid-copyright.svg);
+}
+
+.cid-couch {
+  background-image: url(../svg/duotone/cid-couch.svg);
+}
+
+.cid-credit-card {
+  background-image: url(../svg/duotone/cid-credit-card.svg);
+}
+
+.cid-crop {
+  background-image: url(../svg/duotone/cid-crop.svg);
+}
+
+.cid-crop-rotate {
+  background-image: url(../svg/duotone/cid-crop-rotate.svg);
+}
+
+.cid-cursor {
+  background-image: url(../svg/duotone/cid-cursor.svg);
+}
+
+.cid-cursor-move {
+  background-image: url(../svg/duotone/cid-cursor-move.svg);
+}
+
+.cid-cut {
+  background-image: url(../svg/duotone/cid-cut.svg);
+}
+
+.cid-data-transfer-down {
+  background-image: url(../svg/duotone/cid-data-transfer-down.svg);
+}
+
+.cid-data-transfer-up {
+  background-image: url(../svg/duotone/cid-data-transfer-up.svg);
+}
+
+.cid-deaf {
+  background-image: url(../svg/duotone/cid-deaf.svg);
+}
+
+.cid-delete {
+  background-image: url(../svg/duotone/cid-delete.svg);
+}
+
+.cid-description {
+  background-image: url(../svg/duotone/cid-description.svg);
+}
+
+.cid-developer-board {
+  background-image: url(../svg/duotone/cid-developer-board.svg);
+}
+
+.cid-device-unknown {
+  background-image: url(../svg/duotone/cid-device-unknown.svg);
+}
+
+.cid-devices {
+  background-image: url(../svg/duotone/cid-devices.svg);
+}
+
+.cid-devices-important {
+  background-image: url(../svg/duotone/cid-devices-important.svg);
+}
+
+.cid-devices-other {
+  background-image: url(../svg/duotone/cid-devices-other.svg);
+}
+
+.cid-devices-slash {
+  background-image: url(../svg/duotone/cid-devices-slash.svg);
+}
+
+.cid-dial {
+  background-image: url(../svg/duotone/cid-dial.svg);
+}
+
+.cid-dialpad {
+  background-image: url(../svg/duotone/cid-dialpad.svg);
+}
+
+.cid-diamond {
+  background-image: url(../svg/duotone/cid-diamond.svg);
+}
+
+.cid-dinner {
+  background-image: url(../svg/duotone/cid-dinner.svg);
+}
+
+.cid-directions {
+  background-image: url(../svg/duotone/cid-directions.svg);
+}
+
+.cid-disabled {
+  background-image: url(../svg/duotone/cid-disabled.svg);
+}
+
+.cid-dns {
+  background-image: url(../svg/duotone/cid-dns.svg);
+}
+
+.cid-dock {
+  background-image: url(../svg/duotone/cid-dock.svg);
+}
+
+.cid-document {
+  background-image: url(../svg/duotone/cid-document.svg);
+}
+
+.cid-dog {
+  background-image: url(../svg/duotone/cid-dog.svg);
+}
+
+.cid-dollar {
+  background-image: url(../svg/duotone/cid-dollar.svg);
+}
+
+.cid-dollar-circle {
+  background-image: url(../svg/duotone/cid-dollar-circle.svg);
+}
+
+.cid-dollar-circle-slash {
+  background-image: url(../svg/duotone/cid-dollar-circle-slash.svg);
+}
+
+.cid-dollar-slash {
+  background-image: url(../svg/duotone/cid-dollar-slash.svg);
+}
+
+.cid-donate {
+  background-image: url(../svg/duotone/cid-donate.svg);
+}
+
+.cid-door {
+  background-image: url(../svg/duotone/cid-door.svg);
+}
+
+.cid-double-quote-sans-left {
+  background-image: url(../svg/duotone/cid-double-quote-sans-left.svg);
+}
+
+.cid-double-quote-sans-right {
+  background-image: url(../svg/duotone/cid-double-quote-sans-right.svg);
+}
+
+.cid-double-quote-serif-left {
+  background-image: url(../svg/duotone/cid-double-quote-serif-left.svg);
+}
+
+.cid-double-quote-serif-right {
+  background-image: url(../svg/duotone/cid-double-quote-serif-right.svg);
+}
+
+.cid-drink {
+  background-image: url(../svg/duotone/cid-drink.svg);
+}
+
+.cid-drink-alcohol {
+  background-image: url(../svg/duotone/cid-drink-alcohol.svg);
+}
+
+.cid-drop {
+  background-image: url(../svg/duotone/cid-drop.svg);
+}
+
+.cid-drop-slash {
+  background-image: url(../svg/duotone/cid-drop-slash.svg);
+}
+
+.cid-dvr {
+  background-image: url(../svg/duotone/cid-dvr.svg);
+}
+
+.cid-ear {
+  background-image: url(../svg/duotone/cid-ear.svg);
+}
+
+.cid-eco {
+  background-image: url(../svg/duotone/cid-eco.svg);
+}
+
+.cid-education {
+  background-image: url(../svg/duotone/cid-education.svg);
+}
+
+.cid-elevator {
+  background-image: url(../svg/duotone/cid-elevator.svg);
+}
+
+.cid-energy-circle {
+  background-image: url(../svg/duotone/cid-energy-circle.svg);
+}
+
+.cid-envelope-closed {
+  background-image: url(../svg/duotone/cid-envelope-closed.svg);
+}
+
+.cid-envelope-letter {
+  background-image: url(../svg/duotone/cid-envelope-letter.svg);
+}
+
+.cid-envelope-minus {
+  background-image: url(../svg/duotone/cid-envelope-minus.svg);
+}
+
+.cid-envelope-open {
+  background-image: url(../svg/duotone/cid-envelope-open.svg);
+}
+
+.cid-envelope-plus {
+  background-image: url(../svg/duotone/cid-envelope-plus.svg);
+}
+
+.cid-equalizer {
+  background-image: url(../svg/duotone/cid-equalizer.svg);
+}
+
+.cid-ethernet {
+  background-image: url(../svg/duotone/cid-ethernet.svg);
+}
+
+.cid-ethernet-alt {
+  background-image: url(../svg/duotone/cid-ethernet-alt.svg);
+}
+
+.cid-euro {
+  background-image: url(../svg/duotone/cid-euro.svg);
+}
+
+.cid-euro-circle {
+  background-image: url(../svg/duotone/cid-euro-circle.svg);
+}
+
+.cid-euro-circle-slash {
+  background-image: url(../svg/duotone/cid-euro-circle-slash.svg);
+}
+
+.cid-euro-slash {
+  background-image: url(../svg/duotone/cid-euro-slash.svg);
+}
+
+.cid-ev-station {
+  background-image: url(../svg/duotone/cid-ev-station.svg);
+}
+
+.cid-excerpt {
+  background-image: url(../svg/duotone/cid-excerpt.svg);
+}
+
+.cid-exclamation {
+  background-image: url(../svg/duotone/cid-exclamation.svg);
+}
+
+.cid-exclamation-circle {
+  background-image: url(../svg/duotone/cid-exclamation-circle.svg);
+}
+
+.cid-exit-to-app {
+  background-image: url(../svg/duotone/cid-exit-to-app.svg);
+}
+
+.cid-expand-down {
+  background-image: url(../svg/duotone/cid-expand-down.svg);
+}
+
+.cid-expand-left {
+  background-image: url(../svg/duotone/cid-expand-left.svg);
+}
+
+.cid-expand-right {
+  background-image: url(../svg/duotone/cid-expand-right.svg);
+}
+
+.cid-expand-up {
+  background-image: url(../svg/duotone/cid-expand-up.svg);
+}
+
+.cid-exposure {
+  background-image: url(../svg/duotone/cid-exposure.svg);
+}
+
+.cid-external-link {
+  background-image: url(../svg/duotone/cid-external-link.svg);
+}
+
+.cid-eye {
+  background-image: url(../svg/duotone/cid-eye.svg);
+}
+
+.cid-eye-slash {
+  background-image: url(../svg/duotone/cid-eye-slash.svg);
+}
+
+.cid-eyedropper {
+  background-image: url(../svg/duotone/cid-eyedropper.svg);
+}
+
+.cid-face {
+  background-image: url(../svg/duotone/cid-face.svg);
+}
+
+.cid-face-dead {
+  background-image: url(../svg/duotone/cid-face-dead.svg);
+}
+
+.cid-factory {
+  background-image: url(../svg/duotone/cid-factory.svg);
+}
+
+.cid-factory-slash {
+  background-image: url(../svg/duotone/cid-factory-slash.svg);
+}
+
+.cid-fastfood {
+  background-image: url(../svg/duotone/cid-fastfood.svg);
+}
+
+.cid-fax {
+  background-image: url(../svg/duotone/cid-fax.svg);
+}
+
+.cid-featured-playlist {
+  background-image: url(../svg/duotone/cid-featured-playlist.svg);
+}
+
+.cid-featured-video {
+  background-image: url(../svg/duotone/cid-featured-video.svg);
+}
+
+.cid-fiber-dvr {
+  background-image: url(../svg/duotone/cid-fiber-dvr.svg);
+}
+
+.cid-fiber-manual {
+  background-image: url(../svg/duotone/cid-fiber-manual.svg);
+}
+
+.cid-fiber-new {
+  background-image: url(../svg/duotone/cid-fiber-new.svg);
+}
+
+.cid-fiber-pin {
+  background-image: url(../svg/duotone/cid-fiber-pin.svg);
+}
+
+.cid-fiber-smart {
+  background-image: url(../svg/duotone/cid-fiber-smart.svg);
+}
+
+.cid-file {
+  background-image: url(../svg/duotone/cid-file.svg);
+}
+
+.cid-file-acrobat {
+  background-image: url(../svg/duotone/cid-file-acrobat.svg);
+}
+
+.cid-file-add {
+  background-image: url(../svg/duotone/cid-file-add.svg);
+}
+
+.cid-file-archive {
+  background-image: url(../svg/duotone/cid-file-archive.svg);
+}
+
+.cid-file-audio {
+  background-image: url(../svg/duotone/cid-file-audio.svg);
+}
+
+.cid-file-code {
+  background-image: url(../svg/duotone/cid-file-code.svg);
+}
+
+.cid-file-doc {
+  background-image: url(../svg/duotone/cid-file-doc.svg);
+}
+
+.cid-file-excel {
+  background-image: url(../svg/duotone/cid-file-excel.svg);
+}
+
+.cid-file-image {
+  background-image: url(../svg/duotone/cid-file-image.svg);
+}
+
+.cid-file-pdf {
+  background-image: url(../svg/duotone/cid-file-pdf.svg);
+}
+
+.cid-file-powerpoint {
+  background-image: url(../svg/duotone/cid-file-powerpoint.svg);
+}
+
+.cid-file-ppt {
+  background-image: url(../svg/duotone/cid-file-ppt.svg);
+}
+
+.cid-file-video {
+  background-image: url(../svg/duotone/cid-file-video.svg);
+}
+
+.cid-file-word {
+  background-image: url(../svg/duotone/cid-file-word.svg);
+}
+
+.cid-file-xls {
+  background-image: url(../svg/duotone/cid-file-xls.svg);
+}
+
+.cid-filter {
+  background-image: url(../svg/duotone/cid-filter.svg);
+}
+
+.cid-filter-frames {
+  background-image: url(../svg/duotone/cid-filter-frames.svg);
+}
+
+.cid-filter-photo {
+  background-image: url(../svg/duotone/cid-filter-photo.svg);
+}
+
+.cid-filter-square {
+  background-image: url(../svg/duotone/cid-filter-square.svg);
+}
+
+.cid-filter-x {
+  background-image: url(../svg/duotone/cid-filter-x.svg);
+}
+
+.cid-find-in-page {
+  background-image: url(../svg/duotone/cid-find-in-page.svg);
+}
+
+.cid-find-replace {
+  background-image: url(../svg/duotone/cid-find-replace.svg);
+}
+
+.cid-fingerprint {
+  background-image: url(../svg/duotone/cid-fingerprint.svg);
+}
+
+.cid-fire {
+  background-image: url(../svg/duotone/cid-fire.svg);
+}
+
+.cid-flag {
+  background-image: url(../svg/duotone/cid-flag.svg);
+}
+
+.cid-flag-alt {
+  background-image: url(../svg/duotone/cid-flag-alt.svg);
+}
+
+.cid-flag-rectangle {
+  background-image: url(../svg/duotone/cid-flag-rectangle.svg);
+}
+
+.cid-flag-triangle {
+  background-image: url(../svg/duotone/cid-flag-triangle.svg);
+}
+
+.cid-flight-land {
+  background-image: url(../svg/duotone/cid-flight-land.svg);
+}
+
+.cid-flight-takeoff {
+  background-image: url(../svg/duotone/cid-flight-takeoff.svg);
+}
+
+.cid-flip {
+  background-image: url(../svg/duotone/cid-flip.svg);
+}
+
+.cid-flip-to-back {
+  background-image: url(../svg/duotone/cid-flip-to-back.svg);
+}
+
+.cid-flip-to-front {
+  background-image: url(../svg/duotone/cid-flip-to-front.svg);
+}
+
+.cid-flower {
+  background-image: url(../svg/duotone/cid-flower.svg);
+}
+
+.cid-folder {
+  background-image: url(../svg/duotone/cid-folder.svg);
+}
+
+.cid-folder-alt {
+  background-image: url(../svg/duotone/cid-folder-alt.svg);
+}
+
+.cid-folder-open {
+  background-image: url(../svg/duotone/cid-folder-open.svg);
+}
+
+.cid-folder-plus {
+  background-image: url(../svg/duotone/cid-folder-plus.svg);
+}
+
+.cid-folder-shared {
+  background-image: url(../svg/duotone/cid-folder-shared.svg);
+}
+
+.cid-folder-special {
+  background-image: url(../svg/duotone/cid-folder-special.svg);
+}
+
+.cid-font {
+  background-image: url(../svg/duotone/cid-font.svg);
+}
+
+.cid-football {
+  background-image: url(../svg/duotone/cid-football.svg);
+}
+
+.cid-fork {
+  background-image: url(../svg/duotone/cid-fork.svg);
+}
+
+.cid-fridge {
+  background-image: url(../svg/duotone/cid-fridge.svg);
+}
+
+.cid-frown {
+  background-image: url(../svg/duotone/cid-frown.svg);
+}
+
+.cid-fullscreen {
+  background-image: url(../svg/duotone/cid-fullscreen.svg);
+}
+
+.cid-fullscreen-exit {
+  background-image: url(../svg/duotone/cid-fullscreen-exit.svg);
+}
+
+.cid-functions {
+  background-image: url(../svg/duotone/cid-functions.svg);
+}
+
+.cid-functions-alt {
+  background-image: url(../svg/duotone/cid-functions-alt.svg);
+}
+
+.cid-gamepad {
+  background-image: url(../svg/duotone/cid-gamepad.svg);
+}
+
+.cid-garage {
+  background-image: url(../svg/duotone/cid-garage.svg);
+}
+
+.cid-gem {
+  background-image: url(../svg/duotone/cid-gem.svg);
+}
+
+.cid-gif {
+  background-image: url(../svg/duotone/cid-gif.svg);
+}
+
+.cid-gift {
+  background-image: url(../svg/duotone/cid-gift.svg);
+}
+
+.cid-glass {
+  background-image: url(../svg/duotone/cid-glass.svg);
+}
+
+.cid-globe {
+  background-image: url(../svg/duotone/cid-globe.svg);
+}
+
+.cid-globe-alt {
+  background-image: url(../svg/duotone/cid-globe-alt.svg);
+}
+
+.cid-globe-alt-lock {
+  background-image: url(../svg/duotone/cid-globe-alt-lock.svg);
+}
+
+.cid-globe-lock {
+  background-image: url(../svg/duotone/cid-globe-lock.svg);
+}
+
+.cid-golf {
+  background-image: url(../svg/duotone/cid-golf.svg);
+}
+
+.cid-golf-alt {
+  background-image: url(../svg/duotone/cid-golf-alt.svg);
+}
+
+.cid-gradient {
+  background-image: url(../svg/duotone/cid-gradient.svg);
+}
+
+.cid-grain {
+  background-image: url(../svg/duotone/cid-grain.svg);
+}
+
+.cid-graph {
+  background-image: url(../svg/duotone/cid-graph.svg);
+}
+
+.cid-grid {
+  background-image: url(../svg/duotone/cid-grid.svg);
+}
+
+.cid-grid-slash {
+  background-image: url(../svg/duotone/cid-grid-slash.svg);
+}
+
+.cid-group {
+  background-image: url(../svg/duotone/cid-group.svg);
+}
+
+.cid-group-minus {
+  background-image: url(../svg/duotone/cid-group-minus.svg);
+}
+
+.cid-group-plus {
+  background-image: url(../svg/duotone/cid-group-plus.svg);
+}
+
+.cid-group-x {
+  background-image: url(../svg/duotone/cid-group-x.svg);
+}
+
+.cid-hamburger-menu {
+  background-image: url(../svg/duotone/cid-hamburger-menu.svg);
+}
+
+.cid-hand-pointer {
+  background-image: url(../svg/duotone/cid-hand-pointer.svg);
+}
+
+.cid-handshake {
+  background-image: url(../svg/duotone/cid-handshake.svg);
+}
+
+.cid-happy {
+  background-image: url(../svg/duotone/cid-happy.svg);
+}
+
+.cid-hard-drive {
+  background-image: url(../svg/duotone/cid-hard-drive.svg);
+}
+
+.cid-hd {
+  background-image: url(../svg/duotone/cid-hd.svg);
+}
+
+.cid-hdr {
+  background-image: url(../svg/duotone/cid-hdr.svg);
+}
+
+.cid-hdr-slash {
+  background-image: url(../svg/duotone/cid-hdr-slash.svg);
+}
+
+.cid-header {
+  background-image: url(../svg/duotone/cid-header.svg);
+}
+
+.cid-headphones {
+  background-image: url(../svg/duotone/cid-headphones.svg);
+}
+
+.cid-headphones-mic {
+  background-image: url(../svg/duotone/cid-headphones-mic.svg);
+}
+
+.cid-headphones-mute {
+  background-image: url(../svg/duotone/cid-headphones-mute.svg);
+}
+
+.cid-healing {
+  background-image: url(../svg/duotone/cid-healing.svg);
+}
+
+.cid-high-quality {
+  background-image: url(../svg/duotone/cid-high-quality.svg);
+}
+
+.cid-highlighter {
+  background-image: url(../svg/duotone/cid-highlighter.svg);
+}
+
+.cid-highligt {
+  background-image: url(../svg/duotone/cid-highligt.svg);
+}
+
+.cid-history {
+  background-image: url(../svg/duotone/cid-history.svg);
+}
+
+.cid-home {
+  background-image: url(../svg/duotone/cid-home.svg);
+}
+
+.cid-hospital {
+  background-image: url(../svg/duotone/cid-hospital.svg);
+}
+
+.cid-hot-tub {
+  background-image: url(../svg/duotone/cid-hot-tub.svg);
+}
+
+.cid-hotel {
+  background-image: url(../svg/duotone/cid-hotel.svg);
+}
+
+.cid-hourglass {
+  background-image: url(../svg/duotone/cid-hourglass.svg);
+}
+
+.cid-house {
+  background-image: url(../svg/duotone/cid-house.svg);
+}
+
+.cid-hq {
+  background-image: url(../svg/duotone/cid-hq.svg);
+}
+
+.cid-http {
+  background-image: url(../svg/duotone/cid-http.svg);
+}
+
+.cid-https {
+  background-image: url(../svg/duotone/cid-https.svg);
+}
+
+.cid-id-badge {
+  background-image: url(../svg/duotone/cid-id-badge.svg);
+}
+
+.cid-id-card {
+  background-image: url(../svg/duotone/cid-id-card.svg);
+}
+
+.cid-image {
+  background-image: url(../svg/duotone/cid-image.svg);
+}
+
+.cid-image-broken {
+  background-image: url(../svg/duotone/cid-image-broken.svg);
+}
+
+.cid-image-plus {
+  background-image: url(../svg/duotone/cid-image-plus.svg);
+}
+
+.cid-images {
+  background-image: url(../svg/duotone/cid-images.svg);
+}
+
+.cid-inbox {
+  background-image: url(../svg/duotone/cid-inbox.svg);
+}
+
+.cid-inbox-in {
+  background-image: url(../svg/duotone/cid-inbox-in.svg);
+}
+
+.cid-inbox-out {
+  background-image: url(../svg/duotone/cid-inbox-out.svg);
+}
+
+.cid-indent-decrease {
+  background-image: url(../svg/duotone/cid-indent-decrease.svg);
+}
+
+.cid-indent-increase {
+  background-image: url(../svg/duotone/cid-indent-increase.svg);
+}
+
+.cid-industry {
+  background-image: url(../svg/duotone/cid-industry.svg);
+}
+
+.cid-industry-slash {
+  background-image: url(../svg/duotone/cid-industry-slash.svg);
+}
+
+.cid-infinity {
+  background-image: url(../svg/duotone/cid-infinity.svg);
+}
+
+.cid-info {
+  background-image: url(../svg/duotone/cid-info.svg);
+}
+
+.cid-input {
+  background-image: url(../svg/duotone/cid-input.svg);
+}
+
+.cid-input-antenna {
+  background-image: url(../svg/duotone/cid-input-antenna.svg);
+}
+
+.cid-input-component {
+  background-image: url(../svg/duotone/cid-input-component.svg);
+}
+
+.cid-input-hdmi {
+  background-image: url(../svg/duotone/cid-input-hdmi.svg);
+}
+
+.cid-input-power {
+  background-image: url(../svg/duotone/cid-input-power.svg);
+}
+
+.cid-input-power-off {
+  background-image: url(../svg/duotone/cid-input-power-off.svg);
+}
+
+.cid-input-svideo {
+  background-image: url(../svg/duotone/cid-input-svideo.svg);
+}
+
+.cid-institution {
+  background-image: url(../svg/duotone/cid-institution.svg);
+}
+
+.cid-invert {
+  background-image: url(../svg/duotone/cid-invert.svg);
+}
+
+.cid-italic {
+  background-image: url(../svg/duotone/cid-italic.svg);
+}
+
+.cid-justify-center {
+  background-image: url(../svg/duotone/cid-justify-center.svg);
+}
+
+.cid-justify-left {
+  background-image: url(../svg/duotone/cid-justify-left.svg);
+}
+
+.cid-justify-right {
+  background-image: url(../svg/duotone/cid-justify-right.svg);
+}
+
+.cid-key {
+  background-image: url(../svg/duotone/cid-key.svg);
+}
+
+.cid-key-alt {
+  background-image: url(../svg/duotone/cid-key-alt.svg);
+}
+
+.cid-keyboard {
+  background-image: url(../svg/duotone/cid-keyboard.svg);
+}
+
+.cid-keyboard-hide {
+  background-image: url(../svg/duotone/cid-keyboard-hide.svg);
+}
+
+.cid-kitchen {
+  background-image: url(../svg/duotone/cid-kitchen.svg);
+}
+
+.cid-lan {
+  background-image: url(../svg/duotone/cid-lan.svg);
+}
+
+.cid-language {
+  background-image: url(../svg/duotone/cid-language.svg);
+}
+
+.cid-laptop {
+  background-image: url(../svg/duotone/cid-laptop.svg);
+}
+
+.cid-laundry {
+  background-image: url(../svg/duotone/cid-laundry.svg);
+}
+
+.cid-layers {
+  background-image: url(../svg/duotone/cid-layers.svg);
+}
+
+.cid-layers-slash {
+  background-image: url(../svg/duotone/cid-layers-slash.svg);
+}
+
+.cid-leaf {
+  background-image: url(../svg/duotone/cid-leaf.svg);
+}
+
+.cid-lemon {
+  background-image: url(../svg/duotone/cid-lemon.svg);
+}
+
+.cid-level-down {
+  background-image: url(../svg/duotone/cid-level-down.svg);
+}
+
+.cid-level-up {
+  background-image: url(../svg/duotone/cid-level-up.svg);
+}
+
+.cid-library {
+  background-image: url(../svg/duotone/cid-library.svg);
+}
+
+.cid-library-add {
+  background-image: url(../svg/duotone/cid-library-add.svg);
+}
+
+.cid-library-bookmark {
+  background-image: url(../svg/duotone/cid-library-bookmark.svg);
+}
+
+.cid-library-books {
+  background-image: url(../svg/duotone/cid-library-books.svg);
+}
+
+.cid-library-building {
+  background-image: url(../svg/duotone/cid-library-building.svg);
+}
+
+.cid-library-music {
+  background-image: url(../svg/duotone/cid-library-music.svg);
+}
+
+.cid-life-ring {
+  background-image: url(../svg/duotone/cid-life-ring.svg);
+}
+
+.cid-lightbulb {
+  background-image: url(../svg/duotone/cid-lightbulb.svg);
+}
+
+.cid-line-spacing {
+  background-image: url(../svg/duotone/cid-line-spacing.svg);
+}
+
+.cid-line-style {
+  background-image: url(../svg/duotone/cid-line-style.svg);
+}
+
+.cid-line-weight {
+  background-image: url(../svg/duotone/cid-line-weight.svg);
+}
+
+.cid-link {
+  background-image: url(../svg/duotone/cid-link.svg);
+}
+
+.cid-link-alt {
+  background-image: url(../svg/duotone/cid-link-alt.svg);
+}
+
+.cid-link-broken {
+  background-image: url(../svg/duotone/cid-link-broken.svg);
+}
+
+.cid-link-intact {
+  background-image: url(../svg/duotone/cid-link-intact.svg);
+}
+
+.cid-link-slash {
+  background-image: url(../svg/duotone/cid-link-slash.svg);
+}
+
+.cid-list {
+  background-image: url(../svg/duotone/cid-list.svg);
+}
+
+.cid-list-filter {
+  background-image: url(../svg/duotone/cid-list-filter.svg);
+}
+
+.cid-list-high-priority {
+  background-image: url(../svg/duotone/cid-list-high-priority.svg);
+}
+
+.cid-list-low-priority {
+  background-image: url(../svg/duotone/cid-list-low-priority.svg);
+}
+
+.cid-list-numbered {
+  background-image: url(../svg/duotone/cid-list-numbered.svg);
+}
+
+.cid-list-numbered-rtl {
+  background-image: url(../svg/duotone/cid-list-numbered-rtl.svg);
+}
+
+.cid-list-rich {
+  background-image: url(../svg/duotone/cid-list-rich.svg);
+}
+
+.cid-location-gps {
+  background-image: url(../svg/duotone/cid-location-gps.svg);
+}
+
+.cid-location-gps-fixed {
+  background-image: url(../svg/duotone/cid-location-gps-fixed.svg);
+}
+
+.cid-location-gps-off {
+  background-image: url(../svg/duotone/cid-location-gps-off.svg);
+}
+
+.cid-location-pin {
+  background-image: url(../svg/duotone/cid-location-pin.svg);
+}
+
+.cid-location-pin-check {
+  background-image: url(../svg/duotone/cid-location-pin-check.svg);
+}
+
+.cid-location-pin-edit {
+  background-image: url(../svg/duotone/cid-location-pin-edit.svg);
+}
+
+.cid-location-pin-plus {
+  background-image: url(../svg/duotone/cid-location-pin-plus.svg);
+}
+
+.cid-location-pin-slash {
+  background-image: url(../svg/duotone/cid-location-pin-slash.svg);
+}
+
+.cid-lock-locked {
+  background-image: url(../svg/duotone/cid-lock-locked.svg);
+}
+
+.cid-lock-minus {
+  background-image: url(../svg/duotone/cid-lock-minus.svg);
+}
+
+.cid-lock-plus {
+  background-image: url(../svg/duotone/cid-lock-plus.svg);
+}
+
+.cid-lock-unlocked {
+  background-image: url(../svg/duotone/cid-lock-unlocked.svg);
+}
+
+.cid-locomotive {
+  background-image: url(../svg/duotone/cid-locomotive.svg);
+}
+
+.cid-loop {
+  background-image: url(../svg/duotone/cid-loop.svg);
+}
+
+.cid-loop-1 {
+  background-image: url(../svg/duotone/cid-loop-1.svg);
+}
+
+.cid-loop-circular {
+  background-image: url(../svg/duotone/cid-loop-circular.svg);
+}
+
+.cid-loop-square {
+  background-image: url(../svg/duotone/cid-loop-square.svg);
+}
+
+.cid-low-vision {
+  background-image: url(../svg/duotone/cid-low-vision.svg);
+}
+
+.cid-loyalty {
+  background-image: url(../svg/duotone/cid-loyalty.svg);
+}
+
+.cid-madia-skip-backward {
+  background-image: url(../svg/duotone/cid-madia-skip-backward.svg);
+}
+
+.cid-magnifying-glass {
+  background-image: url(../svg/duotone/cid-magnifying-glass.svg);
+}
+
+.cid-mail {
+  background-image: url(../svg/duotone/cid-mail.svg);
+}
+
+.cid-mailbox {
+  background-image: url(../svg/duotone/cid-mailbox.svg);
+}
+
+.cid-map {
+  background-image: url(../svg/duotone/cid-map.svg);
+}
+
+.cid-map-alt {
+  background-image: url(../svg/duotone/cid-map-alt.svg);
+}
+
+.cid-media-eject {
+  background-image: url(../svg/duotone/cid-media-eject.svg);
+}
+
+.cid-media-eject-circle {
+  background-image: url(../svg/duotone/cid-media-eject-circle.svg);
+}
+
+.cid-media-eject-square {
+  background-image: url(../svg/duotone/cid-media-eject-square.svg);
+}
+
+.cid-media-pause-circle {
+  background-image: url(../svg/duotone/cid-media-pause-circle.svg);
+}
+
+.cid-media-pause-square {
+  background-image: url(../svg/duotone/cid-media-pause-square.svg);
+}
+
+.cid-media-play-circle {
+  background-image: url(../svg/duotone/cid-media-play-circle.svg);
+}
+
+.cid-media-play-square {
+  background-image: url(../svg/duotone/cid-media-play-square.svg);
+}
+
+.cid-media-record-circle {
+  background-image: url(../svg/duotone/cid-media-record-circle.svg);
+}
+
+.cid-media-record-square {
+  background-image: url(../svg/duotone/cid-media-record-square.svg);
+}
+
+.cid-media-skip-backward-circle {
+  background-image: url(../svg/duotone/cid-media-skip-backward-circle.svg);
+}
+
+.cid-media-skip-backward-square {
+  background-image: url(../svg/duotone/cid-media-skip-backward-square.svg);
+}
+
+.cid-media-skip-forward {
+  background-image: url(../svg/duotone/cid-media-skip-forward.svg);
+}
+
+.cid-media-skip-forward-circle {
+  background-image: url(../svg/duotone/cid-media-skip-forward-circle.svg);
+}
+
+.cid-media-skip-forward-square {
+  background-image: url(../svg/duotone/cid-media-skip-forward-square.svg);
+}
+
+.cid-media-step-backward {
+  background-image: url(../svg/duotone/cid-media-step-backward.svg);
+}
+
+.cid-media-step-backward-circle {
+  background-image: url(../svg/duotone/cid-media-step-backward-circle.svg);
+}
+
+.cid-media-step-backward-square {
+  background-image: url(../svg/duotone/cid-media-step-backward-square.svg);
+}
+
+.cid-media-step-forward {
+  background-image: url(../svg/duotone/cid-media-step-forward.svg);
+}
+
+.cid-media-step-forward-circle {
+  background-image: url(../svg/duotone/cid-media-step-forward-circle.svg);
+}
+
+.cid-media-step-forward-square {
+  background-image: url(../svg/duotone/cid-media-step-forward-square.svg);
+}
+
+.cid-media-stop-circle {
+  background-image: url(../svg/duotone/cid-media-stop-circle.svg);
+}
+
+.cid-media-stop-square {
+  background-image: url(../svg/duotone/cid-media-stop-square.svg);
+}
+
+.cid-medical-cross {
+  background-image: url(../svg/duotone/cid-medical-cross.svg);
+}
+
+.cid-meh {
+  background-image: url(../svg/duotone/cid-meh.svg);
+}
+
+.cid-memory {
+  background-image: url(../svg/duotone/cid-memory.svg);
+}
+
+.cid-menu {
+  background-image: url(../svg/duotone/cid-menu.svg);
+}
+
+.cid-mic {
+  background-image: url(../svg/duotone/cid-mic.svg);
+}
+
+.cid-mic-alt {
+  background-image: url(../svg/duotone/cid-mic-alt.svg);
+}
+
+.cid-mic-settings {
+  background-image: url(../svg/duotone/cid-mic-settings.svg);
+}
+
+.cid-mic-slash {
+  background-image: url(../svg/duotone/cid-mic-slash.svg);
+}
+
+.cid-microchip {
+  background-image: url(../svg/duotone/cid-microchip.svg);
+}
+
+.cid-microphone {
+  background-image: url(../svg/duotone/cid-microphone.svg);
+}
+
+.cid-microphone-alt {
+  background-image: url(../svg/duotone/cid-microphone-alt.svg);
+}
+
+.cid-microphone-settings {
+  background-image: url(../svg/duotone/cid-microphone-settings.svg);
+}
+
+.cid-microphone-slash {
+  background-image: url(../svg/duotone/cid-microphone-slash.svg);
+}
+
+.cid-minus-circle {
+  background-image: url(../svg/duotone/cid-minus-circle.svg);
+}
+
+.cid-minus-square {
+  background-image: url(../svg/duotone/cid-minus-square.svg);
+}
+
+.cid-mobile {
+  background-image: url(../svg/duotone/cid-mobile.svg);
+}
+
+.cid-mobile-arrow-add {
+  background-image: url(../svg/duotone/cid-mobile-arrow-add.svg);
+}
+
+.cid-mobile-arrow-remove {
+  background-image: url(../svg/duotone/cid-mobile-arrow-remove.svg);
+}
+
+.cid-mobile-check {
+  background-image: url(../svg/duotone/cid-mobile-check.svg);
+}
+
+.cid-mobile-developer-mode {
+  background-image: url(../svg/duotone/cid-mobile-developer-mode.svg);
+}
+
+.cid-mobile-landscape {
+  background-image: url(../svg/duotone/cid-mobile-landscape.svg);
+}
+
+.cid-mobile-lock {
+  background-image: url(../svg/duotone/cid-mobile-lock.svg);
+}
+
+.cid-mobile-minus {
+  background-image: url(../svg/duotone/cid-mobile-minus.svg);
+}
+
+.cid-mobile-plus {
+  background-image: url(../svg/duotone/cid-mobile-plus.svg);
+}
+
+.cid-mobile-portrait {
+  background-image: url(../svg/duotone/cid-mobile-portrait.svg);
+}
+
+.cid-mobile-settings {
+  background-image: url(../svg/duotone/cid-mobile-settings.svg);
+}
+
+.cid-mobile-slash {
+  background-image: url(../svg/duotone/cid-mobile-slash.svg);
+}
+
+.cid-mobile-sms {
+  background-image: url(../svg/duotone/cid-mobile-sms.svg);
+}
+
+.cid-mobile-speaker {
+  background-image: url(../svg/duotone/cid-mobile-speaker.svg);
+}
+
+.cid-mobile-volume {
+  background-image: url(../svg/duotone/cid-mobile-volume.svg);
+}
+
+.cid-mobile-x {
+  background-image: url(../svg/duotone/cid-mobile-x.svg);
+}
+
+.cid-money {
+  background-image: url(../svg/duotone/cid-money.svg);
+}
+
+.cid-money-bill {
+  background-image: url(../svg/duotone/cid-money-bill.svg);
+}
+
+.cid-money-bill-alt {
+  background-image: url(../svg/duotone/cid-money-bill-alt.svg);
+}
+
+.cid-money-bill-alt2 {
+  background-image: url(../svg/duotone/cid-money-bill-alt2.svg);
+}
+
+.cid-monitor {
+  background-image: url(../svg/duotone/cid-monitor.svg);
+}
+
+.cid-mood-bad {
+  background-image: url(../svg/duotone/cid-mood-bad.svg);
+}
+
+.cid-mood-good {
+  background-image: url(../svg/duotone/cid-mood-good.svg);
+}
+
+.cid-mood-very-bad {
+  background-image: url(../svg/duotone/cid-mood-very-bad.svg);
+}
+
+.cid-mood-very-good {
+  background-image: url(../svg/duotone/cid-mood-very-good.svg);
+}
+
+.cid-moon {
+  background-image: url(../svg/duotone/cid-moon.svg);
+}
+
+.cid-more {
+  background-image: url(../svg/duotone/cid-more.svg);
+}
+
+.cid-motorbike {
+  background-image: url(../svg/duotone/cid-motorbike.svg);
+}
+
+.cid-mouse {
+  background-image: url(../svg/duotone/cid-mouse.svg);
+}
+
+.cid-mouse-alt {
+  background-image: url(../svg/duotone/cid-mouse-alt.svg);
+}
+
+.cid-mouth {
+  background-image: url(../svg/duotone/cid-mouth.svg);
+}
+
+.cid-mouth-slash {
+  background-image: url(../svg/duotone/cid-mouth-slash.svg);
+}
+
+.cid-move {
+  background-image: url(../svg/duotone/cid-move.svg);
+}
+
+.cid-movie {
+  background-image: url(../svg/duotone/cid-movie.svg);
+}
+
+.cid-movie-alt {
+  background-image: url(../svg/duotone/cid-movie-alt.svg);
+}
+
+.cid-mug {
+  background-image: url(../svg/duotone/cid-mug.svg);
+}
+
+.cid-mug-tea {
+  background-image: url(../svg/duotone/cid-mug-tea.svg);
+}
+
+.cid-music-note {
+  background-image: url(../svg/duotone/cid-music-note.svg);
+}
+
+.cid-music-note-alt {
+  background-image: url(../svg/duotone/cid-music-note-alt.svg);
+}
+
+.cid-music-note-slash {
+  background-image: url(../svg/duotone/cid-music-note-slash.svg);
+}
+
+.cid-music-video {
+  background-image: url(../svg/duotone/cid-music-video.svg);
+}
+
+.cid-network-check {
+  background-image: url(../svg/duotone/cid-network-check.svg);
+}
+
+.cid-new {
+  background-image: url(../svg/duotone/cid-new.svg);
+}
+
+.cid-new-releases {
+  background-image: url(../svg/duotone/cid-new-releases.svg);
+}
+
+.cid-newspaper {
+  background-image: url(../svg/duotone/cid-newspaper.svg);
+}
+
+.cid-note {
+  background-image: url(../svg/duotone/cid-note.svg);
+}
+
+.cid-note-add {
+  background-image: url(../svg/duotone/cid-note-add.svg);
+}
+
+.cid-notes {
+  background-image: url(../svg/duotone/cid-notes.svg);
+}
+
+.cid-object-group {
+  background-image: url(../svg/duotone/cid-object-group.svg);
+}
+
+.cid-object-ungroup {
+  background-image: url(../svg/duotone/cid-object-ungroup.svg);
+}
+
+.cid-opacity {
+  background-image: url(../svg/duotone/cid-opacity.svg);
+}
+
+.cid-opentype {
+  background-image: url(../svg/duotone/cid-opentype.svg);
+}
+
+.cid-options {
+  background-image: url(../svg/duotone/cid-options.svg);
+}
+
+.cid-oven {
+  background-image: url(../svg/duotone/cid-oven.svg);
+}
+
+.cid-overscan {
+  background-image: url(../svg/duotone/cid-overscan.svg);
+}
+
+.cid-overscan-settings {
+  background-image: url(../svg/duotone/cid-overscan-settings.svg);
+}
+
+.cid-page {
+  background-image: url(../svg/duotone/cid-page.svg);
+}
+
+.cid-page-restore {
+  background-image: url(../svg/duotone/cid-page-restore.svg);
+}
+
+.cid-pageview {
+  background-image: url(../svg/duotone/cid-pageview.svg);
+}
+
+.cid-paint {
+  background-image: url(../svg/duotone/cid-paint.svg);
+}
+
+.cid-paint-bucket {
+  background-image: url(../svg/duotone/cid-paint-bucket.svg);
+}
+
+.cid-paper-plane {
+  background-image: url(../svg/duotone/cid-paper-plane.svg);
+}
+
+.cid-paperclip {
+  background-image: url(../svg/duotone/cid-paperclip.svg);
+}
+
+.cid-paragraph {
+  background-image: url(../svg/duotone/cid-paragraph.svg);
+}
+
+.cid-parking {
+  background-image: url(../svg/duotone/cid-parking.svg);
+}
+
+.cid-paw {
+  background-image: url(../svg/duotone/cid-paw.svg);
+}
+
+.cid-pen {
+  background-image: url(../svg/duotone/cid-pen.svg);
+}
+
+.cid-pen-alt {
+  background-image: url(../svg/duotone/cid-pen-alt.svg);
+}
+
+.cid-pen-fancy {
+  background-image: url(../svg/duotone/cid-pen-fancy.svg);
+}
+
+.cid-pen-nib {
+  background-image: url(../svg/duotone/cid-pen-nib.svg);
+}
+
+.cid-pencil {
+  background-image: url(../svg/duotone/cid-pencil.svg);
+}
+
+.cid-people {
+  background-image: url(../svg/duotone/cid-people.svg);
+}
+
+.cid-people-minus {
+  background-image: url(../svg/duotone/cid-people-minus.svg);
+}
+
+.cid-people-plus {
+  background-image: url(../svg/duotone/cid-people-plus.svg);
+}
+
+.cid-people-x {
+  background-image: url(../svg/duotone/cid-people-x.svg);
+}
+
+.cid-percent {
+  background-image: url(../svg/duotone/cid-percent.svg);
+}
+
+.cid-person {
+  background-image: url(../svg/duotone/cid-person.svg);
+}
+
+.cid-person-female {
+  background-image: url(../svg/duotone/cid-person-female.svg);
+}
+
+.cid-petrol-station {
+  background-image: url(../svg/duotone/cid-petrol-station.svg);
+}
+
+.cid-phone {
+  background-image: url(../svg/duotone/cid-phone.svg);
+}
+
+.cid-phone-bluetooth {
+  background-image: url(../svg/duotone/cid-phone-bluetooth.svg);
+}
+
+.cid-phone-call {
+  background-image: url(../svg/duotone/cid-phone-call.svg);
+}
+
+.cid-phone-call-end {
+  background-image: url(../svg/duotone/cid-phone-call-end.svg);
+}
+
+.cid-phone-callback {
+  background-image: url(../svg/duotone/cid-phone-callback.svg);
+}
+
+.cid-phone-check {
+  background-image: url(../svg/duotone/cid-phone-check.svg);
+}
+
+.cid-phone-forward {
+  background-image: url(../svg/duotone/cid-phone-forward.svg);
+}
+
+.cid-phone-in-talk {
+  background-image: url(../svg/duotone/cid-phone-in-talk.svg);
+}
+
+.cid-phone-lock {
+  background-image: url(../svg/duotone/cid-phone-lock.svg);
+}
+
+.cid-phone-minus {
+  background-image: url(../svg/duotone/cid-phone-minus.svg);
+}
+
+.cid-phone-missed {
+  background-image: url(../svg/duotone/cid-phone-missed.svg);
+}
+
+.cid-phone-paused {
+  background-image: url(../svg/duotone/cid-phone-paused.svg);
+}
+
+.cid-phone-plus {
+  background-image: url(../svg/duotone/cid-phone-plus.svg);
+}
+
+.cid-phone-ring-volume {
+  background-image: url(../svg/duotone/cid-phone-ring-volume.svg);
+}
+
+.cid-phone-settings {
+  background-image: url(../svg/duotone/cid-phone-settings.svg);
+}
+
+.cid-phone-slash {
+  background-image: url(../svg/duotone/cid-phone-slash.svg);
+}
+
+.cid-phone-square {
+  background-image: url(../svg/duotone/cid-phone-square.svg);
+}
+
+.cid-phone-volume {
+  background-image: url(../svg/duotone/cid-phone-volume.svg);
+}
+
+.cid-phone-x {
+  background-image: url(../svg/duotone/cid-phone-x.svg);
+}
+
+.cid-picture-in-picture {
+  background-image: url(../svg/duotone/cid-picture-in-picture.svg);
+}
+
+.cid-picture-in-picture-alt {
+  background-image: url(../svg/duotone/cid-picture-in-picture-alt.svg);
+}
+
+.cid-pin {
+  background-image: url(../svg/duotone/cid-pin.svg);
+}
+
+.cid-pizza {
+  background-image: url(../svg/duotone/cid-pizza.svg);
+}
+
+.cid-plant {
+  background-image: url(../svg/duotone/cid-plant.svg);
+}
+
+.cid-playlist-add {
+  background-image: url(../svg/duotone/cid-playlist-add.svg);
+}
+
+.cid-playlist-add-check {
+  background-image: url(../svg/duotone/cid-playlist-add-check.svg);
+}
+
+.cid-playlist-play {
+  background-image: url(../svg/duotone/cid-playlist-play.svg);
+}
+
+.cid-plus-circle {
+  background-image: url(../svg/duotone/cid-plus-circle.svg);
+}
+
+.cid-plus-one {
+  background-image: url(../svg/duotone/cid-plus-one.svg);
+}
+
+.cid-plus-square {
+  background-image: url(../svg/duotone/cid-plus-square.svg);
+}
+
+.cid-pool {
+  background-image: url(../svg/duotone/cid-pool.svg);
+}
+
+.cid-portable-wifi {
+  background-image: url(../svg/duotone/cid-portable-wifi.svg);
+}
+
+.cid-portable-wifi-off {
+  background-image: url(../svg/duotone/cid-portable-wifi-off.svg);
+}
+
+.cid-power-settings {
+  background-image: url(../svg/duotone/cid-power-settings.svg);
+}
+
+.cid-power-standby {
+  background-image: url(../svg/duotone/cid-power-standby.svg);
+}
+
+.cid-pregnant {
+  background-image: url(../svg/duotone/cid-pregnant.svg);
+}
+
+.cid-print {
+  background-image: url(../svg/duotone/cid-print.svg);
+}
+
+.cid-printer {
+  background-image: url(../svg/duotone/cid-printer.svg);
+}
+
+.cid-printer-slash {
+  background-image: url(../svg/duotone/cid-printer-slash.svg);
+}
+
+.cid-pushchair {
+  background-image: url(../svg/duotone/cid-pushchair.svg);
+}
+
+.cid-qr-code {
+  background-image: url(../svg/duotone/cid-qr-code.svg);
+}
+
+.cid-queue {
+  background-image: url(../svg/duotone/cid-queue.svg);
+}
+
+.cid-queue-add {
+  background-image: url(../svg/duotone/cid-queue-add.svg);
+}
+
+.cid-queue-music {
+  background-image: url(../svg/duotone/cid-queue-music.svg);
+}
+
+.cid-queue-play-next {
+  background-image: url(../svg/duotone/cid-queue-play-next.svg);
+}
+
+.cid-queue-remove {
+  background-image: url(../svg/duotone/cid-queue-remove.svg);
+}
+
+.cid-radio {
+  background-image: url(../svg/duotone/cid-radio.svg);
+}
+
+.cid-railway {
+  background-image: url(../svg/duotone/cid-railway.svg);
+}
+
+.cid-rain {
+  background-image: url(../svg/duotone/cid-rain.svg);
+}
+
+.cid-random {
+  background-image: url(../svg/duotone/cid-random.svg);
+}
+
+.cid-recent-actors {
+  background-image: url(../svg/duotone/cid-recent-actors.svg);
+}
+
+.cid-recycle {
+  background-image: url(../svg/duotone/cid-recycle.svg);
+}
+
+.cid-registered {
+  background-image: url(../svg/duotone/cid-registered.svg);
+}
+
+.cid-reload {
+  background-image: url(../svg/duotone/cid-reload.svg);
+}
+
+.cid-remote-control {
+  background-image: url(../svg/duotone/cid-remote-control.svg);
+}
+
+.cid-remote-settings {
+  background-image: url(../svg/duotone/cid-remote-settings.svg);
+}
+
+.cid-replay {
+  background-image: url(../svg/duotone/cid-replay.svg);
+}
+
+.cid-report {
+  background-image: url(../svg/duotone/cid-report.svg);
+}
+
+.cid-report-slash {
+  background-image: url(../svg/duotone/cid-report-slash.svg);
+}
+
+.cid-resize-both {
+  background-image: url(../svg/duotone/cid-resize-both.svg);
+}
+
+.cid-resize-height {
+  background-image: url(../svg/duotone/cid-resize-height.svg);
+}
+
+.cid-resize-width {
+  background-image: url(../svg/duotone/cid-resize-width.svg);
+}
+
+.cid-restaurant {
+  background-image: url(../svg/duotone/cid-restaurant.svg);
+}
+
+.cid-restaurant-menu {
+  background-image: url(../svg/duotone/cid-restaurant-menu.svg);
+}
+
+.cid-restore {
+  background-image: url(../svg/duotone/cid-restore.svg);
+}
+
+.cid-rights {
+  background-image: url(../svg/duotone/cid-rights.svg);
+}
+
+.cid-room {
+  background-image: url(../svg/duotone/cid-room.svg);
+}
+
+.cid-room-slash {
+  background-image: url(../svg/duotone/cid-room-slash.svg);
+}
+
+.cid-rounded-corner {
+  background-image: url(../svg/duotone/cid-rounded-corner.svg);
+}
+
+.cid-router {
+  background-image: url(../svg/duotone/cid-router.svg);
+}
+
+.cid-rowing {
+  background-image: url(../svg/duotone/cid-rowing.svg);
+}
+
+.cid-rss {
+  background-image: url(../svg/duotone/cid-rss.svg);
+}
+
+.cid-rss-alt {
+  background-image: url(../svg/duotone/cid-rss-alt.svg);
+}
+
+.cid-rss-square {
+  background-image: url(../svg/duotone/cid-rss-square.svg);
+}
+
+.cid-ruble {
+  background-image: url(../svg/duotone/cid-ruble.svg);
+}
+
+.cid-ruble-circle {
+  background-image: url(../svg/duotone/cid-ruble-circle.svg);
+}
+
+.cid-ruble-circle-slash {
+  background-image: url(../svg/duotone/cid-ruble-circle-slash.svg);
+}
+
+.cid-ruble-slash {
+  background-image: url(../svg/duotone/cid-ruble-slash.svg);
+}
+
+.cid-sad {
+  background-image: url(../svg/duotone/cid-sad.svg);
+}
+
+.cid-satelite {
+  background-image: url(../svg/duotone/cid-satelite.svg);
+}
+
+.cid-save {
+  background-image: url(../svg/duotone/cid-save.svg);
+}
+
+.cid-scanner {
+  background-image: url(../svg/duotone/cid-scanner.svg);
+}
+
+.cid-school {
+  background-image: url(../svg/duotone/cid-school.svg);
+}
+
+.cid-scooter {
+  background-image: url(../svg/duotone/cid-scooter.svg);
+}
+
+.cid-screen-deskop-slash {
+  background-image: url(../svg/duotone/cid-screen-deskop-slash.svg);
+}
+
+.cid-screen-desktop {
+  background-image: url(../svg/duotone/cid-screen-desktop.svg);
+}
+
+.cid-screen-horizontal {
+  background-image: url(../svg/duotone/cid-screen-horizontal.svg);
+}
+
+.cid-screen-landscape {
+  background-image: url(../svg/duotone/cid-screen-landscape.svg);
+}
+
+.cid-screen-lock-horizontal {
+  background-image: url(../svg/duotone/cid-screen-lock-horizontal.svg);
+}
+
+.cid-screen-lock-landscape {
+  background-image: url(../svg/duotone/cid-screen-lock-landscape.svg);
+}
+
+.cid-screen-lock-portrait {
+  background-image: url(../svg/duotone/cid-screen-lock-portrait.svg);
+}
+
+.cid-screen-lock-rotation {
+  background-image: url(../svg/duotone/cid-screen-lock-rotation.svg);
+}
+
+.cid-screen-lock-vertical {
+  background-image: url(../svg/duotone/cid-screen-lock-vertical.svg);
+}
+
+.cid-screen-mirroring {
+  background-image: url(../svg/duotone/cid-screen-mirroring.svg);
+}
+
+.cid-screen-portrait {
+  background-image: url(../svg/duotone/cid-screen-portrait.svg);
+}
+
+.cid-screen-rotation {
+  background-image: url(../svg/duotone/cid-screen-rotation.svg);
+}
+
+.cid-screen-smartphone {
+  background-image: url(../svg/duotone/cid-screen-smartphone.svg);
+}
+
+.cid-screen-vertical {
+  background-image: url(../svg/duotone/cid-screen-vertical.svg);
+}
+
+.cid-script {
+  background-image: url(../svg/duotone/cid-script.svg);
+}
+
+.cid-scrubber {
+  background-image: url(../svg/duotone/cid-scrubber.svg);
+}
+
+.cid-sdcard {
+  background-image: url(../svg/duotone/cid-sdcard.svg);
+}
+
+.cid-search {
+  background-image: url(../svg/duotone/cid-search.svg);
+}
+
+.cid-security {
+  background-image: url(../svg/duotone/cid-security.svg);
+}
+
+.cid-select {
+  background-image: url(../svg/duotone/cid-select.svg);
+}
+
+.cid-select-all {
+  background-image: url(../svg/duotone/cid-select-all.svg);
+}
+
+.cid-send {
+  background-image: url(../svg/duotone/cid-send.svg);
+}
+
+.cid-settings {
+  background-image: url(../svg/duotone/cid-settings.svg);
+}
+
+.cid-share {
+  background-image: url(../svg/duotone/cid-share.svg);
+}
+
+.cid-share-all {
+  background-image: url(../svg/duotone/cid-share-all.svg);
+}
+
+.cid-share-alt {
+  background-image: url(../svg/duotone/cid-share-alt.svg);
+}
+
+.cid-share-boxed {
+  background-image: url(../svg/duotone/cid-share-boxed.svg);
+}
+
+.cid-shield {
+  background-image: url(../svg/duotone/cid-shield.svg);
+}
+
+.cid-shield-alt {
+  background-image: url(../svg/duotone/cid-shield-alt.svg);
+}
+
+.cid-shield-check {
+  background-image: url(../svg/duotone/cid-shield-check.svg);
+}
+
+.cid-shield-minus {
+  background-image: url(../svg/duotone/cid-shield-minus.svg);
+}
+
+.cid-shield-plus {
+  background-image: url(../svg/duotone/cid-shield-plus.svg);
+}
+
+.cid-shield-slash {
+  background-image: url(../svg/duotone/cid-shield-slash.svg);
+}
+
+.cid-shield-x {
+  background-image: url(../svg/duotone/cid-shield-x.svg);
+}
+
+.cid-shop-media {
+  background-image: url(../svg/duotone/cid-shop-media.svg);
+}
+
+.cid-shop-media-two {
+  background-image: url(../svg/duotone/cid-shop-media-two.svg);
+}
+
+.cid-short-text {
+  background-image: url(../svg/duotone/cid-short-text.svg);
+}
+
+.cid-shower {
+  background-image: url(../svg/duotone/cid-shower.svg);
+}
+
+.cid-sign-language {
+  background-image: url(../svg/duotone/cid-sign-language.svg);
+}
+
+.cid-signal-cellular-0 {
+  background-image: url(../svg/duotone/cid-signal-cellular-0.svg);
+}
+
+.cid-signal-cellular-1 {
+  background-image: url(../svg/duotone/cid-signal-cellular-1.svg);
+}
+
+.cid-signal-cellular-2 {
+  background-image: url(../svg/duotone/cid-signal-cellular-2.svg);
+}
+
+.cid-signal-cellular-3 {
+  background-image: url(../svg/duotone/cid-signal-cellular-3.svg);
+}
+
+.cid-signal-cellular-4 {
+  background-image: url(../svg/duotone/cid-signal-cellular-4.svg);
+}
+
+.cid-signal-cellular-no-internet-0 {
+  background-image: url(../svg/duotone/cid-signal-cellular-no-internet-0.svg);
+}
+
+.cid-signal-cellular-no-internet-1 {
+  background-image: url(../svg/duotone/cid-signal-cellular-no-internet-1.svg);
+}
+
+.cid-signal-cellular-no-internet-2 {
+  background-image: url(../svg/duotone/cid-signal-cellular-no-internet-2.svg);
+}
+
+.cid-signal-cellular-no-internet-3 {
+  background-image: url(../svg/duotone/cid-signal-cellular-no-internet-3.svg);
+}
+
+.cid-signal-cellular-no-internet-4 {
+  background-image: url(../svg/duotone/cid-signal-cellular-no-internet-4.svg);
+}
+
+.cid-signal-cellular-off {
+  background-image: url(../svg/duotone/cid-signal-cellular-off.svg);
+}
+
+.cid-signpost {
+  background-image: url(../svg/duotone/cid-signpost.svg);
+}
+
+.cid-sim {
+  background-image: url(../svg/duotone/cid-sim.svg);
+}
+
+.cid-sim-slash {
+  background-image: url(../svg/duotone/cid-sim-slash.svg);
+}
+
+.cid-sitemap {
+  background-image: url(../svg/duotone/cid-sitemap.svg);
+}
+
+.cid-slow-motion {
+  background-image: url(../svg/duotone/cid-slow-motion.svg);
+}
+
+.cid-smile {
+  background-image: url(../svg/duotone/cid-smile.svg);
+}
+
+.cid-smile-plus {
+  background-image: url(../svg/duotone/cid-smile-plus.svg);
+}
+
+.cid-smoke {
+  background-image: url(../svg/duotone/cid-smoke.svg);
+}
+
+.cid-smoke-free {
+  background-image: url(../svg/duotone/cid-smoke-free.svg);
+}
+
+.cid-smoke-slash {
+  background-image: url(../svg/duotone/cid-smoke-slash.svg);
+}
+
+.cid-smoking-room {
+  background-image: url(../svg/duotone/cid-smoking-room.svg);
+}
+
+.cid-snow {
+  background-image: url(../svg/duotone/cid-snow.svg);
+}
+
+.cid-snowflake {
+  background-image: url(../svg/duotone/cid-snowflake.svg);
+}
+
+.cid-soccer {
+  background-image: url(../svg/duotone/cid-soccer.svg);
+}
+
+.cid-sofa {
+  background-image: url(../svg/duotone/cid-sofa.svg);
+}
+
+.cid-sorround-sound {
+  background-image: url(../svg/duotone/cid-sorround-sound.svg);
+}
+
+.cid-sort-alpha-down {
+  background-image: url(../svg/duotone/cid-sort-alpha-down.svg);
+}
+
+.cid-sort-alpha-up {
+  background-image: url(../svg/duotone/cid-sort-alpha-up.svg);
+}
+
+.cid-sort-ascending {
+  background-image: url(../svg/duotone/cid-sort-ascending.svg);
+}
+
+.cid-sort-descending {
+  background-image: url(../svg/duotone/cid-sort-descending.svg);
+}
+
+.cid-sort-numeric-down {
+  background-image: url(../svg/duotone/cid-sort-numeric-down.svg);
+}
+
+.cid-sort-numeric-up {
+  background-image: url(../svg/duotone/cid-sort-numeric-up.svg);
+}
+
+.cid-sound {
+  background-image: url(../svg/duotone/cid-sound.svg);
+}
+
+.cid-spa {
+  background-image: url(../svg/duotone/cid-spa.svg);
+}
+
+.cid-space-bar {
+  background-image: url(../svg/duotone/cid-space-bar.svg);
+}
+
+.cid-speak {
+  background-image: url(../svg/duotone/cid-speak.svg);
+}
+
+.cid-speaker {
+  background-image: url(../svg/duotone/cid-speaker.svg);
+}
+
+.cid-speaker-group {
+  background-image: url(../svg/duotone/cid-speaker-group.svg);
+}
+
+.cid-speech {
+  background-image: url(../svg/duotone/cid-speech.svg);
+}
+
+.cid-speech-bubble {
+  background-image: url(../svg/duotone/cid-speech-bubble.svg);
+}
+
+.cid-speech-notes {
+  background-image: url(../svg/duotone/cid-speech-notes.svg);
+}
+
+.cid-speech-notes-slash {
+  background-image: url(../svg/duotone/cid-speech-notes-slash.svg);
+}
+
+.cid-speedometer {
+  background-image: url(../svg/duotone/cid-speedometer.svg);
+}
+
+.cid-spreadsheet {
+  background-image: url(../svg/duotone/cid-spreadsheet.svg);
+}
+
+.cid-star-circle {
+  background-image: url(../svg/duotone/cid-star-circle.svg);
+}
+
+.cid-star-half {
+  background-image: url(../svg/duotone/cid-star-half.svg);
+}
+
+.cid-sticky-note {
+  background-image: url(../svg/duotone/cid-sticky-note.svg);
+}
+
+.cid-storage {
+  background-image: url(../svg/duotone/cid-storage.svg);
+}
+
+.cid-store {
+  background-image: url(../svg/duotone/cid-store.svg);
+}
+
+.cid-stream {
+  background-image: url(../svg/duotone/cid-stream.svg);
+}
+
+.cid-strikethrough {
+  background-image: url(../svg/duotone/cid-strikethrough.svg);
+}
+
+.cid-subtitles {
+  background-image: url(../svg/duotone/cid-subtitles.svg);
+}
+
+.cid-subway {
+  background-image: url(../svg/duotone/cid-subway.svg);
+}
+
+.cid-sun {
+  background-image: url(../svg/duotone/cid-sun.svg);
+}
+
+.cid-swap-horizontal {
+  background-image: url(../svg/duotone/cid-swap-horizontal.svg);
+}
+
+.cid-swap-horizontal-circle {
+  background-image: url(../svg/duotone/cid-swap-horizontal-circle.svg);
+}
+
+.cid-swap-vertical {
+  background-image: url(../svg/duotone/cid-swap-vertical.svg);
+}
+
+.cid-swap-vertical-circle {
+  background-image: url(../svg/duotone/cid-swap-vertical-circle.svg);
+}
+
+.cid-swimming {
+  background-image: url(../svg/duotone/cid-swimming.svg);
+}
+
+.cid-sync {
+  background-image: url(../svg/duotone/cid-sync.svg);
+}
+
+.cid-sync-disabled {
+  background-image: url(../svg/duotone/cid-sync-disabled.svg);
+}
+
+.cid-sync-problem {
+  background-image: url(../svg/duotone/cid-sync-problem.svg);
+}
+
+.cid-tablet {
+  background-image: url(../svg/duotone/cid-tablet.svg);
+}
+
+.cid-tag {
+  background-image: url(../svg/duotone/cid-tag.svg);
+}
+
+.cid-tags {
+  background-image: url(../svg/duotone/cid-tags.svg);
+}
+
+.cid-target {
+  background-image: url(../svg/duotone/cid-target.svg);
+}
+
+.cid-task {
+  background-image: url(../svg/duotone/cid-task.svg);
+}
+
+.cid-taxi {
+  background-image: url(../svg/duotone/cid-taxi.svg);
+}
+
+.cid-temperature {
+  background-image: url(../svg/duotone/cid-temperature.svg);
+}
+
+.cid-temperature-alt {
+  background-image: url(../svg/duotone/cid-temperature-alt.svg);
+}
+
+.cid-temperature-high {
+  background-image: url(../svg/duotone/cid-temperature-high.svg);
+}
+
+.cid-temperature-low {
+  background-image: url(../svg/duotone/cid-temperature-low.svg);
+}
+
+.cid-tennis {
+  background-image: url(../svg/duotone/cid-tennis.svg);
+}
+
+.cid-tennis-ball {
+  background-image: url(../svg/duotone/cid-tennis-ball.svg);
+}
+
+.cid-terminal {
+  background-image: url(../svg/duotone/cid-terminal.svg);
+}
+
+.cid-terrain {
+  background-image: url(../svg/duotone/cid-terrain.svg);
+}
+
+.cid-text {
+  background-image: url(../svg/duotone/cid-text.svg);
+}
+
+.cid-text-direction-ltr {
+  background-image: url(../svg/duotone/cid-text-direction-ltr.svg);
+}
+
+.cid-text-direction-rtl {
+  background-image: url(../svg/duotone/cid-text-direction-rtl.svg);
+}
+
+.cid-text-format-clear {
+  background-image: url(../svg/duotone/cid-text-format-clear.svg);
+}
+
+.cid-text-height {
+  background-image: url(../svg/duotone/cid-text-height.svg);
+}
+
+.cid-text-rotate-vertical {
+  background-image: url(../svg/duotone/cid-text-rotate-vertical.svg);
+}
+
+.cid-text-rotation-down {
+  background-image: url(../svg/duotone/cid-text-rotation-down.svg);
+}
+
+.cid-text-rotation-none {
+  background-image: url(../svg/duotone/cid-text-rotation-none.svg);
+}
+
+.cid-text-rotation-up {
+  background-image: url(../svg/duotone/cid-text-rotation-up.svg);
+}
+
+.cid-text-shapes {
+  background-image: url(../svg/duotone/cid-text-shapes.svg);
+}
+
+.cid-text-size {
+  background-image: url(../svg/duotone/cid-text-size.svg);
+}
+
+.cid-text-square {
+  background-image: url(../svg/duotone/cid-text-square.svg);
+}
+
+.cid-text-strike {
+  background-image: url(../svg/duotone/cid-text-strike.svg);
+}
+
+.cid-text-width {
+  background-image: url(../svg/duotone/cid-text-width.svg);
+}
+
+.cid-thermometer {
+  background-image: url(../svg/duotone/cid-thermometer.svg);
+}
+
+.cid-thermometer-alt {
+  background-image: url(../svg/duotone/cid-thermometer-alt.svg);
+}
+
+.cid-thumb-down {
+  background-image: url(../svg/duotone/cid-thumb-down.svg);
+}
+
+.cid-thumb-up {
+  background-image: url(../svg/duotone/cid-thumb-up.svg);
+}
+
+.cid-timeline {
+  background-image: url(../svg/duotone/cid-timeline.svg);
+}
+
+.cid-timer {
+  background-image: url(../svg/duotone/cid-timer.svg);
+}
+
+.cid-toggle-off {
+  background-image: url(../svg/duotone/cid-toggle-off.svg);
+}
+
+.cid-toggle-on {
+  background-image: url(../svg/duotone/cid-toggle-on.svg);
+}
+
+.cid-toilet {
+  background-image: url(../svg/duotone/cid-toilet.svg);
+}
+
+.cid-toll {
+  background-image: url(../svg/duotone/cid-toll.svg);
+}
+
+.cid-touch-app {
+  background-image: url(../svg/duotone/cid-touch-app.svg);
+}
+
+.cid-trademark {
+  background-image: url(../svg/duotone/cid-trademark.svg);
+}
+
+.cid-traffic {
+  background-image: url(../svg/duotone/cid-traffic.svg);
+}
+
+.cid-train {
+  background-image: url(../svg/duotone/cid-train.svg);
+}
+
+.cid-train-alt {
+  background-image: url(../svg/duotone/cid-train-alt.svg);
+}
+
+.cid-tram {
+  background-image: url(../svg/duotone/cid-tram.svg);
+}
+
+.cid-transfer {
+  background-image: url(../svg/duotone/cid-transfer.svg);
+}
+
+.cid-transfer-within-a-station {
+  background-image: url(../svg/duotone/cid-transfer-within-a-station.svg);
+}
+
+.cid-translate {
+  background-image: url(../svg/duotone/cid-translate.svg);
+}
+
+.cid-trash {
+  background-image: url(../svg/duotone/cid-trash.svg);
+}
+
+.cid-trash-alt {
+  background-image: url(../svg/duotone/cid-trash-alt.svg);
+}
+
+.cid-trash-arrow-up {
+  background-image: url(../svg/duotone/cid-trash-arrow-up.svg);
+}
+
+.cid-trash-sweep {
+  background-image: url(../svg/duotone/cid-trash-sweep.svg);
+}
+
+.cid-trash-x {
+  background-image: url(../svg/duotone/cid-trash-x.svg);
+}
+
+.cid-truck {
+  background-image: url(../svg/duotone/cid-truck.svg);
+}
+
+.cid-tty {
+  background-image: url(../svg/duotone/cid-tty.svg);
+}
+
+.cid-tv {
+  background-image: url(../svg/duotone/cid-tv.svg);
+}
+
+.cid-tv-dvr {
+  background-image: url(../svg/duotone/cid-tv-dvr.svg);
+}
+
+.cid-tv-live {
+  background-image: url(../svg/duotone/cid-tv-live.svg);
+}
+
+.cid-tv-slash {
+  background-image: url(../svg/duotone/cid-tv-slash.svg);
+}
+
+.cid-underline {
+  background-image: url(../svg/duotone/cid-underline.svg);
+}
+
+.cid-universal-access {
+  background-image: url(../svg/duotone/cid-universal-access.svg);
+}
+
+.cid-update {
+  background-image: url(../svg/duotone/cid-update.svg);
+}
+
+.cid-usb {
+  background-image: url(../svg/duotone/cid-usb.svg);
+}
+
+.cid-user {
+  background-image: url(../svg/duotone/cid-user.svg);
+}
+
+.cid-user-female {
+  background-image: url(../svg/duotone/cid-user-female.svg);
+}
+
+.cid-user-female-follow {
+  background-image: url(../svg/duotone/cid-user-female-follow.svg);
+}
+
+.cid-user-female-minus {
+  background-image: url(../svg/duotone/cid-user-female-minus.svg);
+}
+
+.cid-user-female-plus {
+  background-image: url(../svg/duotone/cid-user-female-plus.svg);
+}
+
+.cid-user-female-unfollow {
+  background-image: url(../svg/duotone/cid-user-female-unfollow.svg);
+}
+
+.cid-user-female-x {
+  background-image: url(../svg/duotone/cid-user-female-x.svg);
+}
+
+.cid-user-follow {
+  background-image: url(../svg/duotone/cid-user-follow.svg);
+}
+
+.cid-user-minus {
+  background-image: url(../svg/duotone/cid-user-minus.svg);
+}
+
+.cid-user-secret {
+  background-image: url(../svg/duotone/cid-user-secret.svg);
+}
+
+.cid-user-unfollow {
+  background-image: url(../svg/duotone/cid-user-unfollow.svg);
+}
+
+.cid-vector {
+  background-image: url(../svg/duotone/cid-vector.svg);
+}
+
+.cid-verical-split {
+  background-image: url(../svg/duotone/cid-verical-split.svg);
+}
+
+.cid-vertical-align-bottom {
+  background-image: url(../svg/duotone/cid-vertical-align-bottom.svg);
+}
+
+.cid-vertical-align-center {
+  background-image: url(../svg/duotone/cid-vertical-align-center.svg);
+}
+
+.cid-vertical-align-top {
+  background-image: url(../svg/duotone/cid-vertical-align-top.svg);
+}
+
+.cid-video {
+  background-image: url(../svg/duotone/cid-video.svg);
+}
+
+.cid-video-label {
+  background-image: url(../svg/duotone/cid-video-label.svg);
+}
+
+.cid-video-library {
+  background-image: url(../svg/duotone/cid-video-library.svg);
+}
+
+.cid-video-missed {
+  background-image: url(../svg/duotone/cid-video-missed.svg);
+}
+
+.cid-video-plus {
+  background-image: url(../svg/duotone/cid-video-plus.svg);
+}
+
+.cid-video-slash {
+  background-image: url(../svg/duotone/cid-video-slash.svg);
+}
+
+.cid-video-switch {
+  background-image: url(../svg/duotone/cid-video-switch.svg);
+}
+
+.cid-videogame {
+  background-image: url(../svg/duotone/cid-videogame.svg);
+}
+
+.cid-view-agenda {
+  background-image: url(../svg/duotone/cid-view-agenda.svg);
+}
+
+.cid-view-array {
+  background-image: url(../svg/duotone/cid-view-array.svg);
+}
+
+.cid-view-carousel {
+  background-image: url(../svg/duotone/cid-view-carousel.svg);
+}
+
+.cid-view-column {
+  background-image: url(../svg/duotone/cid-view-column.svg);
+}
+
+.cid-view-module {
+  background-image: url(../svg/duotone/cid-view-module.svg);
+}
+
+.cid-view-quilt {
+  background-image: url(../svg/duotone/cid-view-quilt.svg);
+}
+
+.cid-view-stream {
+  background-image: url(../svg/duotone/cid-view-stream.svg);
+}
+
+.cid-voice {
+  background-image: url(../svg/duotone/cid-voice.svg);
+}
+
+.cid-voice-over-record {
+  background-image: url(../svg/duotone/cid-voice-over-record.svg);
+}
+
+.cid-voice-over-slash {
+  background-image: url(../svg/duotone/cid-voice-over-slash.svg);
+}
+
+.cid-voicemail {
+  background-image: url(../svg/duotone/cid-voicemail.svg);
+}
+
+.cid-volume {
+  background-image: url(../svg/duotone/cid-volume.svg);
+}
+
+.cid-volume-high {
+  background-image: url(../svg/duotone/cid-volume-high.svg);
+}
+
+.cid-volume-low {
+  background-image: url(../svg/duotone/cid-volume-low.svg);
+}
+
+.cid-volume-off {
+  background-image: url(../svg/duotone/cid-volume-off.svg);
+}
+
+.cid-vote {
+  background-image: url(../svg/duotone/cid-vote.svg);
+}
+
+.cid-wallet {
+  background-image: url(../svg/duotone/cid-wallet.svg);
+}
+
+.cid-wallpaper {
+  background-image: url(../svg/duotone/cid-wallpaper.svg);
+}
+
+.cid-warning {
+  background-image: url(../svg/duotone/cid-warning.svg);
+}
+
+.cid-watch {
+  background-image: url(../svg/duotone/cid-watch.svg);
+}
+
+.cid-waves {
+  background-image: url(../svg/duotone/cid-waves.svg);
+}
+
+.cid-wc {
+  background-image: url(../svg/duotone/cid-wc.svg);
+}
+
+.cid-webcloud {
+  background-image: url(../svg/duotone/cid-webcloud.svg);
+}
+
+.cid-weightlifitng {
+  background-image: url(../svg/duotone/cid-weightlifitng.svg);
+}
+
+.cid-weights {
+  background-image: url(../svg/duotone/cid-weights.svg);
+}
+
+.cid-wheelchair {
+  background-image: url(../svg/duotone/cid-wheelchair.svg);
+}
+
+.cid-widgets {
+  background-image: url(../svg/duotone/cid-widgets.svg);
+}
+
+.cid-wifi {
+  background-image: url(../svg/duotone/cid-wifi.svg);
+}
+
+.cid-wifi-lock {
+  background-image: url(../svg/duotone/cid-wifi-lock.svg);
+}
+
+.cid-wifi-signal-0 {
+  background-image: url(../svg/duotone/cid-wifi-signal-0.svg);
+}
+
+.cid-wifi-signal-1 {
+  background-image: url(../svg/duotone/cid-wifi-signal-1.svg);
+}
+
+.cid-wifi-signal-2 {
+  background-image: url(../svg/duotone/cid-wifi-signal-2.svg);
+}
+
+.cid-wifi-signal-3 {
+  background-image: url(../svg/duotone/cid-wifi-signal-3.svg);
+}
+
+.cid-wifi-signal-4 {
+  background-image: url(../svg/duotone/cid-wifi-signal-4.svg);
+}
+
+.cid-wifi-signal-lock-0 {
+  background-image: url(../svg/duotone/cid-wifi-signal-lock-0.svg);
+}
+
+.cid-wifi-signal-lock-1 {
+  background-image: url(../svg/duotone/cid-wifi-signal-lock-1.svg);
+}
+
+.cid-wifi-signal-lock-2 {
+  background-image: url(../svg/duotone/cid-wifi-signal-lock-2.svg);
+}
+
+.cid-wifi-signal-lock-3 {
+  background-image: url(../svg/duotone/cid-wifi-signal-lock-3.svg);
+}
+
+.cid-wifi-signal-lock-4 {
+  background-image: url(../svg/duotone/cid-wifi-signal-lock-4.svg);
+}
+
+.cid-wifi-signal-off {
+  background-image: url(../svg/duotone/cid-wifi-signal-off.svg);
+}
+
+.cid-window {
+  background-image: url(../svg/duotone/cid-window.svg);
+}
+
+.cid-window-maximize {
+  background-image: url(../svg/duotone/cid-window-maximize.svg);
+}
+
+.cid-window-minimize {
+  background-image: url(../svg/duotone/cid-window-minimize.svg);
+}
+
+.cid-window-restore {
+  background-image: url(../svg/duotone/cid-window-restore.svg);
+}
+
+.cid-wrap-text {
+  background-image: url(../svg/duotone/cid-wrap-text.svg);
+}
+
+.cid-x-circle {
+  background-image: url(../svg/duotone/cid-x-circle.svg);
+}
+
+.cid-x-square {
+  background-image: url(../svg/duotone/cid-x-square.svg);
+}
+
+.cid-yen {
+  background-image: url(../svg/duotone/cid-yen.svg);
+}
+
+.cid-yen-circle {
+  background-image: url(../svg/duotone/cid-yen-circle.svg);
+}
+
+.cid-yen-circle-slash {
+  background-image: url(../svg/duotone/cid-yen-circle-slash.svg);
+}
+
+.cid-yen-slash {
+  background-image: url(../svg/duotone/cid-yen-slash.svg);
+}
+
+.cid-zoom {
+  background-image: url(../svg/duotone/cid-zoom.svg);
+}
+
+.cid-zoom-in {
+  background-image: url(../svg/duotone/cid-zoom-in.svg);
+}
+
+.cid-zoom-out {
+  background-image: url(../svg/duotone/cid-zoom-out.svg);
+}
+/*# sourceMappingURL=duotone.css.map */

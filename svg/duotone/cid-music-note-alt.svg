@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:currentColor}.cls-2{opacity:.25}
+    </style>
+  </defs>
+  <ellipse cx="148" cy="388" class="cls-1" rx="92" ry="76"/>
+  <polygon points="56 389.52 120 374.52 120 196.21 56 208 56 389.52" class="cls-2"/>
+  <polygon points="296 330.52 360 326.52 360 152 296 163.79 296 330.52" class="cls-2"/>
+  <polygon points="296 59.79 120 92.21 56 104 56 120 56 208 120 196.21 296 163.79 360 152 360 72 360 48 296 59.79" class="cls-1"/>
+  <ellipse cx="388" cy="332" class="cls-1" rx="92" ry="76"/>
+</svg>

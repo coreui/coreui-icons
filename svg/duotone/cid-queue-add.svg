@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor;opacity:.25}
+    </style>
+  </defs>
+  <path d="M64,64H344V24H40A16,16,0,0,0,24,40V344H64Z" class="cls-1"/>
+  <path d="M96,112V416h40V136H416V96H112A16,16,0,0,0,96,112Z" class="cls-1"/>
+  <path fill="currentColor" d="M472,168H184a16,16,0,0,0-16,16V472a16,16,0,0,0,16,16H472a16,16,0,0,0,16-16V184c0-.25,0-.48,0-.73A16,16,0,0,0,472,168Z"/>
+  <polygon fill="#fff" points="308 424 356 424 356 356 424 356 424 308 356 308 356 240 308 240 308 308 240 308 240 356 308 356 308 424"/>
+</svg>

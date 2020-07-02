@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="64" height="42" x="360" y="75" class="cls-1"/>
+  <rect width="64" height="42" x="360" y="155" class="cls-1"/>
+  <rect width="64" height="42" x="360" y="235" class="cls-1"/>
+  <rect width="64" height="42" x="360" y="315" class="cls-1"/>
+  <rect width="64" height="42" x="360" y="395" class="cls-1"/>
+  <rect width="64" height="42" x="88" y="75" class="cls-1"/>
+  <rect width="64" height="42" x="88" y="155" class="cls-1"/>
+  <rect width="64" height="42" x="88" y="235" class="cls-1"/>
+  <rect width="64" height="42" x="88" y="315" class="cls-1"/>
+  <rect width="64" height="42" x="88" y="395" class="cls-1"/>
+  <polygon fill="currentColor" points="152 16 152 75 152 117 152 155 152 197 152 235 152 277 152 315 152 357 152 395 152 437 152 496 360 496 360 437 360 395 360 357 360 315 360 277 360 235 360 197 360 155 360 117 360 75 360 16 152 16" opacity=".25"/>
+</svg>

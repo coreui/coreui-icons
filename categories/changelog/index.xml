@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>changelog on CoreUI Icons</title>
+    <link>https://icons.coreui.io/categories/changelog/</link>
+    <description>Recent content in changelog on CoreUI Icons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2020 01:29:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://icons.coreui.io/categories/changelog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>v3.0.0-rc.0</title>
+      <link>https://icons.coreui.io/changelog/v3.0.0-rc.0/</link>
+      <pubDate>Mon, 27 Jan 2020 01:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v3.0.0-rc.0/</guid>
+      <description> First release candidate! 💪  </description>
+    </item>
+    
+    <item>
+      <title>v3.0.0-beta.0</title>
+      <link>https://icons.coreui.io/changelog/v3.0.0-beta.0/</link>
+      <pubDate>Thu, 21 Nov 2019 01:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v3.0.0-beta.0/</guid>
+      <description> First production-ready release of version 3! 💪  </description>
+    </item>
+    
+    <item>
+      <title>v2.1.14</title>
+      <link>https://icons.coreui.io/changelog/v2.1.14/</link>
+      <pubDate>Fri, 21 Jun 2019 10:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.14/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui-plugin-chartjs-custom-tooltips&lt;/code&gt; to &lt;code&gt;^1.3.1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;^2.1.14&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;add: &lt;code&gt;@babel/plugin-proposal-throw-expressions&lt;/code&gt; to &lt;code&gt;^7.2.0&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.12</title>
+      <link>https://icons.coreui.io/changelog/v2.1.12/</link>
+      <pubDate>Fri, 22 Feb 2019 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.12/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;fix(advanced-forms): broken DateRangePicker layout (v3 css breaking changes)&lt;/li&gt;
+&lt;li&gt;refactor(advanced-forms): add SingleDatePicker example&lt;/li&gt;
+&lt;li&gt;chore: move .stylelintrc to ./ dir&lt;/li&gt;
+&lt;li&gt;fix: form-validation-state missing icons&lt;/li&gt;
+&lt;li&gt;fix(basic-forms): add missing form-group&lt;/li&gt;
+&lt;li&gt;refactor(fullcalendar): fc v3 layout style tweaks&lt;/li&gt;
+&lt;li&gt;chore(build/vendors): removes hash tag from urls in css files&lt;/li&gt;
+&lt;li&gt;refactor(forms): add &lt;code&gt;autocomplete&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;fix(collapse): add &lt;code&gt;mb-0&lt;/code&gt; to accordion cards&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;^2.1.7&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;bootstrap&lt;/code&gt; to &lt;code&gt;^4.3.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.11</title>
+      <link>https://icons.coreui.io/changelog/v2.1.11/</link>
+      <pubDate>Thu, 17 Jan 2019 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.11/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;feat(spinners): add bootstrap 4.2 spinners&lt;/li&gt;
+&lt;li&gt;feat(toasts): add bootstrap 4.2 toasts&lt;/li&gt;
+&lt;li&gt;fix(collapse): add &lt;code&gt;mb-0&lt;/code&gt; to accordion cards&lt;/li&gt;
+&lt;li&gt;refactor(forms): add &lt;code&gt;autocomplete&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;^2.1.6&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;bootstrap&lt;/code&gt; to &lt;code&gt;^4.2.1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.10</title>
+      <link>https://icons.coreui.io/changelog/v2.1.10/</link>
+      <pubDate>Wed, 28 Nov 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.10/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;fix: update &lt;code&gt;nodemon&lt;/code&gt; to &lt;code&gt;1.18.7&lt;/code&gt; (vulnerability removed)&lt;/li&gt;
+&lt;li&gt;fix: update &lt;code&gt;npm-run-all&lt;/code&gt; to &lt;code&gt;^4.1.5&lt;/code&gt; (vulnerability removed)&lt;/li&gt;
+&lt;li&gt;fix(cards): smooth collapse card - thanks @MartijnBastiaansen #378&lt;/li&gt;
+&lt;li&gt;fix(header): migrate &lt;code&gt;.divider&lt;/code&gt; to &lt;code&gt;.dropdown-divider&lt;/code&gt; - thanks @vanam #406&lt;/li&gt;
+&lt;li&gt;chore: build/change-version cleanup&lt;/li&gt;
+&lt;li&gt;docs(readme): fix broken hyperlinks to 6 versions&lt;/li&gt;
+&lt;li&gt;refactor(modals): buttons margin&lt;/li&gt;
+&lt;li&gt;feat(switches): add disabled switch example&lt;/li&gt;
+&lt;li&gt;fix(switches): missing an ending semicolon&lt;/li&gt;
+&lt;li&gt;fix(switches): add missing &lt;code&gt;&amp;lt;tr&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;fix(pug): cross-platform use &lt;code&gt;path.sep&lt;/code&gt; instead of &lt;code&gt;/&lt;/code&gt; - thanks @vasilevich&lt;/li&gt;
+&lt;li&gt;refactor: brand buttons&lt;/li&gt;
+&lt;li&gt;refactor: basic forms add autocomplete&lt;/li&gt;
+&lt;li&gt;refactor: invoice buttons add &lt;code&gt;d-print-none&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;^2.1.3&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.9</title>
+      <link>https://icons.coreui.io/changelog/v2.1.9/</link>
+      <pubDate>Tue, 27 Nov 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.9/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;fix: devDependencies security issues (event-stream, flatmap-stream)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;chore: dependencies update&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;update &lt;code&gt;npm-run-all&lt;/code&gt; to &lt;code&gt;^4.1.5&lt;/code&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;reinstall &lt;code&gt;nodemon&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;npm uninstall nodemon
+npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;^2.1.2&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.8</title>
+      <link>https://icons.coreui.io/changelog/v2.1.8/</link>
+      <pubDate>Mon, 05 Nov 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.8/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;feat(switches): add disabled switch example&lt;/li&gt;
+&lt;li&gt;fix(switches): missing an ending semicolon&lt;/li&gt;
+&lt;li&gt;fix(switches): add missing &lt;code&gt;&amp;lt;tr&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;2.0.26&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.7</title>
+      <link>https://icons.coreui.io/changelog/v2.1.7/</link>
+      <pubDate>Thu, 25 Oct 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.7/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;fix(pug): crossplatform use &lt;code&gt;path.sep&lt;/code&gt; instead of &lt;code&gt;/&lt;/code&gt; - thanks @vasilevich&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;2.0.21&lt;/code&gt;
+
+&lt;ul&gt;
+&lt;li&gt;feat(sidebar): mobile clickout behaviour&lt;/li&gt;
+&lt;li&gt;fix(layout): sidebar on mobile issue &lt;a href=&#34;https://github.com/coreui/coreui-angular/issues/23&#34;&gt;#23&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: sidebar, sidebar-minimizer &lt;code&gt;rtl&lt;/code&gt; ie issues, tweaks&lt;/li&gt;
+&lt;li&gt;refactor(sidebar.js): ps minor cleanup
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.6</title>
+      <link>https://icons.coreui.io/changelog/v2.1.6/</link>
+      <pubDate>Tue, 16 Oct 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.6/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;fix(cards): smooth collapse card - thanks @MartijnBastiaansen #378&lt;/li&gt;
+&lt;li&gt;fix(header): migrate &lt;code&gt;.divider&lt;/code&gt; to &lt;code&gt;.dropdown-divider&lt;/code&gt; - thanks @vanam #406&lt;/li&gt;
+&lt;li&gt;chore: build/change-version cleanup&lt;/li&gt;
+&lt;li&gt;docs(readme): fix broken hyperlinks to 6 versions&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;2.0.19&lt;/code&gt;
+
+&lt;ul&gt;
+&lt;li&gt;fix: &lt;code&gt;transparent&lt;/code&gt; is not a valid rgb color ie issue&lt;/li&gt;
+&lt;li&gt;fix(card): rtl for card-header icon margins&lt;/li&gt;
+&lt;li&gt;fix(sidebar): rtl for sidebar-minimizer icon&lt;/li&gt;
+&lt;li&gt;fix(breadcrumb): rtl padding&lt;/li&gt;
+&lt;li&gt;fix(card): rtl float for card-header-actions&lt;/li&gt;
+&lt;li&gt;fix(sidebar): rtl ps scrollbar issue temp fix/refactor&lt;/li&gt;
+&lt;li&gt;feat(sidebar) badge margins for nav-dropdown-toggle&lt;/li&gt;
+&lt;li&gt;fix(scss): add missing light-blue color variable&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.5</title>
+      <link>https://icons.coreui.io/changelog/v2.1.5/</link>
+      <pubDate>Mon, 01 Oct 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.5/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;2.0.12&lt;/code&gt; fixes some IE11 and &lt;code&gt;rtl&lt;/code&gt; issues&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.4</title>
+      <link>https://icons.coreui.io/changelog/v2.1.4/</link>
+      <pubDate>Fri, 28 Sep 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Feat(switches): add missing &lt;code&gt;disabled&lt;/code&gt; switch example&lt;/li&gt;
+&lt;li&gt;Update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;2.0.11&lt;/code&gt; fixes some IE11 and &lt;code&gt;rtl&lt;/code&gt; issues&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.3</title>
+      <link>https://icons.coreui.io/changelog/v2.1.3/</link>
+      <pubDate>Tue, 25 Sep 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.3/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Feat(basic-forms): add missing &lt;code&gt;date-input&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;2.0.9&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.2</title>
+      <link>https://icons.coreui.io/changelog/v2.1.2/</link>
+      <pubDate>Wed, 05 Sep 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Update: &lt;code&gt;@coreui/coreui-pro&lt;/code&gt; to &lt;code&gt;^2.0.7&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Update: &lt;code&gt;bootstrap&lt;/code&gt; to &lt;code&gt;^4.1.3&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.1.1</title>
+      <link>https://icons.coreui.io/changelog/v2.1.1/</link>
+      <pubDate>Mon, 13 Aug 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.1.1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Feat: Add pug support&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Update: @coreui/coreui-icons to 0.3.0&lt;/li&gt;
+&lt;li&gt;Update: @coreui/coreui to 2.0.3&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>v2.0.0</title>
+      <link>https://icons.coreui.io/changelog/v2.0.0/</link>
+      <pubDate>Wed, 09 May 2018 18:29:11 +0100</pubDate>
+      
+      <guid>https://icons.coreui.io/changelog/v2.0.0/</guid>
+      <description> Feat: Initial 2.x.x release  </description>
+    </item>
+    
+  </channel>
+</rss>

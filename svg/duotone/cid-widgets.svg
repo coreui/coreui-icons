@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor;opacity:.25}
+    </style>
+  </defs>
+  <rect width="184" height="184" x="16" y="312" class="cls-1"/>
+  <rect width="184" height="184" x="16" y="64" class="cls-1"/>
+  <rect width="184" height="184" x="272" y="312" class="cls-1"/>
+  <rect width="184" height="184" x="271.481" y="64.52" fill="currentColor" transform="rotate(-45 363.48 156.52)"/>
+</svg>

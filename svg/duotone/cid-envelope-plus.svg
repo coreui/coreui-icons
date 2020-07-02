@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{opacity:.25}.cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <g class="cls-1">
+    <circle cx="392" cy="392" r="104" class="cls-2"/>
+  </g>
+  <polygon points="32 117 32 299 153.333 208 32 117" class="cls-2"/>
+  <path d="M292,258a59.9994,59.9994,0,0,1-72,0l-36.6667-27.5L32,344v40H252.2319A140.0078,140.0078,0,0,1,480,283.104V117Z" class="cls-2"/>
+  <g class="cls-1">
+    <path d="M241.6,229.2a24,24,0,0,0,28.8,0L480,72V32H32V72Z" class="cls-2"/>
+  </g>
+  <polygon points="375.143 449.143 411.143 449.143 411.143 410 450.286 410 450.286 374 411.143 374 411.143 334.857 375.143 334.857 375.143 374 336 374 336 410 375.143 410 375.143 449.143" class="cls-2"/>
+</svg>

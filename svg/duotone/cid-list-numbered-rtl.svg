@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{opacity:.25}.cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <g class="cls-1">
+    <rect width="288" height="64" x="40" y="64" class="cls-2"/>
+  </g>
+  <g class="cls-1">
+    <rect width="288" height="64" x="40" y="224" class="cls-2"/>
+  </g>
+  <g class="cls-1">
+    <rect width="288" height="64" x="40" y="384" class="cls-2"/>
+  </g>
+  <polygon points="403 160 445 160 445 27 368 27 368 69 403 69 403 160" class="cls-2"/>
+  <polygon points="423.944 275 461 231.769 461 179 368 179 368 221 414.913 221 371 272.231 371 317 464 317 464 275 423.944 275" class="cls-2"/>
+  <polygon points="376 381 419 381 419 395 376 395 376 437 419 437 419 451 376 451 376 493 461 493 461 437 461 424 461 339 376 339 376 381" class="cls-2"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:none}.cls-2,.cls-3{fill:currentColor}.cls-3{opacity:.25}
+    </style>
+  </defs>
+  <rect width="40" height="40" x="132" y="312" class="cls-1"/>
+  <rect width="40" height="40" x="292" y="392" class="cls-1"/>
+  <rect width="40" height="40" x="212" y="312" class="cls-1"/>
+  <rect width="40" height="40" x="132" y="392" class="cls-1"/>
+  <polygon points="166.084 248 192.145 221.567 152 181.422 152 248 166.084 248" class="cls-1"/>
+  <rect width="40" height="40" x="212" y="392" class="cls-1"/>
+  <polygon points="16 16 16 45.422 32 61.422 32 61.422 152 181.422 152 181.422 192.145 221.567 192.145 221.567 466.577 496 496 496 496 466.457 45.709 16 16 16" class="cls-2"/>
+  <polygon points="312 121 291.296 121 246.904 166.026 312 231.035 312 121" class="cls-2"/>
+  <polygon points="456.723 121 328.584 247.613 480 399.029 480 121 456.723 121" class="cls-3"/>
+  <polygon points="152 32 112.701 32 152 71.247 152 32" class="cls-3"/>
+  <polygon points="265.578 295 192.145 221.567 166.084 248 152 248 152 181.422 32 61.422 32 480 450.577 480 389 418.423 265.578 295" class="cls-3"/>
+  <rect width="40" height="40" x="212" y="312" class="cls-2"/>
+  <rect width="40" height="40" x="292" y="392" class="cls-2"/>
+  <rect width="40" height="40" x="132" y="312" class="cls-2"/>
+  <rect width="40" height="40" x="132" y="392" class="cls-2"/>
+  <rect width="40" height="40" x="212" y="392" class="cls-2"/>
+  <polygon points="456.723 121 328.193 248 480 248 480 121 456.723 121" class="cls-2"/>
+</svg>

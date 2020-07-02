@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="240" height="152" x="136" y="264" fill="none"/>
+  <path d="M64,480a16,16,0,0,0,16,16H432a16,16,0,0,0,16-16V200H64Zm72-216H376V416H136Z" class="cls-2"/>
+  <path fill="currentColor" d="M432,56H80A16,16,0,0,0,64,72v96H448V72A16,16,0,0,0,432,56Z" opacity=".25"/>
+  <rect width="32" height="32" x="360" y="96" class="cls-2"/>
+  <rect width="32" height="32" x="120" y="96" class="cls-2"/>
+  <rect width="32" height="32" x="184" y="96" class="cls-2"/>
+  <rect width="32" height="32" x="248" y="96" class="cls-2"/>
+</svg>

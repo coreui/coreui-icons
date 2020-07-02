@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="448" height="448" x="32" y="32" fill="currentColor" opacity=".25" rx="24"/>
+  <rect width="32" height="32" x="184" y="408" class="cls-2"/>
+  <rect width="32" height="32" x="128" y="240" class="cls-2"/>
+  <rect width="32" height="32" x="128" y="72" class="cls-2"/>
+  <polygon points="72 88 72 104 72 128 72 160 72 184 72 216 72 240 72 272 72 296 72 328 72 352 72 384 72 408 72 424 72 440 104 440 104 424 104 408 104 384 104 352 104 328 104 296 104 272 104 240 104 216 104 184 104 160 104 128 104 104 104 88 104 72 72 72 72 88" class="cls-2"/>
+  <rect width="32" height="32" x="128" y="408" class="cls-2"/>
+  <rect width="32" height="32" x="240" y="352" class="cls-2"/>
+  <rect width="32" height="32" x="240" y="296" class="cls-2"/>
+  <polygon points="240 424 240 440 272 440 272 424 272 408 240 408 240 424" class="cls-2"/>
+  <rect width="32" height="32" x="184" y="72" class="cls-2"/>
+  <rect width="32" height="32" x="184" y="240" class="cls-2"/>
+  <rect width="32" height="32" x="240" y="240" class="cls-2"/>
+  <rect width="32" height="32" x="240" y="184" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="128" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="184" class="cls-2"/>
+  <polygon points="408 240 408 272 424 272 440 272 440 240 424 240 408 240" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="72" class="cls-2"/>
+  <rect width="32" height="32" x="352" y="240" class="cls-2"/>
+  <rect width="32" height="32" x="296" y="240" class="cls-2"/>
+  <rect width="32" height="32" x="296" y="72" class="cls-2"/>
+  <rect width="32" height="32" x="296" y="408" class="cls-2"/>
+  <polygon points="240 88 240 104 272 104 272 88 272 72 240 72 240 88" class="cls-2"/>
+  <rect width="32" height="32" x="352" y="408" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="408" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="352" class="cls-2"/>
+  <rect width="32" height="32" x="352" y="72" class="cls-2"/>
+  <rect width="32" height="32" x="408" y="296" class="cls-2"/>
+  <rect width="32" height="32" x="240" y="128" class="cls-2"/>
+</svg>

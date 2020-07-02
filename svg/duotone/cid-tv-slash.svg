@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}.cls-4{fill:#fff}
+    </style>
+  </defs>
+  <polygon fill="none" points="126.06 16 96.68 16 168.78 88 198.06 88 126.06 16"/>
+  <polygon points="318.56 16 256.25 78.31 193.94 16 126.06 16 198.06 88 255 88 264.5 88 314.44 88 386.44 16 318.56 16" class="cls-2"/>
+  <g opacity=".25">
+    <path d="M32,88a16,16,0,0,0-16,16V392a16,16,0,0,0,16,16H378.58L58.58,88Z" class="cls-2"/>
+    <path d="M480,88H168.78L316.57,235.6h0L487.23,406.26A16,16,0,0,0,496,392V104A16,16,0,0,0,480,88Z" class="cls-2"/>
+  </g>
+  <rect width="192" height="64" x="160" y="432" class="cls-2"/>
+  <polygon points="437.56 408 117.68 88 45.71 16 16 16 16 45.42 58.58 88 378.58 408 466.58 496 496 496 496 466.46 437.56 408" class="cls-2"/>
+  <polygon points="96.68 16 88 7.33 88 16 96.68 16" class="cls-4"/>
+  <polygon points="45.98 16 45.71 16 117.68 88 117.98 88 45.98 16" class="cls-4"/>
+  <polygon points="437.98 408 437.56 408 496 466.46 496 466.02 437.98 408" class="cls-4"/>
+  <path d="M29.73-.24l-.13.12L45.71,16H46Z" class="cls-4"/>
+</svg>

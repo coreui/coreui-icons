@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="480" height="389.54" x="16" y="64" class="cls-2" opacity=".25" rx="8"/>
+  <rect width="152" height="48" x="288" y="144" class="cls-2"/>
+  <rect width="152" height="48" x="288" y="232" class="cls-2"/>
+  <path d="M248,368H74V332.56A32.64,32.64,0,0,1,89.08,305.1l38.34-24.62L111.29,237V187.89c0-27.13,22.25-49.12,49.71-49.12h0c27.46,0,49.71,22,49.71,49.12V237L193.06,279.5l39.86,25.6A32.64,32.64,0,0,1,248,332.56Z" class="cls-2"/>
+</svg>

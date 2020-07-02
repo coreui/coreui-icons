@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:currentColor}.cls-1{opacity:.25}
+    </style>
+  </defs>
+  <circle cx="116" cy="368" r="100" class="cls-1"/>
+  <circle cx="396" cy="368" r="100" class="cls-1"/>
+  <circle cx="324" cy="92" r="36" class="cls-2"/>
+  <path d="M334.5171,240.1538l.1069.11A29.1674,29.1674,0,0,0,355.3691,249H400V207H360.8994L259.343,101.5032l-4.7991,5.0407L141.76,219.3192,235,316.5747V404h42V311.3452a29.19,29.19,0,0,0-8.3594-20.3706l-47.3323-49.3708,58.3928-58.3928Z" class="cls-2"/>
+</svg>

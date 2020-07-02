@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on CoreUI Icons</title>
+    <link>https://icons.coreui.io/about/</link>
+    <description>Recent content in Abouts on CoreUI Icons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://icons.coreui.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cookie Policy</title>
+      <link>https://icons.coreui.io/about/legal/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/about/legal/cookies/</guid>
+      <description>Cookie Policy This Cookie Policy takes effect on May 25, 2018.
+Information about our use of Cookies and similar technologies We want to make sure you understand how cookies and other similar technologies are used by creativeLabs on our websites (https://coreui.io) and (https://genesisui.com).These technologies have several purposes. Our website uses cookies and similar technologies to distinguish you from other users of our website. This helps usto provide you with a good experience when you browse our website and also allows us to improve our Site.</description>
+    </item>
+    
+    <item>
+      <title>Hire Us</title>
+      <link>https://icons.coreui.io/about/hire-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/about/hire-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://icons.coreui.io/about/legal/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/about/legal/privacy/</guid>
+      <description>Privacy Policy This Privacy Policy was published on May 24, 2018 and will take effect on May 25, 2018.
+creativeLabs (&amp;ldquo;we&amp;rdquo; or &amp;ldquo;us&amp;rdquo;) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by creativeLabs when you use the our websites (https://coreui.io/ and https://genesisui.com/), how the information will be used, and how you can control the collection, correction and/or deletion of information.</description>
+    </item>
+    
+  </channel>
+</rss>

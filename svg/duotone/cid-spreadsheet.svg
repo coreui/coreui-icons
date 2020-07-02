@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="480" height="392" x="16" y="60" class="cls-2" opacity=".25"/>
+  <rect width="216" height="36" x="224" y="114" class="cls-2"/>
+  <rect width="216" height="36" x="224" y="354" class="cls-2"/>
+  <rect width="216" height="36" x="224" y="274" class="cls-2"/>
+  <rect width="104" height="36" x="72" y="114" class="cls-2"/>
+  <rect width="216" height="36" x="224" y="194" class="cls-2"/>
+  <rect width="104" height="36" x="72" y="354" class="cls-2"/>
+  <rect width="104" height="36" x="72" y="274" class="cls-2"/>
+  <rect width="104" height="36" x="72" y="194" class="cls-2"/>
+</svg>

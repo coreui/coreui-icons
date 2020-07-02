@@ -1,0 +1,14 @@
+
+<svg viewBox="0 0 221 198" height="65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="46.5%" x2="100%" y2="46.5%" id="blv-gradient">
+            <stop stop-color="#321FDC" offset="0%"></stop>
+            <stop stop-color="#1F1498" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hexagon" fill="url(#blv-gradient)" fill-rule="nonzero">
+            <path d="M197.155,35.529 L121.936,-7.9 C114.775221,-12.0342774 105.952779,-12.0342774 98.792,-7.9 L23.572,35.528 C16.4209368,39.67233 12.0133106,47.3068322 12,55.572 L12,142.428 C12.0131058,150.693223 16.4207868,158.32782 23.572,162.472 L98.791,205.9 C105.951779,210.034277 114.774221,210.034277 121.935,205.9 L197.154,162.472 C204.305213,158.32782 208.712894,150.693223 208.726,142.428 L208.726,55.572 C208.712894,47.3067772 204.305213,39.6721802 197.154,35.528 L197.155,35.529 Z" id="Path" transform="translate(110.363000, 99.000000) rotate(90.000000) translate(-110.363000, -99.000000) "></path>
+        </g>
+    </g>
+</svg>

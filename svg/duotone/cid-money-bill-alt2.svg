@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <rect width="480" height="352" x="16" y="80" fill="currentColor" opacity=".25"/>
+  <rect width="80" height="36" x="64" y="350" class="cls-2"/>
+  <rect width="80" height="36" x="64" y="126" class="cls-2"/>
+  <ellipse cx="256" cy="256" class="cls-2" rx="72" ry="80.134"/>
+  <rect width="80" height="36" x="368" y="126" class="cls-2"/>
+  <rect width="80" height="36" x="368" y="350" class="cls-2"/>
+</svg>

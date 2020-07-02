@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor;opacity:.25}
+    </style>
+  </defs>
+  <rect width="224" height="48" x="144" y="424" class="cls-1"/>
+  <rect width="48" height="48" x="64" y="424" class="cls-1"/>
+  <rect width="48" height="48" x="400" y="424" class="cls-1"/>
+  <rect width="48" height="48" x="56" y="264" class="cls-1"/>
+  <rect width="48" height="48" x="144" y="264" class="cls-1"/>
+  <rect width="48" height="48" x="232" y="264" class="cls-1"/>
+  <rect width="48" height="48" x="320" y="264" class="cls-1"/>
+  <rect width="48" height="48" x="408" y="264" class="cls-1"/>
+  <rect width="48" height="48" x="112" y="344" class="cls-1"/>
+  <rect width="48" height="48" x="192" y="344" class="cls-1"/>
+  <rect width="48" height="48" x="272" y="344" class="cls-1"/>
+  <rect width="48" height="48" x="352" y="344" class="cls-1"/>
+  <path fill="currentColor" d="M477.4713,132.2144l-14.782-14.782C348.7567,3.5,164.0354,3.5,50.1025,117.4324l-14.7817,14.782a8.6333,8.6333,0,0,0-2.3076,8.0456l24.8232,73.0349,120.8623-17.2661,8.6331-60.4311h0a97.6715,97.6715,0,0,1,138.1284,0h0l8.6331,60.4311,120.8623,17.2661L479.7788,140.26A8.6332,8.6332,0,0,0,477.4713,132.2144Z"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:currentColor}.cls-1{opacity:.25}
+    </style>
+  </defs>
+  <polygon points="121.305 112 160.98 112 193.305 112 181.877 32 77.552 32 88.98 112 121.305 112" class="cls-1"/>
+  <polygon points="265.305 112 304.98 112 337.305 112 325.877 32 221.552 32 232.98 112 265.305 112" class="cls-1"/>
+  <path d="M426.2444,216l-15.095-50.085-.2832-.8515A32.0989,32.0989,0,0,0,380.793,144H48v72Z" class="cls-2"/>
+  <path d="M16,248V448H443.7266L496,282.4658V248Zm98,112H72V318h42Zm88,0H160V318h42Zm88,0H248V318h42Zm88,0H336V318h42Z" class="cls-2"/>
+</svg>

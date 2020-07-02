@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{opacity:.25}.cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <g class="cls-1">
+    <rect width="480" height="112" x="16" y="56" class="cls-2"/>
+  </g>
+  <g class="cls-1">
+    <rect width="480" height="112" x="16" y="200" class="cls-2"/>
+  </g>
+  <g class="cls-1">
+    <rect width="480" height="112" x="16" y="344" class="cls-2"/>
+  </g>
+  <rect width="48" height="48" x="64" y="88" class="cls-2"/>
+  <rect width="48" height="48" x="64" y="232" class="cls-2"/>
+  <rect width="48" height="48" x="64" y="376" class="cls-2"/>
+</svg>

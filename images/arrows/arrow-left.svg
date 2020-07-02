@@ -1,0 +1,13 @@
+<svg width="631px" height="326px" viewBox="0 0 631 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-1.11719297%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E3E8ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hexagon" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M334.617843,-147.578157 C322.772443,-154.417102 308.178308,-154.417102 296.332908,-147.578157 L171.903562,-75.7393162 C160.074233,-68.8837423 152.783113,-56.254706 152.761095,-42.582419 L152.761095,101.095263 C152.775548,110.210182 152.775548,235.92512 152.761095,478.240076 L478.186347,478.240076 C478.171894,235.92512 478.171894,110.210182 478.186347,101.095263 L478.186347,-42.582419 C478.164668,-56.254797 470.873457,-68.8839901 459.04388,-75.7393162 L334.617843,-147.578157 Z" id="Path" transform="translate(315.473721, 162.766355) scale(-1, 1) rotate(90.000000) translate(-315.473721, -162.766355) "></path>
+        </g>
+    </g>
+</svg>

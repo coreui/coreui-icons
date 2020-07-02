@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:currentColor}.cls-1{opacity:.25}
+    </style>
+  </defs>
+  <circle cx="88" cy="72" r="56" class="cls-1"/>
+  <circle cx="200" cy="194.667" r="56" class="cls-1"/>
+  <circle cx="88" cy="317.333" r="56" class="cls-1"/>
+  <circle cx="200" cy="440" r="56" class="cls-1"/>
+  <circle cx="312" cy="72" r="56" class="cls-2"/>
+  <circle cx="424" cy="194.667" r="56" class="cls-2"/>
+  <circle cx="312" cy="317.333" r="56" class="cls-2"/>
+  <circle cx="424" cy="440" r="56" class="cls-2"/>
+</svg>

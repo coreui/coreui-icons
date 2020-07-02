@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor;opacity:.25}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M369.6882,325.6277A120.1534,120.1534,0,0,0,254.6021,240h0A120.1538,120.1538,0,0,0,140.614,322.1577L116.08,395.7614C102.2655,437.2034,133.1116,480,176.7952,480H329.9821a64,64,0,0,0,61.3009-82.39Z"/>
+  <ellipse cx="77.871" cy="227.425" class="cls-2" rx="58.233" ry="71.671" transform="rotate(-30 77.871 227.425)"/>
+  <ellipse cx="434.129" cy="227.425" class="cls-2" rx="71.671" ry="58.233" transform="rotate(-60 434.129 227.425)"/>
+  <ellipse cx="183.136" cy="119.131" class="cls-2" rx="58.233" ry="71.671" transform="rotate(-12.264 183.135 119.131)"/>
+  <ellipse cx="328.864" cy="119.131" class="cls-2" rx="71.671" ry="58.233" transform="rotate(-77.736 328.864 119.131)"/>
+</svg>

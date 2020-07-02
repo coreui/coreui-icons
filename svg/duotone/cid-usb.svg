@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M344,240v32H280V112H232V272H168V234.6035a56.0662,56.0662,0,0,1-48,0V320H232v69.3965a56.0662,56.0662,0,0,1,48,0V320H392V240Z" opacity=".25"/>
+  <path d="M280,389.3965A56.0043,56.0043,0,1,0,312,440,55.77,55.77,0,0,0,280,389.3965Z" class="cls-2"/>
+  <path d="M144,128a56.0043,56.0043,0,1,0,56,56A56,56,0,0,0,144,128Z" class="cls-2"/>
+  <polygon points="320 144 320 240 344 240 392 240 416 240 416 144 320 144" class="cls-2"/>
+  <polygon points="280 112 328 112 256 16 184 112 232 112 280 112" class="cls-2"/>
+</svg>

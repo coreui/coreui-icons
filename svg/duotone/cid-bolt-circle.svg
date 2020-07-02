@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="240" fill="currentColor" opacity=".25"/>
+  <polygon fill="currentColor" points="344 136 192 136 144 280 223.2 280 192 384 224 384 376 224 290.22 224 344 136"/>
+</svg>

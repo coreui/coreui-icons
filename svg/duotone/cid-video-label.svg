@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="currentColor" d="M464,56H48A32,32,0,0,0,16,88V424a32,32,0,0,0,32,32H464a32,32,0,0,0,32-32V88A32,32,0,0,0,464,56ZM448,408H64V104H448Z" opacity=".25"/>
+  <rect width="288" height="184" x="112" y="152" fill="currentColor"/>
+</svg>

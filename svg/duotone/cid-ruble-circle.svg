@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-2{fill:currentColor}
+    </style>
+  </defs>
+  <circle cx="254" cy="256" r="240" fill="currentColor" opacity=".25"/>
+  <polygon points="146 360 194.421 360 194.421 408 242.421 408 242.421 360 306 360 306 320 146 320 146 360" class="cls-2"/>
+  <path d="M292.8252,104H146v48h48.4209v88H146v40H301.041c45.8916,0,84.1094-36.4189,84.9434-82.3035q.0234-1.2769.0117-2.562C385.5273,144.47,343.4917,104,292.8252,104ZM294,240H242.4209V152H294a44,44,0,0,1,0,88Z" class="cls-2"/>
+</svg>

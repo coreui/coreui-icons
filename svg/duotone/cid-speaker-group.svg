@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:currentColor}
+    </style>
+  </defs>
+  <path d="M468,128H368V280a56,56,0,0,1,0,112V496H468a12,12,0,0,0,12-12V140A12,12,0,0,0,468,128Z" class="cls-1"/>
+  <path fill="currentColor" d="M318.22,16H33.78C24,16,16,23.68,16,33.14V478.86C16,488.32,24,496,33.78,496H318.22C328,496,336,488.32,336,478.86V33.14C336,23.68,328,16,318.22,16Z" opacity=".25"/>
+  <circle cx="176" cy="136" r="56" class="cls-1"/>
+  <circle cx="176" cy="336" r="96" class="cls-1"/>
+</svg>

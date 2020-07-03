@@ -1,6 +1,6 @@
 {
   "name": "@coreui/icons",
-  "version": "2.0.0-beta.4",
+  "version": "2.0.0-beta.5",
   "description": "CoreUI Icons Free",
   "main": "js/index.js",
   "typings": "js/index.d.ts",

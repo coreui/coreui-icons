@@ -256,6 +256,7 @@ export declare const freeSet: {
   "cilFunctions": any[];
   "cilGamepad": any[];
   "cilGarage": any[];
+  "cilGauge": any[];
   "cilGem": any[];
   "cilGif": any[];
   "cilGift": any[];
@@ -810,6 +811,7 @@ export declare const cilFunctionsAlt: any[];
 export declare const cilFunctions: any[];
 export declare const cilGamepad: any[];
 export declare const cilGarage: any[];
+export declare const cilGauge: any[];
 export declare const cilGem: any[];
 export declare const cilGif: any[];
 export declare const cilGift: any[];

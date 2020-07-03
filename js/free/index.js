@@ -258,6 +258,7 @@ import { cilFunctionsAlt } from './cil-functions-alt.js'
 import { cilFunctions } from './cil-functions.js'
 import { cilGamepad } from './cil-gamepad.js'
 import { cilGarage } from './cil-garage.js'
+import { cilGauge } from './cil-gauge.js'
 import { cilGem } from './cil-gem.js'
 import { cilGif } from './cil-gif.js'
 import { cilGift } from './cil-gift.js'
@@ -811,6 +812,7 @@ export { cilFunctionsAlt }
 export { cilFunctions }
 export { cilGamepad }
 export { cilGarage }
+export { cilGauge }
 export { cilGem }
 export { cilGif }
 export { cilGift }

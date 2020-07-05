@@ -570,6 +570,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/aspect-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/aspect-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/assistive-listening-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -718,7 +727,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/bank/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: buildings category_humanize: Buildings name: bank unicode: undefined type: linear prefix: cil- free: true og_title: bank icon · linear · CoreUI Icons og_description: Get bank icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -3427,7 +3436,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/dns/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: web category_humanize: Web name: dns unicode: undefined type: linear prefix: cil- free: undefined og_title: dns icon · linear · CoreUI Icons og_description: Get dns icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -3589,7 +3598,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/drop/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: drop unicode: undefined type: linear prefix: cil- free: true og_title: drop icon · linear · CoreUI Icons og_description: Get drop icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -4404,6 +4413,42 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-arrow-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-arrow-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-arrow-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-arrow-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/folder-open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -4777,6 +4822,87 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip/</guid>
       <description></description>
     </item>
     
@@ -5200,7 +5326,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/image/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: files category_humanize: Files name: image unicode: undefined type: linear prefix: cil- free: true og_title: image icon · linear · CoreUI Icons og_description: Get image icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -5299,6 +5425,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/info-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/info-circle/</guid>
       <description></description>
     </item>
     
@@ -6681,6 +6816,24 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/move-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/move-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/move-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/move-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/move/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -6874,6 +7027,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/opentype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/options-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/options-alt/</guid>
       <description></description>
     </item>
     
@@ -7896,6 +8058,24 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/rotate-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/rotate-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/rotate-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/rotate-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/rounded-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8017,6 +8197,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/scale-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/scale-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/scale/</guid>
       <description></description>
     </item>
     
@@ -8242,6 +8440,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/settings-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/settings-alt/</guid>
       <description></description>
     </item>
     
@@ -9583,7 +9790,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/tv-dvr/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: media category_humanize: Media name: tv-dvr unicode: undefined type: linear prefix: cil- free: undefined og_title: tv-dvr icon · linear · CoreUI Icons og_description: Get tv-dvr icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -9835,7 +10042,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/vertical-align-top/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: vertical-align-top unicode: undefined type: linear prefix: cil- free: true og_title: vertical-align-top icon · linear · CoreUI Icons og_description: Get vertical-align-top icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -9957,6 +10164,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/view-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/view-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/view-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -9970,6 +10186,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/view-quilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/view-row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/view-row/</guid>
       <description></description>
     </item>
     

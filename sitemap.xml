@@ -4513,6 +4513,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/aspect-ratio/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/assistive-listening-system/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -6088,6 +6092,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/ellipsis/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/energy-circle/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -6463,6 +6471,22 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/folder-arrow-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/folder-arrow-right/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/folder-back/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/folder-move/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/folder-open/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -6543,6 +6567,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/gauge/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/gem/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -6615,6 +6643,42 @@
   <url>
     <loc>https://icons.coreui.io/icons/duotone/grid/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-dots-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-dots-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-dots/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-lines-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-lines-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-lines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/grip/</loc>
   </url>
   
   <url>
@@ -6835,6 +6899,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/duotone/infinity/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/info-circle/</loc>
   </url>
   
   <url>
@@ -7668,6 +7736,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/options-alt/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/options/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -8148,6 +8220,14 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/rotate-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/rotate-right/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/rounded-corner/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -8210,6 +8290,14 @@
   <url>
     <loc>https://icons.coreui.io/icons/duotone/save/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/scale-image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/scale/</loc>
   </url>
   
   <url>
@@ -8335,6 +8423,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/duotone/send/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/settings-alt/</loc>
   </url>
   
   <url>
@@ -9093,6 +9185,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/user-plus/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/user-secret/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -9193,6 +9289,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/duotone/view-list/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/duotone/view-module/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -9200,6 +9300,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/duotone/view-quilt/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/duotone/view-row/</loc>
   </url>
   
   <url>
@@ -13503,6 +13607,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/linear/aspect-ratio/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/linear/assistive-listening-system/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -15633,6 +15741,22 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/linear/folder-arrow-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/folder-arrow-right/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/folder-back/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/folder-move/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/linear/folder-open/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -15840,6 +15964,42 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/grid/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-dots-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-dots-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-dots/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-lines-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-lines-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-lines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/grip/</loc>
   </url>
   
   <url>
@@ -16130,6 +16290,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/infinity/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/info-circle/</loc>
   </url>
   
   <url>
@@ -16898,6 +17062,14 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/linear/move-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/move-vertical/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/linear/move/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -17005,6 +17177,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/opentype/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/options-alt/</loc>
   </url>
   
   <url>
@@ -17573,6 +17749,14 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/linear/rotate-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/rotate-right/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/linear/rounded-corner/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -17640,6 +17824,14 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/save/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/scale-image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/scale/</loc>
   </url>
   
   <url>
@@ -17765,6 +17957,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/send/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/settings-alt/</loc>
   </url>
   
   <url>
@@ -18718,6 +18914,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/linear/view-list/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/linear/view-module/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -18725,6 +18925,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/linear/view-quilt/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/linear/view-row/</loc>
   </url>
   
   <url>
@@ -19295,6 +19499,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/art-track/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/aspect-ratio/</loc>
   </url>
   
   <url>
@@ -21448,6 +21656,22 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/solid/folder-arrow-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/folder-arrow-right/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/folder-back/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/folder-move/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/solid/folder-open/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -21640,6 +21864,42 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/grid/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-dots-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-dots-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-dots/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-lines-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-lines-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-lines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip-vertical/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/grip/</loc>
   </url>
   
   <url>
@@ -21930,6 +22190,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/infinity/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/info-circle/</loc>
   </url>
   
   <url>
@@ -22698,6 +22962,14 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/solid/move-horizontal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/move-vertical/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/solid/move/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -22805,6 +23077,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/opentype/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/options-alt/</loc>
   </url>
   
   <url>
@@ -23373,6 +23649,14 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/solid/rotate-left/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/rotate-right/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/solid/rounded-corner/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -23440,6 +23724,14 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/save/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/scale-image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/scale/</loc>
   </url>
   
   <url>
@@ -23565,6 +23857,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/send/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/settings-alt/</loc>
   </url>
   
   <url>
@@ -24393,6 +24689,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/solid/user-plus/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/solid/user-secret/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -24518,6 +24818,10 @@
   </url>
   
   <url>
+    <loc>https://icons.coreui.io/icons/solid/view-list/</loc>
+  </url>
+  
+  <url>
     <loc>https://icons.coreui.io/icons/solid/view-module/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
   </url>
@@ -24525,6 +24829,10 @@
   <url>
     <loc>https://icons.coreui.io/icons/solid/view-quilt/</loc>
     <lastmod>2020-07-02T00:06:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icons.coreui.io/icons/solid/view-row/</loc>
   </url>
   
   <url>

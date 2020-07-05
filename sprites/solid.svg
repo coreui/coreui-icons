@@ -180,6 +180,9 @@
 <symbol id="cis-art-track" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M182,112H16V278C107.533,278,182,203.533,182,112Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M16,314v86H304V112H218C218,223.383,127.383,314,16,314Z' class='ci-primary'/><rect width='152' height='48' x='344' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='152' height='48' x='344' y='232' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='96' height='48' x='344' y='344' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
+<symbol id="cis-aspect-ratio" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M16,444.571H496V67.428H16ZM328,123H437V232H395V165H328ZM75,280h42v67h67v42H75Z' class='ci-primary'/>
+</symbol>
 <symbol id="cis-assistive-listening-system" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M432.162,67.838A259,259,0,0,0,319.186,1.365l-15.82,45.524A213.179,213.179,0,0,1,455.423,206.041L502.4,195.828A258.69,258.69,0,0,0,432.162,67.838Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M266.165,87.1A152.914,152.914,0,0,0,111.086,240h48A104.914,104.914,0,0,1,265.5,135.1c56.653.786,103.044,47.532,103.413,104.2a103.938,103.938,0,0,1-32.6,76.708,33.586,33.586,0,0,0-10.365,24.237V400.7a62.461,62.461,0,0,1-62.391,62.391h-10.3v48h10.3A110.516,110.516,0,0,0,373.943,400.7V346.266a153.567,153.567,0,0,0,42.968-107.279A153.328,153.328,0,0,0,266.165,87.1Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M292.343,239.086h48a76.03,76.03,0,1,0-152.059,0h48a28.03,28.03,0,1,1,56.059,0Z' class='ci-primary'/><rect width='48' height='48' x='216' y='280' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='48' x='88' y='408' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='158.392' x='152' y='288.804' fill='var(--ci-primary-color, currentColor)' class='ci-primary' transform='rotate(-45 176 368)'/>
 </symbol>
@@ -790,7 +793,7 @@
   <polygon fill='var(--ci-primary-color, currentColor)' points='417.373 446.627 256 285.255 94.627 446.627 49.373 401.373 256 194.745 462.627 401.373 417.373 446.627' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='417.373 286.627 256 125.255 94.627 286.627 49.373 241.373 256 34.745 462.627 241.373 417.373 286.627' class='ci-primary'/>
 </symbol>
 <symbol id="cis-chevron-double-up" viewBox="0 0 512 512">
-  <polygon fill='var(--ci-primary-color, currentColor)' points='259.558 37.432 259.516 37.473 259.475 37.432 259.516 37.473 259.558 37.432' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='202.681 94.308 93.66 203.329 93.66 203.329 202.681 94.308 202.681 94.308' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='425.372 203.329 316.352 94.308 316.393 94.267 259.558 37.432 259.516 37.473 259.475 37.432 202.64 94.267 202.681 94.308 202.681 94.308 93.66 203.329 93.66 203.329 150.495 260.164 259.516 151.143 368.537 260.164 425.372 203.329 425.372 203.329 425.372 203.329' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='316.393 315.475 259.558 258.64 259.516 258.681 259.475 258.64 202.64 315.475 202.681 315.516 93.66 424.537 150.495 481.373 259.516 372.352 368.537 481.373 425.372 424.537 316.352 315.516 316.393 315.475' class='ci-primary'/>
+  <polygon fill='var(--ci-primary-color, currentColor)' points='259.558 37.432 259.516 37.473 259.475 37.432 259.516 37.473 259.558 37.432' class='ci-primary'/><rect width='154.179' x='71.081' y='148.818' fill='var(--ci-primary-color, currentColor)' class='ci-primary' transform='rotate(-45 148.17 148.818)'/><polygon fill='var(--ci-primary-color, currentColor)' points='425.372 203.329 316.352 94.308 316.393 94.267 259.558 37.432 259.516 37.473 259.475 37.432 202.64 94.267 202.681 94.308 202.681 94.308 93.66 203.329 93.66 203.329 150.495 260.164 259.516 151.143 368.537 260.164 425.372 203.329 425.372 203.329 425.372 203.329' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='316.393 315.475 259.558 258.64 259.516 258.681 259.475 258.64 202.64 315.475 202.681 315.516 93.66 424.537 150.495 481.373 259.516 372.352 368.537 481.373 425.372 424.537 316.352 315.516 316.393 315.475' class='ci-primary'/>
 </symbol>
 <symbol id="cis-chevron-left-alt" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='313.373 462.627 106.745 256 313.373 49.373 358.627 94.627 197.255 256 358.627 417.373 313.373 462.627' class='ci-primary'/>
@@ -1014,6 +1017,9 @@
 <symbol id="cis-copy" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='318 454 90 454 90 162 124 162 124 120 48 120 48 496 360 496 360 420 318 420 318 454' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='320 32 314 32 314 166 448 166 448 160 320 32' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='278 32 160 32 160 384 448 384 448 202 278 202 278 32' class='ci-primary'/>
 </symbol>
+<symbol id="cis-copyright" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M256,16C123.452,16,16,123.452,16,256S123.452,496,256,496,496,388.548,496,256,388.548,16,256,16Zm8,334a93.018,93.018,0,0,0,58.182-20.164l22.3,28.259A128.675,128.675,0,0,1,264,386a130,130,0,0,1,0-260,128.675,128.675,0,0,1,80.485,27.905l-22.3,28.259A93.018,93.018,0,0,0,264,162a94,94,0,0,0,0,188Z' class='ci-primary'/>
+</symbol>
 <symbol id="cis-couch" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M456,220.391V144a32,32,0,0,0-32-32H88a32,32,0,0,0-32,32v76.391c2.635-.251,5.3-.391,8-.391a84.135,84.135,0,0,1,81.575,64h220.85A84.135,84.135,0,0,1,448,220C450.7,220,453.365,220.14,456,220.391Z' class='ci-primary'/><rect width='216' height='112' x='148' y='320' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M107.633,284q-.507-1.1-1.067-2.179a48.129,48.129,0,0,0-4.1-6.54c-.707-.946-1.459-1.856-2.233-2.747a47.911,47.911,0,0,0-72.462,0c-.774.891-1.526,1.8-2.233,2.747a48.129,48.129,0,0,0-4.1,6.54q-.726,1.392-1.363,2.833A47.815,47.815,0,0,0,16,304V416a15.908,15.908,0,0,0,1.931,7.626q.369.681.8,1.32a16.054,16.054,0,0,0,8.51,6.335A16.071,16.071,0,0,0,32,432H64v64h48V304a47.889,47.889,0,0,0-2.913-16.5C108.652,286.306,108.158,285.144,107.633,284Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M493.087,287.5a49.04,49.04,0,0,0-6.623-12.215c-.707-.946-1.459-1.856-2.233-2.747a47.911,47.911,0,0,0-72.462,0c-.774.891-1.526,1.8-2.233,2.747a48.129,48.129,0,0,0-4.1,6.54q-.56,1.074-1.067,2.179-.15.325-.3.654A47.815,47.815,0,0,0,400,304V496h48V432h32a15.966,15.966,0,0,0,13.268-7.054q.431-.639.8-1.32A15.908,15.908,0,0,0,496,416V304A47.889,47.889,0,0,0,493.087,287.5Z' class='ci-primary'/>
 </symbol>
@@ -1154,6 +1160,9 @@
 </symbol>
 <symbol id="cis-elevator" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='256 40 96 176 96 216 416 216 416 176 256 40' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='96 336 256 472 416 336 416 296 96 296 96 336' class='ci-primary'/>
+</symbol>
+<symbol id="cis-ellipsis" viewBox="0 0 512 512">
+  <circle cx='256' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='432' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='80' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
 <symbol id="cis-energy-circle" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M256,16C123.452,16,16,123.452,16,256S123.452,496,256,496,496,388.548,496,256,388.548,16,256,16ZM232,392V288H136L280,120V224h96Z' class='ci-primary'/>
@@ -1389,6 +1398,18 @@
 <symbol id="cis-folder-alt" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M472,104H258.667L237.9,54.154A23,23,0,0,0,216.667,40H39A23,23,0,0,0,16,63V190H496V128A24,24,0,0,0,472,104Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M16,448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V226H16Z' class='ci-primary'/>
 </symbol>
+<symbol id="cis-folder-arrow-left" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M472,104H258.667L237.9,54.154A23,23,0,0,0,216.667,40H39A23,23,0,0,0,16,63V448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V128A24,24,0,0,0,472,104ZM400,320H232v72L112,288,232,184v72H400Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-folder-arrow-right" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M472,104H258.667L237.9,54.154A23,23,0,0,0,216.667,40H39A23,23,0,0,0,16,63V448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V128A24,24,0,0,0,472,104ZM280,392V320H112V256H280V184L400,288Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-folder-back" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M472,104H258.667L237.9,54.154A23,23,0,0,0,216.667,40H39A23,23,0,0,0,16,63V448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V128A24,24,0,0,0,472,104ZM400,320H232v72L112,288,232,184v72H400Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-folder-move" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M472,104H258.667L237.9,54.154A23,23,0,0,0,216.667,40H39A23,23,0,0,0,16,63V448a24,24,0,0,0,24,24H472a24,24,0,0,0,24-24V128A24,24,0,0,0,472,104ZM280,392V320H112V256H280V184L400,288Z' class='ci-primary'/>
+</symbol>
 <symbol id="cis-folder-open" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M144.569,170.319H421.8V120a24.028,24.028,0,0,0-24-24H241.962L224.823,54.784A23.935,23.935,0,0,0,202.663,40H40A24.028,24.028,0,0,0,16,64V472H40.8L48,435.419,91.585,213.894A54.116,54.116,0,0,1,144.569,170.319Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M483.779,211.445a13.805,13.805,0,0,0-10.829-5.126H144.569a18.039,18.039,0,0,0-17.662,14.526L77.887,470h359.3l49.489-246.93A13.8,13.8,0,0,0,483.779,211.445Z' class='ci-primary'/>
 </symbol>
@@ -1437,6 +1458,9 @@
 <symbol id="cis-garage" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M448,280H430.223l-37.777-85A32,32,0,0,0,363.2,176H148.8a32,32,0,0,0-29.242,19L81.777,280H64a16,16,0,0,0-16,16V424a16,16,0,0,0,16,16H80v48.547a8,8,0,0,0,8,8h56a8,8,0,0,0,8-8V440H360v48.547a8,8,0,0,0,8,8h56a8,8,0,0,0,8-8V440h16a16,16,0,0,0,16-16V296A16,16,0,0,0,448,280ZM176,376.546H96v-32h80Zm240,0H336v-32h80Z' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='256 22.138 16 118.5 16 170.225 256 73.862 496 170.225 496 118.5 256 22.138' class='ci-primary'/>
 </symbol>
+<symbol id="cis-gauge" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M256,104C132.288,104,32,204.288,32,328v72H174a81.935,81.935,0,0,1,100.384-79.9l61.388-127.893,32.456,15.578-61.407,127.93A81.874,81.874,0,0,1,338,400H480V328C480,204.288,379.712,104,256,104ZM120,352H80V312h40Zm48-112H128V200h40Zm112-48H240V152h40ZM432,352H392V312h40Z' class='ci-primary'/><circle cx='256' cy='400' r='46' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
 <symbol id="cis-gem" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='231.856 48 182.117 173 329.883 173 280.144 48 231.856 48' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='368.629 173 491.896 173 408.563 48 318.889 48 368.629 173' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='250.378 480 261.622 480 338.693 209 173.307 209 250.378 480' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='143.371 173 193.111 48 103.438 48 20.104 173 143.371 173' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='376.123 209 299.05 480 312.579 480 492.64 209 376.123 209' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='135.877 209 19.36 209 199.421 480 212.95 480 135.877 209' class='ci-primary'/>
 </symbol>
@@ -1481,6 +1505,33 @@
 </symbol>
 <symbol id="cis-grid" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M448.453,42.547H63.547a21,21,0,0,0-21,21V448.453a21,21,0,0,0,21,21H448.453a21,21,0,0,0,21-21V63.547A21,21,0,0,0,448.453,42.547Zm-21,128.3h-86.3v-86.3h86.3Zm0,128.3h-86.3v-86.3h86.3Zm-342.906-86.3h86.3v86.3h-86.3Zm128.3,0h86.3v86.3h-86.3Zm86.3-42h-86.3v-86.3h86.3Zm-214.6-86.3h86.3v86.3h-86.3Zm0,256.6h86.3v86.3h-86.3Zm128.3,0h86.3v86.3h-86.3Zm214.6,86.3h-86.3v-86.3h86.3Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-dots-horizontal" viewBox="0 0 512 512">
+  <circle cx='96' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='416' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='96' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='416' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-dots-vertical" viewBox="0 0 512 512">
+  <circle cx='336' cy='96' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='336' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='336' cy='416' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='176' cy='96' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='176' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='176' cy='416' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-dots" viewBox="0 0 512 512">
+  <circle cx='96' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='416' cy='176' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='96' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='416' cy='336' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-horizontal" viewBox="0 0 512 512">
+  <rect width='128' height='128' x='32' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='192' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='352' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='32' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='192' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='352' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/>
+</symbol>
+<symbol id="cis-grip-lines-horizontal" viewBox="0 0 512 512">
+  <rect width='480' height='48' x='16' y='176' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='48' x='16' y='288' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-lines-vertical" viewBox="0 0 512 512">
+  <rect width='48' height='480' x='176' y='16' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='480' x='288' y='16' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-lines" viewBox="0 0 512 512">
+  <rect width='480' height='48' x='16' y='176' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='48' x='16' y='288' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-grip-vertical" viewBox="0 0 512 512">
+  <rect width='128' height='128' x='272' y='32' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='272' y='192' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='272' y='352' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='112' y='32' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='112' y='192' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='112' y='352' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/>
+</symbol>
+<symbol id="cis-grip" viewBox="0 0 512 512">
+  <rect width='128' height='128' x='32' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='192' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='352' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='32' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='192' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/><rect width='128' height='128' x='352' y='272' fill='var(--ci-primary-color, currentColor)' class='ci-primary' rx='24'/>
 </symbol>
 <symbol id="cis-group-minus" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M302.435,194.435v65.246a98.446,98.446,0,0,1-15.417,52.941L273,334.648l38.566,24.37A111.937,111.937,0,0,1,408,304h48.369l-73.128-46.211,33.406-52.495a62.61,62.61,0,0,0,9.788-33.613V106.435a90.441,90.441,0,0,0-179.346-16.59A127.783,127.783,0,0,1,265.4,105.032,125.608,125.608,0,0,1,302.435,194.435Z' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='344 399 344 441 496 441 496 408 496 399 344 399' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M296,416h0a112.578,112.578,0,0,1,2.067-21.486L223.241,347.23l33.406-52.495a62.61,62.61,0,0,0,9.788-33.613V195.876A90.435,90.435,0,0,0,176,105.441h0a90.435,90.435,0,0,0-90.435,90.435v65.246a62.6,62.6,0,0,0,9.789,33.613l33.4,52.5L41.923,402.1A55.653,55.653,0,0,0,16,449.149V496l313.129-.486A111.651,111.651,0,0,1,296,416Z' class='ci-primary'/>
@@ -1646,6 +1697,9 @@
 </symbol>
 <symbol id="cis-infinity" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M460.521,170.344a121.136,121.136,0,0,0-171.312,0l-32.974,32.973-32.973-32.973a121.079,121.079,0,1,0,0,171.312l32.973-32.973,32.974,32.973A121.136,121.136,0,0,0,460.521,170.344ZM178.008,296.4a57.109,57.109,0,1,1,0-80.8l40.4,40.4Zm237.258,0a57.2,57.2,0,0,1-80.8,0l-40.4-40.4,40.4-40.4a57.135,57.135,0,0,1,80.8,0h0A57.2,57.2,0,0,1,415.266,296.4Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-info-circle" viewBox="0 0 511.974 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M256,16C123.452,16,16,123.452,16,256S123.452,496,256,496,496,388.548,496,256,388.548,16,256,16Zm8,64h48v48H264ZM336.529,383.07A66.225,66.225,0,0,1,279.246,416q-1.182,0-2.367-.042a66.328,66.328,0,0,1-61.288-85l30.537-103.829a16.442,16.442,0,0,0-30.961-10.942l-9.96,24-44.334-18.4,9.96-24a64.443,64.443,0,0,1,121.345,42.884L261.641,344.5a18.329,18.329,0,0,0,33.419,14.4l12.2-20.941,41.47,24.17Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-info" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M32,32V480H480V32ZM264,80h48v48H264ZM336.529,383.07A66.231,66.231,0,0,1,279.245,416c-.788,0-1.573-.014-2.365-.041a66.328,66.328,0,0,1-61.288-85l30.537-103.827a16.443,16.443,0,0,0-30.962-10.943l-9.96,24-44.334-18.4,9.96-24a64.443,64.443,0,0,1,121.345,42.884L261.641,344.5a18.328,18.328,0,0,0,33.418,14.4l5.322-9.133,45.483,17.288Z' class='ci-primary'/>
@@ -1861,7 +1915,7 @@
   <path fill='var(--ci-primary-color, currentColor)' d='M26.09,248.4,279.153,486.126a23.813,23.813,0,0,0,16.409,6.509q.448,0,.9-.017a23.821,23.821,0,0,0,16.786-7.734L486.58,296.479a23.942,23.942,0,0,0-.692-33.218L248,25.373A31.791,31.791,0,0,0,225.373,16H64A48.055,48.055,0,0,0,16,64V225.078A32.118,32.118,0,0,0,26.09,248.4ZM280.5,253.133l9.728,9.728,9.226-9.226a44.838,44.838,0,0,1,63.411,63.411L290.23,389.683l-73.139-73.139A44.838,44.838,0,0,1,280.5,253.133ZM136,100a36,36,0,1,1-36,36A36,36,0,0,1,136,100Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-magnifying-glass" viewBox="0 0 512 512">
-  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.97,178.97,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
+  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.972,178.972,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-mail" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M32,82v29.892l219.269,160.8a7.966,7.966,0,0,0,9.462,0L480,111.892V82Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M256,306.276a39.922,39.922,0,0,1-23.655-7.782L32,151.574V434H480V151.574L279.655,298.494A39.927,39.927,0,0,1,256,306.276Z' class='ci-primary'/>
@@ -2100,6 +2154,12 @@
 <symbol id="cis-mouth" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M337.987,76.8h0c-41.987,0-66.9,64-66.9,64H240.917s-24.917-64-66.9-64h0c-18.893,0-38.013,8-62.013,40C89.679,146.558,16,232,16,232L72.321,354.269q.619,1.3,1.263,2.585C96.857,403.24,144.878,432,196.775,432h118.45c51.9,0,99.918-28.76,123.191-75.146q.644-1.284,1.263-2.585L496,224s-73.679-77.442-96-107.2C376,84.8,356.88,76.8,337.987,76.8ZM368,324.8h0a791.944,791.944,0,0,0-224,0h0L99.938,232.268,176,192h0s32,36.2,80,36.2S336,192,336,192h0l75.665,33.825Z' class='ci-primary'/>
 </symbol>
+<symbol id="cis-move-horizontal" viewBox="0 0 512 512">
+  <polygon fill='var(--ci-primary-color, currentColor)' points='496.727 255.9 376.098 158.267 376.098 231.9 135.196 231.9 135.196 158.267 14.567 255.9 135.196 353.531 135.196 279.9 376.098 279.9 376.098 353.531 496.727 255.9' class='ci-primary'/>
+</symbol>
+<symbol id="cis-move-vertical" viewBox="0 0 512 512">
+  <polygon fill='var(--ci-primary-color, currentColor)' points='280.098 134.998 353.73 134.998 256.098 14.369 158.467 134.998 232.098 134.998 232.098 375.9 158.467 375.9 256.098 496.527 353.73 375.9 280.098 375.9 280.098 134.998' class='ci-primary'/>
+</symbol>
 <symbol id="cis-move" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='496.727 255.9 376.098 158.267 376.098 231.9 280.098 231.9 280.098 134.998 353.73 134.998 256.098 14.369 158.467 134.998 232.098 134.998 232.098 231.9 135.196 231.9 135.196 158.267 14.567 255.9 135.196 353.531 135.196 279.9 232.098 279.9 232.098 375.9 158.467 375.9 256.098 496.527 353.73 375.9 280.098 375.9 280.098 279.9 376.098 279.9 376.098 353.531 496.727 255.9' class='ci-primary'/>
 </symbol>
@@ -2159,6 +2219,9 @@
 </symbol>
 <symbol id="cis-opentype" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M426.751,160.913c-11.734-29.548-30.876-54.635-55.342-72.54A153.779,153.779,0,0,0,308.06,61.078a171.253,171.253,0,0,0-60.323-.14c-42.733,7.47-83.79,30.87-115.607,65.886-31.848,35.05-52.6,79.863-58.422,126.181-5.917,47.045,3.875,92.869,27.57,129.032,23.975,36.59,60.457,61.06,102.719,68.9a165.547,165.547,0,0,0,30.153,2.743,174.389,174.389,0,0,0,30.05-2.624c26.018-4.523,51.034-14.69,74.351-30.219C392.8,384.716,430.089,324.214,438.292,259,442.608,224.708,438.618,190.791,426.751,160.913Zm-94.151,91c-8.778,50.85-31.736,97.586-61.418,125.025-11.024,10.2-22.475,17.037-33.15,19.785a42.292,42.292,0,0,1-10.562,1.4,33.63,33.63,0,0,1-9.432-1.3c-29-8.358-51.266-61.794-38.338-136.744,6.27-36.311,20.076-71.321,38.874-98.582,16.981-24.625,37.271-41.478,55.635-46.229a42.812,42.812,0,0,1,10.621-1.4,33.883,33.883,0,0,1,9.422,1.3l.025.008c7.287,2.1,13.978,6.855,19.884,14.122C334.314,154.112,341.379,201.1,332.6,251.917Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-options-alt" viewBox="0 0 512 512">
+  <circle cx='256' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='432' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='80' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
 <symbol id="cis-options" viewBox="0 0 512 512">
   <circle cx='256' cy='256' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='80' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><circle cx='256' cy='432' r='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
@@ -2332,7 +2395,7 @@
   <path fill='var(--ci-primary-color, currentColor)' d='M456,32H56A24,24,0,0,0,32,56V456a24,24,0,0,0,24,24H456a24,24,0,0,0,24-24V56A24,24,0,0,0,456,32ZM392,272H288V376H240V272H136V224H240V120h48V224H392Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-plus" viewBox="0 0 512 512">
-  <path fill='var(--ci-primary-color, currentColor)' d='M312,496a118.813,118.813,0,0,1-10.429-156.089l-47.244-29.854,38.417-60.368A72.006,72.006,0,0,0,304,211.034V120A104,104,0,0,0,200,16h0A104,104,0,0,0,96,120v91.034a72.006,72.006,0,0,0,11.256,38.655l38.417,60.368-99.862,63.1A64,64,0,0,0,16,427.265v69.306l296.115-.459L312,496Z' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='417 391 417 336 375 336 375 391 320 391 320 433 375 433 375 488 417 488 417 433 472 433 472 391 417 391' class='ci-primary'/>
+  <polygon fill='var(--ci-primary-color, currentColor)' points='288 224 288 72 224 72 224 224 72 224 72 288 224 288 224 440 288 440 288 288 440 288 440 224 288 224' class='ci-primary'/>
 </symbol>
 <symbol id="cis-pool" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M471.861,354.251C462.074,349.685,449.893,344,427.425,344s-34.649,5.685-44.437,10.251C375.57,357.713,370.669,360,358.849,360s-16.719-2.287-24.137-5.748C324.925,349.685,312.745,344,290.277,344s-34.647,5.685-44.434,10.252c-7.418,3.461-12.318,5.748-24.136,5.748s-16.717-2.287-24.134-5.748C187.786,349.685,175.606,344,153.14,344s-34.647,5.685-44.434,10.252C101.288,357.713,96.388,360,84.57,360s-16.718-2.287-24.135-5.748C50.647,349.685,38.467,344,16,344v48c11.818,0,16.718,2.287,24.136,5.748C49.923,402.315,62.1,408,84.57,408s34.647-5.685,44.434-10.252c7.418-3.461,12.318-5.748,24.136-5.748s16.717,2.287,24.133,5.748C187.061,402.315,199.24,408,221.707,408s34.647-5.685,44.435-10.252c7.417-3.461,12.317-5.748,24.135-5.748s16.719,2.287,24.137,5.748C324.2,402.315,336.382,408,358.849,408s34.65-5.685,44.437-10.251c7.419-3.462,12.319-5.749,24.139-5.749s16.721,2.287,24.138,5.749C461.351,402.315,473.532,408,496,408V360C484.18,360,479.279,357.713,471.861,354.251Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M427.425,432c-22.468,0-34.649,5.685-44.437,10.251C375.57,445.713,370.669,448,358.849,448s-16.719-2.287-24.137-5.748C324.925,437.685,312.745,432,290.277,432s-34.647,5.685-44.434,10.252c-7.418,3.461-12.318,5.748-24.136,5.748s-16.717-2.287-24.134-5.748C187.786,437.685,175.606,432,153.14,432s-34.647,5.685-44.434,10.252C101.288,445.713,96.388,448,84.57,448s-16.718-2.287-24.135-5.748C50.647,437.685,38.467,432,16,432v48c11.818,0,16.718,2.287,24.136,5.748C49.923,490.315,62.1,496,84.57,496s34.647-5.685,44.434-10.252c7.418-3.461,12.318-5.748,24.136-5.748s16.717,2.287,24.133,5.748C187.061,490.315,199.24,496,221.707,496s34.647-5.685,44.435-10.252c7.417-3.461,12.317-5.748,24.135-5.748s16.719,2.287,24.137,5.748C324.2,490.315,336.382,496,358.849,496s34.65-5.685,44.437-10.251c7.419-3.462,12.319-5.749,24.139-5.749s16.721,2.287,24.138,5.749C461.351,490.315,473.532,496,496,496V448c-11.82,0-16.721-2.287-24.139-5.749C462.074,437.685,449.893,432,427.425,432Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M256,280H384v40h48V115.878a39.835,39.835,0,0,1,7.038-22.661L492.125,16h-58.25L399.484,66.024A87.63,87.63,0,0,0,384,115.878V136H256V115.878a39.835,39.835,0,0,1,7.038-22.661L316.125,16h-58.25L223.484,66.024A87.63,87.63,0,0,0,208,115.878V320h48Zm0-96H384v48H256Z' class='ci-primary'/>
@@ -2409,6 +2472,9 @@
 <symbol id="cis-recycle" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M282.766,81.905l42.772,72.632L279.67,185.161l3.2,4.79L393.707,212.04,416,100.173,413.214,96l-47.692,31.841L324.127,57.548a72,72,0,0,0-124.083,0l-24.068,40.87L191.587,166.5l49.818-84.6h0a24,24,0,0,1,41.361,0Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M85.564,370.363a23.566,23.566,0,0,1,.157-24.088l42.506-72.18L176.512,304l3.032-4.9L153.681,189.085l-111.039,26.1L40,219.454l47.408,29.361-43.049,73.1A72,72,0,0,0,106.4,430.453h49.341l48-48H106.4A23.566,23.566,0,0,1,85.564,370.363Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M479.812,321.917l-31.906-54.179L386.184,257.52l52.266,88.754a24,24,0,0,1-20.68,36.179h-84.4l-.659-55.074-5.759.069L248,408.313,329.615,488l5.018-.06-.687-57.487H417.77a72,72,0,0,0,62.042-108.536Z' class='ci-primary'/>
 </symbol>
+<symbol id="cis-registered" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M272,170H218v76h54a38,38,0,0,0,0-76Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M256,16C123.452,16,16,123.452,16,256S123.452,496,256,496,496,388.548,496,256,388.548,16,256,16ZM218,282v78H182V134h90a73.994,73.994,0,0,1,31.915,140.754L354.059,360H312.294l-45.883-78Z' class='ci-primary'/>
+</symbol>
 <symbol id="cis-reload" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M480,232V47.539l-65.524,69.893A211.432,211.432,0,0,0,254.259,44.185C137.464,44.185,42.444,139.2,42.444,256s95.02,211.815,211.815,211.815A210.623,210.623,0,0,0,402.5,407.3l-33.6-34.283a162.89,162.89,0,0,1-114.645,46.8c-90.328,0-163.815-73.487-163.815-163.815S163.931,92.185,254.259,92.185A163.567,163.567,0,0,1,381.411,152.7L307.068,232Z' class='ci-primary'/>
 </symbol>
@@ -2445,11 +2511,20 @@
 <symbol id="cis-restore" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M420.286,92.523A231.171,231.171,0,0,0,73.594,114.967L16,57.373V208H166.627l-58.709-58.708A184.308,184.308,0,0,1,256.809,72.809C357.82,72.809,440,154.988,440,256S357.82,439.191,256.809,439.191A182.152,182.152,0,0,1,128.6,386.853l-33.6,34.283A231.191,231.191,0,0,0,420.286,92.523Z' class='ci-primary'/><circle cx='256' cy='256' r='72' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
+<symbol id="cis-rights" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M272,170H218v76h54a38,38,0,0,0,0-76Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M256,16C123.452,16,16,123.452,16,256S123.452,496,256,496,496,388.548,496,256,388.548,16,256,16ZM218,282v78H182V134h90a73.994,73.994,0,0,1,31.915,140.754L354.059,360H312.294l-45.883-78Z' class='ci-primary'/>
+</symbol>
 <symbol id="cis-room-slash" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='368 287.029 416 335.029 416 80 316 80 316 128 368 128 368 287.029' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='280 24 130.5 49.776 280 199.078 280 24' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M45.709,16H16V45.422l32,32V456l232,32V309.422l36,36,52,52V464h66.577l32,32H496V466.457ZM234,304H198V227.422l36,36Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-room" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='416 416 416 80 316 80 316 128 368 128 368 464 496 464 496 416 416 416' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M48,456l232,32V24L48,64ZM198,224h36v80H198Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-rotate-left" viewBox="0 0 512 512">
+  <rect width='168' height='168' x='172' y='192' fill='var(--ci-primary-color, currentColor)' class='ci-primary' transform='rotate(-45 256 276)'/><path fill='var(--ci-primary-color, currentColor)' d='M421.463,90.537A232.467,232.467,0,0,0,256,22H128l128,90V58c109.178,0,198,88.822,198,198S365.178,454,256,454,58,365.178,58,256H22A234,234,0,0,0,421.463,421.463a234,234,0,0,0,0-330.926Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-rotate-right" viewBox="0 0 512 512">
+  <rect width='168' height='168' x='172' y='192' fill='var(--ci-primary-color, currentColor)' class='ci-primary' transform='rotate(-45 256 276)'/><path fill='var(--ci-primary-color, currentColor)' d='M454,256c0,109.178-88.822,198-198,198S58,365.178,58,256,146.822,58,256,58v54L384,22H256A234,234,0,0,0,90.537,421.463,234,234,0,0,0,490,256Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-rounded-corner" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M292,32H40V80H292c77.2,0,140,62.8,140,140V472h48V220C480,116.337,395.664,32,292,32Z' class='ci-primary'/><rect width='49.143' height='48' x='235.428' y='424' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='49.143' height='48' x='137.143' y='424' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='49.143' height='48' x='333.714' y='424' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='48' x='40' y='424' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='49.143' x='40' y='227.429' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='49.143' x='40' y='129.144' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='48' height='49.143' x='40' y='325.715' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
@@ -2492,6 +2567,12 @@
 </symbol>
 <symbol id="cis-save" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M461.657,154.343,362.343,55.029a8,8,0,0,0-5.657-2.343H336V152H160V52.686H56a8,8,0,0,0-8,8V472a8,8,0,0,0,8,8H456a8,8,0,0,0,8-8V160A8,8,0,0,0,461.657,154.343ZM260,384a68,68,0,1,1,68-68A68,68,0,0,1,260,384Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-scale-image" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M147,16V208H16V496H304V365H496V16ZM256,448H64V256h83V365H256ZM410,250H374V163.369L252.732,284.724l-25.464-25.448L348.457,138H262V102H410Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-scale" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M147,16V208H16V496H304V365H496V16ZM256,448H64V256h83V365H256ZM410,250H374V163.369L252.732,284.724l-25.464-25.448L348.457,138H262V102H410Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-scanner" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M446,280H32a16,16,0,0,0-16,16V424a16,16,0,0,0,16,16H480a16,16,0,0,0,16-16V247.265L32,76.318v51.154ZM119,378H83V342h36Zm297,0H168V342H416Z' class='ci-primary'/>
@@ -2554,7 +2635,7 @@
   <path fill='var(--ci-primary-color, currentColor)' d='M224,16,80,168V496H440V16Zm58,80h36v96H282Zm-68,0h36v96H214ZM384,440H176V264H384Zm2-248H350V96h36Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-search" viewBox="0 0 512 512">
-  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.97,178.97,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
+  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.972,178.972,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-security" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M240,16C167.272,78.073,24,96,24,96c0,154.473,43.2,348.509,232,400C444.8,444.509,488,250.473,488,96c0,0-143.272-17.927-216-80ZM422.075,148.884c-2.667,35.686-8.089,68.971-16.115,99.116H256V429.032c-58.19-20.344-100.406-60.18-128.729-121.317A366.623,366.623,0,0,1,106.04,248H256V83.843c34.965,23.17,80.027,42.35,134.442,57.182C401.6,144.065,412.253,146.671,422.075,148.884Z' class='ci-primary'/>
@@ -2567,6 +2648,9 @@
 </symbol>
 <symbol id="cis-send" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M472.719,20.691a20.336,20.336,0,0,0-21.592-2.781L32.012,214.637V252.7l155.442,62.176L362.776,124.636l26.473,24.4-172.61,187.3,104.325,160.5h38.075l120.3-455.4A20.342,20.342,0,0,0,472.719,20.691Z' class='ci-primary'/>
+</symbol>
+<symbol id="cis-settings-alt" viewBox="0 0 511.974 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M435.886,232a72.007,72.007,0,0,0-135.774,0H16v48H300.112a72.007,72.007,0,0,0,135.774,0H496V232Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M160,184a72.018,72.018,0,0,0,67.887-48H496V88H227.887A72.007,72.007,0,0,0,92.113,88H16v48H92.113A72.018,72.018,0,0,0,160,184Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M160,328a72.018,72.018,0,0,0-67.887,48H16v48H92.113a72.007,72.007,0,0,0,135.774,0H496V376H227.887A72.018,72.018,0,0,0,160,328Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-settings" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M474.542,322.317l-31.766-26.152a193.072,193.072,0,0,0,0-80.33l31.766-26.151a19.939,19.939,0,0,0,4.61-25.442l-32.613-56.487A19.938,19.938,0,0,0,422.2,99.029l-38.561,14.447A192.032,192.032,0,0,0,314.1,73.284l-6.763-40.575A19.938,19.938,0,0,0,287.611,16H222.389a19.938,19.938,0,0,0-19.728,16.712L195.9,73.284a192.032,192.032,0,0,0-69.54,40.192L87.793,99.027a19.94,19.94,0,0,0-24.334,8.731L30.847,164.245a19.936,19.936,0,0,0,4.611,25.438l31.766,26.152a193.072,193.072,0,0,0,0,80.33L35.458,322.316a19.936,19.936,0,0,0-4.61,25.441l32.613,56.488A19.938,19.938,0,0,0,87.8,412.971l38.561-14.447a192.032,192.032,0,0,0,69.54,40.192l6.763,40.575A19.938,19.938,0,0,0,222.389,496h65.222a19.938,19.938,0,0,0,19.728-16.712l6.763-40.572a192.032,192.032,0,0,0,69.54-40.192l38.565,14.449a19.939,19.939,0,0,0,24.334-8.731l32.611-56.485A19.936,19.936,0,0,0,474.542,322.317ZM255,328a72,72,0,1,1,72-72A72,72,0,0,1,255,328Z' class='ci-primary'/>
@@ -2937,6 +3021,9 @@
 <symbol id="cis-touch-app" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M208,245.1V148a68,68,0,0,1,136,0v97.1A132.051,132.051,0,0,0,408,132C408,59.215,348.785,0,276,0S144,59.215,144,132A132.051,132.051,0,0,0,208,245.1Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M450.141,310.373,312,272V148a36,36,0,0,0-36-36h0a36,36,0,0,0-36,36V344H192l-23.295-28.472a74.41,74.41,0,0,0-106.589-8.88C56,312,61.174,316.871,64,320L222.194,496H456V318.081A8,8,0,0,0,450.141,310.373Z' class='ci-primary'/>
 </symbol>
+<symbol id="cis-trademark" viewBox="0 0 512 512">
+  <polygon fill='var(--ci-primary-color, currentColor)' points='40 200 98.667 200 98.667 338.353 146.667 338.353 146.667 200 200 200 200 152 40 152 40 200' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='427.325 152 379.636 152 335.215 245.776 290.795 152 242.93 152 209.985 338.353 258.729 338.353 277 235.003 316.891 319.216 332.078 319.216 338.353 319.216 353.54 319.216 393.782 234.262 413.113 338.353 461.934 338.353 427.325 152' class='ci-primary'/>
+</symbol>
 <symbol id="cis-traffic" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M289.874,151.667h21.871L254.136,83.084a31.931,31.931,0,0,0-24.5-11.417H114.367a31.931,31.931,0,0,0-24.5,11.417L32.256,151.667H289.874Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M237.024,183.667H24v124H64v40h48v-40h56V284.78a52.088,52.088,0,0,1,12.183-33.446l40.041-47.667ZM80,261.667v-42h42v42Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M200,296.667v127h40v40h48v-40H408v40h48v-40h40v-127Zm56,81v-42h42v42Zm184,0H398v-42h42Z' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M265.864,199.084l-55.089,65.583h274.45l-55.089-65.583a31.931,31.931,0,0,0-24.5-11.417H290.367A31.931,31.931,0,0,0,265.864,199.084Z' class='ci-primary'/>
 </symbol>
@@ -3030,6 +3117,9 @@
 <symbol id="cis-user-minus" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M312,496a118.813,118.813,0,0,1-10.429-156.089l-47.244-29.854,38.417-60.368A72.006,72.006,0,0,0,304,211.034V120A104,104,0,0,0,200,16h0A104,104,0,0,0,96,120v91.034a72.006,72.006,0,0,0,11.256,38.655l38.417,60.368-99.862,63.1A64,64,0,0,0,16,427.265v69.306l296.115-.459L312,496Z' class='ci-primary'/><rect width='152' height='42' x='320' y='391' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
+<symbol id="cis-user-plus" viewBox="0 0 512 512">
+  <path fill='var(--ci-primary-color, currentColor)' d='M312,496a118.813,118.813,0,0,1-10.429-156.089l-47.244-29.854,38.417-60.368A72.006,72.006,0,0,0,304,211.034V120A104,104,0,0,0,200,16h0A104,104,0,0,0,96,120v91.034a72.006,72.006,0,0,0,11.256,38.655l38.417,60.368-99.862,63.1A64,64,0,0,0,16,427.265v69.306l296.115-.459L312,496Z' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='417 391 417 336 375 336 375 391 320 391 320 433 375 433 375 488 417 488 417 433 472 433 472 391 417 391' class='ci-primary'/>
+</symbol>
 <symbol id="cis-user-secret" viewBox="0 0 512 512">
   <path fill='var(--ci-primary-color, currentColor)' d='M372.372,33.957a21.964,21.964,0,0,0-26.4-15.1L213.9,51.873l-46-30.665a17.928,17.928,0,0,0-9.942-3.01h0a17.924,17.924,0,0,0-17.193,12.859L113.013,140.071H399.292Z' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='419.198 176.071 93.056 176.071 16 238.817 16 263.614 496.093 263.614 496.093 238.817 419.198 176.071' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M370.864,305.667A84.928,84.928,0,0,0,306,335.694a90.975,90.975,0,0,0-102.761.267,82.543,82.543,0,1,0,19.108,38.287,48.824,48.824,0,0,1,65,.058,85.137,85.137,0,1,0,83.525-68.639Z' class='ci-primary'/>
 </symbol>
@@ -3093,11 +3183,17 @@
 <symbol id="cis-view-column" viewBox="0 0 512 512">
   <rect width='134' height='384' x='362' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='134' height='384' x='16' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='140' height='384' x='186' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
+<symbol id="cis-view-list" viewBox="0 0 512 512">
+  <rect width='480' height='108' x='16' y='202' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='102' x='16' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='102' x='16' y='346' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
 <symbol id="cis-view-module" viewBox="0 0 512 512">
   <polygon fill='var(--ci-primary-color, currentColor)' points='193.999 416 193.999 448 317.999 448 317.999 416 317.999 274 193.999 274 193.999 416' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='353.999 274 353.999 416 353.999 448 496 448 496 274 464 274 353.999 274' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='193.999 96 193.999 238 317.999 238 317.999 96 317.999 64 193.999 64 193.999 96' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='16 238 48 238 157.999 238 157.999 96 157.999 64 16 64 16 238' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='16 274 16 448 157.999 448 157.999 416 157.999 274 48 274 16 274' class='ci-primary'/><polygon fill='var(--ci-primary-color, currentColor)' points='353.999 64 353.999 96 353.999 238 464 238 496 238 496 64 353.999 64' class='ci-primary'/>
 </symbol>
 <symbol id="cis-view-quilt" viewBox="0 0 512 512">
   <rect width='302' height='174' x='194' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='116' height='174' x='194' y='274' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='142' height='384' x='16' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='150' height='174' x='346' y='274' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
+</symbol>
+<symbol id="cis-view-row" viewBox="0 0 512 512">
+  <rect width='480' height='108' x='16' y='202' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='102' x='16' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='102' x='16' y='346' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
 </symbol>
 <symbol id="cis-view-stream" viewBox="0 0 512 512">
   <rect width='480' height='174' x='16' y='64' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='480' height='174' x='16' y='274' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>
@@ -3247,7 +3343,7 @@
   <rect width='168' height='48' x='112' y='176' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.97,178.97,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
 </symbol>
 <symbol id="cis-zoom" viewBox="0 0 512 512">
-  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.97,178.97,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
+  <path fill='var(--ci-primary-color, currentColor)' d='M479.6,400.4l-81.084-81.084-53.32-22.028A178.976,178.976,0,0,0,376,196.687c0-99.252-80.748-180-180-180s-180,80.748-180,180,80.748,180,180,180a178.972,178.972,0,0,0,101.357-31.33l21.961,53.157L400.4,479.6a56,56,0,0,0,79.2-79.2ZM64,196.687c0-72.786,59.215-132,132-132s132,59.214,132,132-59.215,132-132,132S64,269.472,64,196.687Z' class='ci-primary'/>
 </symbol>
 </defs>
 </svg>

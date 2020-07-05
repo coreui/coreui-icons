@@ -8186,6 +8186,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/aspect-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/aspect-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/assistive-listening-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -10818,7 +10827,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/dns/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: web category_humanize: Web name: dns unicode: undefined type: duotone prefix: cid- free: undefined og_title: dns icon · duotone · CoreUI Icons og_description: Get dns icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -11016,6 +11025,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/elevator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/ellipsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/ellipsis/</guid>
       <description></description>
     </item>
     
@@ -11696,6 +11714,42 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-arrow-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-arrow-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-arrow-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-arrow-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/folder-open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -11840,6 +11894,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/gauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/gauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/gem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -11970,6 +12033,87 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip/</guid>
       <description></description>
     </item>
     
@@ -12366,6 +12510,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/info-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/info-circle/</guid>
       <description></description>
     </item>
     
@@ -13865,6 +14018,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/options-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/options-alt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -14729,6 +14891,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/rotate-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/rotate-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/rotate-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/rotate-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/rounded-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -14841,6 +15021,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/scale-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/scale-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/scale/</guid>
       <description></description>
     </item>
     
@@ -15066,6 +15264,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/settings-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/settings-alt/</guid>
       <description></description>
     </item>
     
@@ -16317,7 +16524,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/tv/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: media category_humanize: Media name: tv unicode: undefined type: duotone prefix: cid- free: undefined og_title: tv icon · duotone · CoreUI Icons og_description: Get tv icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -16430,6 +16637,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/user-plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/user-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/user-secret/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16488,7 +16704,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/vertical-align-center/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: textedit category_humanize: TextEdit name: vertical-align-center unicode: undefined type: duotone prefix: cid- free: undefined og_title: vertical-align-center icon · duotone · CoreUI Icons og_description: Get vertical-align-center icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -16497,7 +16713,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/vertical-align-top/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: textedit category_humanize: TextEdit name: vertical-align-top unicode: undefined type: duotone prefix: cid- free: undefined og_title: vertical-align-top icon · duotone · CoreUI Icons og_description: Get vertical-align-top icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -16610,6 +16826,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/view-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/view-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/view-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16623,6 +16848,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/view-quilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/view-row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/view-row/</guid>
       <description></description>
     </item>
     
@@ -24368,6 +24602,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/aspect-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/aspect-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/assistive-listening-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -24516,7 +24759,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/bank/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: buildings category_humanize: Buildings name: bank unicode: undefined type: linear prefix: cil- free: true og_title: bank icon · linear · CoreUI Icons og_description: Get bank icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -27225,7 +27468,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/dns/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: web category_humanize: Web name: dns unicode: undefined type: linear prefix: cil- free: undefined og_title: dns icon · linear · CoreUI Icons og_description: Get dns icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -27387,7 +27630,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/drop/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: drop unicode: undefined type: linear prefix: cil- free: true og_title: drop icon · linear · CoreUI Icons og_description: Get drop icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -28202,6 +28445,42 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-arrow-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-arrow-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-arrow-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-arrow-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/folder-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/folder-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/folder-open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -28575,6 +28854,87 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-dots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-dots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/grip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/grip/</guid>
       <description></description>
     </item>
     
@@ -28998,7 +29358,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/image/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: files category_humanize: Files name: image unicode: undefined type: linear prefix: cil- free: true og_title: image icon · linear · CoreUI Icons og_description: Get image icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -29097,6 +29457,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/info-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/info-circle/</guid>
       <description></description>
     </item>
     
@@ -30479,6 +30848,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/move-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/move-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/move-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/move-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/move/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30672,6 +31059,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/opentype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/options-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/options-alt/</guid>
       <description></description>
     </item>
     
@@ -31694,6 +32090,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/rotate-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/rotate-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/rotate-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/rotate-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/rounded-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -31815,6 +32229,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/scale-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/scale-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/scale/</guid>
       <description></description>
     </item>
     
@@ -32040,6 +32472,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/settings-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/settings-alt/</guid>
       <description></description>
     </item>
     
@@ -33381,7 +33822,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/tv-dvr/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: media category_humanize: Media name: tv-dvr unicode: undefined type: linear prefix: cil- free: undefined og_title: tv-dvr icon · linear · CoreUI Icons og_description: Get tv-dvr icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -33633,7 +34074,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/vertical-align-top/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: vertical-align-top unicode: undefined type: linear prefix: cil- free: true og_title: vertical-align-top icon · linear · CoreUI Icons og_description: Get vertical-align-top icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -33755,6 +34196,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/linear/view-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/view-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/linear/view-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -33768,6 +34218,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/linear/view-quilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/linear/view-row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/linear/view-row/</guid>
       <description></description>
     </item>
     
@@ -34799,6 +35258,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/aspect-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/aspect-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/assistive-listening-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -34947,7 +35415,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/bank/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: buildings category_humanize: Buildings name: bank unicode: undefined type: solid prefix: cis- free: undefined og_title: bank icon · solid · CoreUI Icons og_description: Get bank icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -37854,7 +38322,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/drop/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: drop unicode: undefined type: solid prefix: cis- free: undefined og_title: drop icon · solid · CoreUI Icons og_description: Get drop icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -38669,6 +39137,42 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/folder-arrow-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/folder-arrow-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/folder-arrow-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/folder-arrow-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/folder-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/folder-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/folder-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/folder-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/folder-open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -39015,6 +39519,87 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-dots-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-dots-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-dots-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-dots-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-dots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-dots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-lines-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-lines-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-lines-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-lines-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/grip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/grip/</guid>
       <description></description>
     </item>
     
@@ -39438,7 +40023,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/image/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: files category_humanize: Files name: image unicode: undefined type: solid prefix: cis- free: undefined og_title: image icon · solid · CoreUI Icons og_description: Get image icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -39456,7 +40041,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/images/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: files category_humanize: Files name: images unicode: undefined type: solid prefix: cis- free: undefined og_title: images icon · solid · CoreUI Icons og_description: Get images icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -39537,6 +40122,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/info-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/info-circle/</guid>
       <description></description>
     </item>
     
@@ -40919,6 +41513,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/move-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/move-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/move-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/move-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/move/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41112,6 +41724,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/opentype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/options-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/options-alt/</guid>
       <description></description>
     </item>
     
@@ -41589,7 +42210,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/pin/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: media category_humanize: Media name: pin unicode: undefined type: solid prefix: cis- free: undefined og_title: pin icon · solid · CoreUI Icons og_description: Get pin icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -41688,7 +42309,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/plus/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: user category_humanize: User name: plus unicode: undefined type: solid prefix: cis- free: undefined og_title: plus icon · solid · CoreUI Icons og_description: Get plus icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -42134,6 +42755,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/rotate-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/rotate-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/rotate-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/rotate-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/rounded-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42255,6 +42894,24 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/scale-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/scale-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/scale/</guid>
       <description></description>
     </item>
     
@@ -42480,6 +43137,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/settings-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/settings-alt/</guid>
       <description></description>
     </item>
     
@@ -43821,7 +44487,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/tv-dvr/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: technology category_humanize: Technology name: tv-dvr unicode: undefined type: solid prefix: cis- free: undefined og_title: tv-dvr icon · solid · CoreUI Icons og_description: Get tv-dvr icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -43970,6 +44636,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/user-plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/user-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/user-secret/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44037,7 +44712,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/vertical-align-bottom/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: vertical-align-bottom unicode: undefined type: solid prefix: cis- free: undefined og_title: vertical-align-bottom icon · solid · CoreUI Icons og_description: Get vertical-align-bottom icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -44055,7 +44730,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/vertical-align-center/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: imageedit category_humanize: ImageEdit name: vertical-align-center unicode: undefined type: solid prefix: cis- free: undefined og_title: vertical-align-center icon · solid · CoreUI Icons og_description: Get vertical-align-center icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -44073,7 +44748,7 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/vertical-align-top/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: textedit category_humanize: TextEdit name: vertical-align-top unicode: undefined type: solid prefix: cis- free: undefined og_title: vertical-align-top icon · solid · CoreUI Icons og_description: Get vertical-align-top icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -44195,6 +44870,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/solid/view-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/view-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/solid/view-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44208,6 +44892,15 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/solid/view-quilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/solid/view-row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/solid/view-row/</guid>
       <description></description>
     </item>
     

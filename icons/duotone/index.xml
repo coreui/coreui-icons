@@ -471,6 +471,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/aspect-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/aspect-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/assistive-listening-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3103,7 +3112,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/dns/</guid>
-      <description></description>
+      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: web category_humanize: Web name: dns unicode: undefined type: duotone prefix: cid- free: undefined og_title: dns icon · duotone · CoreUI Icons og_description: Get dns icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
     </item>
     
     <item>
@@ -3301,6 +3310,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/elevator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/ellipsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/ellipsis/</guid>
       <description></description>
     </item>
     
@@ -3981,6 +3999,42 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-arrow-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-arrow-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-arrow-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-arrow-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/folder-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/folder-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/folder-open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -4125,6 +4179,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/gauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/gauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/gem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -4255,6 +4318,87 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-dots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-dots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines-horizontal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines-horizontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip-vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip-vertical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/grip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/grip/</guid>
       <description></description>
     </item>
     
@@ -4651,6 +4795,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/info-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/info-circle/</guid>
       <description></description>
     </item>
     
@@ -6150,6 +6303,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/options-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/options-alt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -7014,6 +7176,24 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/rotate-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/rotate-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/rotate-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/rotate-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/rounded-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -7126,6 +7306,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/scale-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/scale-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/scale/</guid>
       <description></description>
     </item>
     
@@ -7351,6 +7549,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/settings-alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/settings-alt/</guid>
       <description></description>
     </item>
     
@@ -8602,7 +8809,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/tv/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: media category_humanize: Media name: tv unicode: undefined type: duotone prefix: cid- free: undefined og_title: tv icon · duotone · CoreUI Icons og_description: Get tv icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -8715,6 +8922,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/user-plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/user-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/user-secret/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8773,7 +8989,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/vertical-align-center/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: textedit category_humanize: TextEdit name: vertical-align-center unicode: undefined type: duotone prefix: cid- free: undefined og_title: vertical-align-center icon · duotone · CoreUI Icons og_description: Get vertical-align-center icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -8782,7 +8998,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/vertical-align-top/</guid>
-      <description>layout: icon color_scheme: icons framework: icons brand: Icons category: textedit category_humanize: TextEdit name: vertical-align-top unicode: undefined type: duotone prefix: cid- free: undefined og_title: vertical-align-top icon · duotone · CoreUI Icons og_description: Get vertical-align-top icon. CoreUI Icons are premium designed free icon set with marks in SVG, Webfont and raster formats. You can use them in your digital products for web or mobile app. Icons, Icon Font, SVG, Vector, Webfont, Desktop.</description>
+      <description></description>
     </item>
     
     <item>
@@ -8895,6 +9111,15 @@
     
     <item>
       <title></title>
+      <link>https://icons.coreui.io/icons/duotone/view-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/view-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://icons.coreui.io/icons/duotone/view-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -8908,6 +9133,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/icons/duotone/view-quilt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://icons.coreui.io/icons/duotone/view-row/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icons.coreui.io/icons/duotone/view-row/</guid>
       <description></description>
     </item>
     

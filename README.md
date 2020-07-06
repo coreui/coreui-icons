@@ -29,9 +29,9 @@ CoreUI Icons is an open-source icon set with more than 1500 icons in multiple fo
   - [Basic Use](#basic-use)
   - [SVG Sprites](#svg-sprites)
   - [SVG Symbols](#svg-symbols)
+  - CoreUI Icons for Angular (Coming Soon)
+  - [CoreUI Icons for React.js](#coreui-icons-for-reactjs)
   - [CoreUI Icons for Vue.js](#coreui-icons-for-vuejs)
-  - CoreUI Icons for React.js (Comming Soon)
-  - CoreUI Icons for Angular (Comming Soon)
 - [CoreUI Icons PRO](#coreui-icons-pro)
 - [License](#license)
   - [CoreUI Icons Free Icons](#coreui-icons-free-icons)
@@ -140,6 +140,10 @@ Referencing an external SVG has the advantage that your icons get cached, with o
 ```html
 <script defer src="https://unpkg.com/@coreui/icons/js/svgxuse.js"></script>
 ```
+
+### CoreUI Icons for React.js
+
+Please check official [repository](https://github.com/coreui/coreui-icons-react)
 
 ### CoreUI Icons for Vue.js
 

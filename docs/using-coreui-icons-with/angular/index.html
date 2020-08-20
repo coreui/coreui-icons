@@ -20,30 +20,16 @@
     <link rel="stylesheet" href="https://icons.coreui.io/css/all.min.5fd217fb213b82cc07e1b7047a5c316f1b6a71ade5c36bbf0bd34c69c00c9192.css">
 
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-118965717-1');
+
+  gtag('config', 'UA-118965717-9');
 </script>
 
 
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '1703285596584772');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1703285596584772&ev=PageView&noscript=1"
-/></noscript>
 
   </head>
   <body>
@@ -182,16 +168,178 @@ Using CoreUI Icons With</a>
           <strong>On this page: </strong>
           <br><br>
           <nav class="cd-on-this-page" aria-label="Secondary navigation">
-            
+            <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#features">Features</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#api">API</a></li>
+</ul></li>
+</ul>
+</nav>
           </nav>
           <br><br>
           
-          <p>Cooming Soon</p>
+          
+
+<h2 id="features">Features</h2>
+
+<ul>
+<li>Loads icons in three ways:
+
+<ul>
+<li>stored globally in Angular service,</li>
+<li>directly passed SVG tag content,</li>
+<li>source link to SVG file</li>
+</ul></li>
+<li>Reduces icons bundle size when imported as single icons,</li>
+<li>Full functionality of <code>&lt;svg&gt;</code> html tag,</li>
+<li>Clean API</li>
+</ul>
+
+<h2 id="installation">Installation</h2>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">npm install @coreui/icons
+npm install @coreui/icons-angular</code></pre></div>
+<h2 id="usage">Usage</h2>
+<div class="highlight"><pre class="chroma"><code class="language-ts" data-lang="ts"><span class="c1">// app NgModule
+</span><span class="c1"></span>
+<span class="kr">import</span> <span class="p">{</span> <span class="nx">IconModule</span><span class="p">,</span> <span class="nx">IconSetModule</span><span class="p">,</span> <span class="nx">IconSetService</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons-angular&#39;</span><span class="p">;</span>
+
+<span class="kd">@NgModule</span><span class="p">({</span>
+  <span class="nx">imports</span><span class="o">:</span> <span class="p">[</span>
+    <span class="nx">IconModule</span><span class="p">,</span>
+    <span class="nx">IconSetModule</span><span class="p">.</span><span class="nx">forRoot</span><span class="p">(),</span>
+<span class="p">...</span>
+  <span class="nx">providers</span><span class="o">:</span> <span class="p">[</span><span class="nx">IconSetService</span><span class="p">],</span>
+<span class="p">...</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-ts" data-lang="ts"><span class="c1">// app component
+</span><span class="c1"></span>
+<span class="kr">import</span> <span class="p">{</span> <span class="nx">cilEnvelopeOpen</span><span class="p">,</span> <span class="nx">flagSet</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons&#39;</span><span class="p">;</span>
+<span class="kr">import</span> <span class="p">{</span> <span class="nx">IconModule</span><span class="p">,</span> <span class="nx">IconSetModule</span><span class="p">,</span> <span class="nx">IconSetService</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons-angular&#39;</span><span class="p">;</span>
+
+<span class="kd">@Component</span><span class="p">({</span>
+  <span class="p">...</span>
+  <span class="nx">providers</span><span class="o">:</span> <span class="p">[</span><span class="nx">IconSetService</span><span class="p">],</span>
+  <span class="p">...</span>
+<span class="p">})</span>
+<span class="kr">export</span> <span class="kr">class</span> <span class="nx">AppComponent</span> <span class="kr">implements</span> <span class="nx">OnInit</span> <span class="p">{</span>
+  <span class="kr">constructor</span><span class="p">(</span><span class="kr">public</span> <span class="nx">iconSet</span>: <span class="kt">IconSetService</span><span class="p">)</span> <span class="p">{</span>
+    <span class="c1">// iconSet singleton
+</span><span class="c1"></span>    <span class="nx">iconSet</span><span class="p">.</span><span class="nx">icons</span> <span class="o">=</span> <span class="p">{</span> <span class="nx">cilEnvelopeOpen</span><span class="p">,</span> <span class="p">...</span><span class="nx">flagSet</span> <span class="p">};</span>
+  <span class="p">}</span>
+<span class="p">...</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-jsx" data-lang="jsx"><span class="p">&lt;</span><span class="nt">c</span><span class="err">-</span><span class="na">icon</span> <span class="na">name</span><span class="o">=</span><span class="s">&#34;cil-envelope-open&#34;</span> <span class="na">size</span><span class="o">=</span><span class="s">&#34;lg&#34;</span><span class="p">&gt;</span><span class="o">&lt;</span><span class="err">/c-icon&gt;</span>
+<span class="p">&lt;</span><span class="nt">c</span><span class="err">-</span><span class="na">icon</span> <span class="na">name</span><span class="o">=</span><span class="s">&#34;cifAu&#34;</span><span class="p">&gt;</span><span class="o">&lt;</span><span class="err">/c-icon&gt;</span></code></pre></div>
+<h2 id="api">API</h2>
+
+<blockquote>
+<p>Use one of <code>name</code>, <code>src</code> or <code>content</code> prop as it defines the way of icon import</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>proprerty</th>
+<th>type</th>
+<th>default</th>
+<th>description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>name</code></td>
+<td>string</td>
+<td>undefined</td>
+<td>name of SVG icon stored in IconSetService</td>
+</tr>
+
+<tr>
+<td><code>content</code></td>
+<td>string, string[]</td>
+<td>undefined</td>
+<td>SVG content</td>
+</tr>
+
+<tr>
+<td><code>src</code></td>
+<td>string</td>
+<td>undefined</td>
+<td>Link to the icon. If defined, component will be rendered as <code>&lt;img&gt;</code> tag</td>
+</tr>
+
+<tr>
+<td><code>size</code></td>
+<td><code>custom</code>, <code>custom-size</code>, <code>sm</code>, <code>lg</code>, <code>xl</code>, <code>2xl</code>, <code>3xl</code>, <code>4xl</code>, <code>5xl</code>, <code>6xl</code>, <code>7xl</code>, <code>8xl</code>, <code>9xl</code></td>
+<td>&ldquo;</td>
+<td>Size of icon</td>
+</tr>
+
+<tr>
+<td><code>title</code></td>
+<td>string</td>
+<td>undefined</td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>use</code></td>
+<td>string</td>
+<td>undefined</td>
+<td>SVG <code>&lt;use&gt;</code></td>
+</tr>
+
+<tr>
+<td><code>customClasses</code></td>
+<td>string</td>
+<td>undefined</td>
+<td>Replaces default <code>c-icon</code> component classes</td>
+</tr>
+
+<tr>
+<td><code>viewBox</code></td>
+<td>string</td>
+<td>undefined</td>
+<td>SVG <code>viewbox</code></td>
+</tr>
+
+<tr>
+<td><code>attributes</code></td>
+<td>any</td>
+<td><code>{ role: 'img' }</code></td>
+<td>Object with additional html attributes</td>
+</tr>
+
+<tr>
+<td><code>width</code></td>
+<td></td>
+<td>undefined</td>
+<td>SVG <code>width</code></td>
+</tr>
+
+<tr>
+<td><code>height</code></td>
+<td></td>
+<td>undefined</td>
+<td>SVG <code>height</code></td>
+</tr>
+</tbody>
+</table>
 
         </div>
         
         <nav class="cd-toc" aria-label="Secondary navigation">
-          
+          <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#features">Features</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#api">API</a></li>
+</ul></li>
+</ul>
+</nav>
         </nav>
         
       </div>

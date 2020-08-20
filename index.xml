@@ -45401,7 +45401,7 @@ Please use cil- prefix for linear icons, cib- prefix for brand icons, and cif- p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/docs/using-coreui-icons-with/angular/</guid>
-      <description>Cooming Soon</description>
+      <description>Features  Loads icons in three ways:  stored globally in Angular service, directly passed SVG tag content, source link to SVG file  Reduces icons bundle size when imported as single icons, Full functionality of &amp;lt;svg&amp;gt; html tag, Clean API  Installation npm install @coreui/icons npm install @coreui/icons-angular Usage // app NgModule  import { IconModule, IconSetModule, IconSetService } from &amp;#39;@coreui/icons-angular&amp;#39;; @NgModule({ imports: [ IconModule, IconSetModule.forRoot(), ... providers: [IconSetService], .</description>
     </item>
     
     <item>

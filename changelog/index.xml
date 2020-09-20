@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changelog on CoreUI Icons</title>
@@ -111,18 +111,15 @@
       <guid>https://icons.coreui.io/changelog/v2.1.9/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;fix: devDependencies security issues (event-stream, flatmap-stream)&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;chore: dependencies update&lt;/p&gt;
-
+&lt;li&gt;chore: dependencies update
 &lt;ul&gt;
 &lt;li&gt;update &lt;code&gt;npm-run-all&lt;/code&gt; to &lt;code&gt;^4.1.5&lt;/code&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;reinstall &lt;code&gt;nodemon&lt;/code&gt;&lt;/p&gt;
+&lt;li&gt;reinstall &lt;code&gt;nodemon&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;npm uninstall nodemon
-npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;^2.1.2&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+npm install --save-dev nodemon
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;^2.1.2&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -149,14 +146,13 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
       <description>&lt;ul&gt;
 &lt;li&gt;fix(pug): crossplatform use &lt;code&gt;path.sep&lt;/code&gt; instead of &lt;code&gt;/&lt;/code&gt; - thanks @vasilevich&lt;/li&gt;
 &lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;2.0.21&lt;/code&gt;
-
 &lt;ul&gt;
 &lt;li&gt;feat(sidebar): mobile clickout behaviour&lt;/li&gt;
 &lt;li&gt;fix(layout): sidebar on mobile issue &lt;a href=&#34;https://github.com/coreui/coreui-angular/issues/23&#34;&gt;#23&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;fix: sidebar, sidebar-minimizer &lt;code&gt;rtl&lt;/code&gt; ie issues, tweaks&lt;/li&gt;
-&lt;li&gt;refactor(sidebar.js): ps minor cleanup
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;refactor(sidebar.js): ps minor cleanup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -172,7 +168,6 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;chore: build/change-version cleanup&lt;/li&gt;
 &lt;li&gt;docs(readme): fix broken hyperlinks to 6 versions&lt;/li&gt;
 &lt;li&gt;update: &lt;code&gt;@coreui/coreui&lt;/code&gt; to &lt;code&gt;2.0.19&lt;/code&gt;
-
 &lt;ul&gt;
 &lt;li&gt;fix: &lt;code&gt;transparent&lt;/code&gt; is not a valid rgb color ie issue&lt;/li&gt;
 &lt;li&gt;fix(card): rtl for card-header icon margins&lt;/li&gt;
@@ -182,7 +177,8 @@ npm install --save-dev nodemon&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;fix(sidebar): rtl ps scrollbar issue temp fix/refactor&lt;/li&gt;
 &lt;li&gt;feat(sidebar) badge margins for nav-dropdown-toggle&lt;/li&gt;
 &lt;li&gt;fix(scss): add missing light-blue color variable&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     

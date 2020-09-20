@@ -714,10 +714,10 @@ if (window.Element && !Element.prototype.closest) {
 
 }));
 
-new SmoothScroll('a[href*="#c-pricing"], a[href*="#c-contact-form"], a[href*="#c-live-preview"], a[href*="#c-compare"]', {
+new SmoothScroll('a[href*="#pricing"], a[href*="#contact-form"], a[href*="#live-preview"], a[href*="#compare"]', {
 	speed: 300,
 });
 
 document.addEventListener('scrollStart', () => {
-  $('#c-compare-modal').modal('hide');
+  $('#compare-modal').modal('hide');
 }, false);

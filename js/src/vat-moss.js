@@ -30,18 +30,18 @@
 // });
 
 const addVat = (rate, country) => {
-  Array.from(document.querySelectorAll('.c-product-current-price')).forEach(el => {
+  Array.from(document.querySelectorAll('.product-current-price')).forEach(el => {
     const price = parseInt(el.innerHTML.replace('$', '').replace(/\s/g, ''))
     const vat = Math.round(price * (rate / 100) * 100) / 100;
     const total = Math.round((price + vat) * 100) / 100;
     const span = document.createElement('span')
-    el.parentNode.querySelector('.c-product-price-type').innerHTML = (`+ VAT / ${el.parentNode.querySelector('.c-product-price-type').innerHTML}`)
+    el.parentNode.querySelector('.product-price-type').innerHTML = (`+ VAT / ${el.parentNode.querySelector('.product-price-type').innerHTML}`)
     // Your card will be charged $000.00 including $000.00 VAT in POLAND
     const div = document.createElement('div')
-    div.classList.add('c-transaction-summary')
-    div.insertAdjacentHTML('afterbegin', `Your card will be charged <span class="c-text-primary"><strong>$${total}</strong></span> including <strong>$${vat}</strong> in <span class="c-text-uppercase c-text-primary">${country}</span><br/><br/>If you have a VAT ID, you can enter your VAT registration number and automatically process a refund for the VAT you paid.`)
+    div.classList.add('transaction-summary')
+    div.insertAdjacentHTML('afterbegin', `Your card will be charged <span class="text-primary"><strong>$${total}</strong></span> including <strong>$${vat}</strong> in <span class="text-uppercase text-primary">${country}</span><br/><br/>If you have a VAT ID, you can enter your VAT registration number and automatically process a refund for the VAT you paid.`)
 
-    el.parentNode.parentNode.parentNode.insertBefore(div, el.parentNode.parentNode.parentNode.querySelector('.c-transaction-buy'));
+    el.parentNode.parentNode.parentNode.insertBefore(div, el.parentNode.parentNode.parentNode.querySelector('.transaction-buy'));
   })
 }
 

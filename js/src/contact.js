@@ -1,4 +1,4 @@
-const form = document.getElementById('c-form')
+const form = document.getElementById('form')
   
 form.onsubmit = event => {
   event.preventDefault()
@@ -8,7 +8,7 @@ form.onsubmit = event => {
   const inputs = target.elements
   
   if (target[0].checkValidity() === false) {
-    target.classList.add('c-was-validated')
+    target.classList.add('was-validated')
   } else {
     const type = inputs['type'].value
     const name = inputs['name'].value
@@ -50,13 +50,13 @@ form.onsubmit = event => {
     .then(response => {
       const message = document.createElement('div')
       if (response.status === 200 && response.ok === true) {
-        message.classList.add('c-alert', 'c-alert-success', 'c-mb-4')
+        message.classList.add('alert', 'alert-success', 'mb-4')
         message.innerHTML = 'Your message has been sent.'
         // target.parentNode.insertBefore(message, target)
         target.prepend(message)
         target.reset()
       } else {
-        message.classList.add('c-alert', 'c-alert-danger', 'c-mb-4')
+        message.classList.add('alert', 'alert-danger', 'mb-4')
         message.innerHTML = 'Sorry, it seems that our mail server is not responding. Please try again later!'
         // target.parentNode.insertBefore(message, target)
         target.prepend(message)

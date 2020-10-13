@@ -5,35 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dedicated component used to implement CoreUI Icons SVG set in Vue.js.">
     <meta name="author" content="">
-    <meta name="generator" content="Hugo 0.58.3">
+    <meta name="generator" content="Hugo 0.74.3">
     <title>CoreUI Icons for Vue · CoreUI Icons for Bootstrap 4</title>
     <link rel="canonical" href="https://icons.coreui.io/docs/using-coreui-icons-with/vue/">
 
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/scss/docs.min.0d3c73ed0a8b57dc8347f29d9f0ae89cbf00b4584cad51eb2fae9274100ab3ae.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/scss/docs.min.b7d41228ca1afee11457e94223a8027c935361e9c6f4a3862b8f513d5529367c.css">
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/scss/coreui-pro.min.62161f2d1fe4008ba8902ca5b0c11919a52a9b98afcc1bc8d314353d10620371.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/scss/coreui-pro.min.d851f9d0b19e45efbf4bae93cab24a81095fc6795f533c1b89613ffc86c7af0a.css">
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/css/all.min.5fd217fb213b82cc07e1b7047a5c316f1b6a71ade5c36bbf0bd34c69c00c9192.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/css/all.min.04afe194583853dbc897278f1cd35603f76521c9272735b5c39cc8a10f3e6adf.css">
 
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-118965717-9');
-</script>
-
-
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MQRDJKD');</script>
 
   </head>
   <body>
-    <div class="cd-app c-app">
+    <div class="cd-app app">
       <div class="cd-sidebar">
   <button type="button" class="cd-close-button cd-class-toggler" data-target=".cd-sidebar" data-class="cd-show"></button>
   <div class="cd-sidebar-brand">
@@ -169,69 +164,47 @@ Using CoreUI Icons With</a>
           <br><br>
           <nav class="cd-on-this-page" aria-label="Secondary navigation">
             <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#cicon-vue-component">CIcon Vue component</a>
-<ul>
-<li><a href="#features">Features</a></li>
-<li><a href="#installation">Installation</a>
-<ul>
-<li><a href="#npm">NPM</a></li>
-<li><a href="#yarn">Yarn</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#icon-importing">Icon importing</a></li>
-<li><a href="#cicon-api">CIcon API</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#cicon-vue-component">CIcon Vue component</a>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#icon-importing">Icon importing</a></li>
+    <li><a href="#cicon-api">CIcon API</a></li>
+  </ul>
 </nav>
           </nav>
           <br><br>
           
-          
-
-<h2 id="cicon-vue-component">CIcon Vue component</h2>
-
+          <h2 id="cicon-vue-component">CIcon Vue component</h2>
 <p>Dedicated component used to implement <a href="https://coreui.io/icons/">CoreUI Icons SVG set</a> in Vue.js.</p>
-
 <h3 id="features">Features</h3>
-
 <ul>
 <li>Can load icons in three ways:
-
 <ul>
 <li>stored globally in Vue root object,</li>
 <li>directly passed SVG tag content,</li>
 <li>source link to SVG file</li>
-</ul></li>
+</ul>
+</li>
 <li>Greatly reduce icons bundle size, when imported as single icons,</li>
 <li>Full functionality of &lsquo;svg&rsquo; html tag,</li>
 <li>Clean API</li>
 </ul>
-
 <p>For component description visit <a href="https://coreui.io/vue/docs/components/icon">CIcon component documentation</a></p>
-
 <h3 id="installation">Installation</h3>
-
 <p>If you already have installed <a href="https://coreui.io/vue/docs">CoreUI Vue component library</a> plugin, then you have CIcon component already installed, otherwise install package by:</p>
-
 <h4 id="npm">NPM</h4>
-
 <div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">npm install @coreui/icons-vue --save</code></pre></div>
-
 <h4 id="yarn">Yarn</h4>
-
 <div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">yarn add @coreui/icons-vue</code></pre></div>
-
 <h2 id="icon-importing">Icon importing</h2>
-
 <p>There are three ways of icon importing:</p>
-
 <p>passing icon name by &lsquo;name&rsquo; prop (recommended) - this way you import your needed icons once and pass them to $root object on &lsquo;icons&rsquo; key. Example:
 in main.js</p>
-
-<p><div class="highlight"><pre class="chroma"><code class="language-js" data-lang="js"><span class="k">import</span> <span class="p">{</span> <span class="nx">cilPencil</span><span class="p">,</span> <span class="nx">cilSettings</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons&#39;</span>
+<p><div class="highlight"><pre class="chroma"><code class="language-js" data-lang="js"><span class="kr">import</span> <span class="p">{</span> <span class="nx">cilPencil</span><span class="p">,</span> <span class="nx">cilSettings</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons&#39;</span>
 
 <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
   <span class="p">[...]</span>
@@ -242,32 +215,25 @@ Later anywhere in the app:
 <div class="highlight"><pre class="chroma"><code class="language-js" data-lang="js"><span class="o">&lt;</span><span class="nx">CIcon</span> <span class="nx">name</span><span class="o">=</span><span class="s2">&#34;cilPencil&#34;</span><span class="o">&gt;</span>
 <span class="o">&lt;</span><span class="nx">CIcon</span> <span class="nx">name</span><span class="o">=</span><span class="s2">&#34;cilSettings&#34;</span><span class="o">&gt;</span>
 </code></pre></div></p>
-
 <p>You can pass the name of the icon both in camelCase and kebab-case</p>
-
 <p>Passing icon by &lsquo;content&rsquo; prop. Simply import the icon and pass it to the component. Example:</p>
-
 <div class="highlight"><pre class="chroma"><code class="language-js" data-lang="js"><span class="o">&lt;</span><span class="nx">template</span><span class="o">&gt;</span>
   <span class="o">&lt;</span><span class="nx">CIcon</span> <span class="o">:</span><span class="nx">content</span><span class="o">=</span><span class="s2">&#34;$options.pencil&#34;</span><span class="o">&gt;</span>
 <span class="o">&lt;</span><span class="err">/template&gt;</span>
 
 <span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
-<span class="k">import</span> <span class="p">{</span> <span class="nx">cilPencil</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons&#39;</span>
- <span class="k">export</span> <span class="k">default</span> <span class="p">{</span>
+<span class="kr">import</span> <span class="p">{</span> <span class="nx">cilPencil</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;@coreui/icons&#39;</span>
+ <span class="kr">export</span> <span class="k">default</span> <span class="p">{</span>
    <span class="nx">pencil</span><span class="o">:</span> <span class="nx">cilPencil</span>
 <span class="p">}</span>
 <span class="o">&lt;</span><span class="err">/script&gt;</span>
 </code></pre></div>
-
 <h2 id="cicon-api">CIcon API</h2>
-
-<div class="c-callout c-callout-warning c-elevation-1 cd-py-2">
+<div class="callout callout-warning elevation-1 cd-py-2">
 You can use only one of &lsquo;name&rsquo;, &lsquo;src&rsquo;, and &lsquo;content&rsquo; prop, as they define the way icon is imported. (See the paragraph above)
 </div>
 
-
 <p>Linking to svg source by &lsquo;src&rsquo; prop. Component will be rendered as &lsquo;img&rsquo; tag.</p>
-
 <table>
 <thead>
 <tr>
@@ -277,7 +243,6 @@ You can use only one of &lsquo;name&rsquo;, &lsquo;src&rsquo;, and &lsquo;conten
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>name</code></td>
@@ -285,28 +250,24 @@ You can use only one of &lsquo;name&rsquo;, &lsquo;src&rsquo;, and &lsquo;conten
 <td>String</td>
 <td>Name of the icon placed in the $root instance.</td>
 </tr>
-
 <tr>
 <td><code>content</code></td>
 <td>undefined</td>
 <td>String/Array</td>
 <td>Icon SVG content.</td>
 </tr>
-
 <tr>
 <td><code>src</code></td>
 <td>undefined</td>
 <td>String</td>
 <td>Link to the icon. If defined component will be rendered as &lsquo;img&rsquo; tag.</td>
 </tr>
-
 <tr>
 <td><code>size</code></td>
 <td>undefined</td>
 <td>String</td>
 <td>Size of the icon. Available sizes: &lsquo;sm&rsquo;, &lsquo;lg&rsquo;, &lsquo;xl&rsquo;, &lsquo;custom&rsquo;.</td>
 </tr>
-
 <tr>
 <td><code>customClasses</code></td>
 <td>undefined</td>
@@ -320,22 +281,16 @@ You can use only one of &lsquo;name&rsquo;, &lsquo;src&rsquo;, and &lsquo;conten
         
         <nav class="cd-toc" aria-label="Secondary navigation">
           <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#cicon-vue-component">CIcon Vue component</a>
-<ul>
-<li><a href="#features">Features</a></li>
-<li><a href="#installation">Installation</a>
-<ul>
-<li><a href="#npm">NPM</a></li>
-<li><a href="#yarn">Yarn</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#icon-importing">Icon importing</a></li>
-<li><a href="#cicon-api">CIcon API</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#cicon-vue-component">CIcon Vue component</a>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#icon-importing">Icon importing</a></li>
+    <li><a href="#cicon-api">CIcon API</a></li>
+  </ul>
 </nav>
         </nav>
         

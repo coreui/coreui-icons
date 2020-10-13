@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on CoreUI Icons</title>
@@ -27,7 +27,7 @@ To use our build system and run our documentation locally, you&amp;rsquo;ll need
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/docs/getting-started/introduction/</guid>
-      <description>.cd-example i { font-size: 2rem; }  Installation NPM npm install @coreui/icons@next --save Yarn yarn add @coreui/icons@next Or, you can also clone or download this repository as zip.
+      <description>Installation NPM npm install @coreui/icons@next --save Yarn yarn add @coreui/icons@next Or, you can also clone or download this repository as zip.
 Usage Basic Use You can place CoreUI Icons just about anywhere using a CSS style prefix and the icon’s name. CoreUI Icons are designed to be used with inline elements ex. &amp;lt;i&amp;gt; or &amp;lt;span&amp;gt;.
 Please use cil- prefix for linear icons, cib- prefix for brand icons, and cif- prefix for flag icons.</description>
     </item>
@@ -38,7 +38,7 @@ Please use cil- prefix for linear icons, cib- prefix for brand icons, and cif- p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://icons.coreui.io/docs/using-coreui-icons-with/angular/</guid>
-      <description>Features  Loads icons in three ways:  stored globally in Angular service, directly passed SVG tag content, source link to SVG file  Reduces icons bundle size when imported as single icons, Full functionality of &amp;lt;svg&amp;gt; html tag, Clean API  Installation npm install @coreui/icons npm install @coreui/icons-angular Usage // app NgModule  import { IconModule, IconSetModule, IconSetService } from &amp;#39;@coreui/icons-angular&amp;#39;; @NgModule({ imports: [ IconModule, IconSetModule.forRoot(), ... providers: [IconSetService], .</description>
+      <description>Features  Loads icons in three ways:  stored globally in Angular service, directly passed SVG tag content, source link to SVG file   Reduces icons bundle size when imported as single icons, Full functionality of &amp;lt;svg&amp;gt; html tag, Clean API  Installation npm install @coreui/icons npm install @coreui/icons-angular Usage // app NgModule  import { IconModule, IconSetModule, IconSetService } from &amp;#39;@coreui/icons-angular&amp;#39;; @NgModule({ imports: [ IconModule, IconSetModule.forRoot(), ... providers: [IconSetService], .</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ passing icon name by &amp;lsquo;name&amp;rsquo; prop (recommended) - this way yo
       
       <guid>https://icons.coreui.io/docs/using-coreui-icons-with/vue/</guid>
       <description>CIcon Vue component Dedicated component used to implement CoreUI Icons SVG set in Vue.js.
-Features  Can load icons in three ways:  stored globally in Vue root object, directly passed SVG tag content, source link to SVG file  Greatly reduce icons bundle size, when imported as single icons, Full functionality of &amp;lsquo;svg&amp;rsquo; html tag, Clean API  For component description visit CIcon component documentation
+Features  Can load icons in three ways:  stored globally in Vue root object, directly passed SVG tag content, source link to SVG file   Greatly reduce icons bundle size, when imported as single icons, Full functionality of &amp;lsquo;svg&amp;rsquo; html tag, Clean API  For component description visit CIcon component documentation
 Installation If you already have installed CoreUI Vue component library plugin, then you have CIcon component already installed, otherwise install package by:</description>
     </item>
     

@@ -5,35 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Learn how to use CoreUI Icons&rsquo;s included npm scripts to compile source code, run tests, and more.">
     <meta name="author" content="">
-    <meta name="generator" content="Hugo 0.58.3">
+    <meta name="generator" content="Hugo 0.74.3">
     <title>Build Tools · CoreUI Icons for Bootstrap 4</title>
     <link rel="canonical" href="https://icons.coreui.io/docs/getting-started/build-tools/">
 
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/scss/docs.min.0d3c73ed0a8b57dc8347f29d9f0ae89cbf00b4584cad51eb2fae9274100ab3ae.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/scss/docs.min.b7d41228ca1afee11457e94223a8027c935361e9c6f4a3862b8f513d5529367c.css">
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/scss/coreui-pro.min.62161f2d1fe4008ba8902ca5b0c11919a52a9b98afcc1bc8d314353d10620371.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/scss/coreui-pro.min.d851f9d0b19e45efbf4bae93cab24a81095fc6795f533c1b89613ffc86c7af0a.css">
     
     
-    <link rel="stylesheet" href="https://icons.coreui.io/css/all.min.5fd217fb213b82cc07e1b7047a5c316f1b6a71ade5c36bbf0bd34c69c00c9192.css">
+    <link rel="stylesheet" href="https://icons.coreui.io/css/all.min.04afe194583853dbc897278f1cd35603f76521c9272735b5c39cc8a10f3e6adf.css">
 
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-118965717-9');
-</script>
-
-
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MQRDJKD');</script>
 
   </head>
   <body>
-    <div class="cd-app c-app">
+    <div class="cd-app app">
       <div class="cd-sidebar">
   <button type="button" class="cd-close-button cd-class-toggler" data-target=".cd-sidebar" data-class="cd-show"></button>
   <div class="cd-sidebar-brand">
@@ -169,38 +164,26 @@ Using CoreUI Icons With</a>
           <br><br>
           <nav class="cd-on-this-page" aria-label="Secondary navigation">
             <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#tooling-setup">Tooling setup</a></li>
-<li><a href="#using-npm-scripts">Using npm scripts</a></li>
-<li><a href="#autoprefixer">Autoprefixer</a></li>
-<li><a href="#troubleshooting">Troubleshooting</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#tooling-setup">Tooling setup</a></li>
+    <li><a href="#using-npm-scripts">Using npm scripts</a></li>
+    <li><a href="#autoprefixer">Autoprefixer</a></li>
+    <li><a href="#troubleshooting">Troubleshooting</a></li>
+  </ul>
 </nav>
           </nav>
           <br><br>
           
-          
-
-<h2 id="tooling-setup">Tooling setup</h2>
-
+          <h2 id="tooling-setup">Tooling setup</h2>
 <p>CoreUI Icons uses <a href="https://docs.npmjs.com/misc/scripts">npm scripts</a> for its build system. Our <a href="https://github.com/coreui/coreui-icons/blob/v2.0.0-beta.5/package.json">package.json</a> includes convenient methods for working with the framework, including compiling code, running tests, and more.</p>
-
 <p>To use our build system and run our documentation locally, you&rsquo;ll need a copy of CoreUI Icons&rsquo;s source files and Node. Follow these steps and you should be ready to rock:</p>
-
 <ol>
 <li><a href="https://nodejs.org/en/download/">Download and install Node.js</a>, which we use to manage our dependencies.</li>
 <li>Navigate to the root <code>/coreui-icons</code> directory and run <code>npm install</code> to install our local dependencies listed in <a href="https://github.com/coreui/coreui-icons/blob/master/package.json">package.json</a>.</li>
 </ol>
-
 <p>When completed, you&rsquo;ll be able to run the various commands provided from the command line.</p>
-
 <h2 id="using-npm-scripts">Using npm scripts</h2>
-
 <p>Our <a href="https://github.com/coreui/coreui-icons/blob/v2.0.0-beta.5/package.json">package.json</a> includes the following commands and tasks:</p>
-
 <table>
 <thead>
 <tr>
@@ -208,7 +191,6 @@ Using CoreUI Icons With</a>
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>npm run build</code></td>
@@ -216,30 +198,22 @@ Using CoreUI Icons With</a>
 </tr>
 </tbody>
 </table>
-
 <p>Run <code>npm run</code> to see all the npm scripts.</p>
-
 <h2 id="autoprefixer">Autoprefixer</h2>
-
 <p>CoreUI Icons uses <a href="https://github.com/postcss/autoprefixer">Autoprefixer</a> (included in our build process) to automatically add vendor prefixes to some CSS properties at build time.</p>
-
 <h2 id="troubleshooting">Troubleshooting</h2>
-
 <p>Should you encounter problems with installing dependencies, uninstall all previous dependency versions (global and local). Then, rerun <code>npm install</code>.</p>
 
         </div>
         
         <nav class="cd-toc" aria-label="Secondary navigation">
           <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#tooling-setup">Tooling setup</a></li>
-<li><a href="#using-npm-scripts">Using npm scripts</a></li>
-<li><a href="#autoprefixer">Autoprefixer</a></li>
-<li><a href="#troubleshooting">Troubleshooting</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#tooling-setup">Tooling setup</a></li>
+    <li><a href="#using-npm-scripts">Using npm scripts</a></li>
+    <li><a href="#autoprefixer">Autoprefixer</a></li>
+    <li><a href="#troubleshooting">Troubleshooting</a></li>
+  </ul>
 </nav>
         </nav>
         

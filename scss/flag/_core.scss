@@ -11,6 +11,6 @@
 @each $icon, $unicode in $icons {
   $icon-lower: to-lower-case(#{$icon});
   .#{$coreui-icons-prefix}#{$icon-lower} {
-    background-image: url(../svg/flag/#{$coreui-icons-prefix}#{$icon}.svg);
+    background-image: url(#{$coreui-flag-icons-path}/#{$coreui-icons-prefix}#{$icon}.svg);
   }
 }

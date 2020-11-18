@@ -526,6 +526,7 @@ export declare const brandSet: {
   "cibOpenvpn": any[];
   "cibOpera": any[];
   "cibOpsgenie": any[];
+  "cibOracleNetsuite": any[];
   "cibOracle": any[];
   "cibOrcid": any[];
   "cibOrigin": any[];

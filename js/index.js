@@ -528,6 +528,7 @@ import { cibOpensuse } from './brand/cib-opensuse.js'
 import { cibOpenvpn } from './brand/cib-openvpn.js'
 import { cibOpera } from './brand/cib-opera.js'
 import { cibOpsgenie } from './brand/cib-opsgenie.js'
+import { cibOracleNetsuite } from './brand/cib-oracle-netsuite.js'
 import { cibOracle } from './brand/cib-oracle.js'
 import { cibOrcid } from './brand/cib-orcid.js'
 import { cibOrigin } from './brand/cib-origin.js'
@@ -1357,6 +1358,7 @@ export { cibOpensuse }
 export { cibOpenvpn }
 export { cibOpera }
 export { cibOpsgenie }
+export { cibOracleNetsuite }
 export { cibOracle }
 export { cibOrcid }
 export { cibOrigin }
@@ -1698,6 +1700,7 @@ import { cifCf } from './flag/cif-cf.js'
 import { cifCg } from './flag/cif-cg.js'
 import { cifCh } from './flag/cif-ch.js'
 import { cifCi } from './flag/cif-ci.js'
+import { cifCk } from './flag/cif-ck.js'
 import { cifCl } from './flag/cif-cl.js'
 import { cifCm } from './flag/cif-cm.js'
 import { cifCn } from './flag/cif-cn.js'
@@ -1854,6 +1857,7 @@ import { cifUz } from './flag/cif-uz.js'
 import { cifVa } from './flag/cif-va.js'
 import { cifVc } from './flag/cif-vc.js'
 import { cifVe } from './flag/cif-ve.js'
+import { cifVg } from './flag/cif-vg.js'
 import { cifVn } from './flag/cif-vn.js'
 import { cifWs } from './flag/cif-ws.js'
 import { cifXk } from './flag/cif-xk.js'
@@ -1895,6 +1899,7 @@ export { cifCf }
 export { cifCg }
 export { cifCh }
 export { cifCi }
+export { cifCk }
 export { cifCl }
 export { cifCm }
 export { cifCn }
@@ -2051,6 +2056,7 @@ export { cifUz }
 export { cifVa }
 export { cifVc }
 export { cifVe }
+export { cifVg }
 export { cifVn }
 export { cifWs }
 export { cifXk }

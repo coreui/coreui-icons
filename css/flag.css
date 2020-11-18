@@ -152,6 +152,10 @@
   background-image: url(../svg/flag/cif-CI.svg);
 }
 
+.cif-ck {
+  background-image: url(../svg/flag/cif-CK.svg);
+}
+
 .cif-cl {
   background-image: url(../svg/flag/cif-CL.svg);
 }
@@ -774,6 +778,10 @@
 
 .cif-ve {
   background-image: url(../svg/flag/cif-VE.svg);
+}
+
+.cif-vg {
+  background-image: url(../svg/flag/cif-VG.svg);
 }
 
 .cif-vn {

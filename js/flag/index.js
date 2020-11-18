@@ -35,6 +35,7 @@ import { cifCf } from './cif-cf.js'
 import { cifCg } from './cif-cg.js'
 import { cifCh } from './cif-ch.js'
 import { cifCi } from './cif-ci.js'
+import { cifCk } from './cif-ck.js'
 import { cifCl } from './cif-cl.js'
 import { cifCm } from './cif-cm.js'
 import { cifCn } from './cif-cn.js'
@@ -191,6 +192,7 @@ import { cifUz } from './cif-uz.js'
 import { cifVa } from './cif-va.js'
 import { cifVc } from './cif-vc.js'
 import { cifVe } from './cif-ve.js'
+import { cifVg } from './cif-vg.js'
 import { cifVn } from './cif-vn.js'
 import { cifWs } from './cif-ws.js'
 import { cifXk } from './cif-xk.js'
@@ -232,6 +234,7 @@ export { cifCf }
 export { cifCg }
 export { cifCh }
 export { cifCi }
+export { cifCk }
 export { cifCl }
 export { cifCm }
 export { cifCn }
@@ -388,6 +391,7 @@ export { cifUz }
 export { cifVa }
 export { cifVc }
 export { cifVe }
+export { cifVg }
 export { cifVn }
 export { cifWs }
 export { cifXk }

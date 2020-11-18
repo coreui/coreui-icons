@@ -33,6 +33,7 @@ export declare const flagSet: {
   "cifCg": any[];
   "cifCh": any[];
   "cifCi": any[];
+  "cifCk": any[];
   "cifCl": any[];
   "cifCm": any[];
   "cifCn": any[];
@@ -189,6 +190,7 @@ export declare const flagSet: {
   "cifVa": any[];
   "cifVc": any[];
   "cifVe": any[];
+  "cifVg": any[];
   "cifVn": any[];
   "cifWs": any[];
   "cifXk": any[];

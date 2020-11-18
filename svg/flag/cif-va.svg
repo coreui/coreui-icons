@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="301" height="301" viewBox="0 0 301 301">
   <defs>
-    <radialGradient id="m" cx="49.99%" cy="50.05%" r="54.122%" fx="49.99%" fy="50.05%">
+    <radialGradient id="g" cx="49.983%" cy="50.017%" r="56.303%" fx="49.983%" fy="50.017%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="b" cx="49.96%" cy="50.001%" r="57.257%" fx="49.96%" fy="50.001%" gradientTransform="matrix(1 0 0 .98445 0 .008)">
+    <radialGradient id="m" cx="49.99%" cy="50.05%" r="54.122%" fx="49.99%" fy="50.05%">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
@@ -24,7 +24,7 @@
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>
-    <radialGradient id="g" cx="49.983%" cy="50.017%" r="56.303%" fx="49.983%" fy="50.017%" gradientTransform="matrix(1 0 0 .98543 0 .007)">
+    <radialGradient id="b" cx="49.96%" cy="50.001%" r="57.257%" fx="49.96%" fy="50.001%" gradientTransform="matrix(1 0 0 .98445 0 .008)">
       <stop offset="0%" stop-color="#FFF"/>
       <stop offset="100%" stop-color="#C9C9C9"/>
     </radialGradient>

@@ -528,6 +528,7 @@ import { cibOpensuse } from './cib-opensuse.js'
 import { cibOpenvpn } from './cib-openvpn.js'
 import { cibOpera } from './cib-opera.js'
 import { cibOpsgenie } from './cib-opsgenie.js'
+import { cibOracleNetsuite } from './cib-oracle-netsuite.js'
 import { cibOracle } from './cib-oracle.js'
 import { cibOrcid } from './cib-orcid.js'
 import { cibOrigin } from './cib-origin.js'
@@ -1357,6 +1358,7 @@ export { cibOpensuse }
 export { cibOpenvpn }
 export { cibOpera }
 export { cibOpsgenie }
+export { cibOracleNetsuite }
 export { cibOracle }
 export { cibOrcid }
 export { cibOrigin }

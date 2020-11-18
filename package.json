@@ -1,6 +1,6 @@
 {
   "name": "@coreui/icons",
-  "version": "2.0.0-beta.5",
+  "version": "2.0.0-rc.0",
   "description": "CoreUI Icons Free",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
@@ -9,9 +9,9 @@
   "scripts": {
     "clean": "rimraf css",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",
-    "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand/brand-icons.scss css/brand.css",
-    "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag/flag-icons.scss css/flag.css",
-    "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free/free-icons.scss css/free.css",
+    "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand.scss css/brand.css",
+    "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag.scss css/flag.css",
+    "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
     "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
     "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/all.min.css css/all.css",

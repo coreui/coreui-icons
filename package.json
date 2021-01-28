@@ -1,7 +1,7 @@
 {
-  "name": "@coreui/icons",
-  "version": "2.0.0-rc.0",
-  "description": "CoreUI Icons Free",
+  "name": "@makbeth/icons",
+  "version": "2.0.1",
+  "description": "CoreUI Icons Free (fixed version)",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
   "style": "css/all.css",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coreui/coreui-icons.git"
+    "url": "git+https://github.com/makbeth/coreui-icons.git"
   },
   "keywords": [
     "Icons",

@@ -8,16 +8,13 @@
   "sideEffects": false,
   "scripts": {
     "clean": "rimraf css",
-    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify*",
+    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",
     "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand.scss css/brand.css",
     "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag.scss css/flag.css",
     "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
     "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
-    "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output css/all.min.css css/all.css",
-    "css-minify-brands": "cleancss --level 1 --source-map --source-map-inline-sources --output css/brand.min.css css/brand.css",
-    "css-minify-flag": "cleancss --level 1 --source-map --source-map-inline-sources --output css/flag.min.css css/flag.css",
-    "css-minify-free": "cleancss --level 1 --source-map --source-map-inline-sources --output css/free.min.css css/free.css",
+    "css-minify": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
     "build": "npm-run-all --sequential clean css"
   },
   "repository": {

@@ -20,23 +20,25 @@ CoreUI Icons is an open-source icon set with more than 1500 icons in multiple fo
 
 ## Table of Contents
 
-- [Preview & Docs](#preview--docs)
-- [Installation](#installation)
-  - [CDN](#cdn)
-  - [NPM](#npm)
-  - [Yarn](#yarn)
-- [Usage](#usage)
-  - [Basic Use](#basic-use)
-  - [SVG Sprites](#svg-sprites)
-  - [SVG Symbols](#svg-symbols)
-  - CoreUI Icons for Angular (Coming Soon)
-  - [CoreUI Icons for React.js](#coreui-icons-for-reactjs)
-  - [CoreUI Icons for Vue.js](#coreui-icons-for-vuejs)
-- [CoreUI Icons PRO](#coreui-icons-pro)
-- [License](#license)
-  - [CoreUI Icons Free Icons](#coreui-icons-free-icons)
-  - [CoreUI Icons Brand and Flag Icons](#coreui-icons-brand-and-flag-icons)
-  - [Brand Icons](#brand-icons)
+- [CoreUI Icons (1500+ Free icons)- Simply beautiful open source icons](#coreui-icons-1500-free-icons--simply-beautiful-open-source-icons)
+  - [Table of Contents](#table-of-contents)
+  - [Preview & Docs](#preview--docs)
+  - [Installation](#installation)
+    - [CDN](#cdn)
+    - [NPM](#npm)
+    - [Yarn](#yarn)
+  - [Usage](#usage)
+    - [Basic Use](#basic-use)
+    - [SVG Sprites](#svg-sprites)
+    - [SVG Symbols](#svg-symbols)
+    - [CoreUI Icons for Angular](#coreui-icons-for-angular)
+    - [CoreUI Icons for React.js](#coreui-icons-for-reactjs)
+    - [CoreUI Icons for Vue.js](#coreui-icons-for-vuejs)
+  - [CoreUI Icons PRO](#coreui-icons-pro)
+  - [License](#license)
+    - [CoreUI Icons Free Icons](#coreui-icons-free-icons)
+    - [CoreUI Icons Brand and Flag Icons](#coreui-icons-brand-and-flag-icons)
+      - [Brand Icons](#brand-icons)
 ## Preview & Docs
 
 [https://coreui.io/icons/](https://coreui.io/icons/)
@@ -140,14 +142,17 @@ Referencing an external SVG has the advantage that your icons get cached, with o
 ```html
 <script defer src="https://unpkg.com/@coreui/icons/js/svgxuse.js"></script>
 ```
+### CoreUI Icons for Angular
+
+- Please check official repository [CoreUI Icons for Angular](https://github.com/coreui/coreui-icons-angular)
 
 ### CoreUI Icons for React.js
 
-Please check official [repository](https://github.com/coreui/coreui-icons-react)
+- Please check official repository [CoreUI Icons for React](https://github.com/coreui/coreui-icons-react)
 
 ### CoreUI Icons for Vue.js
 
-Please check official [repository](https://github.com/coreui/coreui-icons-vue)
+- Please check official repository [CoreUI Icons for Vue.js](https://github.com/coreui/coreui-icons-vue)
 
 ## CoreUI Icons PRO
 

@@ -14,7 +14,7 @@
     "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
     "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
-    "css-minify": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
+    "css-minify": "cleancss -O1 --format breakWith=lf --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
     "build": "npm-run-all --sequential clean css"
   },
   "repository": {

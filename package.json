@@ -53,17 +53,18 @@
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
-    "clean-css-cli": "^4.3.0",
+    "clean-css-cli": "^5.2.2",
     "concat": "^1.0.3",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "npm-run-all": "^4.1.5",
-    "postcss-cli": "^7.1.1",
+    "postcss": "^8.2.8",
+    "postcss-cli": "^8.3.1",
     "rimraf": "^3.0.2",
-    "stylelint": "^13.5.0",
+    "stylelint": "^13.12.0",
     "stylelint-config-recommended-scss": "^4.2.0",
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-order": "^4.0.0",
-    "stylelint-scss": "^3.17.2"
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
   },
   "files": [
     "css/",

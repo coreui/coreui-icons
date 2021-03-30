@@ -1663,409 +1663,6 @@ export { cibZorin }
 export { cibZulip }
 
 
-import { flagSet } from './flag/flag-set.js' 
-export { flagSet } 
-
-import { cifAd } from './flag/cif-ad.js'
-import { cifAe } from './flag/cif-ae.js'
-import { cifAf } from './flag/cif-af.js'
-import { cifAg } from './flag/cif-ag.js'
-import { cifAl } from './flag/cif-al.js'
-import { cifAm } from './flag/cif-am.js'
-import { cifAo } from './flag/cif-ao.js'
-import { cifAr } from './flag/cif-ar.js'
-import { cifAt } from './flag/cif-at.js'
-import { cifAu } from './flag/cif-au.js'
-import { cifAz } from './flag/cif-az.js'
-import { cifBa } from './flag/cif-ba.js'
-import { cifBb } from './flag/cif-bb.js'
-import { cifBd } from './flag/cif-bd.js'
-import { cifBe } from './flag/cif-be.js'
-import { cifBf } from './flag/cif-bf.js'
-import { cifBg } from './flag/cif-bg.js'
-import { cifBh } from './flag/cif-bh.js'
-import { cifBi } from './flag/cif-bi.js'
-import { cifBj } from './flag/cif-bj.js'
-import { cifBn } from './flag/cif-bn.js'
-import { cifBo } from './flag/cif-bo.js'
-import { cifBr } from './flag/cif-br.js'
-import { cifBs } from './flag/cif-bs.js'
-import { cifBt } from './flag/cif-bt.js'
-import { cifBw } from './flag/cif-bw.js'
-import { cifBy } from './flag/cif-by.js'
-import { cifBz } from './flag/cif-bz.js'
-import { cifCa } from './flag/cif-ca.js'
-import { cifCd } from './flag/cif-cd.js'
-import { cifCf } from './flag/cif-cf.js'
-import { cifCg } from './flag/cif-cg.js'
-import { cifCh } from './flag/cif-ch.js'
-import { cifCi } from './flag/cif-ci.js'
-import { cifCk } from './flag/cif-ck.js'
-import { cifCl } from './flag/cif-cl.js'
-import { cifCm } from './flag/cif-cm.js'
-import { cifCn } from './flag/cif-cn.js'
-import { cifCo } from './flag/cif-co.js'
-import { cifCr } from './flag/cif-cr.js'
-import { cifCu } from './flag/cif-cu.js'
-import { cifCv } from './flag/cif-cv.js'
-import { cifCy } from './flag/cif-cy.js'
-import { cifCz } from './flag/cif-cz.js'
-import { cifDe } from './flag/cif-de.js'
-import { cifDj } from './flag/cif-dj.js'
-import { cifDk } from './flag/cif-dk.js'
-import { cifDm } from './flag/cif-dm.js'
-import { cifDo } from './flag/cif-do.js'
-import { cifDz } from './flag/cif-dz.js'
-import { cifEc } from './flag/cif-ec.js'
-import { cifEe } from './flag/cif-ee.js'
-import { cifEg } from './flag/cif-eg.js'
-import { cifEr } from './flag/cif-er.js'
-import { cifEs } from './flag/cif-es.js'
-import { cifEt } from './flag/cif-et.js'
-import { cifFi } from './flag/cif-fi.js'
-import { cifFj } from './flag/cif-fj.js'
-import { cifFm } from './flag/cif-fm.js'
-import { cifFr } from './flag/cif-fr.js'
-import { cifGa } from './flag/cif-ga.js'
-import { cifGb } from './flag/cif-gb.js'
-import { cifGd } from './flag/cif-gd.js'
-import { cifGe } from './flag/cif-ge.js'
-import { cifGh } from './flag/cif-gh.js'
-import { cifGm } from './flag/cif-gm.js'
-import { cifGn } from './flag/cif-gn.js'
-import { cifGq } from './flag/cif-gq.js'
-import { cifGr } from './flag/cif-gr.js'
-import { cifGt } from './flag/cif-gt.js'
-import { cifGw } from './flag/cif-gw.js'
-import { cifGy } from './flag/cif-gy.js'
-import { cifHk } from './flag/cif-hk.js'
-import { cifHn } from './flag/cif-hn.js'
-import { cifHr } from './flag/cif-hr.js'
-import { cifHt } from './flag/cif-ht.js'
-import { cifHu } from './flag/cif-hu.js'
-import { cifId } from './flag/cif-id.js'
-import { cifIe } from './flag/cif-ie.js'
-import { cifIl } from './flag/cif-il.js'
-import { cifIn } from './flag/cif-in.js'
-import { cifIq } from './flag/cif-iq.js'
-import { cifIr } from './flag/cif-ir.js'
-import { cifIs } from './flag/cif-is.js'
-import { cifIt } from './flag/cif-it.js'
-import { cifJm } from './flag/cif-jm.js'
-import { cifJo } from './flag/cif-jo.js'
-import { cifJp } from './flag/cif-jp.js'
-import { cifKe } from './flag/cif-ke.js'
-import { cifKg } from './flag/cif-kg.js'
-import { cifKh } from './flag/cif-kh.js'
-import { cifKi } from './flag/cif-ki.js'
-import { cifKm } from './flag/cif-km.js'
-import { cifKn } from './flag/cif-kn.js'
-import { cifKp } from './flag/cif-kp.js'
-import { cifKr } from './flag/cif-kr.js'
-import { cifKw } from './flag/cif-kw.js'
-import { cifKz } from './flag/cif-kz.js'
-import { cifLa } from './flag/cif-la.js'
-import { cifLb } from './flag/cif-lb.js'
-import { cifLc } from './flag/cif-lc.js'
-import { cifLi } from './flag/cif-li.js'
-import { cifLk } from './flag/cif-lk.js'
-import { cifLr } from './flag/cif-lr.js'
-import { cifLs } from './flag/cif-ls.js'
-import { cifLt } from './flag/cif-lt.js'
-import { cifLu } from './flag/cif-lu.js'
-import { cifLv } from './flag/cif-lv.js'
-import { cifLy } from './flag/cif-ly.js'
-import { cifMa } from './flag/cif-ma.js'
-import { cifMc } from './flag/cif-mc.js'
-import { cifMd } from './flag/cif-md.js'
-import { cifMe } from './flag/cif-me.js'
-import { cifMg } from './flag/cif-mg.js'
-import { cifMh } from './flag/cif-mh.js'
-import { cifMk } from './flag/cif-mk.js'
-import { cifMl } from './flag/cif-ml.js'
-import { cifMm } from './flag/cif-mm.js'
-import { cifMn } from './flag/cif-mn.js'
-import { cifMr } from './flag/cif-mr.js'
-import { cifMt } from './flag/cif-mt.js'
-import { cifMu } from './flag/cif-mu.js'
-import { cifMv } from './flag/cif-mv.js'
-import { cifMw } from './flag/cif-mw.js'
-import { cifMx } from './flag/cif-mx.js'
-import { cifMy } from './flag/cif-my.js'
-import { cifMz } from './flag/cif-mz.js'
-import { cifNa } from './flag/cif-na.js'
-import { cifNe } from './flag/cif-ne.js'
-import { cifNg } from './flag/cif-ng.js'
-import { cifNi } from './flag/cif-ni.js'
-import { cifNl } from './flag/cif-nl.js'
-import { cifNo } from './flag/cif-no.js'
-import { cifNp } from './flag/cif-np.js'
-import { cifNr } from './flag/cif-nr.js'
-import { cifNu } from './flag/cif-nu.js'
-import { cifNz } from './flag/cif-nz.js'
-import { cifOm } from './flag/cif-om.js'
-import { cifPa } from './flag/cif-pa.js'
-import { cifPe } from './flag/cif-pe.js'
-import { cifPg } from './flag/cif-pg.js'
-import { cifPh } from './flag/cif-ph.js'
-import { cifPk } from './flag/cif-pk.js'
-import { cifPl } from './flag/cif-pl.js'
-import { cifPt } from './flag/cif-pt.js'
-import { cifPw } from './flag/cif-pw.js'
-import { cifPy } from './flag/cif-py.js'
-import { cifQa } from './flag/cif-qa.js'
-import { cifRo } from './flag/cif-ro.js'
-import { cifRs } from './flag/cif-rs.js'
-import { cifRu } from './flag/cif-ru.js'
-import { cifRw } from './flag/cif-rw.js'
-import { cifSa } from './flag/cif-sa.js'
-import { cifSb } from './flag/cif-sb.js'
-import { cifSc } from './flag/cif-sc.js'
-import { cifSd } from './flag/cif-sd.js'
-import { cifSe } from './flag/cif-se.js'
-import { cifSg } from './flag/cif-sg.js'
-import { cifSi } from './flag/cif-si.js'
-import { cifSk } from './flag/cif-sk.js'
-import { cifSl } from './flag/cif-sl.js'
-import { cifSm } from './flag/cif-sm.js'
-import { cifSn } from './flag/cif-sn.js'
-import { cifSo } from './flag/cif-so.js'
-import { cifSr } from './flag/cif-sr.js'
-import { cifSs } from './flag/cif-ss.js'
-import { cifSt } from './flag/cif-st.js'
-import { cifSv } from './flag/cif-sv.js'
-import { cifSy } from './flag/cif-sy.js'
-import { cifSz } from './flag/cif-sz.js'
-import { cifTd } from './flag/cif-td.js'
-import { cifTg } from './flag/cif-tg.js'
-import { cifTh } from './flag/cif-th.js'
-import { cifTj } from './flag/cif-tj.js'
-import { cifTl } from './flag/cif-tl.js'
-import { cifTm } from './flag/cif-tm.js'
-import { cifTn } from './flag/cif-tn.js'
-import { cifTo } from './flag/cif-to.js'
-import { cifTr } from './flag/cif-tr.js'
-import { cifTt } from './flag/cif-tt.js'
-import { cifTv } from './flag/cif-tv.js'
-import { cifTw } from './flag/cif-tw.js'
-import { cifTz } from './flag/cif-tz.js'
-import { cifUa } from './flag/cif-ua.js'
-import { cifUg } from './flag/cif-ug.js'
-import { cifUs } from './flag/cif-us.js'
-import { cifUy } from './flag/cif-uy.js'
-import { cifUz } from './flag/cif-uz.js'
-import { cifVa } from './flag/cif-va.js'
-import { cifVc } from './flag/cif-vc.js'
-import { cifVe } from './flag/cif-ve.js'
-import { cifVg } from './flag/cif-vg.js'
-import { cifVn } from './flag/cif-vn.js'
-import { cifWs } from './flag/cif-ws.js'
-import { cifXk } from './flag/cif-xk.js'
-import { cifYe } from './flag/cif-ye.js'
-import { cifZa } from './flag/cif-za.js'
-import { cifZm } from './flag/cif-zm.js'
-import { cifZw } from './flag/cif-zw.js'
-export { cifAd }
-export { cifAe }
-export { cifAf }
-export { cifAg }
-export { cifAl }
-export { cifAm }
-export { cifAo }
-export { cifAr }
-export { cifAt }
-export { cifAu }
-export { cifAz }
-export { cifBa }
-export { cifBb }
-export { cifBd }
-export { cifBe }
-export { cifBf }
-export { cifBg }
-export { cifBh }
-export { cifBi }
-export { cifBj }
-export { cifBn }
-export { cifBo }
-export { cifBr }
-export { cifBs }
-export { cifBt }
-export { cifBw }
-export { cifBy }
-export { cifBz }
-export { cifCa }
-export { cifCd }
-export { cifCf }
-export { cifCg }
-export { cifCh }
-export { cifCi }
-export { cifCk }
-export { cifCl }
-export { cifCm }
-export { cifCn }
-export { cifCo }
-export { cifCr }
-export { cifCu }
-export { cifCv }
-export { cifCy }
-export { cifCz }
-export { cifDe }
-export { cifDj }
-export { cifDk }
-export { cifDm }
-export { cifDo }
-export { cifDz }
-export { cifEc }
-export { cifEe }
-export { cifEg }
-export { cifEr }
-export { cifEs }
-export { cifEt }
-export { cifFi }
-export { cifFj }
-export { cifFm }
-export { cifFr }
-export { cifGa }
-export { cifGb }
-export { cifGd }
-export { cifGe }
-export { cifGh }
-export { cifGm }
-export { cifGn }
-export { cifGq }
-export { cifGr }
-export { cifGt }
-export { cifGw }
-export { cifGy }
-export { cifHk }
-export { cifHn }
-export { cifHr }
-export { cifHt }
-export { cifHu }
-export { cifId }
-export { cifIe }
-export { cifIl }
-export { cifIn }
-export { cifIq }
-export { cifIr }
-export { cifIs }
-export { cifIt }
-export { cifJm }
-export { cifJo }
-export { cifJp }
-export { cifKe }
-export { cifKg }
-export { cifKh }
-export { cifKi }
-export { cifKm }
-export { cifKn }
-export { cifKp }
-export { cifKr }
-export { cifKw }
-export { cifKz }
-export { cifLa }
-export { cifLb }
-export { cifLc }
-export { cifLi }
-export { cifLk }
-export { cifLr }
-export { cifLs }
-export { cifLt }
-export { cifLu }
-export { cifLv }
-export { cifLy }
-export { cifMa }
-export { cifMc }
-export { cifMd }
-export { cifMe }
-export { cifMg }
-export { cifMh }
-export { cifMk }
-export { cifMl }
-export { cifMm }
-export { cifMn }
-export { cifMr }
-export { cifMt }
-export { cifMu }
-export { cifMv }
-export { cifMw }
-export { cifMx }
-export { cifMy }
-export { cifMz }
-export { cifNa }
-export { cifNe }
-export { cifNg }
-export { cifNi }
-export { cifNl }
-export { cifNo }
-export { cifNp }
-export { cifNr }
-export { cifNu }
-export { cifNz }
-export { cifOm }
-export { cifPa }
-export { cifPe }
-export { cifPg }
-export { cifPh }
-export { cifPk }
-export { cifPl }
-export { cifPt }
-export { cifPw }
-export { cifPy }
-export { cifQa }
-export { cifRo }
-export { cifRs }
-export { cifRu }
-export { cifRw }
-export { cifSa }
-export { cifSb }
-export { cifSc }
-export { cifSd }
-export { cifSe }
-export { cifSg }
-export { cifSi }
-export { cifSk }
-export { cifSl }
-export { cifSm }
-export { cifSn }
-export { cifSo }
-export { cifSr }
-export { cifSs }
-export { cifSt }
-export { cifSv }
-export { cifSy }
-export { cifSz }
-export { cifTd }
-export { cifTg }
-export { cifTh }
-export { cifTj }
-export { cifTl }
-export { cifTm }
-export { cifTn }
-export { cifTo }
-export { cifTr }
-export { cifTt }
-export { cifTv }
-export { cifTw }
-export { cifTz }
-export { cifUa }
-export { cifUg }
-export { cifUs }
-export { cifUy }
-export { cifUz }
-export { cifVa }
-export { cifVc }
-export { cifVe }
-export { cifVg }
-export { cifVn }
-export { cifWs }
-export { cifXk }
-export { cifYe }
-export { cifZa }
-export { cifZm }
-export { cifZw }
-
-
 import { freeSet } from './free/free-set.js' 
 export { freeSet } 
 
@@ -3177,5 +2774,408 @@ export { cilYen }
 export { cilZoomIn }
 export { cilZoomOut }
 export { cilZoom }
+
+
+import { flagSet } from './flag/flag-set.js' 
+export { flagSet } 
+
+import { cifAd } from './flag/cif-ad.js'
+import { cifAe } from './flag/cif-ae.js'
+import { cifAf } from './flag/cif-af.js'
+import { cifAg } from './flag/cif-ag.js'
+import { cifAl } from './flag/cif-al.js'
+import { cifAm } from './flag/cif-am.js'
+import { cifAo } from './flag/cif-ao.js'
+import { cifAr } from './flag/cif-ar.js'
+import { cifAt } from './flag/cif-at.js'
+import { cifAu } from './flag/cif-au.js'
+import { cifAz } from './flag/cif-az.js'
+import { cifBa } from './flag/cif-ba.js'
+import { cifBb } from './flag/cif-bb.js'
+import { cifBd } from './flag/cif-bd.js'
+import { cifBe } from './flag/cif-be.js'
+import { cifBf } from './flag/cif-bf.js'
+import { cifBg } from './flag/cif-bg.js'
+import { cifBh } from './flag/cif-bh.js'
+import { cifBi } from './flag/cif-bi.js'
+import { cifBj } from './flag/cif-bj.js'
+import { cifBn } from './flag/cif-bn.js'
+import { cifBo } from './flag/cif-bo.js'
+import { cifBr } from './flag/cif-br.js'
+import { cifBs } from './flag/cif-bs.js'
+import { cifBt } from './flag/cif-bt.js'
+import { cifBw } from './flag/cif-bw.js'
+import { cifBy } from './flag/cif-by.js'
+import { cifBz } from './flag/cif-bz.js'
+import { cifCa } from './flag/cif-ca.js'
+import { cifCd } from './flag/cif-cd.js'
+import { cifCf } from './flag/cif-cf.js'
+import { cifCg } from './flag/cif-cg.js'
+import { cifCh } from './flag/cif-ch.js'
+import { cifCi } from './flag/cif-ci.js'
+import { cifCk } from './flag/cif-ck.js'
+import { cifCl } from './flag/cif-cl.js'
+import { cifCm } from './flag/cif-cm.js'
+import { cifCn } from './flag/cif-cn.js'
+import { cifCo } from './flag/cif-co.js'
+import { cifCr } from './flag/cif-cr.js'
+import { cifCu } from './flag/cif-cu.js'
+import { cifCv } from './flag/cif-cv.js'
+import { cifCy } from './flag/cif-cy.js'
+import { cifCz } from './flag/cif-cz.js'
+import { cifDe } from './flag/cif-de.js'
+import { cifDj } from './flag/cif-dj.js'
+import { cifDk } from './flag/cif-dk.js'
+import { cifDm } from './flag/cif-dm.js'
+import { cifDo } from './flag/cif-do.js'
+import { cifDz } from './flag/cif-dz.js'
+import { cifEc } from './flag/cif-ec.js'
+import { cifEe } from './flag/cif-ee.js'
+import { cifEg } from './flag/cif-eg.js'
+import { cifEr } from './flag/cif-er.js'
+import { cifEs } from './flag/cif-es.js'
+import { cifEt } from './flag/cif-et.js'
+import { cifFi } from './flag/cif-fi.js'
+import { cifFj } from './flag/cif-fj.js'
+import { cifFm } from './flag/cif-fm.js'
+import { cifFr } from './flag/cif-fr.js'
+import { cifGa } from './flag/cif-ga.js'
+import { cifGb } from './flag/cif-gb.js'
+import { cifGd } from './flag/cif-gd.js'
+import { cifGe } from './flag/cif-ge.js'
+import { cifGh } from './flag/cif-gh.js'
+import { cifGm } from './flag/cif-gm.js'
+import { cifGn } from './flag/cif-gn.js'
+import { cifGq } from './flag/cif-gq.js'
+import { cifGr } from './flag/cif-gr.js'
+import { cifGt } from './flag/cif-gt.js'
+import { cifGw } from './flag/cif-gw.js'
+import { cifGy } from './flag/cif-gy.js'
+import { cifHk } from './flag/cif-hk.js'
+import { cifHn } from './flag/cif-hn.js'
+import { cifHr } from './flag/cif-hr.js'
+import { cifHt } from './flag/cif-ht.js'
+import { cifHu } from './flag/cif-hu.js'
+import { cifId } from './flag/cif-id.js'
+import { cifIe } from './flag/cif-ie.js'
+import { cifIl } from './flag/cif-il.js'
+import { cifIn } from './flag/cif-in.js'
+import { cifIq } from './flag/cif-iq.js'
+import { cifIr } from './flag/cif-ir.js'
+import { cifIs } from './flag/cif-is.js'
+import { cifIt } from './flag/cif-it.js'
+import { cifJm } from './flag/cif-jm.js'
+import { cifJo } from './flag/cif-jo.js'
+import { cifJp } from './flag/cif-jp.js'
+import { cifKe } from './flag/cif-ke.js'
+import { cifKg } from './flag/cif-kg.js'
+import { cifKh } from './flag/cif-kh.js'
+import { cifKi } from './flag/cif-ki.js'
+import { cifKm } from './flag/cif-km.js'
+import { cifKn } from './flag/cif-kn.js'
+import { cifKp } from './flag/cif-kp.js'
+import { cifKr } from './flag/cif-kr.js'
+import { cifKw } from './flag/cif-kw.js'
+import { cifKz } from './flag/cif-kz.js'
+import { cifLa } from './flag/cif-la.js'
+import { cifLb } from './flag/cif-lb.js'
+import { cifLc } from './flag/cif-lc.js'
+import { cifLi } from './flag/cif-li.js'
+import { cifLk } from './flag/cif-lk.js'
+import { cifLr } from './flag/cif-lr.js'
+import { cifLs } from './flag/cif-ls.js'
+import { cifLt } from './flag/cif-lt.js'
+import { cifLu } from './flag/cif-lu.js'
+import { cifLv } from './flag/cif-lv.js'
+import { cifLy } from './flag/cif-ly.js'
+import { cifMa } from './flag/cif-ma.js'
+import { cifMc } from './flag/cif-mc.js'
+import { cifMd } from './flag/cif-md.js'
+import { cifMe } from './flag/cif-me.js'
+import { cifMg } from './flag/cif-mg.js'
+import { cifMh } from './flag/cif-mh.js'
+import { cifMk } from './flag/cif-mk.js'
+import { cifMl } from './flag/cif-ml.js'
+import { cifMm } from './flag/cif-mm.js'
+import { cifMn } from './flag/cif-mn.js'
+import { cifMr } from './flag/cif-mr.js'
+import { cifMt } from './flag/cif-mt.js'
+import { cifMu } from './flag/cif-mu.js'
+import { cifMv } from './flag/cif-mv.js'
+import { cifMw } from './flag/cif-mw.js'
+import { cifMx } from './flag/cif-mx.js'
+import { cifMy } from './flag/cif-my.js'
+import { cifMz } from './flag/cif-mz.js'
+import { cifNa } from './flag/cif-na.js'
+import { cifNe } from './flag/cif-ne.js'
+import { cifNg } from './flag/cif-ng.js'
+import { cifNi } from './flag/cif-ni.js'
+import { cifNl } from './flag/cif-nl.js'
+import { cifNo } from './flag/cif-no.js'
+import { cifNp } from './flag/cif-np.js'
+import { cifNr } from './flag/cif-nr.js'
+import { cifNu } from './flag/cif-nu.js'
+import { cifNz } from './flag/cif-nz.js'
+import { cifOm } from './flag/cif-om.js'
+import { cifPa } from './flag/cif-pa.js'
+import { cifPe } from './flag/cif-pe.js'
+import { cifPg } from './flag/cif-pg.js'
+import { cifPh } from './flag/cif-ph.js'
+import { cifPk } from './flag/cif-pk.js'
+import { cifPl } from './flag/cif-pl.js'
+import { cifPt } from './flag/cif-pt.js'
+import { cifPw } from './flag/cif-pw.js'
+import { cifPy } from './flag/cif-py.js'
+import { cifQa } from './flag/cif-qa.js'
+import { cifRo } from './flag/cif-ro.js'
+import { cifRs } from './flag/cif-rs.js'
+import { cifRu } from './flag/cif-ru.js'
+import { cifRw } from './flag/cif-rw.js'
+import { cifSa } from './flag/cif-sa.js'
+import { cifSb } from './flag/cif-sb.js'
+import { cifSc } from './flag/cif-sc.js'
+import { cifSd } from './flag/cif-sd.js'
+import { cifSe } from './flag/cif-se.js'
+import { cifSg } from './flag/cif-sg.js'
+import { cifSi } from './flag/cif-si.js'
+import { cifSk } from './flag/cif-sk.js'
+import { cifSl } from './flag/cif-sl.js'
+import { cifSm } from './flag/cif-sm.js'
+import { cifSn } from './flag/cif-sn.js'
+import { cifSo } from './flag/cif-so.js'
+import { cifSr } from './flag/cif-sr.js'
+import { cifSs } from './flag/cif-ss.js'
+import { cifSt } from './flag/cif-st.js'
+import { cifSv } from './flag/cif-sv.js'
+import { cifSy } from './flag/cif-sy.js'
+import { cifSz } from './flag/cif-sz.js'
+import { cifTd } from './flag/cif-td.js'
+import { cifTg } from './flag/cif-tg.js'
+import { cifTh } from './flag/cif-th.js'
+import { cifTj } from './flag/cif-tj.js'
+import { cifTl } from './flag/cif-tl.js'
+import { cifTm } from './flag/cif-tm.js'
+import { cifTn } from './flag/cif-tn.js'
+import { cifTo } from './flag/cif-to.js'
+import { cifTr } from './flag/cif-tr.js'
+import { cifTt } from './flag/cif-tt.js'
+import { cifTv } from './flag/cif-tv.js'
+import { cifTw } from './flag/cif-tw.js'
+import { cifTz } from './flag/cif-tz.js'
+import { cifUa } from './flag/cif-ua.js'
+import { cifUg } from './flag/cif-ug.js'
+import { cifUs } from './flag/cif-us.js'
+import { cifUy } from './flag/cif-uy.js'
+import { cifUz } from './flag/cif-uz.js'
+import { cifVa } from './flag/cif-va.js'
+import { cifVc } from './flag/cif-vc.js'
+import { cifVe } from './flag/cif-ve.js'
+import { cifVg } from './flag/cif-vg.js'
+import { cifVn } from './flag/cif-vn.js'
+import { cifWs } from './flag/cif-ws.js'
+import { cifXk } from './flag/cif-xk.js'
+import { cifYe } from './flag/cif-ye.js'
+import { cifZa } from './flag/cif-za.js'
+import { cifZm } from './flag/cif-zm.js'
+import { cifZw } from './flag/cif-zw.js'
+export { cifAd }
+export { cifAe }
+export { cifAf }
+export { cifAg }
+export { cifAl }
+export { cifAm }
+export { cifAo }
+export { cifAr }
+export { cifAt }
+export { cifAu }
+export { cifAz }
+export { cifBa }
+export { cifBb }
+export { cifBd }
+export { cifBe }
+export { cifBf }
+export { cifBg }
+export { cifBh }
+export { cifBi }
+export { cifBj }
+export { cifBn }
+export { cifBo }
+export { cifBr }
+export { cifBs }
+export { cifBt }
+export { cifBw }
+export { cifBy }
+export { cifBz }
+export { cifCa }
+export { cifCd }
+export { cifCf }
+export { cifCg }
+export { cifCh }
+export { cifCi }
+export { cifCk }
+export { cifCl }
+export { cifCm }
+export { cifCn }
+export { cifCo }
+export { cifCr }
+export { cifCu }
+export { cifCv }
+export { cifCy }
+export { cifCz }
+export { cifDe }
+export { cifDj }
+export { cifDk }
+export { cifDm }
+export { cifDo }
+export { cifDz }
+export { cifEc }
+export { cifEe }
+export { cifEg }
+export { cifEr }
+export { cifEs }
+export { cifEt }
+export { cifFi }
+export { cifFj }
+export { cifFm }
+export { cifFr }
+export { cifGa }
+export { cifGb }
+export { cifGd }
+export { cifGe }
+export { cifGh }
+export { cifGm }
+export { cifGn }
+export { cifGq }
+export { cifGr }
+export { cifGt }
+export { cifGw }
+export { cifGy }
+export { cifHk }
+export { cifHn }
+export { cifHr }
+export { cifHt }
+export { cifHu }
+export { cifId }
+export { cifIe }
+export { cifIl }
+export { cifIn }
+export { cifIq }
+export { cifIr }
+export { cifIs }
+export { cifIt }
+export { cifJm }
+export { cifJo }
+export { cifJp }
+export { cifKe }
+export { cifKg }
+export { cifKh }
+export { cifKi }
+export { cifKm }
+export { cifKn }
+export { cifKp }
+export { cifKr }
+export { cifKw }
+export { cifKz }
+export { cifLa }
+export { cifLb }
+export { cifLc }
+export { cifLi }
+export { cifLk }
+export { cifLr }
+export { cifLs }
+export { cifLt }
+export { cifLu }
+export { cifLv }
+export { cifLy }
+export { cifMa }
+export { cifMc }
+export { cifMd }
+export { cifMe }
+export { cifMg }
+export { cifMh }
+export { cifMk }
+export { cifMl }
+export { cifMm }
+export { cifMn }
+export { cifMr }
+export { cifMt }
+export { cifMu }
+export { cifMv }
+export { cifMw }
+export { cifMx }
+export { cifMy }
+export { cifMz }
+export { cifNa }
+export { cifNe }
+export { cifNg }
+export { cifNi }
+export { cifNl }
+export { cifNo }
+export { cifNp }
+export { cifNr }
+export { cifNu }
+export { cifNz }
+export { cifOm }
+export { cifPa }
+export { cifPe }
+export { cifPg }
+export { cifPh }
+export { cifPk }
+export { cifPl }
+export { cifPt }
+export { cifPw }
+export { cifPy }
+export { cifQa }
+export { cifRo }
+export { cifRs }
+export { cifRu }
+export { cifRw }
+export { cifSa }
+export { cifSb }
+export { cifSc }
+export { cifSd }
+export { cifSe }
+export { cifSg }
+export { cifSi }
+export { cifSk }
+export { cifSl }
+export { cifSm }
+export { cifSn }
+export { cifSo }
+export { cifSr }
+export { cifSs }
+export { cifSt }
+export { cifSv }
+export { cifSy }
+export { cifSz }
+export { cifTd }
+export { cifTg }
+export { cifTh }
+export { cifTj }
+export { cifTl }
+export { cifTm }
+export { cifTn }
+export { cifTo }
+export { cifTr }
+export { cifTt }
+export { cifTv }
+export { cifTw }
+export { cifTz }
+export { cifUa }
+export { cifUg }
+export { cifUs }
+export { cifUy }
+export { cifUz }
+export { cifVa }
+export { cifVc }
+export { cifVe }
+export { cifVg }
+export { cifVn }
+export { cifWs }
+export { cifXk }
+export { cifYe }
+export { cifZa }
+export { cifZm }
+export { cifZw }
 
 

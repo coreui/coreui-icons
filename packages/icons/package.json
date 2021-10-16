@@ -1,0 +1,74 @@
+{
+  "name": "@coreui/icons",
+  "version": "2.0.1",
+  "description": "CoreUI Icons Free",
+  "main": "js/index.js",
+  "typings": "js/index.d.ts",
+  "style": "css/all.css",
+  "sideEffects": false,
+  "scripts": {
+    "clean": "rimraf css",
+    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",
+    "css-compile-brand": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/brand.scss css/brand.css",
+    "css-compile-flag": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/flag.scss css/flag.css",
+    "css-compile-free": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/free.scss css/free.css",
+    "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
+    "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
+    "css-minify": "cleancss -O1 --format breakWith=lf --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
+    "build": "npm-run-all --sequential clean css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreui/coreui-icons.git"
+  },
+  "keywords": [
+    "Icons",
+    "Font",
+    "Face",
+    "Svg",
+    "Vector"
+  ],
+  "author": {
+    "name": "creativeLabs Łukasz Holeczek",
+    "url": "https://coreui.io",
+    "github": "https://github.com/coreui",
+    "twitter": "https://twitter.com/core_ui"
+  },
+  "contributors": [
+    {
+      "name": "Jazzy Innovations sp. z o.o.",
+      "url": "https://jazzy.pro"
+    },
+    {
+      "name": "CoreUI Team",
+      "url": "https://github.com/orgs/coreui/people/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-icons/issues"
+  },
+  "homepage": "https://github.com/coreui/coreui-icons#readme",
+  "devDependencies": {
+    "clean-css-cli": "^5.2.2",
+    "concat": "^1.0.3",
+    "node-sass": "^5.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.2.8",
+    "postcss-cli": "^8.3.1",
+    "rimraf": "^3.0.2",
+    "stylelint": "^13.12.0",
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "files": [
+    "css/",
+    "fonts/",
+    "js/",
+    "scss/",
+    "sprites/",
+    "svg/"
+  ]
+}

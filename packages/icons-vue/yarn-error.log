@@ -1,0 +1,127 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn test
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/opt/homebrew/sbin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.6.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/lukaszholeczek/CoreUI/@coreui/icons/packages/icons-vue/package.json: Unexpected token } in JSON at position 2287
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "@coreui/icons-vue",
+    "description": "Official Vue component for CoreUI Icons",
+    "version": "2.0.0-rc.0",
+    "license": "MIT",
+    "homepage": "https://icons.coreui.io",
+    "author": {
+      "name": "CoreUI",
+      "url": "https://coreui.io",
+      "github": "https://github.com/coreui",
+      "twitter": "https://twitter.com/core_ui"
+    },
+    "contributors": [
+      {
+        "name": "CoreUI Team",
+        "url": "https://github.com/orgs/coreui/people"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/coreui/coreui-icons.git"
+    },
+    "bugs": {
+      "url": "https://github.com/coreui/coreui-icons/issues"
+    },
+    "main": "dist/index.js",
+    "module": "dist/index.es.js",
+    "jsnext:main": "dist/index.es.js",
+    "files": [
+      "src",
+      "dist"
+    ],
+    "keywords": [
+      "coreui",
+      "coreui-icons",
+      "coreui-vue",
+      "icons",
+      "svg",
+      "svg-icons",
+      "layout",
+      "component",
+      "vue"
+    ],
+    "scripts": {
+      "build": "rollup -c",
+      "lint": "eslint 'src/**/*.{js,ts,tsx}'",
+      "test": "jest",
+      "test:u": "jest -u",
+      "test:clear": "jest --clearCache",
+      "test:coverage": "jest --coverage"
+    },
+    "devDependencies": {
+      "@rollup/plugin-commonjs": "^21.0.0",
+      "@rollup/plugin-node-resolve": "^13.0.5",
+      "@rollup/plugin-typescript": "^8.2.5",
+      "@typescript-eslint/eslint-plugin": "^4.33.0",
+      "@typescript-eslint/parser": "^4.33.0",
+      "@vue/compiler-sfc": "^3.2.20",
+      "@vue/eslint-config-prettier": "^6.0.0",
+      "@vue/eslint-config-typescript": "^7.0.0",
+      "@vue/test-utils": "^1.2.2",
+      "eslint": "^7.32.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-prettier": "^4.0.0",
+      "eslint-plugin-vue": "^7.19.1",
+      "jest": "^27.3.0",
+      "prettier": "^2.4.1",
+      "rollup": "^2.58.0",
+      "rollup-plugin-peer-deps-external": "^2.2.4",
+      "rollup-plugin-vue": "^6.0.0",
+      "ts-jest": "^27.0.7",
+      "typescript": "^4.4.3",
+      "vue": "^3.2.20"
+    },
+    "peerDependencies": {
+      "vue": "^3.2.20"
+    },
+    "browserslist": [
+      "> 1%",
+      "last 2 versions",
+      "not ie <= 8"
+    ],
+    "jest": {
+      "preset": "ts-jest",
+      "testEnvironment": "jsdom",
+      "moduleFileExtensions": [
+        "tsx",
+        "js",
+        "ts",
+        "json",
+        "vue"
+      ],
+      "transform": {
+        ".*\\.(ts)$": "ts-jest"
+      }
+    },
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

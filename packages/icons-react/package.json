@@ -1,0 +1,95 @@
+{
+  "name": "@coreui/icons-react",
+  "description": "Official React component for CoreUI Icons",
+  "version": "2.0.0-rc.6",
+  "license": "MIT",
+  "homepage": "https://icons.coreui.io",
+  "author": {
+    "name": "CoreUI",
+    "url": "https://coreui.io",
+    "github": "https://github.com/coreui",
+    "twitter": "https://twitter.com/core_ui"
+  },
+  "contributors": [
+    {
+      "name": "CoreUI Team",
+      "url": "https://github.com/orgs/coreui/people"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreui/coreui-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-icons/issues"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "lint": "eslint \"src/**/*.{js,ts,tsx}\"",
+    "test": "jest --coverage",
+    "test:update": "jest --coverage --updateSnapshot"
+  },
+  "peerDependencies": {
+    "react": "^17"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^21.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "@rollup/plugin-typescript": "^8.3.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "@types/react": "^17.0.30",
+    "@types/react-dom": "^17.0.9",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "classnames": "^2.3.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "jest": "^27.3.0",
+    "prettier": "^2.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup": "^2.56.2",
+    "rollup-plugin-import-css": "^3.0.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  },
+  "keywords": [
+    "coreui",
+    "coreui-icons",
+    "coreui-react",
+    "icons",
+    "svg",
+    "svg-icons",
+    "layout",
+    "component",
+    "react"
+  ],
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(css|scss)$": "<rootDir>/test/styleMock.js"
+    },
+    "preset": "ts-jest",
+    "testEnvironment": "jsdom",
+    "testPathIgnorePatterns": [
+      "dist/"
+    ],
+    "transform": {
+      ".*\\.(js)$": "ts-jest",
+      ".*\\.(tsx)$": "ts-jest"
+    }
+  }
+}

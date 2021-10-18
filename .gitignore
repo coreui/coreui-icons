@@ -4,3 +4,7 @@
 _old
 node_modules
 test
+.cache
+coverage/
+dist/
+public/

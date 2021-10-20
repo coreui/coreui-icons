@@ -2,23 +2,6 @@
   "name": "@coreui/icons",
   "version": "2.1.0",
   "description": "CoreUI Icons Free",
-  "main": "js/index.js",
-  "typings": "js/index.d.ts",
-  "style": "css/all.css",
-  "sideEffects": false,
-  "scripts": {
-    "clean": "rimraf css",
-    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",
-    "css-compile": "sass --style expanded --source-map --embed-sources --no-error-css scss/:css/",
-    "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
-    "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
-    "css-minify": "cleancss -O1 --format breakWith=lf --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
-    "build": "npm-run-all --sequential clean css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coreui/coreui-icons.git"
-  },
   "keywords": [
     "Icons",
     "Font",
@@ -26,6 +9,15 @@
     "Svg",
     "Vector"
   ],
+  "homepage": "https://github.com/coreui/coreui-icons#readme",
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreui/coreui-icons.git"
+  },
+  "license": "MIT",
   "author": {
     "name": "creativeLabs Łukasz Holeczek",
     "url": "https://coreui.io",
@@ -42,11 +34,27 @@
       "url": "https://github.com/orgs/coreui/people/"
     }
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/coreui/coreui-icons/issues"
+  "sideEffects": false,
+  "main": "js/index.js",
+  "typings": "js/index.d.ts",
+  "style": "css/all.css",
+  "files": [
+    "css/",
+    "fonts/",
+    "js/",
+    "scss/",
+    "sprites/",
+    "svg/"
+  ],
+  "scripts": {
+    "clean": "rimraf css",
+    "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",
+    "css-compile": "sass --style expanded --source-map --embed-sources --no-error-css scss/:css/",
+    "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
+    "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
+    "css-minify": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
+    "build": "npm-run-all --sequential clean css"
   },
-  "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
     "clean-css-cli": "^5.4.1",
     "concat": "^1.0.3",
@@ -60,13 +68,5 @@
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.21.0"
-  },
-  "files": [
-    "css/",
-    "fonts/",
-    "js/",
-    "scss/",
-    "sprites/",
-    "svg/"
-  ]
+  }
 }

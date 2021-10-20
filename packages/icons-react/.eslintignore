@@ -1,3 +1,2 @@
-{
-  "ignorePatterns": [".eslintrc.js"]
-}
+/dist/**
+.eslintrc.js

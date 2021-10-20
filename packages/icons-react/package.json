@@ -1,28 +1,28 @@
 {
   "name": "@coreui/icons-react",
-  "description": "Official React component for CoreUI Icons",
   "version": "2.0.0-rc.6",
-  "license": "MIT",
-  "homepage": "https://icons.coreui.io",
-  "author": {
-    "name": "CoreUI",
-    "url": "https://coreui.io",
-    "github": "https://github.com/coreui",
-    "twitter": "https://twitter.com/core_ui"
-  },
-  "contributors": [
-    {
-      "name": "CoreUI Team",
-      "url": "https://github.com/orgs/coreui/people"
-    }
+  "description": "Official React component for CoreUI Icons",
+  "keywords": [
+    "coreui",
+    "coreui-icons",
+    "coreui-react",
+    "icons",
+    "svg",
+    "svg-icons",
+    "layout",
+    "component",
+    "react"
   ],
+  "homepage": "https://icons.coreui.io",
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-icons/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/coreui/coreui-icons.git"
   },
-  "bugs": {
-    "url": "https://github.com/coreui/coreui-icons/issues"
-  },
+  "license": "MIT",
+  "author": "The CoreUI Team (https://github.com/orgs/coreui/people)",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -36,9 +36,6 @@
     "lint": "eslint \"src/**/*.{js,ts,tsx}\"",
     "test": "jest --coverage",
     "test:update": "jest --coverage --updateSnapshot"
-  },
-  "peerDependencies": {
-    "react": "^17"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.0",
@@ -67,29 +64,7 @@
     "ts-jest": "^27.0.7",
     "typescript": "^4.4.4"
   },
-  "keywords": [
-    "coreui",
-    "coreui-icons",
-    "coreui-react",
-    "icons",
-    "svg",
-    "svg-icons",
-    "layout",
-    "component",
-    "react"
-  ],
-  "jest": {
-    "moduleNameMapper": {
-      "\\.(css|scss)$": "<rootDir>/test/styleMock.js"
-    },
-    "preset": "ts-jest",
-    "testEnvironment": "jsdom",
-    "testPathIgnorePatterns": [
-      "dist/"
-    ],
-    "transform": {
-      ".*\\.(js)$": "ts-jest",
-      ".*\\.(tsx)$": "ts-jest"
-    }
+  "peerDependencies": {
+    "react": "^17"
   }
 }

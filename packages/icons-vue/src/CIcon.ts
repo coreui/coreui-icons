@@ -53,7 +53,7 @@ const CIcon = defineComponent({
           'sm',
           'lg',
           'xl',
-          '2xl',
+          'xxl',
           '3xl',
           '4xl',
           '5xl',

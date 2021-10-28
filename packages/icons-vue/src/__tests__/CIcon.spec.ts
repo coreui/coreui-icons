@@ -14,17 +14,17 @@ describe('CIcon', () => {
   // })
 
   it('renders svg with size', () => {
-    const container = mount(CIcon, { props: { size: 'xl' }})
+    const container = mount(CIcon, { props: { size: 'xl' } })
     expect(container.find('svg').classes('icon-xl')).toBe(true)
   })
 
   it('renders svg with custom size', () => {
-    const container = mount(CIcon, { props: { height: 20 }})
+    const container = mount(CIcon, { props: { height: 20 } })
     expect(container.find('svg').classes('icon-custom-size')).toBe(true)
   })
 
   it('renders svg with className', () => {
-    const container = mount(CIcon, { props: { class: 'icon-test' }})
+    const container = mount(CIcon, { props: { class: 'icon-test' } })
     expect(container.find('svg').classes('icon-test')).toBe(true)
   })
 

@@ -6,6 +6,7 @@
   "typings": "js/index.d.ts",
   "style": "css/all.css",
   "sideEffects": false,
+  "type": "module",
   "scripts": {
     "clean": "rimraf css",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",

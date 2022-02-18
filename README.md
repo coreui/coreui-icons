@@ -14,8 +14,6 @@
   ·
   <a href="https://github.com/coreui/coreui-icons/issues/new?template=feature_request.md">Request feature</a>
   ·
-  <a href="https://community.coreui.io/">Community</a>
-  ·
   <a href="https://blog.coreui.io/">Blog</a>
 </p>
 

@@ -12,12 +12,22 @@ export default {
       format: 'cjs',
       exports: 'named',
       sourcemap: true,
+      sourcemapPathTransform: (relativeSourcePath) => {
+        return relativeSourcePath
+          .replace('../../node_modules/', '../')
+          .replace('../packages/icons-react', '..')
+      },
     },
     {
       file: pkg.module,
       format: 'es',
       exports: 'named',
       sourcemap: true,
+      sourcemapPathTransform: (relativeSourcePath) => {
+        return relativeSourcePath
+          .replace('../../node_modules/', '../')
+          .replace('../packages/icons-react', '..')
+      },
     },
   ],
   plugins: [

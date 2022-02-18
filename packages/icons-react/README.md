@@ -14,8 +14,6 @@
   ·
   <a href="https://github.com/coreui/coreui-icons/issues/new?template=feature_request.md">Request feature</a>
   ·
-  <a href="https://community.coreui.io/">Community</a>
-  ·
   <a href="https://blog.coreui.io/">Blog</a>
 </p>
 
@@ -34,14 +32,14 @@
 
 ```bash
 npm install @coreui/icons
-npm install @coreui/icons-react@next
+npm install @coreui/icons-react
 ```
 
 or
 
 ```bash
 yarn add @coreui/icons
-yarn add @coreui/icons-react@next
+yarn add @coreui/icons-react
 ```
 
 ## Use

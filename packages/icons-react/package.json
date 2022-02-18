@@ -1,6 +1,6 @@
 {
   "name": "@coreui/icons-react",
-  "version": "2.0.0-rc.6",
+  "version": "2.0.0",
   "description": "Official React component for CoreUI Icons",
   "keywords": [
     "coreui",
@@ -26,15 +26,16 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
-  "typings": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/",
-    "README.md"
+    "src/"
   ],
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint \"src/**/*.{js,ts,tsx}\"",
     "test": "jest --coverage",
+    "test:clear": "jest --clearCache",
     "test:update": "jest --coverage --updateSnapshot"
   },
   "devDependencies": {

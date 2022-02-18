@@ -7,16 +7,15 @@
  * Licensed under MIT (https://coreui.io/icons/license)
  */
 @font-face {
-  font-family: 'CoreUI-Icons-Free';
+  font-family: "CoreUI-Icons-Free";
   src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh");
   src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Free.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Free.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Free.svg?64h6xh#CoreUI-Icons-Free") format("svg");
   font-weight: normal;
   font-style: normal;
 }
-
-[class^="cil-"], [class*=" cil-"] {
+[class^=cil-], [class*=" cil-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'CoreUI-Icons-Free' !important;
+  font-family: "CoreUI-Icons-Free" !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -2243,6 +2242,7 @@
 .cil-zoom-out:before {
   content: "\ec2a";
 }
+
 /*# sourceMappingURL=free.css.map */
 @charset "UTF-8";
 /*!
@@ -2253,16 +2253,15 @@
  * Licensed under CC0 1.0 Universal
  */
 @font-face {
-  font-family: 'CoreUI-Icons-Brand';
+  font-family: "CoreUI-Icons-Brand";
   src: url("../fonts/CoreUI-Icons-Brand.eot?64h6xh");
   src: url("../fonts/CoreUI-Icons-Brand.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Brand.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Brand.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Brand.svg?64h6xh#CoreUI-Icons-Brand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
-
-[class^="cib-"], [class*=" cib-"] {
+[class^=cib-], [class*=" cib-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'CoreUI-Icons-Brand' !important;
+  font-family: "CoreUI-Icons-Brand" !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -5593,6 +5592,7 @@
 .cib-zulip:before {
   content: "\ed3e";
 }
+
 /*# sourceMappingURL=brand.css.map */
 @charset "UTF-8";
 /*!
@@ -5602,7 +5602,7 @@
  * Copyright (c) 2020 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
  */
-[class^="cif-"], [class*=" cif-"] {
+[class^=cif-], [class*=" cif-"] {
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -6407,4 +6407,5 @@
 .cif-zw {
   background-image: url(../svg/flag/cif-zw.svg);
 }
+
 /*# sourceMappingURL=flag.css.map */

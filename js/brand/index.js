@@ -1,6 +1,3 @@
-import { brandSet } from './brand-set.js' 
-export { brandSet } 
-
 import { cib500px5 } from './cib-500px-5.js'
 import { cib500px } from './cib-500px.js'
 import { cibAboutMe } from './cib-about-me.js'

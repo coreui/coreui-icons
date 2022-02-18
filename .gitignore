@@ -1,6 +1,6 @@
 .DS_Store
 .git
 .vscode
-_old
+dist
 node_modules
 test

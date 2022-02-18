@@ -7,16 +7,15 @@
  * Licensed under CC0 1.0 Universal
  */
 @font-face {
-  font-family: 'CoreUI-Icons-Brand';
+  font-family: "CoreUI-Icons-Brand";
   src: url("../fonts/CoreUI-Icons-Brand.eot?64h6xh");
   src: url("../fonts/CoreUI-Icons-Brand.eot?64h6xh#iefix") format("embedded-opentype"), url("../fonts/CoreUI-Icons-Brand.ttf?64h6xh") format("truetype"), url("../fonts/CoreUI-Icons-Brand.woff?64h6xh") format("woff"), url("../fonts/CoreUI-Icons-Brand.svg?64h6xh#CoreUI-Icons-Brand") format("svg");
   font-weight: normal;
   font-style: normal;
 }
-
-[class^="cib-"], [class*=" cib-"] {
+[class^=cib-], [class*=" cib-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'CoreUI-Icons-Brand' !important;
+  font-family: "CoreUI-Icons-Brand" !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -3347,4 +3346,5 @@
 .cib-zulip:before {
   content: "\ed3e";
 }
+
 /*# sourceMappingURL=brand.css.map */

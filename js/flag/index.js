@@ -1,6 +1,3 @@
-import { flagSet } from './flag-set.js' 
-export { flagSet } 
-
 import { cifAd } from './cif-ad.js'
 import { cifAe } from './cif-ae.js'
 import { cifAf } from './cif-af.js'

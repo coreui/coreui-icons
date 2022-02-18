@@ -1,6 +1,3 @@
-import { freeSet } from './free-set.js' 
-export { freeSet } 
-
 import { cil3d } from './cil-3d.js'
 import { cil4k } from './cil-4k.js'
 import { cilAccountLogout } from './cil-account-logout.js'

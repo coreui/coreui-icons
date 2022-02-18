@@ -6,7 +6,7 @@
  * Copyright (c) 2020 creativeLabs Łukasz Holeczek
  * Licensed under CC0 1.0 Universal
  */
-[class^="cif-"], [class*=" cif-"] {
+[class^=cif-], [class*=" cif-"] {
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -811,4 +811,5 @@
 .cif-zw {
   background-image: url(../svg/flag/cif-zw.svg);
 }
+
 /*# sourceMappingURL=flag.css.map */

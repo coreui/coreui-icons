@@ -136,12 +136,6 @@ It is also possible to link to an external SVG containing the definitions:
   <use xlink:href="path/to/free.svg#cil-apple"></use>
 </svg>
 ```
-
-Referencing an external SVG has the advantage that your icons get cached, with one HTTP request. But the external SVG and the HTML should be served from the same domain. This approach works fine in modern browsers except for IE 9+. In order to support IE 9+, You should use `/js/svgxuse.js` or `/js/svgxuse.min.js`. This polyfill detects if the icons are loaded properly; if they aren't, it sends one HTTP request to fetch and cache symbol definitions.
-
-```html
-<script defer src="https://unpkg.com/@coreui/icons/js/svgxuse.js"></script>
-```
 ### CoreUI Icons for Angular
 
 - Please check official repository [CoreUI Icons for Angular](https://github.com/coreui/coreui-icons-angular)

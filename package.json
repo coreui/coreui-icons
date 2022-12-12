@@ -1,24 +1,24 @@
 {
   "name": "@coreui/icons",
-  "version": "3.0.0-alpha.0",
+  "version": "3.0.0-alpha.1",
   "description": "CoreUI Icons Free",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
   "style": "css/all.css",
   "sideEffects": [
     "**/*.css",
     "**/*.scss"
   ],
   "scripts": {
-    "clean": "rimraf css",
+    "clean": "rimraf css dist",
     "css": "npm-run-all --parallel css-compile* --sequential css-prefix css-concat css-minify",
     "css-compile": "sass --style expanded --source-map --embed-sources --no-error-css scss/:css/",
     "css-prefix": "postcss --config build/postcss.config.js --replace \"css/*.css\" \"!css/*.min.css\"",
     "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
     "css-minify": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
     "build": "npm-run-all --sequential clean css rollup",
-    "rollup": "rollup --config build/rollup.config.js"
+    "rollup": "rollup -c --bundleConfigAsCjs"
   },
   "repository": {
     "type": "git",
@@ -53,23 +53,22 @@
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^21.0.1",
-    "@rollup/plugin-node-resolve": "^13.1.3",
+    "@rollup/plugin-typescript": "^10.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
     "autoprefixer": "^10.4.2",
     "clean-css-cli": "^5.5.2",
     "concat": "^1.0.3",
+    "eslint": "^8.29.0",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.17",
     "postcss-cli": "^9.1.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.67.3",
-    "rollup-plugin-peer-deps-external": "^2.2.4",
-    "sass": "^1.49.8",
-    "stylelint": "^14.5.1",
-    "stylelint-config-recommended-scss": "^5.0.2",
-    "stylelint-config-standard": "^25.0.0",
-    "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.1.0"
+    "rollup": "^3.7.0",
+    "sass": "^1.55.0",
+    "stylelint": "^14.13.0",
+    "stylelint-config-twbs-bootstrap": "^6.0.0",
+    "typescript": "^4.9.4"
   },
   "files": [
     "css/",

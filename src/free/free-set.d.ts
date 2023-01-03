@@ -487,6 +487,8 @@ export declare const freeSet: {
   "cilTennis": any[];
   "cilTerminal": any[];
   "cilTerrain": any[];
+  "cilTextDirectionLtr": any[];
+  "cilTextDirectionRtl": any[];
   "cilTextShapes": any[];
   "cilTextSize": any[];
   "cilTextSquare": any[];

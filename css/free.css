@@ -1055,75 +1055,75 @@
   content: "\eb01";
 }
 
-.cil-gauge:before {
+.cil-gem:before {
   content: "\eb02";
 }
 
-.cil-gem:before {
+.cil-gif:before {
   content: "\eb03";
 }
 
-.cil-gif:before {
+.cil-gift:before {
   content: "\eb04";
 }
 
-.cil-gift:before {
+.cil-globe-alt:before {
   content: "\eb05";
 }
 
-.cil-globe-alt:before {
+.cil-golf:before {
   content: "\eb06";
 }
 
-.cil-golf:before {
+.cil-golf-alt:before {
   content: "\eb07";
 }
 
-.cil-golf-alt:before {
+.cil-gradient:before {
   content: "\eb08";
 }
 
-.cil-gradient:before {
+.cil-grain:before {
   content: "\eb09";
 }
 
-.cil-grain:before {
+.cil-graph:before {
   content: "\eb0a";
 }
 
-.cil-graph:before {
+.cil-grid:before {
   content: "\eb0b";
 }
 
-.cil-grid:before {
+.cil-grid-slash:before {
   content: "\eb0c";
 }
 
-.cil-grid-slash:before {
+.cil-group:before {
   content: "\eb0d";
 }
 
-.cil-group:before {
+.cil-hamburger-menu:before {
   content: "\eb0e";
 }
 
-.cil-hamburger-menu:before {
+.cil-hand-point-down:before {
   content: "\eb0f";
 }
 
-.cil-hand-point-down:before {
+.cil-hand-point-left:before {
   content: "\eb10";
 }
 
-.cil-hand-point-left:before {
+.cil-hand-point-right:before {
   content: "\eb11";
 }
 
-.cil-hand-point-right:before {
+.cil-hand-point-up:before {
   content: "\eb12";
 }
 
-.cil-hand-point-up:before {
+.cil-handshake:before {
   content: "\eb13";
 }
 
@@ -1987,260 +1987,268 @@
   content: "\ebea";
 }
 
-.cil-text-shapes:before {
+.cil-text-direction-ltr:before {
   content: "\ebeb";
 }
 
-.cil-text-size:before {
+.cil-text-direction-rtl:before {
   content: "\ebec";
 }
 
-.cil-text-square:before {
+.cil-text-shapes:before {
   content: "\ebed";
 }
 
-.cil-text-strike:before {
+.cil-text-size:before {
   content: "\ebee";
 }
 
-.cil-thumb-down:before {
+.cil-text-square:before {
   content: "\ebef";
 }
 
-.cil-thumb-up:before {
+.cil-text-strike:before {
   content: "\ebf0";
 }
 
-.cil-toggle-off:before {
+.cil-thumb-down:before {
   content: "\ebf1";
 }
 
-.cil-toggle-on:before {
+.cil-thumb-up:before {
   content: "\ebf2";
 }
 
-.cil-toilet:before {
+.cil-toggle-off:before {
   content: "\ebf3";
 }
 
-.cil-touch-app:before {
+.cil-toggle-on:before {
   content: "\ebf4";
 }
 
-.cil-transfer:before {
+.cil-toilet:before {
   content: "\ebf5";
 }
 
-.cil-translate:before {
+.cil-touch-app:before {
   content: "\ebf6";
 }
 
-.cil-trash:before {
+.cil-transfer:before {
   content: "\ebf7";
 }
 
-.cil-triangle:before {
+.cil-translate:before {
   content: "\ebf8";
 }
 
-.cil-truck:before {
+.cil-trash:before {
   content: "\ebf9";
 }
 
-.cil-tv:before {
+.cil-triangle:before {
   content: "\ebfa";
 }
 
-.cil-underline:before {
+.cil-truck:before {
   content: "\ebfb";
 }
 
-.cil-usb:before {
+.cil-tv:before {
   content: "\ebfc";
 }
 
-.cil-user:before {
+.cil-underline:before {
   content: "\ebfd";
 }
 
-.cil-user-female:before {
+.cil-usb:before {
   content: "\ebfe";
 }
 
-.cil-user-follow:before {
+.cil-user:before {
   content: "\ebff";
 }
 
-.cil-user-plus:before {
+.cil-user-female:before {
   content: "\ec00";
 }
 
-.cil-user-unfollow:before {
+.cil-user-follow:before {
   content: "\ec01";
 }
 
-.cil-user-x:before {
+.cil-user-plus:before {
   content: "\ec02";
 }
 
-.cil-vector:before {
+.cil-user-unfollow:before {
   content: "\ec03";
 }
 
-.cil-vertical-align-bottom:before {
+.cil-user-x:before {
   content: "\ec04";
 }
 
-.cil-vertical-align-center:before {
+.cil-vector:before {
   content: "\ec05";
 }
 
-.cil-vertical-align-top:before {
+.cil-vertical-align-bottom:before {
   content: "\ec06";
 }
 
-.cil-video:before {
+.cil-vertical-align-center:before {
   content: "\ec07";
 }
 
-.cil-videogame:before {
+.cil-vertical-align-top:before {
   content: "\ec08";
 }
 
-.cil-view-column:before {
+.cil-video:before {
   content: "\ec09";
 }
 
-.cil-view-module:before {
+.cil-videogame:before {
   content: "\ec0a";
 }
 
-.cil-view-quilt:before {
+.cil-view-column:before {
   content: "\ec0b";
 }
 
-.cil-view-stream:before {
+.cil-view-module:before {
   content: "\ec0c";
 }
 
-.cil-voice:before {
+.cil-view-quilt:before {
   content: "\ec0d";
 }
 
-.cil-voice-over-record:before {
+.cil-view-stream:before {
   content: "\ec0e";
 }
 
-.cil-volume-high:before {
+.cil-voice:before {
   content: "\ec0f";
 }
 
-.cil-volume-low:before {
+.cil-voice-over-record:before {
   content: "\ec10";
 }
 
-.cil-volume-off:before {
+.cil-volume-high:before {
   content: "\ec11";
 }
 
-.cil-walk:before {
+.cil-volume-low:before {
   content: "\ec12";
 }
 
-.cil-wallet:before {
+.cil-volume-off:before {
   content: "\ec13";
 }
 
-.cil-wallpaper:before {
+.cil-walk:before {
   content: "\ec14";
 }
 
-.cil-warning:before {
+.cil-wallet:before {
   content: "\ec15";
 }
 
-.cil-watch:before {
+.cil-wallpaper:before {
   content: "\ec16";
 }
 
-.cil-wc:before {
+.cil-warning:before {
   content: "\ec17";
 }
 
-.cil-weightlifitng:before {
+.cil-watch:before {
   content: "\ec18";
 }
 
-.cil-wheelchair:before {
+.cil-wc:before {
   content: "\ec19";
 }
 
-.cil-wifi-signal-0:before {
+.cil-weightlifitng:before {
   content: "\ec1a";
 }
 
-.cil-wifi-signal-1:before {
+.cil-wheelchair:before {
   content: "\ec1b";
 }
 
-.cil-wifi-signal-2:before {
+.cil-wifi-signal-0:before {
   content: "\ec1c";
 }
 
-.cil-wifi-signal-3:before {
+.cil-wifi-signal-1:before {
   content: "\ec1d";
 }
 
-.cil-wifi-signal-4:before {
+.cil-wifi-signal-2:before {
   content: "\ec1e";
 }
 
-.cil-wifi-signal-off:before {
+.cil-wifi-signal-3:before {
   content: "\ec1f";
 }
 
-.cil-window:before {
+.cil-wifi-signal-4:before {
   content: "\ec20";
 }
 
-.cil-window-maximize:before {
+.cil-wifi-signal-off:before {
   content: "\ec21";
 }
 
-.cil-window-minimize:before {
+.cil-window:before {
   content: "\ec22";
 }
 
-.cil-window-restore:before {
+.cil-window-maximize:before {
   content: "\ec23";
 }
 
-.cil-wrap-text:before {
+.cil-window-minimize:before {
   content: "\ec24";
 }
 
-.cil-x:before {
+.cil-window-restore:before {
   content: "\ec25";
 }
 
-.cil-x-circle:before {
+.cil-wrap-text:before {
   content: "\ec26";
 }
 
-.cil-yen:before {
+.cil-x:before {
   content: "\ec27";
 }
 
-.cil-zoom:before {
+.cil-x-circle:before {
   content: "\ec28";
 }
 
-.cil-zoom-in:before {
+.cil-yen:before {
   content: "\ec29";
 }
 
-.cil-zoom-out:before {
+.cil-zoom:before {
   content: "\ec2a";
+}
+
+.cil-zoom-in:before {
+  content: "\ec2b";
+}
+
+.cil-zoom-out:before {
+  content: "\ec2c";
 }
 
 /*# sourceMappingURL=free.css.map */

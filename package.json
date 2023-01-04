@@ -1,6 +1,6 @@
 {
   "name": "@coreui/icons",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.0-alpha.2",
   "description": "CoreUI Icons Free",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

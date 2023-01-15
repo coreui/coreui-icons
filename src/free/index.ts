@@ -272,6 +272,7 @@ import { cilHandPointDown } from './cil-hand-point-down'
 import { cilHandPointLeft } from './cil-hand-point-left'
 import { cilHandPointRight } from './cil-hand-point-right'
 import { cilHandPointUp } from './cil-hand-point-up'
+import { cilHandshake } from './cil-handshake'
 import { cilHappy } from './cil-happy'
 import { cilHd } from './cil-hd'
 import { cilHdr } from './cil-hdr'
@@ -486,6 +487,8 @@ import { cilTennisBall } from './cil-tennis-ball'
 import { cilTennis } from './cil-tennis'
 import { cilTerminal } from './cil-terminal'
 import { cilTerrain } from './cil-terrain'
+import { cilTextDirectionLtr } from './cil-text-direction-ltr'
+import { cilTextDirectionRtl } from './cil-text-direction-rtl'
 import { cilTextShapes } from './cil-text-shapes'
 import { cilTextSize } from './cil-text-size'
 import { cilTextSquare } from './cil-text-square'
@@ -825,6 +828,7 @@ export { cilHandPointDown }
 export { cilHandPointLeft }
 export { cilHandPointRight }
 export { cilHandPointUp }
+export { cilHandshake }
 export { cilHappy }
 export { cilHd }
 export { cilHdr }
@@ -1039,6 +1043,8 @@ export { cilTennisBall }
 export { cilTennis }
 export { cilTerminal }
 export { cilTerrain }
+export { cilTextDirectionLtr }
+export { cilTextDirectionRtl }
 export { cilTextShapes }
 export { cilTextSize }
 export { cilTextSquare }

@@ -20,6 +20,7 @@ export default [
     plugins: [
       typescript({
         exclude: ['**/__tests__/**'],
+        sourceMap: false,
         tsconfig: './tsconfig.cjs.json',
       }),
     ],
@@ -38,6 +39,7 @@ export default [
     plugins: [
       typescript({
         exclude: ['**/__tests__/**'],
+        sourceMap: false,
         tsconfig: './tsconfig.esm.json',
       }),
     ],

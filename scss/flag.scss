@@ -1,11 +1,9 @@
-/*!
- * CoreUI Icons - Flag Icons
- * @version v3.0.1
- * @link https://coreui.io/icons/
- * Copyright (c) 2023 creativeLabs Łukasz Holeczek
- * Licensed under CC0 1.0 Universal
- */
+@use "banner" with (
+  $name: "CoreUI Icons",
+  $license: "Licensed under CC0 1.0 Universal",
+  $set: "Flag",
+);
 
-@import "flag/variables";
-@import "flag/functions";
-@import "flag/core";
+@forward "flag/variables";
+@forward "flag/icons";
+    

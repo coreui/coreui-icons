@@ -1,3 +1,7 @@
+@use "sass:string";
+@use "../functions" as *;
+@use "variables" as *;
+
 [class^="#{$coreui-icons-prefix}"], [class*=" #{$coreui-icons-prefix}"] {
   background-size: contain;
   background-position: 50%;
@@ -9,8 +13,8 @@
 }
 
 @each $icon, $unicode in $icons {
-  $icon-lower: to-lower-case(#{$icon});
+  $icon-lower: string.to-lower-case(#{$icon});
   .#{$coreui-icons-prefix}#{$icon-lower} {
-    background-image: url(#{$coreui-flag-icons-path}/#{$coreui-icons-prefix}#{$icon}.svg);
+    background-image: url(../svg/flag/#{$coreui-icons-prefix}#{$icon}.svg);
   }
 }

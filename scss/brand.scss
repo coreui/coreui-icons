@@ -1,11 +1,8 @@
-/*!
- * CoreUI Icons - Brand Icons
- * @version v3.0.1
- * @link https://coreui.io/icons/
- * Copyright (c) 2023 creativeLabs Łukasz Holeczek
- * Licensed under CC0 1.0 Universal
- */
+@use "banner" with (
+  $name: "CoreUI Icons",
+  $license: "Licensed under CC0 1.0 Universal",
+  $set: "Brand",
+);
 
-@import "brand/variables";
-@import "brand/functions";
-@import "brand/core";
+@forward "brand/variables";
+@forward "brand/icons";

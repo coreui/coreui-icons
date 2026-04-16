@@ -1,3 +1,6 @@
+@use "../functions" as *;
+@use "variables" as *;
+
 @font-face {
   font-family: 'CoreUI-Icons-Free';
   src:  url('#{$coreui-icons-font-path}/CoreUI-Icons-Free.eot?64h6xh');

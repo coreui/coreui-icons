@@ -72,7 +72,7 @@ npm install @coreui/icons --save
 yarn add @coreui/icons
 ```
 
-Or, you can also clone or [download this repository](https://github.com/coreui/coreui-icons/archive/master.zip) as zip.
+Or, you can also clone or [download this repository](https://github.com/coreui/coreui-icons/archive/main.zip) as zip.
 
 ## Usage
 

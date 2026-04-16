@@ -1,7 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="480" height="32" x="16" y="64" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="328" height="32" x="168" y="152" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="480" height="32" x="16" y="240" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="328" height="32" x="168" y="328" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="480" height="32" x="16" y="416" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M16 64h480v32H16zm152 88h328v32H168zM16 240h480v32H16zm152 88h328v32H168zM16 416h480v32H16z" class="ci-primary"/>
 </svg>

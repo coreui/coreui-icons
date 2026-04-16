@@ -1,5 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <polygon fill="var(--ci-primary-color, currentColor)" points="240 16 240 162.177 186.509 108.687 163.882 131.313 256 223.431 348.118 131.313 325.491 108.687 272 162.177 272 16 240 16" class="ci-primary"/>
-  <rect width="480" height="32" x="16" y="240" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="163.882 380.687 186.509 403.313 240 349.823 240 496 272 496 272 349.823 325.491 403.313 348.118 380.687 256 288.569 163.882 380.687" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M368 496h128V304H368Zm32-160h64v128h-64Zm-208 88h128V304H192Zm32-88h64v56h-64ZM16 496h128V304H16Zm32-160h64v128H48Zm96-320H16v192h128Zm-32 160H48V48h64Zm80-80v112h128V96Zm96 80h-64v-48h64Zm80 32h128V16H368Zm32-160h64v128h-64ZM16 240h480v32H16z" class="ci-primary"/>
 </svg>

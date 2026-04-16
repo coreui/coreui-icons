@@ -220,7 +220,6 @@ import { cibElectron } from './cib-electron'
 import { cibElementary } from './cib-elementary'
 import { cibEleventy } from './cib-eleventy'
 import { cibEllo } from './cib-ello'
-import { cibElsevier } from './cib-elsevier'
 import { cibEmlakjet } from './cib-emlakjet'
 import { cibEmpirekred } from './cib-empirekred'
 import { cibEnvato } from './cib-envato'
@@ -1049,7 +1048,6 @@ export { cibElectron }
 export { cibElementary }
 export { cibEleventy }
 export { cibEllo }
-export { cibElsevier }
 export { cibEmlakjet }
 export { cibEmpirekred }
 export { cibEnvato }

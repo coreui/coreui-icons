@@ -1,1 +1,1 @@
-export const cilWindowMinimize: string[] = ["512 512","<rect width='416' height='32' x='48' y='448' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>"]
+export const cilWindowMinimize: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M48 448h416v32H48z' class='ci-primary'/>"]

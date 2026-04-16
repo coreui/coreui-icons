@@ -1,1 +1,1 @@
-export const cilViewQuilt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M16,64V448H496V64ZM464,240H192V96H464ZM192,272H312V416H192ZM48,96H160V416H48ZM344,416V272H464V416Z' class='ci-primary'/>"]
+export const cilViewQuilt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M16 64v384h480V64Zm448 176H192V96h272Zm-272 32h120v144H192ZM48 96h112v320H48Zm296 320V272h120v144Z' class='ci-primary'/>"]

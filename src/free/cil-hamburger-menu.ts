@@ -1,1 +1,1 @@
-export const cilHamburgerMenu: string[] = ["512 512","<rect width='352' height='32' x='80' y='96' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='352' height='32' x='80' y='240' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='352' height='32' x='80' y='384' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>"]
+export const cilHamburgerMenu: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M80 96h352v32H80zm0 144h352v32H80zm0 144h352v32H80z' class='ci-primary'/>"]

@@ -1,1 +1,1 @@
-export const cilInputPower: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M152,16V120H88V311.005l104,96v89H320V407.005l104-96V120H360V16H328V120H184V16ZM392,152V297L288,393V464H224V393L120,297V152Z' class='ci-primary'/>"]
+export const cilInputPower: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M152 16v104H88v191.005l104 96v89h128v-89l104-96V120h-64V16h-32v104H184V16Zm240 136v145l-104 96v71h-64v-71l-104-96V152Z' class='ci-primary'/>"]

@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*!
- * CoreUI Icons - Brand Icons
- * @version v3.0.1
- * @link https://coreui.io/icons/brand/
- * Copyright (c) 2020 creativeLabs Łukasz Holeczek
- * Licensed under CC0 1.0 Universal
- */
+* CoreUI Icons - Brand
+* @version v3.1.0
+* @link https://coreui.io/icons/
+* Copyright (c) 2026 creativeLabs Łukasz Holeczek
+* Licensed under CC0 1.0 Universal
+*/
 @font-face {
   font-family: "CoreUI-Icons-Brand";
   src: url("../fonts/CoreUI-Icons-Brand.eot?64h6xh");
@@ -28,3323 +28,3315 @@
 }
 
 .cib-500px:before {
-  content: "\ea01";
+  content: "\f43b";
 }
 
 .cib-500px-5:before {
-  content: "\ea02";
+  content: "\f43c";
 }
 
 .cib-about-me:before {
-  content: "\ea03";
+  content: "\f43a";
 }
 
 .cib-abstract:before {
-  content: "\ea04";
+  content: "\f439";
 }
 
 .cib-acm:before {
-  content: "\ea05";
+  content: "\f438";
 }
 
 .cib-addthis:before {
-  content: "\ea06";
+  content: "\f437";
 }
 
 .cib-adguard:before {
-  content: "\ea07";
+  content: "\f436";
 }
 
 .cib-adobe:before {
-  content: "\ea08";
+  content: "\f428";
 }
 
 .cib-adobe-acrobat-reader:before {
-  content: "\ea09";
+  content: "\f435";
 }
 
 .cib-adobe-after-effects:before {
-  content: "\ea0a";
+  content: "\f434";
 }
 
 .cib-adobe-audition:before {
-  content: "\ea0b";
+  content: "\f433";
 }
 
 .cib-adobe-creative-cloud:before {
-  content: "\ea0c";
+  content: "\f432";
 }
 
 .cib-adobe-dreamweaver:before {
-  content: "\ea0d";
+  content: "\f431";
 }
 
 .cib-adobe-illustrator:before {
-  content: "\ea0e";
+  content: "\f430";
 }
 
 .cib-adobe-indesign:before {
-  content: "\ea0f";
+  content: "\f42f";
 }
 
 .cib-adobe-lightroom:before {
-  content: "\ea10";
+  content: "\f42d";
 }
 
 .cib-adobe-lightroom-classic:before {
-  content: "\ea11";
+  content: "\f42e";
 }
 
 .cib-adobe-photoshop:before {
-  content: "\ea12";
+  content: "\f42c";
 }
 
 .cib-adobe-premiere:before {
-  content: "\ea13";
+  content: "\f42b";
 }
 
 .cib-adobe-typekit:before {
-  content: "\ea14";
+  content: "\f42a";
 }
 
 .cib-adobe-xd:before {
-  content: "\ea15";
+  content: "\f429";
 }
 
 .cib-airbnb:before {
-  content: "\ea16";
+  content: "\f427";
 }
 
 .cib-algolia:before {
-  content: "\ea17";
+  content: "\f426";
 }
 
 .cib-alipay:before {
-  content: "\ea18";
+  content: "\f425";
 }
 
 .cib-allocine:before {
-  content: "\ea19";
+  content: "\f424";
 }
 
 .cib-amazon:before {
-  content: "\ea1a";
+  content: "\f421";
 }
 
 .cib-amazon-aws:before {
-  content: "\ea1b";
+  content: "\f423";
 }
 
 .cib-amazon-pay:before {
-  content: "\ea1c";
+  content: "\f422";
 }
 
 .cib-amd:before {
-  content: "\ea1d";
+  content: "\f420";
 }
 
 .cib-american-express:before {
-  content: "\ea1e";
+  content: "\f41f";
 }
 
 .cib-anaconda:before {
-  content: "\ea1f";
+  content: "\f41e";
 }
 
 .cib-analogue:before {
-  content: "\ea20";
+  content: "\f41d";
 }
 
 .cib-android:before {
-  content: "\ea21";
+  content: "\f41b";
 }
 
 .cib-android-alt:before {
-  content: "\ea22";
+  content: "\f41c";
 }
 
 .cib-angellist:before {
-  content: "\ea23";
+  content: "\f41a";
 }
 
 .cib-angular:before {
-  content: "\ea24";
+  content: "\f418";
 }
 
 .cib-angular-universal:before {
-  content: "\ea25";
+  content: "\f419";
 }
 
 .cib-ansible:before {
-  content: "\ea26";
+  content: "\f417";
 }
 
 .cib-apache:before {
-  content: "\ea27";
+  content: "\f413";
 }
 
 .cib-apache-airflow:before {
-  content: "\ea28";
+  content: "\f416";
 }
 
 .cib-apache-flink:before {
-  content: "\ea29";
+  content: "\f415";
 }
 
 .cib-apache-spark:before {
-  content: "\ea2a";
+  content: "\f414";
 }
 
 .cib-app-store:before {
-  content: "\ea2b";
+  content: "\f411";
 }
 
 .cib-app-store-ios:before {
-  content: "\ea2c";
+  content: "\f412";
 }
 
 .cib-apple:before {
-  content: "\ea2d";
+  content: "\f40d";
 }
 
 .cib-apple-music:before {
-  content: "\ea2e";
+  content: "\f410";
 }
 
 .cib-apple-pay:before {
-  content: "\ea2f";
+  content: "\f40f";
 }
 
 .cib-apple-podcasts:before {
-  content: "\ea30";
+  content: "\f40e";
 }
 
 .cib-appveyor:before {
-  content: "\ea31";
+  content: "\f40c";
 }
 
 .cib-aral:before {
-  content: "\ea32";
+  content: "\f40b";
 }
 
 .cib-arch-linux:before {
-  content: "\ea33";
+  content: "\f40a";
 }
 
 .cib-archive-of-our-own:before {
-  content: "\ea34";
+  content: "\f409";
 }
 
 .cib-arduino:before {
-  content: "\ea35";
+  content: "\f408";
 }
 
 .cib-artstation:before {
-  content: "\ea36";
+  content: "\f407";
 }
 
 .cib-arxiv:before {
-  content: "\ea37";
+  content: "\f406";
 }
 
 .cib-asana:before {
-  content: "\ea38";
+  content: "\f405";
 }
 
 .cib-at-and-t:before {
-  content: "\ea39";
+  content: "\f404";
 }
 
 .cib-atlassian:before {
-  content: "\ea3a";
+  content: "\f403";
 }
 
 .cib-atom:before {
-  content: "\ea3b";
+  content: "\f402";
 }
 
 .cib-audible:before {
-  content: "\ea3c";
+  content: "\f401";
 }
 
 .cib-aurelia:before {
-  content: "\ea3d";
+  content: "\f400";
 }
 
 .cib-auth0:before {
-  content: "\ea3e";
+  content: "\f3ff";
 }
 
 .cib-automatic:before {
-  content: "\ea3f";
+  content: "\f3fe";
 }
 
 .cib-autotask:before {
-  content: "\ea40";
+  content: "\f3fd";
 }
 
 .cib-aventrix:before {
-  content: "\ea41";
+  content: "\f3fc";
 }
 
 .cib-azure-artifacts:before {
-  content: "\ea42";
+  content: "\f3fb";
 }
 
 .cib-azure-devops:before {
-  content: "\ea43";
+  content: "\f3fa";
 }
 
 .cib-azure-pipelines:before {
-  content: "\ea44";
+  content: "\f3f9";
 }
 
 .cib-babel:before {
-  content: "\ea45";
+  content: "\f3f8";
 }
 
 .cib-baidu:before {
-  content: "\ea46";
+  content: "\f3f7";
 }
 
 .cib-bamboo:before {
-  content: "\ea47";
+  content: "\f3f6";
 }
 
 .cib-bancontact:before {
-  content: "\ea48";
+  content: "\f3f5";
 }
 
 .cib-bandcamp:before {
-  content: "\ea49";
+  content: "\f3f4";
 }
 
 .cib-basecamp:before {
-  content: "\ea4a";
+  content: "\f3f3";
 }
 
 .cib-bathasu:before {
-  content: "\ea4b";
+  content: "\f3f2";
 }
 
 .cib-behance:before {
-  content: "\ea4c";
+  content: "\f3f1";
 }
 
 .cib-big-cartel:before {
-  content: "\ea4d";
+  content: "\f3f0";
 }
 
 .cib-bing:before {
-  content: "\ea4e";
+  content: "\f3ef";
 }
 
 .cib-bit:before {
-  content: "\ea4f";
+  content: "\f3ee";
 }
 
 .cib-bitbucket:before {
-  content: "\ea50";
+  content: "\f3ed";
 }
 
 .cib-bitcoin:before {
-  content: "\ea51";
+  content: "\f3ec";
 }
 
 .cib-bitdefender:before {
-  content: "\ea52";
+  content: "\f3eb";
 }
 
 .cib-bitly:before {
-  content: "\ea53";
+  content: "\f3ea";
 }
 
 .cib-blackberry:before {
-  content: "\ea54";
+  content: "\f3e9";
 }
 
 .cib-blender:before {
-  content: "\ea55";
+  content: "\f3e8";
 }
 
 .cib-blogger:before {
-  content: "\ea56";
+  content: "\f3e6";
 }
 
 .cib-blogger-b:before {
-  content: "\ea57";
+  content: "\f3e7";
 }
 
 .cib-bluetooth:before {
-  content: "\ea58";
+  content: "\f3e4";
 }
 
 .cib-bluetooth-b:before {
-  content: "\ea59";
+  content: "\f3e5";
 }
 
 .cib-boeing:before {
-  content: "\ea5a";
+  content: "\f3e3";
 }
 
 .cib-boost:before {
-  content: "\ea5b";
+  content: "\f3e2";
 }
 
 .cib-bootstrap:before {
-  content: "\ea5c";
+  content: "\f3e1";
 }
 
 .cib-bower:before {
-  content: "\ea5d";
+  content: "\f3e0";
 }
 
 .cib-brand-ai:before {
-  content: "\ea5e";
+  content: "\f3df";
 }
 
 .cib-brave:before {
-  content: "\ea5f";
+  content: "\f3de";
 }
 
 .cib-btc:before {
-  content: "\ea60";
+  content: "\f3dd";
 }
 
 .cib-buddy:before {
-  content: "\ea61";
+  content: "\f3dc";
 }
 
 .cib-buffer:before {
-  content: "\ea62";
+  content: "\f3db";
 }
 
 .cib-buy-me-a-coffee:before {
-  content: "\ea63";
+  content: "\f3da";
 }
 
 .cib-buysellads:before {
-  content: "\ea64";
+  content: "\f3d9";
 }
 
 .cib-buzzfeed:before {
-  content: "\ea65";
+  content: "\f3d8";
 }
 
 .cib-c:before {
-  content: "\ea66";
+  content: "\f3d7";
 }
 
 .cib-cakephp:before {
-  content: "\ea67";
+  content: "\f3d6";
 }
 
 .cib-campaign-monitor:before {
-  content: "\ea68";
+  content: "\f3d5";
 }
 
 .cib-canva:before {
-  content: "\ea69";
+  content: "\f3d4";
 }
 
 .cib-cashapp:before {
-  content: "\ea6a";
+  content: "\f3d3";
 }
 
 .cib-cassandra:before {
-  content: "\ea6b";
+  content: "\f3d2";
 }
 
 .cib-castro:before {
-  content: "\ea6c";
+  content: "\f3d1";
 }
 
 .cib-cc-amazon-pay:before {
-  content: "\ea6d";
+  content: "\f3d0";
 }
 
 .cib-cc-amex:before {
-  content: "\ea6e";
+  content: "\f3cf";
 }
 
 .cib-cc-apple-pay:before {
-  content: "\ea6f";
+  content: "\f3ce";
 }
 
 .cib-cc-diners-club:before {
-  content: "\ea70";
+  content: "\f3cd";
 }
 
 .cib-cc-discover:before {
-  content: "\ea71";
+  content: "\f3cc";
 }
 
 .cib-cc-jcb:before {
-  content: "\ea72";
+  content: "\f3cb";
 }
 
 .cib-cc-mastercard:before {
-  content: "\ea73";
+  content: "\f3ca";
 }
 
 .cib-cc-paypal:before {
-  content: "\ea74";
+  content: "\f3c9";
 }
 
 .cib-cc-stripe:before {
-  content: "\ea75";
+  content: "\f3c8";
 }
 
 .cib-cc-visa:before {
-  content: "\ea76";
+  content: "\f3c7";
 }
 
 .cib-centos:before {
-  content: "\ea77";
+  content: "\f3c6";
 }
 
 .cib-cevo:before {
-  content: "\ea78";
+  content: "\f3c5";
 }
 
 .cib-chase:before {
-  content: "\ea79";
+  content: "\f3c4";
 }
 
 .cib-chef:before {
-  content: "\ea7a";
+  content: "\f3c3";
 }
 
 .cib-chromecast:before {
-  content: "\ea7b";
+  content: "\f3c2";
 }
 
 .cib-circle:before {
-  content: "\ea7c";
+  content: "\f3c1";
 }
 
 .cib-circleci:before {
-  content: "\ea7d";
+  content: "\f3c0";
 }
 
 .cib-cirrusci:before {
-  content: "\ea7e";
+  content: "\f3bf";
 }
 
 .cib-cisco:before {
-  content: "\ea7f";
+  content: "\f3be";
 }
 
 .cib-civicrm:before {
-  content: "\ea80";
+  content: "\f3bd";
 }
 
 .cib-clockify:before {
-  content: "\ea81";
+  content: "\f3bc";
 }
 
 .cib-clojure:before {
-  content: "\ea82";
+  content: "\f3bb";
 }
 
 .cib-cloudbees:before {
-  content: "\ea83";
+  content: "\f3ba";
 }
 
 .cib-cloudflare:before {
-  content: "\ea84";
+  content: "\f3b9";
 }
 
 .cib-cmake:before {
-  content: "\ea85";
+  content: "\f3b8";
 }
 
 .cib-co-op:before {
-  content: "\ea86";
+  content: "\f3b7";
 }
 
 .cib-codacy:before {
-  content: "\ea87";
+  content: "\f3b6";
 }
 
 .cib-code-climate:before {
-  content: "\ea88";
+  content: "\f3b5";
 }
 
 .cib-codecademy:before {
-  content: "\ea89";
+  content: "\f3b4";
 }
 
 .cib-codecov:before {
-  content: "\ea8a";
+  content: "\f3b3";
 }
 
 .cib-codeigniter:before {
-  content: "\ea8b";
+  content: "\f3b2";
 }
 
 .cib-codepen:before {
-  content: "\ea8c";
+  content: "\f3b1";
 }
 
 .cib-coderwall:before {
-  content: "\ea8d";
+  content: "\f3b0";
 }
 
 .cib-codesandbox:before {
-  content: "\ea8e";
+  content: "\f3af";
 }
 
 .cib-codeship:before {
-  content: "\ea8f";
+  content: "\f3ae";
 }
 
 .cib-codewars:before {
-  content: "\ea90";
+  content: "\f3ad";
 }
 
 .cib-codio:before {
-  content: "\ea91";
+  content: "\f3ac";
 }
 
 .cib-coffeescript:before {
-  content: "\ea92";
+  content: "\f3ab";
 }
 
 .cib-common-workflow-language:before {
-  content: "\ea93";
+  content: "\f3aa";
 }
 
 .cib-composer:before {
-  content: "\ea94";
+  content: "\f3a9";
 }
 
 .cib-conda-forge:before {
-  content: "\ea95";
+  content: "\f3a8";
 }
 
 .cib-conekta:before {
-  content: "\ea96";
+  content: "\f3a7";
 }
 
 .cib-confluence:before {
-  content: "\ea97";
+  content: "\f3a6";
 }
 
 .cib-coreui:before {
-  content: "\ea98";
+  content: "\f3a4";
 }
 
 .cib-coreui-c:before {
-  content: "\ea99";
+  content: "\f3a5";
 }
 
 .cib-coursera:before {
-  content: "\ea9a";
+  content: "\f3a3";
 }
 
 .cib-coveralls:before {
-  content: "\ea9b";
+  content: "\f3a2";
 }
 
 .cib-cpanel:before {
-  content: "\ea9c";
+  content: "\f3a1";
 }
 
 .cib-cplusplus:before {
-  content: "\ea9d";
+  content: "\f3a0";
 }
 
 .cib-creative-commons:before {
-  content: "\ea9e";
+  content: "\f392";
 }
 
 .cib-creative-commons-by:before {
-  content: "\ea9f";
+  content: "\f39f";
 }
 
 .cib-creative-commons-nc:before {
-  content: "\eaa0";
+  content: "\f39c";
 }
 
 .cib-creative-commons-nc-eu:before {
-  content: "\eaa1";
+  content: "\f39e";
 }
 
 .cib-creative-commons-nc-jp:before {
-  content: "\eaa2";
+  content: "\f39d";
 }
 
 .cib-creative-commons-nd:before {
-  content: "\eaa3";
+  content: "\f39b";
 }
 
 .cib-creative-commons-pd:before {
-  content: "\eaa4";
+  content: "\f399";
 }
 
 .cib-creative-commons-pd-alt:before {
-  content: "\eaa5";
+  content: "\f39a";
 }
 
 .cib-creative-commons-remix:before {
-  content: "\eaa6";
+  content: "\f398";
 }
 
 .cib-creative-commons-sa:before {
-  content: "\eaa7";
+  content: "\f397";
 }
 
 .cib-creative-commons-sampling:before {
-  content: "\eaa8";
+  content: "\f395";
 }
 
 .cib-creative-commons-sampling-plus:before {
-  content: "\eaa9";
+  content: "\f396";
 }
 
 .cib-creative-commons-share:before {
-  content: "\eaaa";
+  content: "\f394";
 }
 
 .cib-creative-commons-zero:before {
-  content: "\eaab";
+  content: "\f393";
 }
 
 .cib-crunchbase:before {
-  content: "\eaac";
+  content: "\f391";
 }
 
 .cib-crunchyroll:before {
-  content: "\eaad";
+  content: "\f390";
 }
 
 .cib-css3:before {
-  content: "\eaae";
+  content: "\f38e";
 }
 
 .cib-css3-shiled:before {
-  content: "\eaaf";
+  content: "\f38f";
 }
 
 .cib-csswizardry:before {
-  content: "\eab0";
+  content: "\f38d";
 }
 
 .cib-d3-js:before {
-  content: "\eab1";
+  content: "\f38c";
 }
 
 .cib-dailymotion:before {
-  content: "\eab2";
+  content: "\f38b";
 }
 
 .cib-dashlane:before {
-  content: "\eab3";
+  content: "\f38a";
 }
 
 .cib-dazn:before {
-  content: "\eab4";
+  content: "\f389";
 }
 
 .cib-dblp:before {
-  content: "\eab5";
+  content: "\f388";
 }
 
 .cib-debian:before {
-  content: "\eab6";
+  content: "\f387";
 }
 
 .cib-deepin:before {
-  content: "\eab7";
+  content: "\f386";
 }
 
 .cib-deezer:before {
-  content: "\eab8";
+  content: "\f385";
 }
 
 .cib-delicious:before {
-  content: "\eab9";
+  content: "\f384";
 }
 
 .cib-dell:before {
-  content: "\eaba";
+  content: "\f383";
 }
 
 .cib-deno:before {
-  content: "\eabb";
+  content: "\f382";
 }
 
 .cib-dependabot:before {
-  content: "\eabc";
+  content: "\f381";
 }
 
 .cib-designer-news:before {
-  content: "\eabd";
+  content: "\f380";
 }
 
 .cib-dev-to:before {
-  content: "\eabe";
+  content: "\f37f";
 }
 
 .cib-deviantart:before {
-  content: "\eabf";
+  content: "\f37e";
 }
 
 .cib-devrant:before {
-  content: "\eac0";
+  content: "\f37d";
 }
 
 .cib-diaspora:before {
-  content: "\eac1";
+  content: "\f37c";
 }
 
 .cib-digg:before {
-  content: "\eac2";
+  content: "\f37b";
 }
 
 .cib-digital-ocean:before {
-  content: "\eac3";
+  content: "\f37a";
 }
 
 .cib-discord:before {
-  content: "\eac4";
+  content: "\f379";
 }
 
 .cib-discourse:before {
-  content: "\eac5";
+  content: "\f378";
 }
 
 .cib-discover:before {
-  content: "\eac6";
+  content: "\f377";
 }
 
 .cib-disqus:before {
-  content: "\eac7";
+  content: "\f376";
 }
 
 .cib-disroot:before {
-  content: "\eac8";
+  content: "\f375";
 }
 
 .cib-django:before {
-  content: "\eac9";
+  content: "\f374";
 }
 
 .cib-docker:before {
-  content: "\eaca";
+  content: "\f373";
 }
 
 .cib-docusign:before {
-  content: "\eacb";
+  content: "\f372";
 }
 
 .cib-dot-net:before {
-  content: "\eacc";
+  content: "\f371";
 }
 
 .cib-draugiem-lv:before {
-  content: "\eacd";
+  content: "\f370";
 }
 
 .cib-dribbble:before {
-  content: "\eace";
+  content: "\f36f";
 }
 
 .cib-drone:before {
-  content: "\eacf";
+  content: "\f36e";
 }
 
 .cib-dropbox:before {
-  content: "\ead0";
+  content: "\f36d";
 }
 
 .cib-drupal:before {
-  content: "\ead1";
+  content: "\f36c";
 }
 
 .cib-dtube:before {
-  content: "\ead2";
+  content: "\f36b";
 }
 
 .cib-duckduckgo:before {
-  content: "\ead3";
+  content: "\f36a";
 }
 
 .cib-dynatrace:before {
-  content: "\ead4";
+  content: "\f369";
 }
 
 .cib-ebay:before {
-  content: "\ead5";
+  content: "\f368";
 }
 
 .cib-eclipseide:before {
-  content: "\ead6";
+  content: "\f367";
 }
 
 .cib-elastic:before {
-  content: "\ead7";
+  content: "\f363";
 }
 
 .cib-elastic-cloud:before {
-  content: "\ead8";
+  content: "\f366";
 }
 
 .cib-elastic-search:before {
-  content: "\ead9";
+  content: "\f365";
 }
 
 .cib-elastic-stack:before {
-  content: "\eada";
+  content: "\f364";
 }
 
 .cib-electron:before {
-  content: "\eadb";
+  content: "\f362";
 }
 
 .cib-elementary:before {
-  content: "\eadc";
+  content: "\f361";
 }
 
 .cib-eleventy:before {
-  content: "\eadd";
+  content: "\f360";
 }
 
 .cib-ello:before {
-  content: "\eade";
-}
-
-.cib-elsevier:before {
-  content: "\eadf";
+  content: "\f35f";
 }
 
 .cib-emlakjet:before {
-  content: "\eae0";
+  content: "\f35e";
 }
 
 .cib-empirekred:before {
-  content: "\eae1";
+  content: "\f35d";
 }
 
 .cib-envato:before {
-  content: "\eae2";
+  content: "\f35c";
 }
 
 .cib-epic-games:before {
-  content: "\eae3";
+  content: "\f35b";
 }
 
 .cib-epson:before {
-  content: "\eae4";
+  content: "\f35a";
 }
 
 .cib-esea:before {
-  content: "\eae5";
+  content: "\f359";
 }
 
 .cib-eslint:before {
-  content: "\eae6";
+  content: "\f358";
 }
 
 .cib-ethereum:before {
-  content: "\eae7";
+  content: "\f357";
 }
 
 .cib-etsy:before {
-  content: "\eae8";
+  content: "\f356";
 }
 
 .cib-event-store:before {
-  content: "\eae9";
+  content: "\f355";
 }
 
 .cib-eventbrite:before {
-  content: "\eaea";
+  content: "\f354";
 }
 
 .cib-evernote:before {
-  content: "\eaeb";
+  content: "\f353";
 }
 
 .cib-everplaces:before {
-  content: "\eaec";
+  content: "\f352";
 }
 
 .cib-evry:before {
-  content: "\eaed";
+  content: "\f351";
 }
 
 .cib-exercism:before {
-  content: "\eaee";
+  content: "\f350";
 }
 
 .cib-experts-exchange:before {
-  content: "\eaef";
+  content: "\f34f";
 }
 
 .cib-expo:before {
-  content: "\eaf0";
+  content: "\f34e";
 }
 
 .cib-eyeem:before {
-  content: "\eaf1";
+  content: "\f34d";
 }
 
 .cib-f-secure:before {
-  content: "\eaf2";
+  content: "\f34c";
 }
 
 .cib-facebook:before {
-  content: "\eaf3";
+  content: "\f34a";
 }
 
 .cib-facebook-f:before {
-  content: "\eaf4";
+  content: "\f34b";
 }
 
 .cib-faceit:before {
-  content: "\eaf5";
+  content: "\f349";
 }
 
 .cib-fandango:before {
-  content: "\eaf6";
+  content: "\f348";
 }
 
 .cib-favro:before {
-  content: "\eaf7";
+  content: "\f347";
 }
 
 .cib-feathub:before {
-  content: "\eaf8";
+  content: "\f346";
 }
 
 .cib-fedex:before {
-  content: "\eaf9";
+  content: "\f345";
 }
 
 .cib-fedora:before {
-  content: "\eafa";
+  content: "\f344";
 }
 
 .cib-feedly:before {
-  content: "\eafb";
+  content: "\f343";
 }
 
 .cib-fido-alliance:before {
-  content: "\eafc";
+  content: "\f342";
 }
 
 .cib-figma:before {
-  content: "\eafd";
+  content: "\f341";
 }
 
 .cib-filezilla:before {
-  content: "\eafe";
+  content: "\f340";
 }
 
 .cib-firebase:before {
-  content: "\eaff";
+  content: "\f33f";
 }
 
 .cib-fitbit:before {
-  content: "\eb00";
+  content: "\f33e";
 }
 
 .cib-flask:before {
-  content: "\eb01";
+  content: "\f33d";
 }
 
 .cib-flattr:before {
-  content: "\eb02";
+  content: "\f33c";
 }
 
 .cib-flickr:before {
-  content: "\eb03";
+  content: "\f33b";
 }
 
 .cib-flipboard:before {
-  content: "\eb04";
+  content: "\f33a";
 }
 
 .cib-flutter:before {
-  content: "\eb05";
+  content: "\f339";
 }
 
 .cib-fnac:before {
-  content: "\eb06";
+  content: "\f338";
 }
 
 .cib-foursquare:before {
-  content: "\eb07";
+  content: "\f337";
 }
 
 .cib-framer:before {
-  content: "\eb08";
+  content: "\f336";
 }
 
 .cib-freebsd:before {
-  content: "\eb09";
+  content: "\f335";
 }
 
 .cib-freecodecamp:before {
-  content: "\eb0a";
+  content: "\f334";
 }
 
 .cib-fur-affinity:before {
-  content: "\eb0b";
+  content: "\f333";
 }
 
 .cib-furry-network:before {
-  content: "\eb0c";
+  content: "\f332";
 }
 
 .cib-garmin:before {
-  content: "\eb0d";
+  content: "\f331";
 }
 
 .cib-gatsby:before {
-  content: "\eb0e";
+  content: "\f330";
 }
 
 .cib-gauges:before {
-  content: "\eb0f";
+  content: "\f32f";
 }
 
 .cib-genius:before {
-  content: "\eb10";
+  content: "\f32e";
 }
 
 .cib-gentoo:before {
-  content: "\eb11";
+  content: "\f32d";
 }
 
 .cib-geocaching:before {
-  content: "\eb12";
+  content: "\f32c";
 }
 
 .cib-gerrit:before {
-  content: "\eb13";
+  content: "\f32b";
 }
 
 .cib-gg:before {
-  content: "\eb14";
+  content: "\f32a";
 }
 
 .cib-ghost:before {
-  content: "\eb15";
+  content: "\f329";
 }
 
 .cib-gimp:before {
-  content: "\eb16";
+  content: "\f328";
 }
 
 .cib-git:before {
-  content: "\eb17";
+  content: "\f327";
 }
 
 .cib-gitea:before {
-  content: "\eb18";
+  content: "\f326";
 }
 
 .cib-github:before {
-  content: "\eb19";
+  content: "\f325";
 }
 
 .cib-gitkraken:before {
-  content: "\eb1a";
+  content: "\f324";
 }
 
 .cib-gitlab:before {
-  content: "\eb1b";
+  content: "\f323";
 }
 
 .cib-gitpod:before {
-  content: "\eb1c";
+  content: "\f322";
 }
 
 .cib-gitter:before {
-  content: "\eb1d";
+  content: "\f321";
 }
 
 .cib-glassdoor:before {
-  content: "\eb1e";
+  content: "\f320";
 }
 
 .cib-glitch:before {
-  content: "\eb1f";
+  content: "\f31f";
 }
 
 .cib-gmail:before {
-  content: "\eb20";
+  content: "\f31e";
 }
 
 .cib-gnu:before {
-  content: "\eb21";
+  content: "\f31b";
 }
 
 .cib-gnu-privacy-guard:before {
-  content: "\eb22";
+  content: "\f31d";
 }
 
 .cib-gnu-social:before {
-  content: "\eb23";
+  content: "\f31c";
 }
 
 .cib-go:before {
-  content: "\eb24";
+  content: "\f31a";
 }
 
 .cib-godot-engine:before {
-  content: "\eb25";
+  content: "\f319";
 }
 
 .cib-gog-com:before {
-  content: "\eb26";
+  content: "\f318";
 }
 
 .cib-goldenline:before {
-  content: "\eb27";
+  content: "\f317";
 }
 
 .cib-goodreads:before {
-  content: "\eb28";
+  content: "\f316";
 }
 
 .cib-google:before {
-  content: "\eb29";
+  content: "\f30c";
 }
 
 .cib-google-ads:before {
-  content: "\eb2a";
+  content: "\f315";
 }
 
 .cib-google-allo:before {
-  content: "\eb2b";
+  content: "\f314";
 }
 
 .cib-google-analytics:before {
-  content: "\eb2c";
+  content: "\f313";
 }
 
 .cib-google-chrome:before {
-  content: "\eb2d";
+  content: "\f312";
 }
 
 .cib-google-cloud:before {
-  content: "\eb2e";
+  content: "\f311";
 }
 
 .cib-google-keep:before {
-  content: "\eb2f";
+  content: "\f310";
 }
 
 .cib-google-pay:before {
-  content: "\eb30";
+  content: "\f30f";
 }
 
 .cib-google-play:before {
-  content: "\eb31";
+  content: "\f30e";
 }
 
 .cib-google-podcasts:before {
-  content: "\eb32";
+  content: "\f30d";
 }
 
 .cib-googles-cholar:before {
-  content: "\eb33";
+  content: "\f30b";
 }
 
 .cib-gov-uk:before {
-  content: "\eb34";
+  content: "\f30a";
 }
 
 .cib-gradle:before {
-  content: "\eb35";
+  content: "\f309";
 }
 
 .cib-grafana:before {
-  content: "\eb36";
+  content: "\f308";
 }
 
 .cib-graphcool:before {
-  content: "\eb37";
+  content: "\f307";
 }
 
 .cib-graphql:before {
-  content: "\eb38";
+  content: "\f306";
 }
 
 .cib-grav:before {
-  content: "\eb39";
+  content: "\f305";
 }
 
 .cib-gravatar:before {
-  content: "\eb3a";
+  content: "\f304";
 }
 
 .cib-greenkeeper:before {
-  content: "\eb3b";
+  content: "\f303";
 }
 
 .cib-greensock:before {
-  content: "\eb3c";
+  content: "\f302";
 }
 
 .cib-groovy:before {
-  content: "\eb3d";
+  content: "\f301";
 }
 
 .cib-groupon:before {
-  content: "\eb3e";
+  content: "\f300";
 }
 
 .cib-grunt:before {
-  content: "\eb3f";
+  content: "\f2ff";
 }
 
 .cib-gulp:before {
-  content: "\eb40";
+  content: "\f2fe";
 }
 
 .cib-gumroad:before {
-  content: "\eb41";
+  content: "\f2fd";
 }
 
 .cib-gumtree:before {
-  content: "\eb42";
+  content: "\f2fc";
 }
 
 .cib-habr:before {
-  content: "\eb43";
+  content: "\f2fb";
 }
 
 .cib-hackaday:before {
-  content: "\eb44";
+  content: "\f2fa";
 }
 
 .cib-hackerearth:before {
-  content: "\eb45";
+  content: "\f2f9";
 }
 
 .cib-hackerone:before {
-  content: "\eb46";
+  content: "\f2f8";
 }
 
 .cib-hackerrank:before {
-  content: "\eb47";
+  content: "\f2f7";
 }
 
 .cib-hackhands:before {
-  content: "\eb48";
+  content: "\f2f6";
 }
 
 .cib-hackster:before {
-  content: "\eb49";
+  content: "\f2f5";
 }
 
 .cib-happycow:before {
-  content: "\eb4a";
+  content: "\f2f4";
 }
 
 .cib-hashnode:before {
-  content: "\eb4b";
+  content: "\f2f3";
 }
 
 .cib-haskell:before {
-  content: "\eb4c";
+  content: "\f2f2";
 }
 
 .cib-hatena-bookmark:before {
-  content: "\eb4d";
+  content: "\f2f1";
 }
 
 .cib-haxe:before {
-  content: "\eb4e";
+  content: "\f2f0";
 }
 
 .cib-helm:before {
-  content: "\eb4f";
+  content: "\f2ef";
 }
 
 .cib-here:before {
-  content: "\eb50";
+  content: "\f2ee";
 }
 
 .cib-heroku:before {
-  content: "\eb51";
+  content: "\f2ed";
 }
 
 .cib-hexo:before {
-  content: "\eb52";
+  content: "\f2ec";
 }
 
 .cib-highly:before {
-  content: "\eb53";
+  content: "\f2eb";
 }
 
 .cib-hipchat:before {
-  content: "\eb54";
+  content: "\f2ea";
 }
 
 .cib-hitachi:before {
-  content: "\eb55";
+  content: "\f2e9";
 }
 
 .cib-hockeyapp:before {
-  content: "\eb56";
+  content: "\f2e8";
 }
 
 .cib-homify:before {
-  content: "\eb57";
+  content: "\f2e7";
 }
 
 .cib-hootsuite:before {
-  content: "\eb58";
+  content: "\f2e6";
 }
 
 .cib-hotjar:before {
-  content: "\eb59";
+  content: "\f2e5";
 }
 
 .cib-houzz:before {
-  content: "\eb5a";
+  content: "\f2e4";
 }
 
 .cib-hp:before {
-  content: "\eb5b";
+  content: "\f2e3";
 }
 
 .cib-html5:before {
-  content: "\eb5c";
+  content: "\f2e1";
 }
 
 .cib-html5-shield:before {
-  content: "\eb5d";
+  content: "\f2e2";
 }
 
 .cib-htmlacademy:before {
-  content: "\eb5e";
+  content: "\f2e0";
 }
 
 .cib-huawei:before {
-  content: "\eb5f";
+  content: "\f2df";
 }
 
 .cib-hubspot:before {
-  content: "\eb60";
+  content: "\f2de";
 }
 
 .cib-hulu:before {
-  content: "\eb61";
+  content: "\f2dd";
 }
 
 .cib-humble-bundle:before {
-  content: "\eb62";
+  content: "\f2dc";
 }
 
 .cib-iata:before {
-  content: "\eb63";
+  content: "\f2db";
 }
 
 .cib-ibm:before {
-  content: "\eb64";
+  content: "\f2da";
 }
 
 .cib-icloud:before {
-  content: "\eb65";
+  content: "\f2d9";
 }
 
 .cib-iconjar:before {
-  content: "\eb66";
+  content: "\f2d8";
 }
 
 .cib-icq:before {
-  content: "\eb67";
+  content: "\f2d7";
 }
 
 .cib-ideal:before {
-  content: "\eb68";
+  content: "\f2d6";
 }
 
 .cib-ifixit:before {
-  content: "\eb69";
+  content: "\f2d5";
 }
 
 .cib-imdb:before {
-  content: "\eb6a";
+  content: "\f2d4";
 }
 
 .cib-indeed:before {
-  content: "\eb6b";
+  content: "\f2d3";
 }
 
 .cib-inkscape:before {
-  content: "\eb6c";
+  content: "\f2d2";
 }
 
 .cib-instacart:before {
-  content: "\eb6d";
+  content: "\f2d1";
 }
 
 .cib-instagram:before {
-  content: "\eb6e";
+  content: "\f2d0";
 }
 
 .cib-instapaper:before {
-  content: "\eb6f";
+  content: "\f2cf";
 }
 
 .cib-intel:before {
-  content: "\eb70";
+  content: "\f2ce";
 }
 
 .cib-intellijidea:before {
-  content: "\eb71";
+  content: "\f2cd";
 }
 
 .cib-intercom:before {
-  content: "\eb72";
+  content: "\f2cc";
 }
 
 .cib-internet-explorer:before {
-  content: "\eb73";
+  content: "\f2cb";
 }
 
 .cib-invision:before {
-  content: "\eb74";
+  content: "\f2ca";
 }
 
 .cib-ionic:before {
-  content: "\eb75";
+  content: "\f2c9";
 }
 
 .cib-issuu:before {
-  content: "\eb76";
+  content: "\f2c8";
 }
 
 .cib-itch-io:before {
-  content: "\eb77";
+  content: "\f2c7";
 }
 
 .cib-jabber:before {
-  content: "\eb78";
+  content: "\f2c6";
 }
 
 .cib-java:before {
-  content: "\eb79";
+  content: "\f2c5";
 }
 
 .cib-javascript:before {
-  content: "\eb7a";
+  content: "\f2c4";
 }
 
 .cib-jekyll:before {
-  content: "\eb7b";
+  content: "\f2c3";
 }
 
 .cib-jenkins:before {
-  content: "\eb7c";
+  content: "\f2c2";
 }
 
 .cib-jest:before {
-  content: "\eb7d";
+  content: "\f2c1";
 }
 
 .cib-jet:before {
-  content: "\eb7e";
+  content: "\f2c0";
 }
 
 .cib-jetbrains:before {
-  content: "\eb7f";
+  content: "\f2bf";
 }
 
 .cib-jira:before {
-  content: "\eb80";
+  content: "\f2be";
 }
 
 .cib-joomla:before {
-  content: "\eb81";
+  content: "\f2bd";
 }
 
 .cib-jquery:before {
-  content: "\eb82";
+  content: "\f2bc";
 }
 
 .cib-js:before {
-  content: "\eb83";
+  content: "\f2bb";
 }
 
 .cib-jsdelivr:before {
-  content: "\eb84";
+  content: "\f2ba";
 }
 
 .cib-jsfiddle:before {
-  content: "\eb85";
+  content: "\f2b9";
 }
 
 .cib-json:before {
-  content: "\eb86";
+  content: "\f2b8";
 }
 
 .cib-jupyter:before {
-  content: "\eb87";
+  content: "\f2b7";
 }
 
 .cib-justgiving:before {
-  content: "\eb88";
+  content: "\f2b6";
 }
 
 .cib-kaggle:before {
-  content: "\eb89";
+  content: "\f2b5";
 }
 
 .cib-kaios:before {
-  content: "\eb8a";
+  content: "\f2b4";
 }
 
 .cib-kaspersky:before {
-  content: "\eb8b";
+  content: "\f2b3";
 }
 
 .cib-kentico:before {
-  content: "\eb8c";
+  content: "\f2b2";
 }
 
 .cib-keras:before {
-  content: "\eb8d";
+  content: "\f2b1";
 }
 
 .cib-keybase:before {
-  content: "\eb8e";
+  content: "\f2b0";
 }
 
 .cib-keycdn:before {
-  content: "\eb8f";
+  content: "\f2af";
 }
 
 .cib-khan-academy:before {
-  content: "\eb90";
+  content: "\f2ae";
 }
 
 .cib-kibana:before {
-  content: "\eb91";
+  content: "\f2ad";
 }
 
 .cib-kickstarter:before {
-  content: "\eb92";
+  content: "\f2ac";
 }
 
 .cib-kik:before {
-  content: "\eb93";
+  content: "\f2ab";
 }
 
 .cib-kirby:before {
-  content: "\eb94";
+  content: "\f2aa";
 }
 
 .cib-klout:before {
-  content: "\eb95";
+  content: "\f2a9";
 }
 
 .cib-known:before {
-  content: "\eb96";
+  content: "\f2a8";
 }
 
 .cib-ko-fi:before {
-  content: "\eb97";
+  content: "\f2a7";
 }
 
 .cib-kodi:before {
-  content: "\eb98";
+  content: "\f2a6";
 }
 
 .cib-koding:before {
-  content: "\eb99";
+  content: "\f2a5";
 }
 
 .cib-kotlin:before {
-  content: "\eb9a";
+  content: "\f2a4";
 }
 
 .cib-krita:before {
-  content: "\eb9b";
+  content: "\f2a3";
 }
 
 .cib-kubernetes:before {
-  content: "\eb9c";
+  content: "\f2a2";
 }
 
 .cib-lanyrd:before {
-  content: "\eb9d";
+  content: "\f2a1";
 }
 
 .cib-laravel:before {
-  content: "\eb9e";
+  content: "\f29e";
 }
 
 .cib-laravel-horizon:before {
-  content: "\eb9f";
+  content: "\f2a0";
 }
 
 .cib-laravel-nova:before {
-  content: "\eba0";
+  content: "\f29f";
 }
 
 .cib-last-fm:before {
-  content: "\eba1";
+  content: "\f29d";
 }
 
 .cib-latex:before {
-  content: "\eba2";
+  content: "\f29c";
 }
 
 .cib-launchpad:before {
-  content: "\eba3";
+  content: "\f29b";
 }
 
 .cib-leetcode:before {
-  content: "\eba4";
+  content: "\f29a";
 }
 
 .cib-lenovo:before {
-  content: "\eba5";
+  content: "\f299";
 }
 
 .cib-less:before {
-  content: "\eba6";
+  content: "\f298";
 }
 
 .cib-lets-encrypt:before {
-  content: "\eba7";
+  content: "\f297";
 }
 
 .cib-letterboxd:before {
-  content: "\eba8";
+  content: "\f296";
 }
 
 .cib-lgtm:before {
-  content: "\eba9";
+  content: "\f295";
 }
 
 .cib-liberapay:before {
-  content: "\ebaa";
+  content: "\f294";
 }
 
 .cib-librarything:before {
-  content: "\ebab";
+  content: "\f293";
 }
 
 .cib-libreoffice:before {
-  content: "\ebac";
+  content: "\f292";
 }
 
 .cib-line:before {
-  content: "\ebad";
+  content: "\f291";
 }
 
 .cib-linkedin:before {
-  content: "\ebae";
+  content: "\f28f";
 }
 
 .cib-linkedin-in:before {
-  content: "\ebaf";
+  content: "\f290";
 }
 
 .cib-linux:before {
-  content: "\ebb0";
+  content: "\f28c";
 }
 
 .cib-linux-foundation:before {
-  content: "\ebb1";
+  content: "\f28e";
 }
 
 .cib-linux-mint:before {
-  content: "\ebb2";
+  content: "\f28d";
 }
 
 .cib-livejournal:before {
-  content: "\ebb3";
+  content: "\f28b";
 }
 
 .cib-livestream:before {
-  content: "\ebb4";
+  content: "\f28a";
 }
 
 .cib-logstash:before {
-  content: "\ebb5";
+  content: "\f289";
 }
 
 .cib-lua:before {
-  content: "\ebb6";
+  content: "\f288";
 }
 
 .cib-lumen:before {
-  content: "\ebb7";
+  content: "\f287";
 }
 
 .cib-lyft:before {
-  content: "\ebb8";
+  content: "\f286";
 }
 
 .cib-macys:before {
-  content: "\ebb9";
+  content: "\f285";
 }
 
 .cib-magento:before {
-  content: "\ebba";
+  content: "\f284";
 }
 
 .cib-magisk:before {
-  content: "\ebbb";
+  content: "\f283";
 }
 
 .cib-mail-ru:before {
-  content: "\ebbc";
+  content: "\f282";
 }
 
 .cib-mailchimp:before {
-  content: "\ebbd";
+  content: "\f281";
 }
 
 .cib-makerbot:before {
-  content: "\ebbe";
+  content: "\f280";
 }
 
 .cib-manjaro:before {
-  content: "\ebbf";
+  content: "\f27f";
 }
 
 .cib-markdown:before {
-  content: "\ebc0";
+  content: "\f27e";
 }
 
 .cib-marketo:before {
-  content: "\ebc1";
+  content: "\f27d";
 }
 
 .cib-mastercard:before {
-  content: "\ebc2";
+  content: "\f27c";
 }
 
 .cib-mastodon:before {
-  content: "\ebc3";
+  content: "\f27b";
 }
 
 .cib-material-design:before {
-  content: "\ebc4";
+  content: "\f27a";
 }
 
 .cib-mathworks:before {
-  content: "\ebc5";
+  content: "\f279";
 }
 
 .cib-matrix:before {
-  content: "\ebc6";
+  content: "\f278";
 }
 
 .cib-mattermost:before {
-  content: "\ebc7";
+  content: "\f277";
 }
 
 .cib-matternet:before {
-  content: "\ebc8";
+  content: "\f276";
 }
 
 .cib-maxcdn:before {
-  content: "\ebc9";
+  content: "\f275";
 }
 
 .cib-mcafee:before {
-  content: "\ebca";
+  content: "\f274";
 }
 
 .cib-media-temple:before {
-  content: "\ebcb";
+  content: "\f273";
 }
 
 .cib-mediafire:before {
-  content: "\ebcc";
+  content: "\f272";
 }
 
 .cib-medium:before {
-  content: "\ebcd";
+  content: "\f270";
 }
 
 .cib-medium-m:before {
-  content: "\ebce";
+  content: "\f271";
 }
 
 .cib-meetup:before {
-  content: "\ebcf";
+  content: "\f26f";
 }
 
 .cib-mega:before {
-  content: "\ebd0";
+  content: "\f26e";
 }
 
 .cib-mendeley:before {
-  content: "\ebd1";
+  content: "\f26d";
 }
 
 .cib-messenger:before {
-  content: "\ebd2";
+  content: "\f26c";
 }
 
 .cib-meteor:before {
-  content: "\ebd3";
+  content: "\f26b";
 }
 
 .cib-micro-blog:before {
-  content: "\ebd4";
+  content: "\f26a";
 }
 
 .cib-microgenetics:before {
-  content: "\ebd5";
+  content: "\f269";
 }
 
 .cib-microsoft:before {
-  content: "\ebd6";
+  content: "\f267";
 }
 
 .cib-microsoft-edge:before {
-  content: "\ebd7";
+  content: "\f268";
 }
 
 .cib-minetest:before {
-  content: "\ebd8";
+  content: "\f266";
 }
 
 .cib-minutemailer:before {
-  content: "\ebd9";
+  content: "\f265";
 }
 
 .cib-mix:before {
-  content: "\ebda";
+  content: "\f264";
 }
 
 .cib-mixcloud:before {
-  content: "\ebdb";
+  content: "\f263";
 }
 
 .cib-mixer:before {
-  content: "\ebdc";
+  content: "\f262";
 }
 
 .cib-mojang:before {
-  content: "\ebdd";
+  content: "\f261";
 }
 
 .cib-monero:before {
-  content: "\ebde";
+  content: "\f260";
 }
 
 .cib-mongodb:before {
-  content: "\ebdf";
+  content: "\f25f";
 }
 
 .cib-monkeytie:before {
-  content: "\ebe0";
+  content: "\f25e";
 }
 
 .cib-monogram:before {
-  content: "\ebe1";
+  content: "\f25d";
 }
 
 .cib-monzo:before {
-  content: "\ebe2";
+  content: "\f25c";
 }
 
 .cib-moo:before {
-  content: "\ebe3";
+  content: "\f25b";
 }
 
 .cib-mozilla:before {
-  content: "\ebe4";
+  content: "\f259";
 }
 
 .cib-mozilla-firefox:before {
-  content: "\ebe5";
+  content: "\f25a";
 }
 
 .cib-musescore:before {
-  content: "\ebe6";
+  content: "\f258";
 }
 
 .cib-mxlinux:before {
-  content: "\ebe7";
+  content: "\f257";
 }
 
 .cib-myspace:before {
-  content: "\ebe8";
+  content: "\f256";
 }
 
 .cib-mysql:before {
-  content: "\ebe9";
+  content: "\f255";
 }
 
 .cib-nativescript:before {
-  content: "\ebea";
+  content: "\f254";
 }
 
 .cib-nec:before {
-  content: "\ebeb";
+  content: "\f253";
 }
 
 .cib-neo4j:before {
-  content: "\ebec";
+  content: "\f252";
 }
 
 .cib-netflix:before {
-  content: "\ebed";
+  content: "\f251";
 }
 
 .cib-netlify:before {
-  content: "\ebee";
+  content: "\f250";
 }
 
 .cib-next-js:before {
-  content: "\ebef";
+  content: "\f24f";
 }
 
 .cib-nextcloud:before {
-  content: "\ebf0";
+  content: "\f24e";
 }
 
 .cib-nextdoor:before {
-  content: "\ebf1";
+  content: "\f24d";
 }
 
 .cib-nginx:before {
-  content: "\ebf2";
+  content: "\f24c";
 }
 
 .cib-nim:before {
-  content: "\ebf3";
+  content: "\f24b";
 }
 
 .cib-nintendo:before {
-  content: "\ebf4";
+  content: "\f247";
 }
 
 .cib-nintendo-3ds:before {
-  content: "\ebf5";
+  content: "\f24a";
 }
 
 .cib-nintendo-gamecube:before {
-  content: "\ebf6";
+  content: "\f249";
 }
 
 .cib-nintendo-switch:before {
-  content: "\ebf7";
+  content: "\f248";
 }
 
 .cib-node-js:before {
-  content: "\ebf8";
+  content: "\f246";
 }
 
 .cib-node-red:before {
-  content: "\ebf9";
+  content: "\f245";
 }
 
 .cib-nodemon:before {
-  content: "\ebfa";
+  content: "\f244";
 }
 
 .cib-nokia:before {
-  content: "\ebfb";
+  content: "\f243";
 }
 
 .cib-notion:before {
-  content: "\ebfc";
+  content: "\f242";
 }
 
 .cib-npm:before {
-  content: "\ebfd";
+  content: "\f241";
 }
 
 .cib-nucleo:before {
-  content: "\ebfe";
+  content: "\f240";
 }
 
 .cib-nuget:before {
-  content: "\ebff";
+  content: "\f23f";
 }
 
 .cib-nuxt-js:before {
-  content: "\ec00";
+  content: "\f23e";
 }
 
 .cib-nvidia:before {
-  content: "\ec01";
+  content: "\f23d";
 }
 
 .cib-ocaml:before {
-  content: "\ec02";
+  content: "\f23c";
 }
 
 .cib-octave:before {
-  content: "\ec03";
+  content: "\f23b";
 }
 
 .cib-octopus-deploy:before {
-  content: "\ec04";
+  content: "\f23a";
 }
 
 .cib-oculus:before {
-  content: "\ec05";
+  content: "\f239";
 }
 
 .cib-odnoklassniki:before {
-  content: "\ec06";
+  content: "\f238";
 }
 
 .cib-open-access:before {
-  content: "\ec07";
+  content: "\f237";
 }
 
 .cib-open-collective:before {
-  content: "\ec08";
+  content: "\f236";
 }
 
 .cib-open-id:before {
-  content: "\ec09";
+  content: "\f235";
 }
 
 .cib-open-source-initiative:before {
-  content: "\ec0a";
+  content: "\f234";
 }
 
 .cib-openstreetmap:before {
-  content: "\ec0b";
+  content: "\f233";
 }
 
 .cib-opensuse:before {
-  content: "\ec0c";
+  content: "\f232";
 }
 
 .cib-openvpn:before {
-  content: "\ec0d";
+  content: "\f231";
 }
 
 .cib-opera:before {
-  content: "\ec0e";
+  content: "\f230";
 }
 
 .cib-opsgenie:before {
-  content: "\ec0f";
+  content: "\f22f";
 }
 
 .cib-oracle:before {
-  content: "\ec10";
-}
-
-.cib-oracle-netsuite:before {
-  content: "\ec11";
+  content: "\f22e";
 }
 
 .cib-orcid:before {
-  content: "\ec12";
+  content: "\f22d";
 }
 
 .cib-origin:before {
-  content: "\ec13";
+  content: "\f22c";
 }
 
 .cib-osi:before {
-  content: "\ec14";
+  content: "\f22b";
 }
 
 .cib-osmc:before {
-  content: "\ec15";
+  content: "\f22a";
 }
 
 .cib-overcast:before {
-  content: "\ec16";
+  content: "\f229";
 }
 
 .cib-overleaf:before {
-  content: "\ec17";
+  content: "\f228";
 }
 
 .cib-ovh:before {
-  content: "\ec18";
+  content: "\f227";
 }
 
 .cib-pagekit:before {
-  content: "\ec19";
+  content: "\f226";
 }
 
 .cib-palantir:before {
-  content: "\ec1a";
+  content: "\f225";
 }
 
 .cib-pandora:before {
-  content: "\ec1b";
+  content: "\f224";
 }
 
 .cib-pantheon:before {
-  content: "\ec1c";
+  content: "\f223";
 }
 
 .cib-patreon:before {
-  content: "\ec1d";
+  content: "\f222";
 }
 
 .cib-paypal:before {
-  content: "\ec1e";
+  content: "\f221";
 }
 
 .cib-periscope:before {
-  content: "\ec1f";
+  content: "\f220";
 }
 
 .cib-php:before {
-  content: "\ec20";
+  content: "\f21f";
 }
 
 .cib-picarto-tv:before {
-  content: "\ec21";
+  content: "\f21e";
 }
 
 .cib-pinboard:before {
-  content: "\ec22";
+  content: "\f21d";
 }
 
 .cib-pingdom:before {
-  content: "\ec23";
+  content: "\f21c";
 }
 
 .cib-pingup:before {
-  content: "\ec24";
+  content: "\f21b";
 }
 
 .cib-pinterest:before {
-  content: "\ec25";
+  content: "\f219";
 }
 
 .cib-pinterest-p:before {
-  content: "\ec26";
+  content: "\f21a";
 }
 
 .cib-pivotaltracker:before {
-  content: "\ec27";
+  content: "\f218";
 }
 
 .cib-plangrid:before {
-  content: "\ec28";
+  content: "\f217";
 }
 
 .cib-player-me:before {
-  content: "\ec29";
+  content: "\f216";
 }
 
 .cib-playerfm:before {
-  content: "\ec2a";
+  content: "\f215";
 }
 
 .cib-playstation:before {
-  content: "\ec2b";
+  content: "\f214";
 }
 
 .cib-playstation3:before {
-  content: "\ec2c";
+  content: "\f213";
 }
 
 .cib-playstation4:before {
-  content: "\ec2d";
+  content: "\f212";
 }
 
 .cib-plesk:before {
-  content: "\ec2e";
+  content: "\f211";
 }
 
 .cib-plex:before {
-  content: "\ec2f";
+  content: "\f210";
 }
 
 .cib-pluralsight:before {
-  content: "\ec30";
+  content: "\f20f";
 }
 
 .cib-plurk:before {
-  content: "\ec31";
+  content: "\f20e";
 }
 
 .cib-pocket:before {
-  content: "\ec32";
+  content: "\f20d";
 }
 
 .cib-postgresql:before {
-  content: "\ec33";
+  content: "\f20c";
 }
 
 .cib-postman:before {
-  content: "\ec34";
+  content: "\f20b";
 }
 
 .cib-postwoman:before {
-  content: "\ec35";
+  content: "\f20a";
 }
 
 .cib-powershell:before {
-  content: "\ec36";
+  content: "\f209";
 }
 
 .cib-prettier:before {
-  content: "\ec37";
+  content: "\f208";
 }
 
 .cib-prismic:before {
-  content: "\ec38";
+  content: "\f207";
 }
 
 .cib-probot:before {
-  content: "\ec39";
+  content: "\f206";
 }
 
 .cib-processwire:before {
-  content: "\ec3a";
+  content: "\f205";
 }
 
 .cib-product-hunt:before {
-  content: "\ec3b";
+  content: "\f204";
 }
 
 .cib-proto-io:before {
-  content: "\ec3c";
+  content: "\f203";
 }
 
 .cib-protonmail:before {
-  content: "\ec3d";
+  content: "\f202";
 }
 
 .cib-proxmox:before {
-  content: "\ec3e";
+  content: "\f201";
 }
 
 .cib-pypi:before {
-  content: "\ec3f";
+  content: "\f200";
 }
 
 .cib-python:before {
-  content: "\ec40";
+  content: "\f1ff";
 }
 
 .cib-pytorch:before {
-  content: "\ec41";
+  content: "\f1fe";
 }
 
 .cib-qgis:before {
-  content: "\ec42";
+  content: "\f1fd";
 }
 
 .cib-qiita:before {
-  content: "\ec43";
+  content: "\f1fc";
 }
 
 .cib-qq:before {
-  content: "\ec44";
+  content: "\f1fb";
 }
 
 .cib-qualcomm:before {
-  content: "\ec45";
+  content: "\f1fa";
 }
 
 .cib-quantcast:before {
-  content: "\ec46";
+  content: "\f1f9";
 }
 
 .cib-quantopian:before {
-  content: "\ec47";
+  content: "\f1f8";
 }
 
 .cib-quarkus:before {
-  content: "\ec48";
+  content: "\f1f7";
 }
 
 .cib-quora:before {
-  content: "\ec49";
+  content: "\f1f6";
 }
 
 .cib-qwiklabs:before {
-  content: "\ec4a";
+  content: "\f1f5";
 }
 
 .cib-qzone:before {
-  content: "\ec4b";
+  content: "\f1f4";
 }
 
 .cib-r:before {
-  content: "\ec4c";
+  content: "\f1f3";
 }
 
 .cib-radiopublic:before {
-  content: "\ec4d";
+  content: "\f1f2";
 }
 
 .cib-rails:before {
-  content: "\ec4e";
+  content: "\f1f1";
 }
 
 .cib-raspberry-pi:before {
-  content: "\ec4f";
+  content: "\f1f0";
 }
 
 .cib-react:before {
-  content: "\ec50";
+  content: "\f1ef";
 }
 
 .cib-read-the-docs:before {
-  content: "\ec51";
+  content: "\f1ee";
 }
 
 .cib-readme:before {
-  content: "\ec52";
+  content: "\f1ed";
 }
 
 .cib-realm:before {
-  content: "\ec53";
+  content: "\f1ec";
 }
 
 .cib-reason:before {
-  content: "\ec54";
+  content: "\f1eb";
 }
 
 .cib-redbubble:before {
-  content: "\ec55";
+  content: "\f1ea";
 }
 
 .cib-reddit:before {
-  content: "\ec56";
+  content: "\f1e8";
 }
 
 .cib-reddit-alt:before {
-  content: "\ec57";
+  content: "\f1e9";
 }
 
 .cib-redhat:before {
-  content: "\ec58";
+  content: "\f1e7";
 }
 
 .cib-redis:before {
-  content: "\ec59";
+  content: "\f1e6";
 }
 
 .cib-redux:before {
-  content: "\ec5a";
+  content: "\f1e5";
 }
 
 .cib-renren:before {
-  content: "\ec5b";
+  content: "\f1e4";
 }
 
 .cib-reverbnation:before {
-  content: "\ec5c";
+  content: "\f1e3";
 }
 
 .cib-riot:before {
-  content: "\ec5d";
+  content: "\f1e2";
 }
 
 .cib-ripple:before {
-  content: "\ec5e";
+  content: "\f1e1";
 }
 
 .cib-riseup:before {
-  content: "\ec5f";
+  content: "\f1e0";
 }
 
 .cib-rollup-js:before {
-  content: "\ec60";
+  content: "\f1df";
 }
 
 .cib-roots:before {
-  content: "\ec61";
+  content: "\f1de";
 }
 
 .cib-roundcube:before {
-  content: "\ec62";
+  content: "\f1dd";
 }
 
 .cib-rss:before {
-  content: "\ec63";
+  content: "\f1dc";
 }
 
 .cib-rstudio:before {
-  content: "\ec64";
+  content: "\f1db";
 }
 
 .cib-ruby:before {
-  content: "\ec65";
+  content: "\f1da";
 }
 
 .cib-rubygems:before {
-  content: "\ec66";
+  content: "\f1d9";
 }
 
 .cib-runkeeper:before {
-  content: "\ec67";
+  content: "\f1d8";
 }
 
 .cib-rust:before {
-  content: "\ec68";
+  content: "\f1d7";
 }
 
 .cib-safari:before {
-  content: "\ec69";
+  content: "\f1d6";
 }
 
 .cib-sahibinden:before {
-  content: "\ec6a";
+  content: "\f1d5";
 }
 
 .cib-salesforce:before {
-  content: "\ec6b";
+  content: "\f1d4";
 }
 
 .cib-saltstack:before {
-  content: "\ec6c";
+  content: "\f1d3";
 }
 
 .cib-samsung:before {
-  content: "\ec6d";
+  content: "\f1d1";
 }
 
 .cib-samsung-pay:before {
-  content: "\ec6e";
+  content: "\f1d2";
 }
 
 .cib-sap:before {
-  content: "\ec6f";
+  content: "\f1d0";
 }
 
 .cib-sass:before {
-  content: "\ec70";
+  content: "\f1ce";
 }
 
 .cib-sass-alt:before {
-  content: "\ec71";
+  content: "\f1cf";
 }
 
 .cib-saucelabs:before {
-  content: "\ec72";
+  content: "\f1cd";
 }
 
 .cib-scala:before {
-  content: "\ec73";
+  content: "\f1cc";
 }
 
 .cib-scaleway:before {
-  content: "\ec74";
+  content: "\f1cb";
 }
 
 .cib-scribd:before {
-  content: "\ec75";
+  content: "\f1ca";
 }
 
 .cib-scrutinizerci:before {
-  content: "\ec76";
+  content: "\f1c9";
 }
 
 .cib-seagate:before {
-  content: "\ec77";
+  content: "\f1c8";
 }
 
 .cib-sega:before {
-  content: "\ec78";
+  content: "\f1c7";
 }
 
 .cib-sellfy:before {
-  content: "\ec79";
+  content: "\f1c6";
 }
 
 .cib-semaphoreci:before {
-  content: "\ec7a";
+  content: "\f1c5";
 }
 
 .cib-sensu:before {
-  content: "\ec7b";
+  content: "\f1c4";
 }
 
 .cib-sentry:before {
-  content: "\ec7c";
+  content: "\f1c3";
 }
 
 .cib-server-fault:before {
-  content: "\ec7d";
+  content: "\f1c2";
 }
 
 .cib-shazam:before {
-  content: "\ec7e";
+  content: "\f1c1";
 }
 
 .cib-shell:before {
-  content: "\ec7f";
+  content: "\f1c0";
 }
 
 .cib-shopify:before {
-  content: "\ec80";
+  content: "\f1bf";
 }
 
 .cib-showpad:before {
-  content: "\ec81";
+  content: "\f1be";
 }
 
 .cib-siemens:before {
-  content: "\ec82";
+  content: "\f1bd";
 }
 
 .cib-signal:before {
-  content: "\ec83";
+  content: "\f1bc";
 }
 
 .cib-sina-weibo:before {
-  content: "\ec84";
+  content: "\f1bb";
 }
 
 .cib-sitepoint:before {
-  content: "\ec85";
+  content: "\f1ba";
 }
 
 .cib-sketch:before {
-  content: "\ec86";
+  content: "\f1b9";
 }
 
 .cib-skillshare:before {
-  content: "\ec87";
+  content: "\f1b8";
 }
 
 .cib-skyliner:before {
-  content: "\ec88";
+  content: "\f1b7";
 }
 
 .cib-skype:before {
-  content: "\ec89";
+  content: "\f1b6";
 }
 
 .cib-slack:before {
-  content: "\ec8a";
+  content: "\f1b5";
 }
 
 .cib-slashdot:before {
-  content: "\ec8b";
+  content: "\f1b4";
 }
 
 .cib-slickpic:before {
-  content: "\ec8c";
+  content: "\f1b3";
 }
 
 .cib-slides:before {
-  content: "\ec8d";
+  content: "\f1b2";
 }
 
 .cib-slideshare:before {
-  content: "\ec8e";
+  content: "\f1b1";
 }
 
 .cib-smashingmagazine:before {
-  content: "\ec8f";
+  content: "\f1b0";
 }
 
 .cib-snapchat:before {
-  content: "\ec90";
+  content: "\f1af";
 }
 
 .cib-snapcraft:before {
-  content: "\ec91";
+  content: "\f1ae";
 }
 
 .cib-snyk:before {
-  content: "\ec92";
+  content: "\f1ad";
 }
 
 .cib-society6:before {
-  content: "\ec93";
+  content: "\f1ac";
 }
 
 .cib-socket-io:before {
-  content: "\ec94";
+  content: "\f1ab";
 }
 
 .cib-sogou:before {
-  content: "\ec95";
+  content: "\f1aa";
 }
 
 .cib-solus:before {
-  content: "\ec96";
+  content: "\f1a9";
 }
 
 .cib-songkick:before {
-  content: "\ec97";
+  content: "\f1a8";
 }
 
 .cib-sonos:before {
-  content: "\ec98";
+  content: "\f1a7";
 }
 
 .cib-soundcloud:before {
-  content: "\ec99";
+  content: "\f1a6";
 }
 
 .cib-sourceforge:before {
-  content: "\ec9a";
+  content: "\f1a5";
 }
 
 .cib-sourcegraph:before {
-  content: "\ec9b";
+  content: "\f1a4";
 }
 
 .cib-spacemacs:before {
-  content: "\ec9c";
+  content: "\f1a3";
 }
 
 .cib-spacex:before {
-  content: "\ec9d";
+  content: "\f1a2";
 }
 
 .cib-sparkfun:before {
-  content: "\ec9e";
+  content: "\f1a1";
 }
 
 .cib-sparkpost:before {
-  content: "\ec9f";
+  content: "\f1a0";
 }
 
 .cib-spdx:before {
-  content: "\eca0";
+  content: "\f19f";
 }
 
 .cib-speaker-deck:before {
-  content: "\eca1";
+  content: "\f19e";
 }
 
 .cib-spectrum:before {
-  content: "\eca2";
+  content: "\f19d";
 }
 
 .cib-spotify:before {
-  content: "\eca3";
+  content: "\f19c";
 }
 
 .cib-spotlight:before {
-  content: "\eca4";
+  content: "\f19b";
 }
 
 .cib-spreaker:before {
-  content: "\eca5";
+  content: "\f19a";
 }
 
 .cib-spring:before {
-  content: "\eca6";
+  content: "\f199";
 }
 
 .cib-sprint:before {
-  content: "\eca7";
+  content: "\f198";
 }
 
 .cib-squarespace:before {
-  content: "\eca8";
+  content: "\f197";
 }
 
 .cib-stackbit:before {
-  content: "\eca9";
+  content: "\f196";
 }
 
 .cib-stackexchange:before {
-  content: "\ecaa";
+  content: "\f195";
 }
 
 .cib-stackoverflow:before {
-  content: "\ecab";
+  content: "\f194";
 }
 
 .cib-stackpath:before {
-  content: "\ecac";
+  content: "\f193";
 }
 
 .cib-stackshare:before {
-  content: "\ecad";
+  content: "\f192";
 }
 
 .cib-stadia:before {
-  content: "\ecae";
+  content: "\f191";
 }
 
 .cib-statamic:before {
-  content: "\ecaf";
+  content: "\f190";
 }
 
 .cib-staticman:before {
-  content: "\ecb0";
+  content: "\f18f";
 }
 
 .cib-statuspage:before {
-  content: "\ecb1";
+  content: "\f18e";
 }
 
 .cib-steam:before {
-  content: "\ecb2";
+  content: "\f18d";
 }
 
 .cib-steem:before {
-  content: "\ecb3";
+  content: "\f18c";
 }
 
 .cib-steemit:before {
-  content: "\ecb4";
+  content: "\f18b";
 }
 
 .cib-stitcher:before {
-  content: "\ecb5";
+  content: "\f18a";
 }
 
 .cib-storify:before {
-  content: "\ecb6";
+  content: "\f189";
 }
 
 .cib-storybook:before {
-  content: "\ecb7";
+  content: "\f188";
 }
 
 .cib-strapi:before {
-  content: "\ecb8";
+  content: "\f187";
 }
 
 .cib-strava:before {
-  content: "\ecb9";
+  content: "\f186";
 }
 
 .cib-stripe:before {
-  content: "\ecba";
+  content: "\f184";
 }
 
 .cib-stripe-s:before {
-  content: "\ecbb";
+  content: "\f185";
 }
 
 .cib-stubhub:before {
-  content: "\ecbc";
+  content: "\f183";
 }
 
 .cib-stumbleupon:before {
-  content: "\ecbd";
+  content: "\f182";
 }
 
 .cib-styleshare:before {
-  content: "\ecbe";
+  content: "\f181";
 }
 
 .cib-stylus:before {
-  content: "\ecbf";
+  content: "\f180";
 }
 
 .cib-sublime-text:before {
-  content: "\ecc0";
+  content: "\f17f";
 }
 
 .cib-subversion:before {
-  content: "\ecc1";
+  content: "\f17e";
 }
 
 .cib-superuser:before {
-  content: "\ecc2";
+  content: "\f17d";
 }
 
 .cib-svelte:before {
-  content: "\ecc3";
+  content: "\f17c";
 }
 
 .cib-svg:before {
-  content: "\ecc4";
+  content: "\f17b";
 }
 
 .cib-swagger:before {
-  content: "\ecc5";
+  content: "\f17a";
 }
 
 .cib-swarm:before {
-  content: "\ecc6";
+  content: "\f179";
 }
 
 .cib-swift:before {
-  content: "\ecc7";
+  content: "\f178";
 }
 
 .cib-symantec:before {
-  content: "\ecc8";
+  content: "\f177";
 }
 
 .cib-symfony:before {
-  content: "\ecc9";
+  content: "\f176";
 }
 
 .cib-synology:before {
-  content: "\ecca";
+  content: "\f175";
 }
 
 .cib-t-mobile:before {
-  content: "\eccb";
+  content: "\f174";
 }
 
 .cib-tableau:before {
-  content: "\eccc";
+  content: "\f173";
 }
 
 .cib-tails:before {
-  content: "\eccd";
+  content: "\f172";
 }
 
 .cib-tapas:before {
-  content: "\ecce";
+  content: "\f171";
 }
 
 .cib-teamviewer:before {
-  content: "\eccf";
+  content: "\f170";
 }
 
 .cib-ted:before {
-  content: "\ecd0";
+  content: "\f16f";
 }
 
 .cib-teespring:before {
-  content: "\ecd1";
+  content: "\f16e";
 }
 
 .cib-telegram:before {
-  content: "\ecd2";
+  content: "\f16c";
 }
 
 .cib-telegram-plane:before {
-  content: "\ecd3";
+  content: "\f16d";
 }
 
 .cib-tencent-qq:before {
-  content: "\ecd4";
+  content: "\f16b";
 }
 
 .cib-tencent-weibo:before {
-  content: "\ecd5";
+  content: "\f16a";
 }
 
 .cib-tensorflow:before {
-  content: "\ecd6";
+  content: "\f169";
 }
 
 .cib-terraform:before {
-  content: "\ecd7";
+  content: "\f168";
 }
 
 .cib-tesla:before {
-  content: "\ecd8";
+  content: "\f167";
 }
 
 .cib-the-mighty:before {
-  content: "\ecd9";
+  content: "\f166";
 }
 
 .cib-the-movie-database:before {
-  content: "\ecda";
+  content: "\f165";
 }
 
 .cib-tidal:before {
-  content: "\ecdb";
+  content: "\f164";
 }
 
 .cib-tiktok:before {
-  content: "\ecdc";
+  content: "\f163";
 }
 
 .cib-tinder:before {
-  content: "\ecdd";
+  content: "\f162";
 }
 
 .cib-todoist:before {
-  content: "\ecde";
+  content: "\f161";
 }
 
 .cib-toggl:before {
-  content: "\ecdf";
+  content: "\f160";
 }
 
 .cib-topcoder:before {
-  content: "\ece0";
+  content: "\f15f";
 }
 
 .cib-toptal:before {
-  content: "\ece1";
+  content: "\f15e";
 }
 
 .cib-tor:before {
-  content: "\ece2";
+  content: "\f15d";
 }
 
 .cib-toshiba:before {
-  content: "\ece3";
+  content: "\f15c";
 }
 
 .cib-trainerroad:before {
-  content: "\ece4";
+  content: "\f15b";
 }
 
 .cib-trakt:before {
-  content: "\ece5";
+  content: "\f15a";
 }
 
 .cib-travisci:before {
-  content: "\ece6";
+  content: "\f159";
 }
 
 .cib-treehouse:before {
-  content: "\ece7";
+  content: "\f158";
 }
 
 .cib-trello:before {
-  content: "\ece8";
+  content: "\f157";
 }
 
 .cib-tripadvisor:before {
-  content: "\ece9";
+  content: "\f156";
 }
 
 .cib-trulia:before {
-  content: "\ecea";
+  content: "\f155";
 }
 
 .cib-tumblr:before {
-  content: "\eceb";
+  content: "\f154";
 }
 
 .cib-twilio:before {
-  content: "\ecec";
+  content: "\f153";
 }
 
 .cib-twitch:before {
-  content: "\eced";
+  content: "\f152";
 }
 
 .cib-twitter:before {
-  content: "\ecee";
+  content: "\f151";
 }
 
 .cib-twoo:before {
-  content: "\ecef";
+  content: "\f150";
 }
 
 .cib-typescript:before {
-  content: "\ecf0";
+  content: "\f14f";
 }
 
 .cib-typo3:before {
-  content: "\ecf1";
+  content: "\f14e";
 }
 
 .cib-uber:before {
-  content: "\ecf2";
+  content: "\f14d";
 }
 
 .cib-ubisoft:before {
-  content: "\ecf3";
+  content: "\f14c";
 }
 
 .cib-ublock-origin:before {
-  content: "\ecf4";
+  content: "\f14b";
 }
 
 .cib-ubuntu:before {
-  content: "\ecf5";
+  content: "\f14a";
 }
 
 .cib-udacity:before {
-  content: "\ecf6";
+  content: "\f149";
 }
 
 .cib-udemy:before {
-  content: "\ecf7";
+  content: "\f148";
 }
 
 .cib-uikit:before {
-  content: "\ecf8";
+  content: "\f147";
 }
 
 .cib-umbraco:before {
-  content: "\ecf9";
+  content: "\f146";
 }
 
 .cib-unity:before {
-  content: "\ecfa";
+  content: "\f145";
 }
 
 .cib-unreal-engine:before {
-  content: "\ecfb";
+  content: "\f144";
 }
 
 .cib-unsplash:before {
-  content: "\ecfc";
+  content: "\f143";
 }
 
 .cib-untappd:before {
-  content: "\ecfd";
+  content: "\f142";
 }
 
 .cib-upwork:before {
-  content: "\ecfe";
+  content: "\f141";
 }
 
 .cib-usb:before {
-  content: "\ecff";
+  content: "\f140";
 }
 
 .cib-v8:before {
-  content: "\ed00";
+  content: "\f13f";
 }
 
 .cib-vagrant:before {
-  content: "\ed01";
+  content: "\f13e";
 }
 
 .cib-venmo:before {
-  content: "\ed02";
+  content: "\f13d";
 }
 
 .cib-verizon:before {
-  content: "\ed03";
+  content: "\f13c";
 }
 
 .cib-viadeo:before {
-  content: "\ed04";
+  content: "\f13b";
 }
 
 .cib-viber:before {
-  content: "\ed05";
+  content: "\f13a";
 }
 
 .cib-vim:before {
-  content: "\ed06";
+  content: "\f139";
 }
 
 .cib-vimeo:before {
-  content: "\ed07";
+  content: "\f137";
 }
 
 .cib-vimeo-v:before {
-  content: "\ed08";
+  content: "\f138";
 }
 
 .cib-vine:before {
-  content: "\ed09";
+  content: "\f136";
 }
 
 .cib-virb:before {
-  content: "\ed0a";
+  content: "\f135";
 }
 
 .cib-visa:before {
-  content: "\ed0b";
+  content: "\f134";
 }
 
 .cib-visual-studio:before {
-  content: "\ed0c";
+  content: "\f132";
 }
 
 .cib-visual-studio-code:before {
-  content: "\ed0d";
+  content: "\f133";
 }
 
 .cib-vk:before {
-  content: "\ed0e";
+  content: "\f131";
 }
 
 .cib-vlc:before {
-  content: "\ed0f";
+  content: "\f130";
 }
 
 .cib-vsco:before {
-  content: "\ed10";
+  content: "\f12f";
 }
 
 .cib-vue-js:before {
-  content: "\ed11";
+  content: "\f12e";
 }
 
 .cib-wattpad:before {
-  content: "\ed12";
+  content: "\f12d";
 }
 
 .cib-weasyl:before {
-  content: "\ed13";
+  content: "\f12c";
 }
 
 .cib-webcomponents-org:before {
-  content: "\ed14";
+  content: "\f12b";
 }
 
 .cib-webpack:before {
-  content: "\ed15";
+  content: "\f12a";
 }
 
 .cib-webstorm:before {
-  content: "\ed16";
+  content: "\f129";
 }
 
 .cib-wechat:before {
-  content: "\ed17";
+  content: "\f128";
 }
 
 .cib-whatsapp:before {
-  content: "\ed18";
+  content: "\f127";
 }
 
 .cib-when-i-work:before {
-  content: "\ed19";
+  content: "\f126";
 }
 
 .cib-wii:before {
-  content: "\ed1a";
+  content: "\f125";
 }
 
 .cib-wiiu:before {
-  content: "\ed1b";
+  content: "\f124";
 }
 
 .cib-wikipedia:before {
-  content: "\ed1c";
+  content: "\f123";
 }
 
 .cib-windows:before {
-  content: "\ed1d";
+  content: "\f122";
 }
 
 .cib-wire:before {
-  content: "\ed1e";
+  content: "\f121";
 }
 
 .cib-wireguard:before {
-  content: "\ed1f";
+  content: "\f120";
 }
 
 .cib-wix:before {
-  content: "\ed20";
+  content: "\f11f";
 }
 
 .cib-wolfram:before {
-  content: "\ed21";
+  content: "\f11c";
 }
 
 .cib-wolfram-language:before {
-  content: "\ed22";
+  content: "\f11e";
 }
 
 .cib-wolfram-mathematica:before {
-  content: "\ed23";
+  content: "\f11d";
 }
 
 .cib-wordpress:before {
-  content: "\ed24";
+  content: "\f11b";
 }
 
 .cib-wpengine:before {
-  content: "\ed25";
+  content: "\f11a";
 }
 
 .cib-x-pack:before {
-  content: "\ed26";
+  content: "\f119";
 }
 
 .cib-xbox:before {
-  content: "\ed27";
+  content: "\f118";
 }
 
 .cib-xcode:before {
-  content: "\ed28";
+  content: "\f117";
 }
 
 .cib-xero:before {
-  content: "\ed29";
+  content: "\f116";
 }
 
 .cib-xiaomi:before {
-  content: "\ed2a";
+  content: "\f115";
 }
 
 .cib-xing:before {
-  content: "\ed2b";
+  content: "\f114";
 }
 
 .cib-xrp:before {
-  content: "\ed2c";
+  content: "\f113";
 }
 
 .cib-xsplit:before {
-  content: "\ed2d";
+  content: "\f112";
 }
 
 .cib-y-combinator:before {
-  content: "\ed2e";
+  content: "\f111";
 }
 
 .cib-yahoo:before {
-  content: "\ed2f";
+  content: "\f110";
 }
 
 .cib-yammer:before {
-  content: "\ed30";
+  content: "\f10f";
 }
 
 .cib-yandex:before {
-  content: "\ed31";
+  content: "\f10e";
 }
 
 .cib-yarn:before {
-  content: "\ed32";
+  content: "\f10d";
 }
 
 .cib-yelp:before {
-  content: "\ed33";
+  content: "\f10c";
 }
 
 .cib-youtube:before {
-  content: "\ed34";
+  content: "\f10b";
 }
 
 .cib-zalando:before {
-  content: "\ed35";
+  content: "\f10a";
 }
 
 .cib-zapier:before {
-  content: "\ed36";
+  content: "\f109";
 }
 
 .cib-zeit:before {
-  content: "\ed37";
+  content: "\f108";
 }
 
 .cib-zendesk:before {
-  content: "\ed38";
+  content: "\f107";
 }
 
 .cib-zerply:before {
-  content: "\ed39";
+  content: "\f106";
 }
 
 .cib-zillow:before {
-  content: "\ed3a";
+  content: "\f105";
 }
 
 .cib-zingat:before {
-  content: "\ed3b";
+  content: "\f104";
 }
 
 .cib-zoom:before {
-  content: "\ed3c";
+  content: "\f103";
 }
 
 .cib-zorin:before {
-  content: "\ed3d";
+  content: "\f102";
 }
 
 .cib-zulip:before {
-  content: "\ed3e";
+  content: "\f101";
 }
 
 /*# sourceMappingURL=brand.css.map */

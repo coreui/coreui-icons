@@ -1,1 +1,1 @@
-export const cilClearAll: string[] = ["512 512","<rect width='336' height='32' x='160' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='336' height='32' x='88' y='240' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='336' height='32' x='16' y='368' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>"]
+export const cilClearAll: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M160 112h336v32H160zM88 240h336v32H88zM16 368h336v32H16z' class='ci-primary'/>"]

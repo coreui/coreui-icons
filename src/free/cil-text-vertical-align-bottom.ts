@@ -1,0 +1,1 @@
+export const cilTextVerticalAlignBottom: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M356.117 316.117 333.49 293.49 272 354.98V56h-32v298.98l-61.49-61.49-22.627 22.627L256 416.236zM16 464h480v32H16z' class='ci-primary'/>"]

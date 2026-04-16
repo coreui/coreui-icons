@@ -1,1 +1,1 @@
-export const cilFunctionsAlt: string[] = ["512 512","<polygon fill='var(--ci-primary-color, currentColor)' points='128 416 360 416 360 384 160 384 160 374.283 269.834 256 160 137.717 160 128 360 128 360 96 128 96 128 150.283 226.166 256 128 361.717 128 416' class='ci-primary'/>"]
+export const cilFunctionsAlt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M128 416h232v-32H160v-9.717L269.834 256 160 137.717V128h200V96H128v54.283L226.166 256 128 361.717z' class='ci-primary'/>"]

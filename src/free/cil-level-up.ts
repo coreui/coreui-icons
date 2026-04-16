@@ -1,1 +1,1 @@
-export const cilLevelUp: string[] = ["512 512","<polygon fill='var(--ci-primary-color, currentColor)' points='80 384 80 416 296 416 296 78.627 380.687 163.314 403.313 140.686 280 17.373 156.687 140.686 179.313 163.314 264 78.627 264 384 80 384' class='ci-primary'/>"]
+export const cilLevelUp: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M80 384v32h216V78.627l84.687 84.687 22.626-22.628L280 17.373 156.687 140.686l22.626 22.628L264 78.627V384z' class='ci-primary'/>"]

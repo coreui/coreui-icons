@@ -1,1 +1,1 @@
-export const cilCheckAlt: string[] = ["512 512","<polygon fill='var(--ci-primary-color, currentColor)' points='200.359 382.269 61.057 251.673 82.943 228.327 199.641 337.731 428.686 108.687 451.314 131.313 200.359 382.269' class='ci-primary'/>"]
+export const cilCheckAlt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M200.359 382.269 61.057 251.673l21.886-23.346 116.698 109.404 229.045-229.044 22.628 22.626z' class='ci-primary'/>"]

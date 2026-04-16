@@ -439,6 +439,9 @@ import { cilShare } from './cil-share'
 import { cilShieldAlt } from './cil-shield-alt'
 import { cilShortText } from './cil-short-text'
 import { cilShower } from './cil-shower'
+import { cilSidebarClose } from './cil-sidebar-close'
+import { cilSidebarOpen } from './cil-sidebar-open'
+import { cilSidebar } from './cil-sidebar'
 import { cilSignLanguage } from './cil-sign-language'
 import { cilSignalCellular0 } from './cil-signal-cellular-0'
 import { cilSignalCellular3 } from './cil-signal-cellular-3'
@@ -493,6 +496,9 @@ import { cilTextShapes } from './cil-text-shapes'
 import { cilTextSize } from './cil-text-size'
 import { cilTextSquare } from './cil-text-square'
 import { cilTextStrike } from './cil-text-strike'
+import { cilTextVerticalAlignBottom } from './cil-text-vertical-align-bottom'
+import { cilTextVerticalAlignCenter } from './cil-text-vertical-align-center'
+import { cilTextVerticalAlignTop } from './cil-text-vertical-align-top'
 import { cilText } from './cil-text'
 import { cilThumbDown } from './cil-thumb-down'
 import { cilThumbUp } from './cil-thumb-up'
@@ -995,6 +1001,9 @@ export { cilShare }
 export { cilShieldAlt }
 export { cilShortText }
 export { cilShower }
+export { cilSidebarClose }
+export { cilSidebarOpen }
+export { cilSidebar }
 export { cilSignLanguage }
 export { cilSignalCellular0 }
 export { cilSignalCellular3 }
@@ -1049,6 +1058,9 @@ export { cilTextShapes }
 export { cilTextSize }
 export { cilTextSquare }
 export { cilTextStrike }
+export { cilTextVerticalAlignBottom }
+export { cilTextVerticalAlignCenter }
+export { cilTextVerticalAlignTop }
 export { cilText }
 export { cilThumbDown }
 export { cilThumbUp }

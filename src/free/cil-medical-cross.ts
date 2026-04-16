@@ -1,1 +1,1 @@
-export const cilMedicalCross: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M344,16H168V168H16V344H168V496H344V344H496V168H344ZM464,200V312H312V464H200V312H48V200H200V48H312V200Z' class='ci-primary'/>"]
+export const cilMedicalCross: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M344 16H168v152H16v176h152v152h176V344h152V168H344Zm120 184v112H312v152H200V312H48V200h152V48h112v152Z' class='ci-primary'/>"]

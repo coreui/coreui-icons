@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*!
- * CoreUI Icons Free Open Source Icons
- * @version v3.0.1
- * @link https://coreui.io/icons
- * Copyright (c) 2020 creativeLabs Łukasz Holeczek
- * Licensed under MIT (https://coreui.io/icons/license)
- */
+* CoreUI Icons Free - Free
+* @version v3.1.0
+* @link https://coreui.io/icons/
+* Copyright (c) 2026 creativeLabs Łukasz Holeczek
+* Licensed under MIT (https://github.com/coreui/coreui-icons/blob/main/LICENSE)
+*/
 @font-face {
   font-family: "CoreUI-Icons-Free";
   src: url("../fonts/CoreUI-Icons-Free.eot?64h6xh");
@@ -28,2227 +28,2251 @@
 }
 
 .cil-3d:before {
-  content: "\ea01";
+  content: "\f332";
 }
 
 .cil-4k:before {
-  content: "\ea02";
+  content: "\f331";
 }
 
 .cil-account-logout:before {
-  content: "\ea03";
+  content: "\f330";
 }
 
 .cil-action-redo:before {
-  content: "\ea04";
+  content: "\f32f";
 }
 
 .cil-action-undo:before {
-  content: "\ea05";
+  content: "\f32e";
 }
 
 .cil-address-book:before {
-  content: "\ea06";
+  content: "\f32d";
 }
 
 .cil-airplane-mode:before {
-  content: "\ea07";
+  content: "\f32b";
 }
 
 .cil-airplane-mode-off:before {
-  content: "\ea08";
+  content: "\f32c";
 }
 
 .cil-airplay:before {
-  content: "\ea09";
+  content: "\f32a";
 }
 
 .cil-alarm:before {
-  content: "\ea0a";
+  content: "\f329";
 }
 
 .cil-album:before {
-  content: "\ea0b";
+  content: "\f328";
 }
 
 .cil-align-center:before {
-  content: "\ea0c";
+  content: "\f327";
 }
 
 .cil-align-left:before {
-  content: "\ea0d";
+  content: "\f326";
 }
 
 .cil-align-right:before {
-  content: "\ea0e";
+  content: "\f325";
 }
 
 .cil-american-football:before {
-  content: "\ea0f";
+  content: "\f324";
 }
 
 .cil-animal:before {
-  content: "\ea10";
+  content: "\f323";
 }
 
 .cil-aperture:before {
-  content: "\ea11";
+  content: "\f322";
 }
 
 .cil-apple:before {
-  content: "\ea12";
+  content: "\f321";
 }
 
 .cil-applications:before {
-  content: "\ea13";
+  content: "\f31f";
 }
 
 .cil-applications-settings:before {
-  content: "\ea14";
+  content: "\f320";
 }
 
 .cil-apps:before {
-  content: "\ea15";
+  content: "\f31d";
 }
 
 .cil-apps-settings:before {
-  content: "\ea16";
+  content: "\f31e";
 }
 
 .cil-arrow-bottom:before {
-  content: "\ea17";
+  content: "\f31c";
 }
 
 .cil-arrow-circle-bottom:before {
-  content: "\ea18";
+  content: "\f31b";
 }
 
 .cil-arrow-circle-left:before {
-  content: "\ea19";
+  content: "\f31a";
 }
 
 .cil-arrow-circle-right:before {
-  content: "\ea1a";
+  content: "\f319";
 }
 
 .cil-arrow-circle-top:before {
-  content: "\ea1b";
+  content: "\f318";
 }
 
 .cil-arrow-left:before {
-  content: "\ea1c";
+  content: "\f317";
 }
 
 .cil-arrow-right:before {
-  content: "\ea1d";
+  content: "\f316";
 }
 
 .cil-arrow-thick-bottom:before {
-  content: "\ea1e";
+  content: "\f315";
 }
 
 .cil-arrow-thick-from-bottom:before {
-  content: "\ea1f";
+  content: "\f314";
 }
 
 .cil-arrow-thick-from-left:before {
-  content: "\ea20";
+  content: "\f313";
 }
 
 .cil-arrow-thick-from-right:before {
-  content: "\ea21";
+  content: "\f312";
 }
 
 .cil-arrow-thick-from-top:before {
-  content: "\ea22";
+  content: "\f311";
 }
 
 .cil-arrow-thick-left:before {
-  content: "\ea23";
+  content: "\f310";
 }
 
 .cil-arrow-thick-right:before {
-  content: "\ea24";
+  content: "\f30f";
 }
 
 .cil-arrow-thick-to-bottom:before {
-  content: "\ea25";
+  content: "\f30e";
 }
 
 .cil-arrow-thick-to-left:before {
-  content: "\ea26";
+  content: "\f30d";
 }
 
 .cil-arrow-thick-to-right:before {
-  content: "\ea27";
+  content: "\f30c";
 }
 
 .cil-arrow-thick-to-top:before {
-  content: "\ea28";
+  content: "\f30b";
 }
 
 .cil-arrow-thick-top:before {
-  content: "\ea29";
+  content: "\f30a";
 }
 
 .cil-arrow-top:before {
-  content: "\ea2a";
+  content: "\f309";
 }
 
 .cil-assistive-listening-system:before {
-  content: "\ea2b";
+  content: "\f308";
 }
 
 .cil-asterisk:before {
-  content: "\ea2c";
+  content: "\f306";
 }
 
 .cil-asterisk-circle:before {
-  content: "\ea2d";
+  content: "\f307";
 }
 
 .cil-at:before {
-  content: "\ea2e";
+  content: "\f305";
 }
 
 .cil-audio:before {
-  content: "\ea2f";
+  content: "\f302";
 }
 
 .cil-audio-description:before {
-  content: "\ea30";
+  content: "\f304";
 }
 
 .cil-audio-spectrum:before {
-  content: "\ea31";
+  content: "\f303";
 }
 
 .cil-av-timer:before {
-  content: "\ea32";
+  content: "\f301";
 }
 
 .cil-baby:before {
-  content: "\ea33";
+  content: "\f2ff";
 }
 
 .cil-baby-carriage:before {
-  content: "\ea34";
+  content: "\f300";
 }
 
 .cil-backspace:before {
-  content: "\ea35";
+  content: "\f2fe";
 }
 
 .cil-badge:before {
-  content: "\ea36";
+  content: "\f2fd";
 }
 
 .cil-balance-scale:before {
-  content: "\ea37";
+  content: "\f2fc";
 }
 
 .cil-ban:before {
-  content: "\ea38";
+  content: "\f2fb";
 }
 
 .cil-bank:before {
-  content: "\ea39";
+  content: "\f2fa";
 }
 
 .cil-bar-chart:before {
-  content: "\ea3a";
+  content: "\f2f9";
 }
 
 .cil-barcode:before {
-  content: "\ea3b";
+  content: "\f2f8";
 }
 
 .cil-baseball:before {
-  content: "\ea3c";
+  content: "\f2f7";
 }
 
 .cil-basket:before {
-  content: "\ea3d";
+  content: "\f2f6";
 }
 
 .cil-basketball:before {
-  content: "\ea3e";
+  content: "\f2f5";
 }
 
 .cil-bath:before {
-  content: "\ea3f";
+  content: "\f2f4";
 }
 
 .cil-bathroom:before {
-  content: "\ea40";
+  content: "\f2f3";
 }
 
 .cil-battery-0:before {
-  content: "\ea41";
+  content: "\f2f2";
 }
 
 .cil-battery-3:before {
-  content: "\ea42";
+  content: "\f2f1";
 }
 
 .cil-battery-5:before {
-  content: "\ea43";
+  content: "\f2f0";
 }
 
 .cil-battery-alert:before {
-  content: "\ea44";
+  content: "\f2ef";
 }
 
 .cil-battery-empty:before {
-  content: "\ea45";
+  content: "\f2ee";
 }
 
 .cil-battery-full:before {
-  content: "\ea46";
+  content: "\f2ed";
 }
 
 .cil-battery-slash:before {
-  content: "\ea47";
+  content: "\f2ec";
 }
 
 .cil-beach-access:before {
-  content: "\ea48";
+  content: "\f2eb";
 }
 
 .cil-beaker:before {
-  content: "\ea49";
+  content: "\f2ea";
 }
 
 .cil-bed:before {
-  content: "\ea4a";
+  content: "\f2e9";
 }
 
 .cil-bell:before {
-  content: "\ea4b";
+  content: "\f2e7";
 }
 
 .cil-bell-exclamation:before {
-  content: "\ea4c";
+  content: "\f2e8";
 }
 
 .cil-bike:before {
-  content: "\ea4d";
+  content: "\f2e6";
 }
 
 .cil-birthday-cake:before {
-  content: "\ea4e";
+  content: "\f2e5";
 }
 
 .cil-blind:before {
-  content: "\ea4f";
+  content: "\f2e4";
 }
 
 .cil-bluetooth:before {
-  content: "\ea50";
+  content: "\f2e3";
 }
 
 .cil-blur:before {
-  content: "\ea51";
+  content: "\f2e0";
 }
 
 .cil-blur-circular:before {
-  content: "\ea52";
+  content: "\f2e2";
 }
 
 .cil-blur-linear:before {
-  content: "\ea53";
+  content: "\f2e1";
 }
 
 .cil-boat-alt:before {
-  content: "\ea54";
+  content: "\f2df";
 }
 
 .cil-bold:before {
-  content: "\ea55";
+  content: "\f2de";
 }
 
 .cil-bolt:before {
-  content: "\ea56";
+  content: "\f2dc";
 }
 
 .cil-bolt-circle:before {
-  content: "\ea57";
+  content: "\f2dd";
 }
 
 .cil-book:before {
-  content: "\ea58";
+  content: "\f2db";
 }
 
 .cil-bookmark:before {
-  content: "\ea59";
+  content: "\f2da";
 }
 
 .cil-border-all:before {
-  content: "\ea5a";
+  content: "\f2d9";
 }
 
 .cil-border-bottom:before {
-  content: "\ea5b";
+  content: "\f2d8";
 }
 
 .cil-border-clear:before {
-  content: "\ea5c";
+  content: "\f2d7";
 }
 
 .cil-border-horizontal:before {
-  content: "\ea5d";
+  content: "\f2d6";
 }
 
 .cil-border-inner:before {
-  content: "\ea5e";
+  content: "\f2d5";
 }
 
 .cil-border-left:before {
-  content: "\ea5f";
+  content: "\f2d4";
 }
 
 .cil-border-outer:before {
-  content: "\ea60";
+  content: "\f2d3";
 }
 
 .cil-border-right:before {
-  content: "\ea61";
+  content: "\f2d2";
 }
 
 .cil-border-style:before {
-  content: "\ea62";
+  content: "\f2d1";
 }
 
 .cil-border-top:before {
-  content: "\ea63";
+  content: "\f2d0";
 }
 
 .cil-border-vertical:before {
-  content: "\ea64";
+  content: "\f2cf";
 }
 
 .cil-bowling:before {
-  content: "\ea65";
+  content: "\f2ce";
 }
 
 .cil-braille:before {
-  content: "\ea66";
+  content: "\f2cd";
 }
 
 .cil-briefcase:before {
-  content: "\ea67";
+  content: "\f2cc";
 }
 
 .cil-brightness:before {
-  content: "\ea68";
+  content: "\f2cb";
 }
 
 .cil-british-pound:before {
-  content: "\ea69";
+  content: "\f2ca";
 }
 
 .cil-browser:before {
-  content: "\ea6a";
+  content: "\f2c9";
 }
 
 .cil-brush:before {
-  content: "\ea6b";
+  content: "\f2c7";
 }
 
 .cil-brush-alt:before {
-  content: "\ea6c";
+  content: "\f2c8";
 }
 
 .cil-bug:before {
-  content: "\ea6d";
+  content: "\f2c6";
 }
 
 .cil-building:before {
-  content: "\ea6e";
+  content: "\f2c5";
 }
 
 .cil-bullhorn:before {
-  content: "\ea6f";
+  content: "\f2c4";
 }
 
 .cil-burger:before {
-  content: "\ea70";
+  content: "\f2c3";
 }
 
 .cil-burn:before {
-  content: "\ea71";
+  content: "\f2c2";
 }
 
 .cil-bus-alt:before {
-  content: "\ea72";
+  content: "\f2c1";
 }
 
 .cil-calculator:before {
-  content: "\ea73";
+  content: "\f2c0";
 }
 
 .cil-calendar:before {
-  content: "\ea74";
+  content: "\f2be";
 }
 
 .cil-calendar-check:before {
-  content: "\ea75";
+  content: "\f2bf";
 }
 
 .cil-camera:before {
-  content: "\ea76";
+  content: "\f2bb";
 }
 
 .cil-camera-control:before {
-  content: "\ea77";
+  content: "\f2bd";
 }
 
 .cil-camera-roll:before {
-  content: "\ea78";
+  content: "\f2bc";
 }
 
 .cil-car-alt:before {
-  content: "\ea79";
+  content: "\f2ba";
 }
 
 .cil-caret-bottom:before {
-  content: "\ea7a";
+  content: "\f2b9";
 }
 
 .cil-caret-left:before {
-  content: "\ea7b";
+  content: "\f2b8";
 }
 
 .cil-caret-right:before {
-  content: "\ea7c";
+  content: "\f2b7";
 }
 
 .cil-caret-top:before {
-  content: "\ea7d";
+  content: "\f2b6";
 }
 
 .cil-cart:before {
-  content: "\ea7e";
+  content: "\f2b5";
 }
 
 .cil-cash:before {
-  content: "\ea7f";
+  content: "\f2b4";
 }
 
 .cil-casino:before {
-  content: "\ea80";
+  content: "\f2b3";
 }
 
 .cil-cast:before {
-  content: "\ea81";
+  content: "\f2b2";
 }
 
 .cil-cat:before {
-  content: "\ea82";
+  content: "\f2b1";
 }
 
 .cil-cc:before {
-  content: "\ea83";
+  content: "\f2b0";
 }
 
 .cil-center-focus:before {
-  content: "\ea84";
+  content: "\f2af";
 }
 
 .cil-chart:before {
-  content: "\ea85";
+  content: "\f2ac";
 }
 
 .cil-chart-line:before {
-  content: "\ea86";
+  content: "\f2ae";
 }
 
 .cil-chart-pie:before {
-  content: "\ea87";
+  content: "\f2ad";
 }
 
 .cil-chat-bubble:before {
-  content: "\ea88";
+  content: "\f2ab";
 }
 
 .cil-check:before {
-  content: "\ea89";
+  content: "\f2a8";
 }
 
 .cil-check-alt:before {
-  content: "\ea8a";
+  content: "\f2aa";
 }
 
 .cil-check-circle:before {
-  content: "\ea8b";
+  content: "\f2a9";
 }
 
 .cil-chevron-bottom:before {
-  content: "\ea8c";
+  content: "\f2a7";
 }
 
 .cil-chevron-circle-down-alt:before {
-  content: "\ea8d";
+  content: "\f2a6";
 }
 
 .cil-chevron-circle-left-alt:before {
-  content: "\ea8e";
+  content: "\f2a5";
 }
 
 .cil-chevron-circle-right-alt:before {
-  content: "\ea8f";
+  content: "\f2a4";
 }
 
 .cil-chevron-circle-up-alt:before {
-  content: "\ea90";
+  content: "\f2a3";
 }
 
 .cil-chevron-double-down:before {
-  content: "\ea91";
+  content: "\f2a2";
 }
 
 .cil-chevron-double-left:before {
-  content: "\ea92";
+  content: "\f2a1";
 }
 
 .cil-chevron-double-right:before {
-  content: "\ea93";
+  content: "\f2a0";
 }
 
 .cil-chevron-double-up:before {
-  content: "\ea94";
+  content: "\f29f";
 }
 
 .cil-chevron-left:before {
-  content: "\ea95";
+  content: "\f29e";
 }
 
 .cil-chevron-right:before {
-  content: "\ea96";
+  content: "\f29d";
 }
 
 .cil-chevron-top:before {
-  content: "\ea97";
+  content: "\f29c";
 }
 
 .cil-child:before {
-  content: "\ea98";
+  content: "\f29a";
 }
 
 .cil-child-friendly:before {
-  content: "\ea99";
+  content: "\f29b";
 }
 
 .cil-circle:before {
-  content: "\ea9a";
+  content: "\f299";
 }
 
 .cil-clear-all:before {
-  content: "\ea9b";
+  content: "\f298";
 }
 
 .cil-clipboard:before {
-  content: "\ea9c";
+  content: "\f297";
 }
 
 .cil-clock:before {
-  content: "\ea9d";
+  content: "\f296";
 }
 
 .cil-clone:before {
-  content: "\ea9e";
+  content: "\f295";
 }
 
 .cil-closed-captioning:before {
-  content: "\ea9f";
+  content: "\f294";
 }
 
 .cil-cloud:before {
-  content: "\eaa0";
+  content: "\f291";
 }
 
 .cil-cloud-download:before {
-  content: "\eaa1";
+  content: "\f293";
 }
 
 .cil-cloud-upload:before {
-  content: "\eaa2";
+  content: "\f292";
 }
 
 .cil-cloudy:before {
-  content: "\eaa3";
+  content: "\f290";
 }
 
 .cil-code:before {
-  content: "\eaa4";
+  content: "\f28f";
 }
 
 .cil-coffee:before {
-  content: "\eaa5";
+  content: "\f28e";
 }
 
 .cil-cog:before {
-  content: "\eaa6";
+  content: "\f28d";
 }
 
 .cil-color-border:before {
-  content: "\eaa7";
+  content: "\f28c";
 }
 
 .cil-color-fill:before {
-  content: "\eaa8";
+  content: "\f28b";
 }
 
 .cil-color-palette:before {
-  content: "\eaa9";
+  content: "\f28a";
 }
 
 .cil-columns:before {
-  content: "\eaaa";
+  content: "\f289";
 }
 
 .cil-command:before {
-  content: "\eaab";
+  content: "\f288";
 }
 
 .cil-comment-bubble:before {
-  content: "\eaac";
+  content: "\f287";
 }
 
 .cil-comment-square:before {
-  content: "\eaad";
+  content: "\f286";
 }
 
 .cil-compass:before {
-  content: "\eaae";
+  content: "\f285";
 }
 
 .cil-compress:before {
-  content: "\eaaf";
+  content: "\f284";
 }
 
 .cil-contact:before {
-  content: "\eab0";
+  content: "\f283";
 }
 
 .cil-contrast:before {
-  content: "\eab1";
+  content: "\f282";
 }
 
 .cil-control:before {
-  content: "\eab2";
+  content: "\f281";
 }
 
 .cil-copy:before {
-  content: "\eab3";
+  content: "\f280";
 }
 
 .cil-couch:before {
-  content: "\eab4";
+  content: "\f27f";
 }
 
 .cil-credit-card:before {
-  content: "\eab5";
+  content: "\f27e";
 }
 
 .cil-crop:before {
-  content: "\eab6";
+  content: "\f27c";
 }
 
 .cil-crop-rotate:before {
-  content: "\eab7";
+  content: "\f27d";
 }
 
 .cil-cursor:before {
-  content: "\eab8";
+  content: "\f27a";
 }
 
 .cil-cursor-move:before {
-  content: "\eab9";
+  content: "\f27b";
 }
 
 .cil-cut:before {
-  content: "\eaba";
+  content: "\f279";
 }
 
 .cil-data-transfer-down:before {
-  content: "\eabb";
+  content: "\f278";
 }
 
 .cil-data-transfer-up:before {
-  content: "\eabc";
+  content: "\f277";
 }
 
 .cil-deaf:before {
-  content: "\eabd";
+  content: "\f276";
 }
 
 .cil-delete:before {
-  content: "\eabe";
+  content: "\f275";
 }
 
 .cil-description:before {
-  content: "\eabf";
+  content: "\f274";
 }
 
 .cil-devices:before {
-  content: "\eac0";
+  content: "\f273";
 }
 
 .cil-dialpad:before {
-  content: "\eac1";
+  content: "\f272";
 }
 
 .cil-diamond:before {
-  content: "\eac2";
+  content: "\f271";
 }
 
 .cil-dinner:before {
-  content: "\eac3";
+  content: "\f270";
 }
 
 .cil-disabled:before {
-  content: "\eac4";
+  content: "\f26f";
 }
 
 .cil-dog:before {
-  content: "\eac5";
+  content: "\f26e";
 }
 
 .cil-dollar:before {
-  content: "\eac6";
+  content: "\f26d";
 }
 
 .cil-door:before {
-  content: "\eac7";
+  content: "\f26c";
 }
 
 .cil-double-quote-sans-left:before {
-  content: "\eac8";
+  content: "\f26b";
 }
 
 .cil-double-quote-sans-right:before {
-  content: "\eac9";
+  content: "\f26a";
 }
 
 .cil-drink:before {
-  content: "\eaca";
+  content: "\f268";
 }
 
 .cil-drink-alcohol:before {
-  content: "\eacb";
+  content: "\f269";
 }
 
 .cil-drop:before {
-  content: "\eacc";
+  content: "\f267";
 }
 
 .cil-eco:before {
-  content: "\eacd";
+  content: "\f266";
 }
 
 .cil-education:before {
-  content: "\eace";
+  content: "\f265";
 }
 
 .cil-elevator:before {
-  content: "\eacf";
+  content: "\f264";
 }
 
 .cil-envelope-closed:before {
-  content: "\ead0";
+  content: "\f263";
 }
 
 .cil-envelope-letter:before {
-  content: "\ead1";
+  content: "\f262";
 }
 
 .cil-envelope-open:before {
-  content: "\ead2";
+  content: "\f261";
 }
 
 .cil-equalizer:before {
-  content: "\ead3";
+  content: "\f260";
 }
 
 .cil-ethernet:before {
-  content: "\ead4";
+  content: "\f25f";
 }
 
 .cil-euro:before {
-  content: "\ead5";
+  content: "\f25e";
 }
 
 .cil-excerpt:before {
-  content: "\ead6";
+  content: "\f25d";
 }
 
 .cil-exit-to-app:before {
-  content: "\ead7";
+  content: "\f25c";
 }
 
 .cil-expand-down:before {
-  content: "\ead8";
+  content: "\f25b";
 }
 
 .cil-expand-left:before {
-  content: "\ead9";
+  content: "\f25a";
 }
 
 .cil-expand-right:before {
-  content: "\eada";
+  content: "\f259";
 }
 
 .cil-expand-up:before {
-  content: "\eadb";
+  content: "\f258";
 }
 
 .cil-exposure:before {
-  content: "\eadc";
+  content: "\f257";
 }
 
 .cil-external-link:before {
-  content: "\eadd";
+  content: "\f256";
 }
 
 .cil-eyedropper:before {
-  content: "\eade";
+  content: "\f255";
 }
 
 .cil-face:before {
-  content: "\eadf";
+  content: "\f253";
 }
 
 .cil-face-dead:before {
-  content: "\eae0";
+  content: "\f254";
 }
 
 .cil-factory:before {
-  content: "\eae1";
+  content: "\f251";
 }
 
 .cil-factory-slash:before {
-  content: "\eae2";
+  content: "\f252";
 }
 
 .cil-fastfood:before {
-  content: "\eae3";
+  content: "\f250";
 }
 
 .cil-fax:before {
-  content: "\eae4";
+  content: "\f24f";
 }
 
 .cil-featured-playlist:before {
-  content: "\eae5";
+  content: "\f24e";
 }
 
 .cil-file:before {
-  content: "\eae6";
+  content: "\f24d";
 }
 
 .cil-filter:before {
-  content: "\eae7";
+  content: "\f248";
 }
 
 .cil-filter-frames:before {
-  content: "\eae8";
+  content: "\f24c";
 }
 
 .cil-filter-photo:before {
-  content: "\eae9";
+  content: "\f24b";
 }
 
 .cil-filter-square:before {
-  content: "\eaea";
+  content: "\f24a";
 }
 
 .cil-filter-x:before {
-  content: "\eaeb";
+  content: "\f249";
 }
 
 .cil-find-in-page:before {
-  content: "\eaec";
+  content: "\f247";
 }
 
 .cil-fingerprint:before {
-  content: "\eaed";
+  content: "\f246";
 }
 
 .cil-fire:before {
-  content: "\eaee";
+  content: "\f245";
 }
 
 .cil-flag-alt:before {
-  content: "\eaef";
+  content: "\f244";
 }
 
 .cil-flight-takeoff:before {
-  content: "\eaf0";
+  content: "\f243";
 }
 
 .cil-flip:before {
-  content: "\eaf1";
+  content: "\f240";
 }
 
 .cil-flip-to-back:before {
-  content: "\eaf2";
+  content: "\f242";
 }
 
 .cil-flip-to-front:before {
-  content: "\eaf3";
+  content: "\f241";
 }
 
 .cil-flower:before {
-  content: "\eaf4";
+  content: "\f23f";
 }
 
 .cil-folder:before {
-  content: "\eaf5";
+  content: "\f23d";
 }
 
 .cil-folder-open:before {
-  content: "\eaf6";
+  content: "\f23e";
 }
 
 .cil-font:before {
-  content: "\eaf7";
+  content: "\f23c";
 }
 
 .cil-football:before {
-  content: "\eaf8";
+  content: "\f23b";
 }
 
 .cil-fork:before {
-  content: "\eaf9";
+  content: "\f23a";
 }
 
 .cil-fridge:before {
-  content: "\eafa";
+  content: "\f239";
 }
 
 .cil-frown:before {
-  content: "\eafb";
+  content: "\f238";
 }
 
 .cil-fullscreen:before {
-  content: "\eafc";
+  content: "\f236";
 }
 
 .cil-fullscreen-exit:before {
-  content: "\eafd";
+  content: "\f237";
 }
 
 .cil-functions:before {
-  content: "\eafe";
+  content: "\f234";
 }
 
 .cil-functions-alt:before {
-  content: "\eaff";
+  content: "\f235";
 }
 
 .cil-gamepad:before {
-  content: "\eb00";
+  content: "\f233";
 }
 
 .cil-garage:before {
-  content: "\eb01";
+  content: "\f232";
 }
 
 .cil-gem:before {
-  content: "\eb02";
+  content: "\f231";
 }
 
 .cil-gif:before {
-  content: "\eb03";
+  content: "\f230";
 }
 
 .cil-gift:before {
-  content: "\eb04";
+  content: "\f22f";
 }
 
 .cil-globe-alt:before {
-  content: "\eb05";
+  content: "\f22e";
 }
 
 .cil-golf:before {
-  content: "\eb06";
+  content: "\f22c";
 }
 
 .cil-golf-alt:before {
-  content: "\eb07";
+  content: "\f22d";
 }
 
 .cil-gradient:before {
-  content: "\eb08";
+  content: "\f22b";
 }
 
 .cil-grain:before {
-  content: "\eb09";
+  content: "\f22a";
 }
 
 .cil-graph:before {
-  content: "\eb0a";
+  content: "\f229";
 }
 
 .cil-grid:before {
-  content: "\eb0b";
+  content: "\f227";
 }
 
 .cil-grid-slash:before {
-  content: "\eb0c";
+  content: "\f228";
 }
 
 .cil-group:before {
-  content: "\eb0d";
+  content: "\f226";
 }
 
 .cil-hamburger-menu:before {
-  content: "\eb0e";
+  content: "\f225";
 }
 
 .cil-hand-point-down:before {
-  content: "\eb0f";
+  content: "\f224";
 }
 
 .cil-hand-point-left:before {
-  content: "\eb10";
+  content: "\f223";
 }
 
 .cil-hand-point-right:before {
-  content: "\eb11";
+  content: "\f222";
 }
 
 .cil-hand-point-up:before {
-  content: "\eb12";
+  content: "\f221";
 }
 
 .cil-handshake:before {
-  content: "\eb13";
+  content: "\f220";
 }
 
 .cil-happy:before {
-  content: "\eb14";
+  content: "\f21f";
 }
 
 .cil-hd:before {
-  content: "\eb15";
+  content: "\f21e";
 }
 
 .cil-hdr:before {
-  content: "\eb16";
+  content: "\f21d";
 }
 
 .cil-header:before {
-  content: "\eb17";
+  content: "\f21c";
 }
 
 .cil-headphones:before {
-  content: "\eb18";
+  content: "\f21b";
 }
 
 .cil-healing:before {
-  content: "\eb19";
+  content: "\f21a";
 }
 
 .cil-heart:before {
-  content: "\eb1a";
+  content: "\f219";
 }
 
 .cil-highlighter:before {
-  content: "\eb1b";
+  content: "\f218";
 }
 
 .cil-highligt:before {
-  content: "\eb1c";
+  content: "\f217";
 }
 
 .cil-history:before {
-  content: "\eb1d";
+  content: "\f216";
 }
 
 .cil-home:before {
-  content: "\eb1e";
+  content: "\f215";
 }
 
 .cil-hospital:before {
-  content: "\eb1f";
+  content: "\f214";
 }
 
 .cil-hot-tub:before {
-  content: "\eb20";
+  content: "\f213";
 }
 
 .cil-house:before {
-  content: "\eb21";
+  content: "\f212";
 }
 
 .cil-https:before {
-  content: "\eb22";
+  content: "\f211";
 }
 
 .cil-image:before {
-  content: "\eb23";
+  content: "\f20e";
 }
 
 .cil-image-broken:before {
-  content: "\eb24";
+  content: "\f210";
 }
 
 .cil-image-plus:before {
-  content: "\eb25";
+  content: "\f20f";
 }
 
 .cil-inbox:before {
-  content: "\eb26";
+  content: "\f20d";
 }
 
 .cil-indent-decrease:before {
-  content: "\eb27";
+  content: "\f20c";
 }
 
 .cil-indent-increase:before {
-  content: "\eb28";
+  content: "\f20b";
 }
 
 .cil-industry:before {
-  content: "\eb29";
+  content: "\f209";
 }
 
 .cil-industry-slash:before {
-  content: "\eb2a";
+  content: "\f20a";
 }
 
 .cil-infinity:before {
-  content: "\eb2b";
+  content: "\f208";
 }
 
 .cil-info:before {
-  content: "\eb2c";
+  content: "\f207";
 }
 
 .cil-input:before {
-  content: "\eb2d";
+  content: "\f204";
 }
 
 .cil-input-hdmi:before {
-  content: "\eb2e";
+  content: "\f206";
 }
 
 .cil-input-power:before {
-  content: "\eb2f";
+  content: "\f205";
 }
 
 .cil-institution:before {
-  content: "\eb30";
+  content: "\f203";
 }
 
 .cil-italic:before {
-  content: "\eb31";
+  content: "\f202";
 }
 
 .cil-justify-center:before {
-  content: "\eb32";
+  content: "\f201";
 }
 
 .cil-justify-left:before {
-  content: "\eb33";
+  content: "\f200";
 }
 
 .cil-justify-right:before {
-  content: "\eb34";
+  content: "\f1ff";
 }
 
 .cil-keyboard:before {
-  content: "\eb35";
+  content: "\f1fe";
 }
 
 .cil-lan:before {
-  content: "\eb36";
+  content: "\f1fd";
 }
 
 .cil-language:before {
-  content: "\eb37";
+  content: "\f1fc";
 }
 
 .cil-laptop:before {
-  content: "\eb38";
+  content: "\f1fb";
 }
 
 .cil-layers:before {
-  content: "\eb39";
+  content: "\f1fa";
 }
 
 .cil-leaf:before {
-  content: "\eb3a";
+  content: "\f1f9";
 }
 
 .cil-lemon:before {
-  content: "\eb3b";
+  content: "\f1f8";
 }
 
 .cil-level-down:before {
-  content: "\eb3c";
+  content: "\f1f7";
 }
 
 .cil-level-up:before {
-  content: "\eb3d";
+  content: "\f1f6";
 }
 
 .cil-library:before {
-  content: "\eb3e";
+  content: "\f1f3";
 }
 
 .cil-library-add:before {
-  content: "\eb3f";
+  content: "\f1f5";
 }
 
 .cil-library-building:before {
-  content: "\eb40";
+  content: "\f1f4";
 }
 
 .cil-life-ring:before {
-  content: "\eb41";
+  content: "\f1f2";
 }
 
 .cil-lightbulb:before {
-  content: "\eb42";
+  content: "\f1f1";
 }
 
 .cil-line-spacing:before {
-  content: "\eb43";
+  content: "\f1f0";
 }
 
 .cil-line-style:before {
-  content: "\eb44";
+  content: "\f1ef";
 }
 
 .cil-line-weight:before {
-  content: "\eb45";
+  content: "\f1ee";
 }
 
 .cil-link:before {
-  content: "\eb46";
+  content: "\f1eb";
 }
 
 .cil-link-alt:before {
-  content: "\eb47";
+  content: "\f1ed";
 }
 
 .cil-link-broken:before {
-  content: "\eb48";
+  content: "\f1ec";
 }
 
 .cil-list:before {
-  content: "\eb49";
+  content: "\f1e4";
 }
 
 .cil-list-filter:before {
-  content: "\eb4a";
+  content: "\f1ea";
 }
 
 .cil-list-high-priority:before {
-  content: "\eb4b";
+  content: "\f1e9";
 }
 
 .cil-list-low-priority:before {
-  content: "\eb4c";
+  content: "\f1e8";
 }
 
 .cil-list-numbered:before {
-  content: "\eb4d";
+  content: "\f1e6";
 }
 
 .cil-list-numbered-rtl:before {
-  content: "\eb4e";
+  content: "\f1e7";
 }
 
 .cil-list-rich:before {
-  content: "\eb4f";
+  content: "\f1e5";
 }
 
 .cil-location-pin:before {
-  content: "\eb50";
+  content: "\f1e3";
 }
 
 .cil-lock-locked:before {
-  content: "\eb51";
+  content: "\f1e2";
 }
 
 .cil-lock-unlocked:before {
-  content: "\eb52";
+  content: "\f1e1";
 }
 
 .cil-locomotive:before {
-  content: "\eb53";
+  content: "\f1e0";
 }
 
 .cil-loop:before {
-  content: "\eb54";
+  content: "\f1dd";
 }
 
 .cil-loop-1:before {
-  content: "\eb55";
+  content: "\f1df";
 }
 
 .cil-loop-circular:before {
-  content: "\eb56";
+  content: "\f1de";
 }
 
 .cil-low-vision:before {
-  content: "\eb57";
+  content: "\f1dc";
 }
 
 .cil-magnifying-glass:before {
-  content: "\eb58";
+  content: "\f1db";
 }
 
 .cil-map:before {
-  content: "\eb59";
+  content: "\f1da";
 }
 
 .cil-media-eject:before {
-  content: "\eb5a";
+  content: "\f1d9";
 }
 
 .cil-media-pause:before {
-  content: "\eb5b";
+  content: "\f1d8";
 }
 
 .cil-media-play:before {
-  content: "\eb5c";
+  content: "\f1d7";
 }
 
 .cil-media-record:before {
-  content: "\eb5d";
+  content: "\f1d6";
 }
 
 .cil-media-skip-backward:before {
-  content: "\eb5e";
+  content: "\f1d5";
 }
 
 .cil-media-skip-forward:before {
-  content: "\eb5f";
+  content: "\f1d4";
 }
 
 .cil-media-step-backward:before {
-  content: "\eb60";
+  content: "\f1d3";
 }
 
 .cil-media-step-forward:before {
-  content: "\eb61";
+  content: "\f1d2";
 }
 
 .cil-media-stop:before {
-  content: "\eb62";
+  content: "\f1d1";
 }
 
 .cil-medical-cross:before {
-  content: "\eb63";
+  content: "\f1d0";
 }
 
 .cil-meh:before {
-  content: "\eb64";
+  content: "\f1cf";
 }
 
 .cil-memory:before {
-  content: "\eb65";
+  content: "\f1ce";
 }
 
 .cil-menu:before {
-  content: "\eb66";
+  content: "\f1cd";
 }
 
 .cil-mic:before {
-  content: "\eb67";
+  content: "\f1cc";
 }
 
 .cil-microphone:before {
-  content: "\eb68";
+  content: "\f1cb";
 }
 
 .cil-minus:before {
-  content: "\eb69";
+  content: "\f1ca";
 }
 
 .cil-mobile:before {
-  content: "\eb6a";
+  content: "\f1c8";
 }
 
 .cil-mobile-landscape:before {
-  content: "\eb6b";
+  content: "\f1c9";
 }
 
 .cil-money:before {
-  content: "\eb6c";
+  content: "\f1c7";
 }
 
 .cil-monitor:before {
-  content: "\eb6d";
+  content: "\f1c6";
 }
 
 .cil-mood-bad:before {
-  content: "\eb6e";
+  content: "\f1c5";
 }
 
 .cil-mood-good:before {
-  content: "\eb6f";
+  content: "\f1c4";
 }
 
 .cil-mood-very-bad:before {
-  content: "\eb70";
+  content: "\f1c3";
 }
 
 .cil-mood-very-good:before {
-  content: "\eb71";
+  content: "\f1c2";
 }
 
 .cil-moon:before {
-  content: "\eb72";
+  content: "\f1c1";
 }
 
 .cil-mouse:before {
-  content: "\eb73";
+  content: "\f1c0";
 }
 
 .cil-mouth-slash:before {
-  content: "\eb74";
+  content: "\f1bf";
 }
 
 .cil-move:before {
-  content: "\eb75";
+  content: "\f1be";
 }
 
 .cil-movie:before {
-  content: "\eb76";
+  content: "\f1bd";
 }
 
 .cil-mug:before {
-  content: "\eb77";
+  content: "\f1bb";
 }
 
 .cil-mug-tea:before {
-  content: "\eb78";
+  content: "\f1bc";
 }
 
 .cil-music-note:before {
-  content: "\eb79";
+  content: "\f1ba";
 }
 
 .cil-newspaper:before {
-  content: "\eb7a";
+  content: "\f1b9";
 }
 
 .cil-note-add:before {
-  content: "\eb7b";
+  content: "\f1b8";
 }
 
 .cil-notes:before {
-  content: "\eb7c";
+  content: "\f1b7";
 }
 
 .cil-object-group:before {
-  content: "\eb7d";
+  content: "\f1b6";
 }
 
 .cil-object-ungroup:before {
-  content: "\eb7e";
+  content: "\f1b5";
 }
 
 .cil-opacity:before {
-  content: "\eb7f";
+  content: "\f1b4";
 }
 
 .cil-opentype:before {
-  content: "\eb80";
+  content: "\f1b3";
 }
 
 .cil-options:before {
-  content: "\eb81";
+  content: "\f1b2";
 }
 
 .cil-paint:before {
-  content: "\eb82";
+  content: "\f1b0";
 }
 
 .cil-paint-bucket:before {
-  content: "\eb83";
+  content: "\f1b1";
 }
 
 .cil-paper-plane:before {
-  content: "\eb84";
+  content: "\f1af";
 }
 
 .cil-paperclip:before {
-  content: "\eb85";
+  content: "\f1ae";
 }
 
 .cil-paragraph:before {
-  content: "\eb86";
+  content: "\f1ad";
 }
 
 .cil-paw:before {
-  content: "\eb87";
+  content: "\f1ac";
 }
 
 .cil-pen:before {
-  content: "\eb88";
+  content: "\f1a9";
 }
 
 .cil-pen-alt:before {
-  content: "\eb89";
+  content: "\f1ab";
 }
 
 .cil-pen-nib:before {
-  content: "\eb8a";
+  content: "\f1aa";
 }
 
 .cil-pencil:before {
-  content: "\eb8b";
+  content: "\f1a8";
 }
 
 .cil-people:before {
-  content: "\eb8c";
+  content: "\f1a7";
 }
 
 .cil-phone:before {
-  content: "\eb8d";
+  content: "\f1a6";
 }
 
 .cil-pin:before {
-  content: "\eb8e";
+  content: "\f1a5";
 }
 
 .cil-pizza:before {
-  content: "\eb8f";
+  content: "\f1a4";
 }
 
 .cil-plant:before {
-  content: "\eb90";
+  content: "\f1a3";
 }
 
 .cil-playlist-add:before {
-  content: "\eb91";
+  content: "\f1a2";
 }
 
 .cil-plus:before {
-  content: "\eb92";
+  content: "\f1a1";
 }
 
 .cil-pool:before {
-  content: "\eb93";
+  content: "\f1a0";
 }
 
 .cil-power-standby:before {
-  content: "\eb94";
+  content: "\f19f";
 }
 
 .cil-pregnant:before {
-  content: "\eb95";
+  content: "\f19e";
 }
 
 .cil-print:before {
-  content: "\eb96";
+  content: "\f19d";
 }
 
 .cil-pushchair:before {
-  content: "\eb97";
+  content: "\f19c";
 }
 
 .cil-puzzle:before {
-  content: "\eb98";
+  content: "\f19b";
 }
 
 .cil-qr-code:before {
-  content: "\eb99";
+  content: "\f19a";
 }
 
 .cil-rain:before {
-  content: "\eb9a";
+  content: "\f199";
 }
 
 .cil-rectangle:before {
-  content: "\eb9b";
+  content: "\f198";
 }
 
 .cil-recycle:before {
-  content: "\eb9c";
+  content: "\f197";
 }
 
 .cil-reload:before {
-  content: "\eb9d";
+  content: "\f196";
 }
 
 .cil-report-slash:before {
-  content: "\eb9e";
+  content: "\f195";
 }
 
 .cil-resize-both:before {
-  content: "\eb9f";
+  content: "\f194";
 }
 
 .cil-resize-height:before {
-  content: "\eba0";
+  content: "\f193";
 }
 
 .cil-resize-width:before {
-  content: "\eba1";
+  content: "\f192";
 }
 
 .cil-restaurant:before {
-  content: "\eba2";
+  content: "\f191";
 }
 
 .cil-room:before {
-  content: "\eba3";
+  content: "\f190";
 }
 
 .cil-router:before {
-  content: "\eba4";
+  content: "\f18f";
 }
 
 .cil-rowing:before {
-  content: "\eba5";
+  content: "\f18e";
 }
 
 .cil-rss:before {
-  content: "\eba6";
+  content: "\f18d";
 }
 
 .cil-ruble:before {
-  content: "\eba7";
+  content: "\f18c";
 }
 
 .cil-running:before {
-  content: "\eba8";
+  content: "\f18b";
 }
 
 .cil-sad:before {
-  content: "\eba9";
+  content: "\f18a";
 }
 
 .cil-satelite:before {
-  content: "\ebaa";
+  content: "\f189";
 }
 
 .cil-save:before {
-  content: "\ebab";
+  content: "\f188";
 }
 
 .cil-school:before {
-  content: "\ebac";
+  content: "\f187";
 }
 
 .cil-screen-desktop:before {
-  content: "\ebad";
+  content: "\f186";
 }
 
 .cil-screen-smartphone:before {
-  content: "\ebae";
+  content: "\f185";
 }
 
 .cil-scrubber:before {
-  content: "\ebaf";
+  content: "\f184";
 }
 
 .cil-search:before {
-  content: "\ebb0";
+  content: "\f183";
 }
 
 .cil-send:before {
-  content: "\ebb1";
+  content: "\f182";
 }
 
 .cil-settings:before {
-  content: "\ebb2";
+  content: "\f181";
 }
 
 .cil-share:before {
-  content: "\ebb3";
+  content: "\f17d";
 }
 
 .cil-share-all:before {
-  content: "\ebb4";
+  content: "\f180";
 }
 
 .cil-share-alt:before {
-  content: "\ebb5";
+  content: "\f17f";
 }
 
 .cil-share-boxed:before {
-  content: "\ebb6";
+  content: "\f17e";
 }
 
 .cil-shield-alt:before {
-  content: "\ebb7";
+  content: "\f17c";
 }
 
 .cil-short-text:before {
-  content: "\ebb8";
+  content: "\f17b";
 }
 
 .cil-shower:before {
-  content: "\ebb9";
+  content: "\f17a";
+}
+
+.cil-sidebar:before {
+  content: "\f177";
+}
+
+.cil-sidebar-close:before {
+  content: "\f179";
+}
+
+.cil-sidebar-open:before {
+  content: "\f178";
 }
 
 .cil-sign-language:before {
-  content: "\ebba";
+  content: "\f176";
 }
 
 .cil-signal-cellular-0:before {
-  content: "\ebbb";
+  content: "\f175";
 }
 
 .cil-signal-cellular-3:before {
-  content: "\ebbc";
+  content: "\f174";
 }
 
 .cil-signal-cellular-4:before {
-  content: "\ebbd";
+  content: "\f173";
 }
 
 .cil-sim:before {
-  content: "\ebbe";
+  content: "\f172";
 }
 
 .cil-sitemap:before {
-  content: "\ebbf";
+  content: "\f171";
 }
 
 .cil-smile:before {
-  content: "\ebc0";
+  content: "\f16f";
 }
 
 .cil-smile-plus:before {
-  content: "\ebc1";
+  content: "\f170";
 }
 
 .cil-smoke:before {
-  content: "\ebc2";
+  content: "\f16c";
 }
 
 .cil-smoke-free:before {
-  content: "\ebc3";
+  content: "\f16e";
 }
 
 .cil-smoke-slash:before {
-  content: "\ebc4";
+  content: "\f16d";
 }
 
 .cil-smoking-room:before {
-  content: "\ebc5";
+  content: "\f16b";
 }
 
 .cil-snowflake:before {
-  content: "\ebc6";
+  content: "\f16a";
 }
 
 .cil-soccer:before {
-  content: "\ebc7";
+  content: "\f169";
 }
 
 .cil-sofa:before {
-  content: "\ebc8";
+  content: "\f168";
 }
 
 .cil-sort-alpha-down:before {
-  content: "\ebc9";
+  content: "\f167";
 }
 
 .cil-sort-alpha-up:before {
-  content: "\ebca";
+  content: "\f166";
 }
 
 .cil-sort-ascending:before {
-  content: "\ebcb";
+  content: "\f165";
 }
 
 .cil-sort-descending:before {
-  content: "\ebcc";
+  content: "\f164";
 }
 
 .cil-sort-numeric-down:before {
-  content: "\ebcd";
+  content: "\f163";
 }
 
 .cil-sort-numeric-up:before {
-  content: "\ebce";
+  content: "\f162";
 }
 
 .cil-spa:before {
-  content: "\ebcf";
+  content: "\f161";
 }
 
 .cil-space-bar:before {
-  content: "\ebd0";
+  content: "\f160";
 }
 
 .cil-speak:before {
-  content: "\ebd1";
+  content: "\f15f";
 }
 
 .cil-speaker:before {
-  content: "\ebd2";
+  content: "\f15e";
 }
 
 .cil-speech:before {
-  content: "\ebd3";
+  content: "\f15d";
 }
 
 .cil-speedometer:before {
-  content: "\ebd4";
+  content: "\f15c";
 }
 
 .cil-spreadsheet:before {
-  content: "\ebd5";
+  content: "\f15b";
 }
 
 .cil-square:before {
-  content: "\ebd6";
+  content: "\f15a";
 }
 
 .cil-star:before {
-  content: "\ebd7";
+  content: "\f158";
 }
 
 .cil-star-half:before {
-  content: "\ebd8";
+  content: "\f159";
 }
 
 .cil-storage:before {
-  content: "\ebd9";
+  content: "\f157";
 }
 
 .cil-stream:before {
-  content: "\ebda";
+  content: "\f156";
 }
 
 .cil-strikethrough:before {
-  content: "\ebdb";
+  content: "\f155";
 }
 
 .cil-sun:before {
-  content: "\ebdc";
+  content: "\f154";
 }
 
 .cil-swap-horizontal:before {
-  content: "\ebdd";
+  content: "\f153";
 }
 
 .cil-swap-vertical:before {
-  content: "\ebde";
+  content: "\f152";
 }
 
 .cil-swimming:before {
-  content: "\ebdf";
+  content: "\f151";
 }
 
 .cil-sync:before {
-  content: "\ebe0";
+  content: "\f150";
 }
 
 .cil-tablet:before {
-  content: "\ebe1";
+  content: "\f14f";
 }
 
 .cil-tag:before {
-  content: "\ebe2";
+  content: "\f14e";
 }
 
 .cil-tags:before {
-  content: "\ebe3";
+  content: "\f14d";
 }
 
 .cil-task:before {
-  content: "\ebe4";
+  content: "\f14c";
 }
 
 .cil-taxi:before {
-  content: "\ebe5";
+  content: "\f14b";
 }
 
 .cil-tennis:before {
-  content: "\ebe6";
+  content: "\f149";
 }
 
 .cil-tennis-ball:before {
-  content: "\ebe7";
+  content: "\f14a";
 }
 
 .cil-terminal:before {
-  content: "\ebe8";
+  content: "\f148";
 }
 
 .cil-terrain:before {
-  content: "\ebe9";
+  content: "\f147";
 }
 
 .cil-text:before {
-  content: "\ebea";
+  content: "\f13d";
 }
 
 .cil-text-direction-ltr:before {
-  content: "\ebeb";
+  content: "\f146";
 }
 
 .cil-text-direction-rtl:before {
-  content: "\ebec";
+  content: "\f145";
 }
 
 .cil-text-shapes:before {
-  content: "\ebed";
+  content: "\f144";
 }
 
 .cil-text-size:before {
-  content: "\ebee";
+  content: "\f143";
 }
 
 .cil-text-square:before {
-  content: "\ebef";
+  content: "\f142";
 }
 
 .cil-text-strike:before {
-  content: "\ebf0";
+  content: "\f141";
+}
+
+.cil-text-vertical-align-bottom:before {
+  content: "\f140";
+}
+
+.cil-text-vertical-align-center:before {
+  content: "\f13f";
+}
+
+.cil-text-vertical-align-top:before {
+  content: "\f13e";
 }
 
 .cil-thumb-down:before {
-  content: "\ebf1";
+  content: "\f13c";
 }
 
 .cil-thumb-up:before {
-  content: "\ebf2";
+  content: "\f13b";
 }
 
 .cil-toggle-off:before {
-  content: "\ebf3";
+  content: "\f13a";
 }
 
 .cil-toggle-on:before {
-  content: "\ebf4";
+  content: "\f139";
 }
 
 .cil-toilet:before {
-  content: "\ebf5";
+  content: "\f138";
 }
 
 .cil-touch-app:before {
-  content: "\ebf6";
+  content: "\f137";
 }
 
 .cil-transfer:before {
-  content: "\ebf7";
+  content: "\f136";
 }
 
 .cil-translate:before {
-  content: "\ebf8";
+  content: "\f135";
 }
 
 .cil-trash:before {
-  content: "\ebf9";
+  content: "\f134";
 }
 
 .cil-triangle:before {
-  content: "\ebfa";
+  content: "\f133";
 }
 
 .cil-truck:before {
-  content: "\ebfb";
+  content: "\f132";
 }
 
 .cil-tv:before {
-  content: "\ebfc";
+  content: "\f131";
 }
 
 .cil-underline:before {
-  content: "\ebfd";
+  content: "\f130";
 }
 
 .cil-usb:before {
-  content: "\ebfe";
+  content: "\f12f";
 }
 
 .cil-user:before {
-  content: "\ebff";
+  content: "\f129";
 }
 
 .cil-user-female:before {
-  content: "\ec00";
+  content: "\f12e";
 }
 
 .cil-user-follow:before {
-  content: "\ec01";
+  content: "\f12d";
 }
 
 .cil-user-plus:before {
-  content: "\ec02";
+  content: "\f12c";
 }
 
 .cil-user-unfollow:before {
-  content: "\ec03";
+  content: "\f12b";
 }
 
 .cil-user-x:before {
-  content: "\ec04";
+  content: "\f12a";
 }
 
 .cil-vector:before {
-  content: "\ec05";
+  content: "\f128";
 }
 
 .cil-vertical-align-bottom:before {
-  content: "\ec06";
+  content: "\f127";
 }
 
 .cil-vertical-align-center:before {
-  content: "\ec07";
+  content: "\f126";
 }
 
 .cil-vertical-align-top:before {
-  content: "\ec08";
+  content: "\f125";
 }
 
 .cil-video:before {
-  content: "\ec09";
+  content: "\f124";
 }
 
 .cil-videogame:before {
-  content: "\ec0a";
+  content: "\f123";
 }
 
 .cil-view-column:before {
-  content: "\ec0b";
+  content: "\f122";
 }
 
 .cil-view-module:before {
-  content: "\ec0c";
+  content: "\f121";
 }
 
 .cil-view-quilt:before {
-  content: "\ec0d";
+  content: "\f120";
 }
 
 .cil-view-stream:before {
-  content: "\ec0e";
+  content: "\f11f";
 }
 
 .cil-voice:before {
-  content: "\ec0f";
+  content: "\f11d";
 }
 
 .cil-voice-over-record:before {
-  content: "\ec10";
+  content: "\f11e";
 }
 
 .cil-volume-high:before {
-  content: "\ec11";
+  content: "\f11c";
 }
 
 .cil-volume-low:before {
-  content: "\ec12";
+  content: "\f11b";
 }
 
 .cil-volume-off:before {
-  content: "\ec13";
+  content: "\f11a";
 }
 
 .cil-walk:before {
-  content: "\ec14";
+  content: "\f119";
 }
 
 .cil-wallet:before {
-  content: "\ec15";
+  content: "\f118";
 }
 
 .cil-wallpaper:before {
-  content: "\ec16";
+  content: "\f117";
 }
 
 .cil-warning:before {
-  content: "\ec17";
+  content: "\f116";
 }
 
 .cil-watch:before {
-  content: "\ec18";
+  content: "\f115";
 }
 
 .cil-wc:before {
-  content: "\ec19";
+  content: "\f114";
 }
 
 .cil-weightlifitng:before {
-  content: "\ec1a";
+  content: "\f113";
 }
 
 .cil-wheelchair:before {
-  content: "\ec1b";
+  content: "\f112";
 }
 
 .cil-wifi-signal-0:before {
-  content: "\ec1c";
+  content: "\f111";
 }
 
 .cil-wifi-signal-1:before {
-  content: "\ec1d";
+  content: "\f110";
 }
 
 .cil-wifi-signal-2:before {
-  content: "\ec1e";
+  content: "\f10f";
 }
 
 .cil-wifi-signal-3:before {
-  content: "\ec1f";
+  content: "\f10e";
 }
 
 .cil-wifi-signal-4:before {
-  content: "\ec20";
+  content: "\f10d";
 }
 
 .cil-wifi-signal-off:before {
-  content: "\ec21";
+  content: "\f10c";
 }
 
 .cil-window:before {
-  content: "\ec22";
+  content: "\f108";
 }
 
 .cil-window-maximize:before {
-  content: "\ec23";
+  content: "\f10b";
 }
 
 .cil-window-minimize:before {
-  content: "\ec24";
+  content: "\f10a";
 }
 
 .cil-window-restore:before {
-  content: "\ec25";
+  content: "\f109";
 }
 
 .cil-wrap-text:before {
-  content: "\ec26";
+  content: "\f107";
 }
 
 .cil-x:before {
-  content: "\ec27";
+  content: "\f105";
 }
 
 .cil-x-circle:before {
-  content: "\ec28";
+  content: "\f106";
 }
 
 .cil-yen:before {
-  content: "\ec29";
+  content: "\f104";
 }
 
 .cil-zoom:before {
-  content: "\ec2a";
+  content: "\f101";
 }
 
 .cil-zoom-in:before {
-  content: "\ec2b";
+  content: "\f103";
 }
 
 .cil-zoom-out:before {
-  content: "\ec2c";
+  content: "\f102";
 }
 
 /*# sourceMappingURL=free.css.map */

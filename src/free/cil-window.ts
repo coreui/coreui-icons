@@ -1,1 +1,1 @@
-export const cilWindow: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M424,440V48H88V440H48v32H464V440ZM120,80H240V200H120Zm0,152H240V376H120ZM392,440H120V408H392Zm0-64H272V232H392Zm0-176H272V80H392Z' class='ci-primary'/>"]
+export const cilWindow: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M424 440V48H88v392H48v32h416v-32ZM120 80h120v120H120Zm0 152h120v144H120Zm272 208H120v-32h272Zm0-64H272V232h120Zm0-176H272V80h120Z' class='ci-primary'/>"]

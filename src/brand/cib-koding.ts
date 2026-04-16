@@ -1,1 +1,1 @@
-export const cibKoding: string[] = ["32 32","<path d='M1.068 0h29.599v8h-29.333v-8zM1.068 12h22.932v8h-23.068v-8zM1.068 24h29.599v8h-29.333v-8z'/>"]
+export const cibKoding: string[] = ["32 32","<path d='M1.068 0h29.599v8H1.334V0zm0 12H24v8H.932v-8zm0 12h29.599v8H1.334v-8z'/>"]

@@ -1,1 +1,1 @@
-export const cilViewColumn: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M16,64V448H496V64ZM320,96V416H192V96ZM48,96H160V416H48ZM464,416H352V96H464Z' class='ci-primary'/>"]
+export const cilViewColumn: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M16 64v384h480V64Zm304 32v320H192V96ZM48 96h112v320H48Zm416 320H352V96h112Z' class='ci-primary'/>"]

@@ -1,10 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <polygon fill="var(--ci-primary-color, currentColor)" points="459.26 96 328 225.697 328 96 293.45 96 229.01 161.128 251.638 183.756 296 138.92 296 228.118 333.314 265.433 464 136.303 464 396.118 496 428.118 496 416 496 96 459.26 96" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="168 16 88 16 83.882 16 168 100.118 168 16" class="ci-primary"/>
-  <rect width="32" height="32" x="136" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="136" y="376" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="216" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="216" y="376" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="296" y="376" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <path fill="var(--ci-primary-color, currentColor)" d="M38.627,16H16V496H496V473.373ZM48,464V70.627l88,88V248h32V190.627L441.373,464Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M459.26 96 328 225.697V96h-34.55l-64.44 65.128 22.628 22.628L296 138.92v89.198l37.314 37.315L464 136.303v259.815l32 32V96zM168 16H83.882L168 100.118zm-32 288h32v32h-32zm0 72h32v32h-32zm80-72h32v32h-32zm0 72h32v32h-32zm80 0h32v32h-32z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M38.627 16H16v480h480v-22.627ZM48 464V70.627l88 88V248h32v-57.373L441.373 464Z" class="ci-primary"/>
 </svg>

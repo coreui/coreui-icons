@@ -1,1 +1,1 @@
-export const cilStream: string[] = ["512 512","<rect width='336' height='32' x='16' y='112' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='336' height='32' x='160' y='240' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/><rect width='336' height='32' x='16' y='368' fill='var(--ci-primary-color, currentColor)' class='ci-primary'/>"]
+export const cilStream: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M16 112h336v32H16zm144 128h336v32H160zM16 368h336v32H16z' class='ci-primary'/>"]

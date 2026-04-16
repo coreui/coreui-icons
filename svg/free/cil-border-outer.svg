@@ -1,12 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <path fill="var(--ci-primary-color, currentColor)" d="M56,40A16,16,0,0,0,40,56V456a16,16,0,0,0,16,16H456a16,16,0,0,0,16-16V56a16,16,0,0,0-16-16ZM440,440H72V72H440Z" class="ci-primary"/>
-  <rect width="33.455" height="33.455" x="239.272" y="239.272" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.454" x="239.272" y="306.182" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.454" x="239.272" y="172.363" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.454" x="239.272" y="105.454" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.454" x="239.272" y="373.091" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.455" x="306.182" y="239.272" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.455" x="373.091" y="239.272" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.455" x="172.364" y="239.272" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="33.455" height="33.455" x="105.455" y="239.272" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M56 40a16 16 0 0 0-16 16v400a16 16 0 0 0 16 16h400a16 16 0 0 0 16-16V56a16 16 0 0 0-16-16Zm384 400H72V72h368Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M239.272 239.272h33.455v33.455h-33.455zm0 66.91h33.455v33.454h-33.455zm0-133.819h33.455v33.454h-33.455zm0-66.909h33.455v33.454h-33.455zm0 267.637h33.455v33.454h-33.455zm66.91-133.819h33.455v33.455h-33.455zm66.909 0h33.455v33.455h-33.455zm-200.727 0h33.455v33.455h-33.455zm-66.909 0h33.455v33.455h-33.455z" class="ci-primary"/>
 </svg>

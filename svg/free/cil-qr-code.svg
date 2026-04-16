@@ -1,16 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <polygon fill="var(--ci-primary-color, currentColor)" points="48 48 176 48 176 16 16 16 16 176 48 176 48 48" class="ci-primary"/>
-  <path fill="var(--ci-primary-color, currentColor)" d="M176,176V80H80v96h96Zm-64-64h32v32H112Z" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="328 48 464 48 464 176 496 176 496 16 328 16 328 48" class="ci-primary"/>
-  <path fill="var(--ci-primary-color, currentColor)" d="M432,176V80H336v96h96Zm-64-64h32v32H368Z" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="176 464 48 464 48 336 16 336 16 496 176 496 176 464" class="ci-primary"/>
-  <path fill="var(--ci-primary-color, currentColor)" d="M176,336H80v96h96V336Zm-32,64H112V368h32Z" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="464 464 328 464 328 496 496 496 496 336 464 336 464 464" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="272 304 400 304 400 368 432 368 432 272 272 272 272 304" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="432 432 432 400 240 400 240 272 80 272 80 304 208 304 208 432 432 432" class="ci-primary"/>
-  <rect width="32" height="96" x="208" y="80" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="80 240 304 240 304 80 272 80 272 208 80 208 80 240" class="ci-primary"/>
-  <rect width="96" height="32" x="336" y="208" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="336" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
-  <rect width="32" height="32" x="272" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M48 48h128V16H16v160h32z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M176 176V80H80v96zm-64-64h32v32h-32Zm216-64h136v128h32V16H328z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M432 176V80h-96v96zm-64-64h32v32h-32ZM176 464H48V336H16v160h160z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M176 336H80v96h96zm-32 64h-32v-32h32Zm320 64H328v32h168V336h-32z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M272 304h128v64h32v-96H272z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M432 432v-32H240V272H80v32h128v128zM208 80h32v96h-32z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M80 240h224V80h-32v128H80zm256-32h96v32h-96zm0 128h32v32h-32zm-64 0h32v32h-32z" class="ci-primary"/>
 </svg>

@@ -1,1 +1,1 @@
-export const cibNintendo: string[] = ["32 32","<path d='M0 0.803h9.469l13.129 21.197v-21.197h9.401v30.395h-9.385l-13.203-21.197v21.197h-9.412v-30.395z'/>"]
+export const cibNintendo: string[] = ["32 32","<path d='M0 .803h9.469L22.598 22V.803h9.401v30.395h-9.385L9.411 10.001v21.197H-.001z'/>"]

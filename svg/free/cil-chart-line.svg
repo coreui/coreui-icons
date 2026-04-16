@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <polygon fill="var(--ci-primary-color, currentColor)" points="376 160 376 192 441.372 192 252 381.373 180 309.373 76.686 412.686 99.314 435.314 180 354.627 252 426.627 464 214.628 464 280 496 280 496 160 376 160" class="ci-primary"/>
-  <polygon fill="var(--ci-primary-color, currentColor)" points="48 104 16 104 16 496 496 496 496 464 48 464 48 104" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M376 160v32h65.372L252 381.373l-72-72L76.686 412.686l22.628 22.628L180 354.627l72 72 212-211.999V280h32V160z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentcolor)" d="M48 104H16v392h480v-32H48z" class="ci-primary"/>
 </svg>

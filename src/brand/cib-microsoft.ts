@@ -1,1 +1,1 @@
-export const cibMicrosoft: string[] = ["32 32","<path d='M15.198 32h-15.198v-15.198h15.198zM32 32h-15.198v-15.198h15.198zM15.198 15.198h-15.198v-15.198h15.198zM32 15.198h-15.198v-15.198h15.198z'/>"]
+export const cibMicrosoft: string[] = ["32 32","<path d='M15.198 32H0V16.802h15.198zM32 32H16.802V16.802H32zM15.198 15.198H0V0h15.198zm16.802 0H16.802V0H32z'/>"]

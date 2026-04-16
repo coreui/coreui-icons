@@ -32,6 +32,7 @@ import { cifCf } from './cif-cf'
 import { cifCg } from './cif-cg'
 import { cifCh } from './cif-ch'
 import { cifCi } from './cif-ci'
+import { cifCk } from './cif-ck'
 import { cifCl } from './cif-cl'
 import { cifCm } from './cif-cm'
 import { cifCn } from './cif-cn'
@@ -229,6 +230,7 @@ export { cifCf }
 export { cifCg }
 export { cifCh }
 export { cifCi }
+export { cifCk }
 export { cifCl }
 export { cifCm }
 export { cifCn }

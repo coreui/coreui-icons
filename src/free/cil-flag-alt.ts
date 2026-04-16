@@ -1,1 +1,1 @@
-export const cilFlagAlt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M64,16V496H96V360H448V322.762L363.841,208,448,93.238V56H96V16ZM412.159,88l-88,120,88,120H96V88Z' class='ci-primary'/>"]
+export const cilFlagAlt: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M64 16v480h32V360h352v-37.238L363.841 208 448 93.238V56H96V16Zm348.159 72-88 120 88 120H96V88Z' class='ci-primary'/>"]

@@ -1,1 +1,1 @@
-export const cilViewModule: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M16,64V448H496V64ZM464,240H352V96H464Zm-272,0V96H320V240Zm128,32V416H192V272ZM160,96V240H48V96ZM48,272H160V416H48ZM352,416V272H464V416Z' class='ci-primary'/>"]
+export const cilViewModule: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M16 64v384h480V64Zm448 176H352V96h112Zm-272 0V96h128v144Zm128 32v144H192V272ZM160 96v144H48V96ZM48 272h112v144H48Zm304 144V272h112v144Z' class='ci-primary'/>"]

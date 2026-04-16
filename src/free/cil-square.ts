@@ -1,1 +1,1 @@
-export const cilSquare: string[] = ["512 512","<path fill='var(--ci-primary-color, currentColor)' d='M476,16H36A20.023,20.023,0,0,0,16,36V476a20.023,20.023,0,0,0,20,20H476a20.023,20.023,0,0,0,20-20V36A20.023,20.023,0,0,0,476,16ZM464,464H48V48H464Z' class='ci-primary'/>"]
+export const cilSquare: string[] = ["512 512","<path fill='var(--ci-primary-color, currentcolor)' d='M476 16H36a20.023 20.023 0 0 0-20 20v440a20.023 20.023 0 0 0 20 20h440a20.023 20.023 0 0 0 20-20V36a20.023 20.023 0 0 0-20-20m-12 448H48V48h416Z' class='ci-primary'/>"]

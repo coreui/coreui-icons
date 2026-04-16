@@ -18,7 +18,7 @@
     "css-concat": "concat -o css/all.css css/free.css css/brand.css css/flag.css",
     "css-minify": "cleancss -O1 --format breakWith=lf --with-rebase --source-map --source-map-inline-sources --output css/ --batch --batch-suffix \".min\" \"css/*.css\" \"!css/*.min.css\"",
     "build": "npm-run-all --sequential clean css rollup",
-    "rollup": "rollup -c --bundleConfigAsCjs"
+    "rollup": "rollup --config build/rollup.config.mjs --sourcemap"
   },
   "repository": {
     "type": "git",
@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "devDependencies": {
-    "@rollup/plugin-typescript": "^11.0.0",
+    "@rollup/plugin-typescript": "^12.3.0",
     "@typescript-eslint/eslint-plugin": "^5.54.1",
     "@typescript-eslint/parser": "^5.54.1",
     "autoprefixer": "^10.4.13",
@@ -64,7 +64,7 @@
     "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0",
     "rimraf": "^4.3.1",
-    "rollup": "^3.18.0",
+    "rollup": "^4.60.1",
     "sass": "^1.58.3",
     "stylelint": "^15.2.0",
     "stylelint-config-twbs-bootstrap": "^7.0.0",
@@ -78,5 +78,6 @@
     "scss/",
     "sprites/",
     "svg/"
-  ]
+  ],
+  "dependencies": {}
 }

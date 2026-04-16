@@ -2,7 +2,7 @@ import typescript from '@rollup/plugin-typescript'
 import { readFileSync } from 'node:fs'
 import { dirname } from 'node:path'
 
-const pkg = JSON.parse(readFileSync(new URL('./package.json', import.meta.url)))
+const pkg = JSON.parse(readFileSync(new URL('./../package.json', import.meta.url)))
 
 export default [
   {
@@ -20,7 +20,7 @@ export default [
     plugins: [
       typescript({
         exclude: ['**/__tests__/**'],
-        sourceMap: false,
+        sourceMap: true,
         tsconfig: './tsconfig.cjs.json',
       }),
     ],
@@ -39,7 +39,7 @@ export default [
     plugins: [
       typescript({
         exclude: ['**/__tests__/**'],
-        sourceMap: false,
+        sourceMap: true,
         tsconfig: './tsconfig.esm.json',
       }),
     ],
